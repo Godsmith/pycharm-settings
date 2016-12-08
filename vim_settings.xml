@@ -20,11 +20,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="65" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481223438582">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="64" />
-        <mark key="." line="21" column="64" />
-        <mark key="^" line="21" column="64" />
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/test_door.py" timestamp="1480971675188">
         <mark key="[" line="29" column="68" />
@@ -117,11 +118,12 @@
         <mark key="." line="167" column="21" />
         <mark key="^" line="167" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481223478911">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="29" column="48" />
-        <mark key="^" line="28" column="54" />
-        <mark key="." line="29" column="48" />
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481225331910">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="49" />
+        <mark key="]" line="73" column="49" />
+        <mark key="." line="73" column="49" />
+        <mark key="^" line="73" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main.py" timestamp="1449525257695">
         <mark key="[" line="37" column="13" />
@@ -168,7 +170,7 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day07/main.py" timestamp="1481138002120">
+      <file name="$USER_HOME$/workspace/adventofcode2016/day07/main.py" timestamp="1481225371764">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
         <mark key="^" line="5" column="39" />
@@ -339,16 +341,22 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/main.py" timestamp="1481225535292">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day23/main.py" timestamp="1450996622598">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481138070030">
+      <file name="/Dummy.txt" timestamp="1481225881962">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day06/main.py" timestamp="1481017367522">
@@ -435,13 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="27" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="19" column="5" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="76" column="27" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
@@ -535,22 +536,29 @@
       <jump line="39" column="65" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
       <jump line="40" column="65" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
       <jump line="11" column="80" filename="$USER_HOME$/workspace/adventofcode2016/day07/ipv7_string.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
+      <jump line="49" column="30" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
+      <jump line="57" column="60" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
+      <jump line="34" column="31" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBEaXNwbGF5Ll9yb3RhdGVfYXJyYXkoWzEsIDIsIDMsIDRdLCA0KSA9PSBbMSwgMiwgMywgNF0K</text>
+      <register name="&quot;" type="4">
+        <text>day07 part 2</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>day07 part 2</text>
       </register>
       <register name="/" type="4">
         <text>tls</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBEaXNwbGF5Ll9yb3RhdGVfYXJyYXkoWzEsIDIsIDMsIDRdLCA0KSA9PSBbMSwgMiwgMywgNF0K</text>
+        <text encoding="base64">ZGVmIHRlc3RfY29tbWFuZF9yb3RhdGVfcm93KCk6CiAgICB3aXRoIHBhdGNoLm9iamVjdChEaXNwbGF5LCAncm90YXRlX3JvdycpIGFzIG1vY2tfbWV0aG9kOgogICAgICAgIGRpc3BsYXkgPSBEaXNwbGF5KHJvd3M9MywgY29sdW1ucz03KQogICAgICAgIGRpc3BsYXkuY29tbWFuZCgncm90YXRlIHJvdyB5PTEgYnkgMjAnKQogICAgICAgIG1vY2tfbWV0aG9kLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKDEsIDIwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KFtJcHY3U3RyaW5nKGxpbmUpLnN1cHBvcnRzX3NzbCgpIGZvciBsaW5lIGluIGxpbmVzXS5jb3VudChUcnVlKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -591,28 +599,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRfY29sdW1uID0gW3NlbGYuYXJyYXlbaV1beF0gZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYuYXJyYXkpKV0K</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjbW9ja19tZXRob2QuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgod2lkdGg9MSwgaGVpZ2h0PTIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmZmCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfcm90YXRlX2FycmF5KGFycmF5LCBzdGVwcyk6CiAgICAgICAgZWZmZWN0aXZlX3N0ZXBzID0gc3RlcHMgJSBsZW4oYXJyYXkpCiAgICAgICAgcmV0dXJuIGFycmF5Wy1lZmZlY3RpdmVfc3RlcHM6XSArIGFycmF5WzotZWZmZWN0aXZlX3N0ZXBzXQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzdHIoZGlzcGxheSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2hhaW4uCg==</text>
+        <text encoding="base64">ICAgICAgICBvbGRfY29sdW1uID0gW3NlbGYuYXJyYXlbaV1beF0gZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYuYXJyYXkpKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
