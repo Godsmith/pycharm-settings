@@ -111,8 +111,11 @@
         <mark key="." line="167" column="21" />
         <mark key="^" line="167" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481221351486">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481221786745">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main.py" timestamp="1449525257695">
         <mark key="[" line="37" column="13" />
@@ -528,8 +531,8 @@
       <jump line="11" column="80" filename="$USER_HOME$/workspace/adventofcode2016/day07/ipv7_string.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmZmCg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -541,7 +544,7 @@
         <text encoding="base64">ICAgIHByaW50KFtJcHY3U3RyaW5nKGxpbmUpLnN1cHBvcnRzX3RscygpIGZvciBsaW5lIGluIGxpbmVzXS5jb3VudChUcnVlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ZmZmCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,28 +585,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2hhaW4uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">Y2hhaW4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzCg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgIEBzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAK</text>
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
