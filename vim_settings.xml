@@ -20,6 +20,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="65" column="64" />
       </file>
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481222767183">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/test_door.py" timestamp="1480971675188">
         <mark key="[" line="29" column="68" />
         <mark key="]" line="29" column="68" />
@@ -111,11 +117,11 @@
         <mark key="." line="167" column="21" />
         <mark key="^" line="167" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481221786745">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481222703296">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main.py" timestamp="1449525257695">
         <mark key="[" line="37" column="13" />
@@ -531,8 +537,8 @@
       <jump line="11" column="80" filename="$USER_HOME$/workspace/adventofcode2016/day07/ipv7_string.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmZmCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -540,11 +546,11 @@
       <register name="/" type="4">
         <text>tls</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KFtJcHY3U3RyaW5nKGxpbmUpLnN1cHBvcnRzX3RscygpIGZvciBsaW5lIGluIGxpbmVzXS5jb3VudChUcnVlKSkK</text>
+      <register name="0" type="4">
+        <text>'.'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmZmCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -585,28 +591,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBvbGRfY29sdW1uID0gW3NlbGYuYXJyYXlbaV1beF0gZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYuYXJyYXkpKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ZmZmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2hhaW4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzCg==</text>
+        <text encoding="base64">Y2hhaW4uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
