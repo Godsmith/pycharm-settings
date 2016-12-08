@@ -20,11 +20,11 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="65" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481222767183">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="16" />
-        <mark key="^" line="20" column="16" />
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481223438582">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="64" />
+        <mark key="^" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/test_door.py" timestamp="1480971675188">
         <mark key="[" line="29" column="68" />
@@ -117,11 +117,11 @@
         <mark key="." line="167" column="21" />
         <mark key="^" line="167" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481222703296">
-        <mark key="[" line="27" column="46" />
-        <mark key="]" line="27" column="59" />
-        <mark key="^" line="27" column="59" />
-        <mark key="." line="27" column="59" />
+      <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481223478911">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="29" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main.py" timestamp="1449525257695">
         <mark key="[" line="37" column="13" />
@@ -537,17 +537,17 @@
       <jump line="11" column="80" filename="$USER_HOME$/workspace/adventofcode2016/day07/ipv7_string.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBEaXNwbGF5Ll9yb3RhdGVfYXJyYXkoWzEsIDIsIDMsIDRdLCA0KSA9PSBbMSwgMiwgMywgNF0K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>tls</text>
       </register>
-      <register name="0" type="4">
-        <text>'.'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBEaXNwbGF5Ll9yb3RhdGVfYXJyYXkoWzEsIDIsIDMsIDRdLCA0KSA9PSBbMSwgMiwgMywgNF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
