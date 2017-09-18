@@ -320,11 +320,11 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/measurement_list.py" timestamp="1505731729507">
-        <mark key="[" line="165" column="50" />
-        <mark key="]" line="166" column="32" />
-        <mark key="^" line="166" column="32" />
-        <mark key="." line="166" column="32" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/measurement_list.py" timestamp="1505739257445">
+        <mark key="[" line="234" column="67" />
+        <mark key="]" line="234" column="67" />
+        <mark key="^" line="234" column="66" />
+        <mark key="." line="234" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" timestamp="1505485280525">
         <mark key="'" line="31" column="20" />
@@ -413,11 +413,11 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1505732038221">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="154" column="50" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1505739308704">
+        <mark key="[" line="152" column="32" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="156" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main.py" timestamp="1449523946017">
         <mark key="[" line="2" column="0" />
@@ -587,11 +587,11 @@
       <jump line="28" column="20" filename="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBtZWFzdXJlbWVudCBpbiBtZWFzdXJlbWVudF9saXN0OgogICAgICAgIGlmIG1lYXN1cmVtZW50WydQbGF0Zm9ybSddIGlzIE5vbmU6CiAgICAgICAgICAgIG1lYXN1cmVtZW50ID0gbWVhc3VyZW1lbnQK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
