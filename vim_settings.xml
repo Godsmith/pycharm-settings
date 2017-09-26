@@ -264,7 +264,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1506409169025">
+      <file name="/Python Console" timestamp="1506429714169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -322,11 +322,11 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/measurement_list.py" timestamp="1506422112003">
-        <mark key="[" line="198" column="92" />
-        <mark key="]" line="198" column="92" />
-        <mark key="^" line="198" column="112" />
-        <mark key="." line="198" column="92" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/measurement_list.py" timestamp="1506429565846">
+        <mark key="[" line="209" column="39" />
+        <mark key="]" line="211" column="38" />
+        <mark key="^" line="211" column="38" />
+        <mark key="." line="211" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" timestamp="1505485280525">
         <mark key="'" line="31" column="20" />
@@ -415,11 +415,11 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1506409296711">
-        <mark key="[" line="178" column="35" />
-        <mark key="]" line="178" column="36" />
-        <mark key="." line="178" column="36" />
-        <mark key="^" line="178" column="37" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1506429499037">
+        <mark key="[" line="184" column="41" />
+        <mark key="]" line="184" column="70" />
+        <mark key="." line="184" column="70" />
+        <mark key="^" line="184" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main.py" timestamp="1449523946017">
         <mark key="[" line="2" column="0" />
@@ -457,11 +457,11 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506408803158">
-        <mark key="[" line="16" column="89" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506429758368">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="19" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/DailyProgrammer/2016-04-01 Never Ending Snake/test_main.py" timestamp="1459713871980">
         <mark key="[" line="16" column="0" />
@@ -591,19 +591,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09ICdwcm9jX3VwX3dvcmtlcic=</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09ICdwcm9jX3VwX3dvcmtlcic=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZWFzdXJlbWVudF9saXN0ID0gTWVhc3VyZW1lbnRMaXN0LmZyb21fbGlzdChNRUFTVVJFTUVOVFNfT05FKQoKICAgICAgICBtZWFzdXJlbWVudCA9IG1lYXN1cmVtZW50X2xpc3QuZmluZF9tZWFzdXJlbWVudCgKICAgICAgICAgICAgc2lnbmFsPSd0b3RhbF9wYWNrZXRfcmF0ZV9wcGgnLAogICAgICAgICAgICBsYXRlc3RfcmVsZWFzZT0nRVBHXzIwMTNCJywKICAgICAgICAgICAgcGxhdGZvcm09J1NTUicsCiAgICAgICAgICAgIHBoeXNpY2FsX21hY2hpbmU9J3NzYy0xJywKICAgICAgICAgICAgcmVzb3VyY2U9J0NQVScsCiAgICAgICAgICAgIGNvbnN1bWVyPSdwcm9jX2NwX3BzYycpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lnbm9yZV9zcGFjZXNfaW5fcHJvcGVydHkoc2VsZik6CiAgICAgICAgbWVhc3VyZW1lbnRfbGlzdCA9IE1lYXN1cmVtZW50TGlzdC5mcm9tX2xpc3QoTUVBU1VSRU1FTlRTX09ORSkKCiAgICAgICAgbWVhc3VyZW1lbnQgPSBtZWFzdXJlbWVudF9saXN0LmZpbmRfbWVhc3VyZW1lbnQoCiAgICAgICAgICAgIHNpZ25hbD0ndG90YWxfcGFja2V0X3JhdGVfcHBoJywKICAgICAgICAgICAgbGF0ZXN0X3JlbGVhc2U9J0VQR18yMDEzQicsCiAgICAgICAgICAgIHBsYXRmb3JtPSdTU1InLAogICAgICAgICAgICBwaHlzaWNhbF9tYWNoaW5lPSdzc2MtMScsCiAgICAgICAgICAgIHJlc291cmNlPSdDUFUnLAogICAgICAgICAgICBjb25zdW1lcj0ncHJvY19jcF9wc2MnKQoKICAgICAgICBhc3NlcnQgbWVhc3VyZW1lbnQgaXMgbm90IE5vbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZWFzdXJlbWVudF9saXN0ID0gTWVhc3VyZW1lbnRMaXN0LmZyb21fbGlzdChNRUFTVVJFTUVOVFNfU1BBQ0VTKQogICAgICAgIG1lYXN1cmVtZW50ID0gbWVhc3VyZW1lbnRfbGlzdC5maW5kX21lYXN1cmVtZW50KAogICAgICAgICAgICBzaWduYWw9J3RvdGFsX3BhY2tldF9yYXRlX3BwaCcsCiAgICAgICAgICAgIGxhdGVzdF9yZWxlYXNlPSdFUEdfMjAxNEInKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobWVhc3VyZW1lbnQsIE1FQVNVUkVNRU5UU19TUEFDRV9QRVJJT0RbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FudGVkX3BhcmFtZXRlcnNbJyddOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -644,15 +644,18 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzb3J0ZWQobWVhc3VyZW1lbnRzKSA9PSBzb3J0ZWQobWVhc3VyZW1lbnRfbGlzdFswOjI6XSkK</text>
+        <text encoding="base64">ICAgICAgICBtZWFzdXJlbWVudF9saXN0ID0gTWVhc3VyZW1lbnRMaXN0LmZyb21fbGlzdChNRUFTVVJFTUVOVFNfU1BBQ0VTKQogICAgICAgIG1lYXN1cmVtZW50ID0gbWVhc3VyZW1lbnRfbGlzdC5maW5kX21lYXN1cmVtZW50KAogICAgICAgICAgICBzaWduYWw9J3RvdGFsX3BhY2tldF9yYXRlX3BwaCcsCiAgICAgICAgICAgIGxhdGVzdF9yZWxlYXNlPSdFUEdfMjAxNEInKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobWVhc3VyZW1lbnQsIE1FQVNVUkVNRU5UU19TUEFDRV9QRVJJT0RbMF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBtZWFzdXJlbWVudHNbMF0gPT0gbWVhc3VyZW1lbnRfbGlzdFswXQogICAgYXNzZXJ0IG1lYXN1cmVtZW50c1sxXSA9PSBtZWFzdXJlbWVudF9saXN0WzJdCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzb3J0ZWQobWVhc3VyZW1lbnRzKSA9PSBzb3J0ZWQobWVhc3VyZW1lbnRfbGlzdFswOjI6XSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBtZWFzdXJlbWVudHNbMF0gPT0gbWVhc3VyZW1lbnRfbGlzdFswXQogICAgYXNzZXJ0IG1lYXN1cmVtZW50c1sxXSA9PSBtZWFzdXJlbWVudF9saXN0WzJdCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,
     {
         'Release': 'EPG_2013B',
@@ -664,17 +667,14 @@
         'Value': '13B cost'
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG1lYXN1cmVtZW50X2xpc3QuZXh0ZW5kKF9jcmVhdGVfc2NhbGVkX21lYXN1cmVtZW50cyhtZWFzdXJlbWVudF9saXN0LCB7CiAgICAgICAgJ2xhdGVzdF9yZWxlYXNlJzogJ0VQR18yMDE2QScsCiAgICAgICAgJ3BsYXRmb3JtJzogJ1NTUicsCiAgICAgICAgJ3Jlc291cmNlJzogJ1JBTScKICAgIH0sIDEuMCkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1lYXN1cmVtZW50IGluIHNlbGYuX21lYXN1cmVtZW50czoKICAgICAgICAgICAgICAgIHByaW50KG1lYXN1cmVtZW50KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBuZXdfcm93ZGljdFtrZXldIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1lYXN1cmVtZW50IGluIHNlbGYuX21lYXN1cmVtZW50czoKICAgICAgICAgICAgICAgIHByaW50KG1lYXN1cmVtZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
