@@ -264,7 +264,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1506429714169">
+      <file name="/Python Console" timestamp="1506430526296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -322,11 +322,11 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/measurement_list.py" timestamp="1506429565846">
-        <mark key="[" line="209" column="39" />
-        <mark key="]" line="211" column="38" />
-        <mark key="^" line="211" column="38" />
-        <mark key="." line="211" column="38" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/measurement_list.py" timestamp="1506431358633">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" timestamp="1505485280525">
         <mark key="'" line="31" column="20" />
@@ -378,10 +378,10 @@
         <mark key="." line="73" column="49" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506408572126">
+      <file name="/Dummy.txt" timestamp="1506431420909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="65" />
         <mark key="o" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main2.py" timestamp="1449609338914">
@@ -415,11 +415,11 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1506429499037">
-        <mark key="[" line="184" column="41" />
-        <mark key="]" line="184" column="70" />
-        <mark key="." line="184" column="70" />
-        <mark key="^" line="184" column="70" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1506430061102">
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="34" />
+        <mark key="." line="205" column="34" />
+        <mark key="^" line="205" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main.py" timestamp="1449523946017">
         <mark key="[" line="2" column="0" />
@@ -457,11 +457,11 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506429758368">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="36" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506431155993">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DailyProgrammer/2016-04-01 Never Ending Snake/test_main.py" timestamp="1459713871980">
         <mark key="[" line="16" column="0" />
@@ -591,19 +591,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Fixed illegal CSV formatting in signal_cost.csv</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Fixed illegal CSV formatting in signal_cost.csv</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lnbm9yZV9zcGFjZXNfaW5fcHJvcGVydHkoc2VsZik6CiAgICAgICAgbWVhc3VyZW1lbnRfbGlzdCA9IE1lYXN1cmVtZW50TGlzdC5mcm9tX2xpc3QoTUVBU1VSRU1FTlRTX09ORSkKCiAgICAgICAgbWVhc3VyZW1lbnQgPSBtZWFzdXJlbWVudF9saXN0LmZpbmRfbWVhc3VyZW1lbnQoCiAgICAgICAgICAgIHNpZ25hbD0ndG90YWxfcGFja2V0X3JhdGVfcHBoJywKICAgICAgICAgICAgbGF0ZXN0X3JlbGVhc2U9J0VQR18yMDEzQicsCiAgICAgICAgICAgIHBsYXRmb3JtPSdTU1InLAogICAgICAgICAgICBwaHlzaWNhbF9tYWNoaW5lPSdzc2MtMScsCiAgICAgICAgICAgIHJlc291cmNlPSdDUFUnLAogICAgICAgICAgICBjb25zdW1lcj0ncHJvY19jcF9wc2MnKQoKICAgICAgICBhc3NlcnQgbWVhc3VyZW1lbnQgaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBtZWFzdXJlbWVudCA9IG1lYXN1cmVtZW50X2xpc3QuZmluZF9tZWFzdXJlbWVudCgKICAgICAgICAgICAgc2lnbmFsPSd0b3RhbF9wYWNrZXRfcmF0ZV9wcGggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLAogICAgICAgICAgICBsYXRlc3RfcmVsZWFzZT0nRVBHXzIwMTNCJywKICAgICAgICAgICAgcGxhdGZvcm09J1NTUicsCiAgICAgICAgICAgIHBoeXNpY2FsX21hY2hpbmU9J3NzYy0xJywKICAgICAgICAgICAgcmVzb3VyY2U9J0NQVScsCiAgICAgICAgICAgIGNvbnN1bWVyPSdwcm9jX2NwX3BzYycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FudGVkX3BhcmFtZXRlcnNbJyddOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAndkVQRycgaW4gbWVhc3VyZW1lbnRbJ1BsYXRmb3JtJ10gYW5kICdwcm9jX3VwX3dvcmtlcicgaW4gbWVhc3VyZW1lbnRbJ0NvbnN1bWVyJ10gYW5kIFwKICAgICAgICAgICAgICAgICgnRVBHIDEuMCcgaW4gbWVhc3VyZW1lbnRbJ1JlbGVhc2UnXSBvciAnRVBHXzFfMCcgaW4gbWVhc3VyZW1lbnRbJ1JlbGVhc2UnXSk6CiAgICAgICAgICAgIG1lYXN1cmVtZW50ID0gbWVhc3VyZW1lbnQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -644,46 +644,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZWFzdXJlbWVudF9saXN0ID0gTWVhc3VyZW1lbnRMaXN0LmZyb21fbGlzdChNRUFTVVJFTUVOVFNfU1BBQ0VTKQogICAgICAgIG1lYXN1cmVtZW50ID0gbWVhc3VyZW1lbnRfbGlzdC5maW5kX21lYXN1cmVtZW50KAogICAgICAgICAgICBzaWduYWw9J3RvdGFsX3BhY2tldF9yYXRlX3BwaCcsCiAgICAgICAgICAgIGxhdGVzdF9yZWxlYXNlPSdFUEdfMjAxNEInKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobWVhc3VyZW1lbnQsIE1FQVNVUkVNRU5UU19TUEFDRV9QRVJJT0RbMF0pCg==</text>
+        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIGt3YXJncy5pdGVtcygpOgogICAgICAgIG5ld19tZWFzdXJlbWVudFtrZXldID0gdmFsdWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzb3J0ZWQobWVhc3VyZW1lbnRzKSA9PSBzb3J0ZWQobWVhc3VyZW1lbnRfbGlzdFswOjI6XSkK</text>
+        <text encoding="base64">ICAgIG5ld19tZWFzdXJlbWVudFsnUGxhdGZvcm0nXSA9ICdTU1InCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBtZWFzdXJlbWVudHNbMF0gPT0gbWVhc3VyZW1lbnRfbGlzdFswXQogICAgYXNzZXJ0IG1lYXN1cmVtZW50c1sxXSA9PSBtZWFzdXJlbWVudF9saXN0WzJdCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICdsYXRlc3RfcmVsZWFzZSc6ICdFUEcgMS4wJywKICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtZWFzdXJlbWVudCBpcyBub3QgTm9uZToK</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-    {
-        'Release': 'EPG_2013B',
-        'Platform': 'SSR',
-        'PhysicalMachine': 'ssc-1',
-        'Resource': 'CPU',
-        'Signal': 'total_packet_rate_pph',
-        'Consumer': 'proc_cp_psc',
-        'Value': '13B cost'
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtZWFzdXJlbWVudCA9IG1lYXN1cmVtZW50X2xpc3QuZmluZF9tZWFzdXJlbWVudCgqKnByb3BlcnRpZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzWydTaWduYWwnXSA9IHNpZ25hbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lYXN1cmVtZW50X2xpc3QuZXh0ZW5kKF9jcmVhdGVfc2NhbGVkX21lYXN1cmVtZW50cyhtZWFzdXJlbWVudF9saXN0LCB7CiAgICAgICAgJ2xhdGVzdF9yZWxlYXNlJzogJ0VQR18yMDE2QScsCiAgICAgICAgJ3BsYXRmb3JtJzogJ1NTUicsCiAgICAgICAgJ3Jlc291cmNlJzogJ1JBTScKICAgIH0sIDEuMCkpCg==</text>
+        <text encoding="base64">ICAgIGZvciBzaWduYWwgaW4gc2lnbmFsX25hbWVzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1lYXN1cmVtZW50IGluIHNlbGYuX21lYXN1cmVtZW50czoKICAgICAgICAgICAgICAgIHByaW50KG1lYXN1cmVtZW50KQo=</text>
+        <text encoding="base64">ICAgIHNpZ25hbF9uYW1lcyA9IHNldCgKICAgICAgICBbbWVhc3VyZW1lbnRbJ1NpZ25hbCddIGZvciBtZWFzdXJlbWVudCBpbiBtZWFzdXJlbWVudF9saXN0XSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -691,7 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FieldE</entry>
         <entry>Pyprika</entry>
         <entry>recipe2</entry>
         <entry>+</entry>
@@ -711,6 +701,7 @@
         <entry>tls</entry>
         <entry>1</entry>
         <entry>]</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>source</entry>
