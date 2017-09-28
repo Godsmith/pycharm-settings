@@ -157,11 +157,11 @@
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" timestamp="1506585203253">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="47" column="12" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" timestamp="1506604332433">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
@@ -273,7 +273,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1506518012278">
+      <file name="/Python Console" timestamp="1506603466576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -281,6 +281,9 @@
         <mark key="]" line="48" column="58" />
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
+      </file>
+      <file name="/fragment.py" timestamp="1506602760492">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
         <mark key="[" line="45" column="18" />
@@ -500,11 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="51" column="20" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
       <jump line="66" column="4" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
@@ -600,22 +598,27 @@
       <jump line="68" column="4" filename="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" />
       <jump line="28" column="20" filename="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" />
       <jump line="216" column="17" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlXyA9IGNvbXBvbmVudC5UeXBlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Ex</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhjZWxfd2FzX29wZW4gPSBUcnVlCg==</text>
+      <register name="0" type="4">
+        <text>code from text files to Excel workbook</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2IgPSBwcm9qZWN0ID0gY29tcG9uZW50ID0gY29kZV9tb2R1bGUgPSBuYW1lID0gdHlwZV8gPSBzcmMgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlXyA9IGNvbXBvbmVudC5UeXBlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -656,28 +659,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbC5EaXNwbGF5QWxlcnRzID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2VsID0gd2IgPSBwcm9qZWN0ID0gY29tcG9uZW50ID0gY29kZV9tb2R1bGUgPSBuYW1lID0gdHlwZV89IHNyYyA9IE5vbmUK</text>
+        <text encoding="base64">VG8gZXh0cmFjdCwgcnVuIHB5dGhvbiBleHRyYWN0X3ZiYS5weQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbCBleGNlbAogICAgZGVsIHdiCiAgICBkZWwgcHJvamVjdAogICAgZGVsIGNvbXBvbmVudAogICAgZGVsIGNvZGVfbW9kdWxlCiAgICBkZWwgbmFtZQogICAgZGVsIHR5cGVfCiAgICBkZWwgc3JjCg==</text>
+        <text encoding="base64">VXNhZ2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbC5EaXNwbGF5QWxlcnRzID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIGlmIHNyYzoKICAgICAgICB3aXRoIHBhdGgub3Blbihtb2RlPSd3JykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZWxpbmVzKHNyYykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzcmMgPSBjb2RlX21vZHVsZS5MaW5lcygxLCBjb2RlX21vZHVsZS5Db3VudE9mTGluZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBTeXN0ZW0uUnVudGltZS5JbnRlcm9wU2VydmljZXMgaW1wb3J0IE1hcnNoYWwK</text>
+        <text encoding="base64">ICAgIHNyYyA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhjZWxfd2FzX29wZW4gPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gYmFzZV9wYXRoLmpvaW5wYXRoKHdvcmtib29rX25hbWUsIG5hbWUgKyAiLnR4dCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJObyBydW5uaW5nIEV4Y2VsIGluc3RhbmNlcywgcmV0dXJuaW5nIG5ldyBpbnN0YW5jZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoID0gYmFzZV9wYXRoLmpvaW5wYXRoKHdvcmtib29rX25hbWUsIG5hbWUgKyAiLnR4dCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
