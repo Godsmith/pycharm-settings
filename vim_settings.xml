@@ -114,6 +114,12 @@
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1506695483602">
+        <mark key="[" line="117" column="30" />
+        <mark key="]" line="117" column="35" />
+        <mark key="." line="117" column="35" />
+        <mark key="^" line="117" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day06/test_day06.py" timestamp="1481017323689">
         <mark key="'" line="27" column="60" />
         <mark key="[" line="30" column="42" />
@@ -390,7 +396,7 @@
         <mark key="." line="73" column="49" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506436027509">
+      <file name="/Dummy.txt" timestamp="1506695083817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="65" />
@@ -494,6 +500,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/datatypes.py" timestamp="1506695020869">
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="83" column="29" />
+        <mark key="^" line="83" column="29" />
+        <mark key="." line="83" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day18/main.py" timestamp="1450560213797">
         <mark key="[" line="36" column="0" />
@@ -605,8 +617,8 @@
       <jump line="56" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlbGxfcjYyMCA9ICdEZWxsIFI2MjAnCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -614,8 +626,8 @@
       <register name="/" type="4">
         <text>}</text>
       </register>
-      <register name="0" type="4">
-        <text>code from text files to Excel workbook</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlbGxfcjYyMCA9ICdEZWxsIFI2MjAnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlXyA9IGNvbXBvbmVudC5UeXBlCg==</text>
