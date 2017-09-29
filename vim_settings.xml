@@ -22,6 +22,7 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateTestCasesFromHistory/create_test_cases_from_history/create_test_case_from_last_run.py" timestamp="1506696844135" />
       <file name="$USER_HOME$/workspace/CandiFileFixer/test/candi_file_fixer.txt" timestamp="1505482772388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -396,7 +397,7 @@
         <mark key="." line="73" column="49" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506695083817">
+      <file name="/Dummy.txt" timestamp="1506697355400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="65" />
