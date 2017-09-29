@@ -157,11 +157,11 @@
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" timestamp="1506604332433">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" timestamp="1506667055938">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="77" column="11" />
+        <mark key="]" line="83" column="19" />
+        <mark key="." line="83" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
@@ -273,7 +273,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1506603466576">
+      <file name="/Python Console" timestamp="1506666919841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -282,7 +282,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1506602760492">
+      <file name="/fragment.py" timestamp="1506666947419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
@@ -605,11 +605,11 @@
       <jump line="56" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlXyA9IGNvbXBvbmVudC5UeXBlCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
