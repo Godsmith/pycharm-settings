@@ -43,6 +43,7 @@
         <mark key="]" line="24" column="87" />
         <mark key="." line="24" column="87" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" timestamp="1506930761105" />
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/main.py" timestamp="1480971776397">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="4" column="38" />
@@ -180,11 +181,11 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1506930634894">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1506931861816">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day01/main.py" timestamp="1449503350293">
         <mark key="[" line="2" column="0" />
@@ -302,7 +303,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1506930641458">
+      <file name="/Python Console" timestamp="1506931773151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -311,10 +312,10 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1506930600341">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="/fragment.py" timestamp="1506931106860">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
         <mark key="[" line="45" column="18" />
@@ -421,7 +422,7 @@
         <mark key="." line="73" column="49" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506697355400">
+      <file name="/Dummy.txt" timestamp="1506930679111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="65" />
@@ -500,11 +501,11 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506431155993">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="39" column="44" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506931531769">
+        <mark key="[" line="23" column="83" />
+        <mark key="]" line="23" column="83" />
+        <mark key="^" line="23" column="83" />
+        <mark key="." line="23" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1506515203036">
         <mark key="[" line="98" column="11" />
@@ -642,11 +643,11 @@
       <jump line="24" column="73" filename="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmhlbHBlci5nZXRfY3BicyhvdXRfZGV0YWlscykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
@@ -655,7 +656,7 @@
         <text encoding="base64">ICAgICJpbl9sb2dpY2FsX2NvcmVzX3BwYl91cF9sYl9wYXJ0aXRpb24iOiAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmhlbHBlci5nZXRfY3BicyhvdXRfZGV0YWlscykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -696,30 +697,32 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">L291dF9kZXRhaWxzLml0ZXJhdGlvbnNbLTFdLmNvcmVfb3V0cHV0LnBoeXNpY2FsX21hY2hpbmVzWy0xXS52aXJ0dWFsX21hY2hpbmVzWy0xXS5jb25zdW1lcnNbCiAgICAgICAgICAgIC0xXS5pbnN0YW5jZXMg</text>
+        <text>[pm for pm in out_details.iterations[-1].core_output.physical_machines if
+                                     pm.virtual_machines[-1].type is not None]</text>
       </register>
       <register name="3" type="4">
+        <text>if
+                                      pm.virtual_machines[-1].type == VirtualMachine.ppb]</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmhlbHBlci5nZXRfY3BicyhvdXRfZGV0YWlscykpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">L291dF9kZXRhaWxzLml0ZXJhdGlvbnNbLTFdLmNvcmVfb3V0cHV0LnBoeXNpY2FsX21hY2hpbmVzWy0xXS52aXJ0dWFsX21hY2hpbmVzWy0xXS5jb25zdW1lcnNbCiAgICAgICAgICAgIC0xXS5pbnN0YW5jZXMg</text>
+      </register>
+      <register name="6" type="4">
         <text>workers_per_ppb = out_details.iterations[-1].core_output.physical_machines[-1].virtual_machines[-1].consumers[
             -1].instances  # Note: volatile; will not work if any VMs or consumers change places
 capacity_per_ppb = out_api['python']['out_capacity_kpps_per_vm_ppb']</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IE5vdGU6IHZvbGF0aWxlOyB3aWxsIG5vdCB3b3JrIGlmIGFueSBWTXMgb3IgY29uc3VtZXJzIGNoYW5nZSBwbGFjZXMKY2FwYWNpdHlfcGVyX3BwYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfdm1fcHBiJ11jYXBhY2l0eV9wZXJfcHBiIC8gd29ya2Vyc19wZXJfcHBi</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfZGV0YWlscy5pdGVyYXRpb25zWy0xXS5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNvbnN1bWVyIGluIGNwYi5jb25zdW1lcnM6CiAgICAgICAgICAgICAgICBpZiBjb25zdW1lci50eXBlLm5hbWUgPT0gQ29uc3VtZXIucHJvY19jcF9kZWQubmFtZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmZhaWwoJ1RoZXJlIHNob3VsZCBiZSBubyBERUQgcHJvY2Vzc2VzIGluIDE2QicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
