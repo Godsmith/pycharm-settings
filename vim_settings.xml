@@ -501,11 +501,11 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506931531769">
-        <mark key="[" line="23" column="83" />
-        <mark key="]" line="23" column="83" />
-        <mark key="^" line="23" column="83" />
-        <mark key="." line="23" column="83" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506951600219">
+        <mark key="[" line="23" column="94" />
+        <mark key="]" line="23" column="94" />
+        <mark key="^" line="23" column="51" />
+        <mark key="." line="23" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1506515203036">
         <mark key="[" line="98" column="11" />
@@ -644,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
