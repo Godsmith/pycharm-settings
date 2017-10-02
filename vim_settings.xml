@@ -29,7 +29,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1506517714198">
+      <file name="/a.dummy" timestamp="1506929640346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day25/main.py" timestamp="1451064482123">
@@ -108,6 +108,10 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8010_ssc3.json" timestamp="1506929836328">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
         <mark key="[" line="34" column="31" />
@@ -176,11 +180,22 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1506930634894">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day01/main.py" timestamp="1449503350293">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" timestamp="1506929841053">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DailyProgrammer/2016-04-01 Never Ending Snake/main.py" timestamp="1460055332276">
         <mark key="[" line="46" column="18" />
@@ -263,6 +278,13 @@
         <mark key="^" line="74" column="8" />
         <mark key="." line="74" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" timestamp="1506929532611">
+        <mark key="'" line="18" column="29" />
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercisetype.py" timestamp="1425214143482">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="10" column="26" />
@@ -280,7 +302,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1506666919841">
+      <file name="/Python Console" timestamp="1506930641458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -289,8 +311,10 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1506666947419">
+      <file name="/fragment.py" timestamp="1506930600341">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
         <mark key="[" line="45" column="18" />
@@ -516,21 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="66" column="4" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="69" column="4" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="82" column="8" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="91" column="4" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="84" column="4" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/test/test_ingredient_list.py" />
-      <jump line="83" column="29" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/ingredient_list.py" />
-      <jump line="18" column="63" filename="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/test/test_receptenSeRecipeWebParser.py" />
-      <jump line="19" column="12" filename="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" />
       <jump line="56" column="8" filename="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" />
       <jump line="34" column="8" filename="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" />
@@ -616,22 +625,37 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" />
+      <jump line="104" column="36" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="18" column="29" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="24" column="73" filename="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbGxfcjYyMCA9ICdEZWxsIFI2MjAnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmhlbHBlci5nZXRfY3BicyhvdXRfZGV0YWlscykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>lb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlbGxfcjYyMCA9ICdEZWxsIFI2MjAnCg==</text>
+        <text encoding="base64">ICAgICJpbl9sb2dpY2FsX2NvcmVzX3BwYl91cF9sYl9wYXJ0aXRpb24iOiAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlXyA9IGNvbXBvbmVudC5UeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmhlbHBlci5nZXRfY3BicyhvdXRfZGV0YWlscykpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,38 +695,40 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">L291dF9kZXRhaWxzLml0ZXJhdGlvbnNbLTFdLmNvcmVfb3V0cHV0LnBoeXNpY2FsX21hY2hpbmVzWy0xXS52aXJ0dWFsX21hY2hpbmVzWy0xXS5jb25zdW1lcnNbCiAgICAgICAgICAgIC0xXS5pbnN0YW5jZXMg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">VG8gZXh0cmFjdCwgcnVuIHB5dGhvbiBleHRyYWN0X3ZiYS5weQo=</text>
+      <register name="3" type="4">
+        <text>workers_per_ppb = out_details.iterations[-1].core_output.physical_machines[-1].virtual_machines[-1].consumers[
+            -1].instances  # Note: volatile; will not work if any VMs or consumers change places
+capacity_per_ppb = out_api['python']['out_capacity_kpps_per_vm_ppb']</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">VXNhZ2U6Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IE5vdGU6IHZvbGF0aWxlOyB3aWxsIG5vdCB3b3JrIGlmIGFueSBWTXMgb3IgY29uc3VtZXJzIGNoYW5nZSBwbGFjZXMKY2FwYWNpdHlfcGVyX3BwYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfdm1fcHBiJ11jYXBhY2l0eV9wZXJfcHBiIC8gd29ya2Vyc19wZXJfcHBi</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHNyYzoKICAgICAgICB3aXRoIHBhdGgub3Blbihtb2RlPSd3JykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZWxpbmVzKHNyYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMgPSBjb2RlX21vZHVsZS5MaW5lcygxLCBjb2RlX21vZHVsZS5Db3VudE9mTGluZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNyYyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gYmFzZV9wYXRoLmpvaW5wYXRoKHdvcmtib29rX25hbWUsIG5hbWUgKyAiLnR4dCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRfZGV0YWlscy5pdGVyYXRpb25zWy0xXS5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gYmFzZV9wYXRoLmpvaW5wYXRoKHdvcmtib29rX25hbWUsIG5hbWUgKyAiLnR4dCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNvbnN1bWVyIGluIGNwYi5jb25zdW1lcnM6CiAgICAgICAgICAgICAgICBpZiBjb25zdW1lci50eXBlLm5hbWUgPT0gQ29uc3VtZXIucHJvY19jcF9kZWQubmFtZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmZhaWwoJ1RoZXJlIHNob3VsZCBiZSBubyBERUQgcHJvY2Vzc2VzIGluIDE2QicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>lb</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>lb</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -710,8 +736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pyprika</entry>
-        <entry>recipe2</entry>
         <entry>+</entry>
         <entry>ExerciseOccasion</entry>
         <entry encoding="base64">XDxmaXJzdF9leGVyY2lzZVw+</entry>
@@ -730,6 +754,8 @@
         <entry>1</entry>
         <entry>]</entry>
         <entry>}</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>lb</entry>
       </history-search>
       <history-cmd>
         <entry>source</entry>
@@ -801,6 +827,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
