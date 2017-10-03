@@ -78,11 +78,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507038497608">
-        <mark key="[" line="186" column="74" />
-        <mark key="]" line="186" column="74" />
-        <mark key="." line="186" column="74" />
-        <mark key="^" line="186" column="73" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507043177560">
+        <mark key="[" line="173" column="97" />
+        <mark key="]" line="173" column="102" />
+        <mark key="." line="173" column="102" />
+        <mark key="^" line="173" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -237,7 +237,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1507038128266">
+      <file name="/Python Console" timestamp="1507043186415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -246,7 +246,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1507037005207">
+      <file name="/fragment.py" timestamp="1507043135424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -786,10 +786,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>applicable for this release</text>
+        <text>failure</text>
       </register>
       <register name="-" type="4">
-        <text>applicable for this release</text>
+        <text>failure</text>
       </register>
       <register name="/" type="4">
         <text>workers_per_vm</text>
