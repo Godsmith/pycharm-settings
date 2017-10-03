@@ -78,8 +78,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507016544558">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507033068907">
         <mark key="'" line="198" column="8" />
+        <mark key="[" line="548" column="0" />
+        <mark key="]" line="548" column="60" />
+        <mark key="^" line="552" column="41" />
+        <mark key="." line="552" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -160,6 +164,7 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" timestamp="1507032671868" />
       <file name="$USER_HOME$/workspace/GymLog/gymlog/static/style.css" timestamp="1424209496622">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="30" />
@@ -199,12 +204,6 @@
         <mark key="]" line="108" column="46" />
         <mark key="^" line="108" column="45" />
         <mark key="." line="108" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/link_load_applier_tests.py" timestamp="1506954352599">
-        <mark key="'" line="340" column="32" />
-        <mark key="[" line="17" column="66" />
-        <mark key="]" line="17" column="67" />
-        <mark key="." line="17" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day17/main.py" timestamp="1450558170534">
         <mark key="[" line="18" column="113" />
@@ -320,12 +319,6 @@
         <mark key="." line="73" column="49" />
         <mark key="^" line="73" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/deployer_tests.py" timestamp="1506954446817">
-        <mark key="'" line="135" column="28" />
-        <mark key="[" line="165" column="83" />
-        <mark key="]" line="165" column="84" />
-        <mark key="." line="165" column="84" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main2.py" timestamp="1449609338914">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="16" />
@@ -394,12 +387,6 @@
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/api_tests.py" timestamp="1506954473502">
-        <mark key="'" line="172" column="57" />
-        <mark key="[" line="40" column="53" />
-        <mark key="]" line="40" column="54" />
-        <mark key="." line="40" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/NavigateExcelSheets/main.py" timestamp="1429992510733">
         <mark key="[" line="1" column="22" />
@@ -624,12 +611,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" timestamp="1506956931110">
-        <mark key="'" line="114" column="9" />
-        <mark key="[" line="119" column="26" />
-        <mark key="]" line="119" column="27" />
-        <mark key="." line="119" column="27" />
-      </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" timestamp="1481137892425">
         <mark key="'" line="42" column="65" />
         <mark key="[" line="46" column="22" />
@@ -805,20 +786,17 @@
       <jump line="290" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add signal cost to *Load objects to facilitate debugging
-
-These costs can also be added to the web interface. 
-This has not been done at this time, however.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZGljdFsnb3V0X2NhcGFjaXR5X3Blcl93b3JrZXJfbGInXSA9ICdoZWxsbzInCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>CoreOutputSignalLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfY29zdD0xLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FsaWJyYXRlZF9zaWduYWxfY29zdD0wLjUK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZGljdFsnb3V0X2NhcGFjaXR5X3Blcl93b3JrZXJfbGInXSA9ICdoZWxsbzInCg==</text>
       </register>
       <register name="1" type="4">
         <text>Add signal cost to *Load objects to facilitate debugging
