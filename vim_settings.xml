@@ -78,12 +78,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507033068907">
-        <mark key="'" line="198" column="8" />
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="548" column="60" />
-        <mark key="^" line="552" column="41" />
-        <mark key="." line="552" column="41" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507038497608">
+        <mark key="[" line="186" column="74" />
+        <mark key="]" line="186" column="74" />
+        <mark key="." line="186" column="74" />
+        <mark key="^" line="186" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -145,9 +144,9 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507018897493">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507035252746">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="80" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="55" />
       </file>
@@ -238,7 +237,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1507018903245">
+      <file name="/Python Console" timestamp="1507038128266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -247,8 +246,8 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1506931106860">
-        <mark key="[" line="2" column="0" />
+      <file name="/fragment.py" timestamp="1507037005207">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -449,9 +448,9 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1507020410895">
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="403" column="0" />
-        <mark key="." line="403" column="0" />
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="398" column="0" />
+        <mark key="." line="398" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/templates/main.html" timestamp="1425418580420">
         <mark key="[" line="59" column="0" />
@@ -606,7 +605,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507020694426">
+      <file name="/Dummy.txt" timestamp="1507035236183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -684,7 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day02/day02_tests.py" />
       <jump line="0" column="35" filename="$USER_HOME$/workspace/adventofcode2016/day02/day02_tests.py" />
       <jump line="18" column="60" filename="$USER_HOME$/workspace/adventofcode2016/day06/test_day06.py" />
       <jump line="35" column="52" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
@@ -784,25 +782,23 @@
       <jump line="222" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
       <jump line="256" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
       <jump line="290" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
+      <jump line="173" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZGljdFsnb3V0X2NhcGFjaXR5X3Blcl93b3JrZXJfbGInXSA9ICdoZWxsbzInCg==</text>
+      <register name="&quot;" type="4">
+        <text>applicable for this release</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>applicable for this release</text>
       </register>
       <register name="/" type="4">
-        <text>CoreOutputSignalLoad</text>
+        <text>workers_per_vm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZGljdFsnb3V0X2NhcGFjaXR5X3Blcl93b3JrZXJfbGInXSA9ICdoZWxsbzInCg==</text>
+      <register name="0" type="4">
+        <text>out_lb_processes_per_vm_ppb</text>
       </register>
-      <register name="1" type="4">
-        <text>Add signal cost to *Load objects to facilitate debugging
-
-These costs can also be added to the web interface. 
-This has not been done at this time, however.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -843,37 +839,37 @@ This has not been done at this time, however.</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzaWduYWxfdXNhZ2Uuc2lnbmFsX3R5cGUubmFtZSA9PSAnaW5fZHBpX2Zsb3dfY3JlYXRlJzoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNpZ25hbF90eXBlLm5hbWUgPT0gJ2luX2RwaV9mbG93X2NyZWF0ZSc6Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHdvcmtlcnNfcGVyX3ZtX2xiKGNscywgZGltZW5zaW9uaW5nX2l0ZXJhdGlvbik6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcGJfdm1zID0gW3ZtIGZvciBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2aXJ0dWFsX21hY2hpbmVfdHlwZS5uYW1lID09ICdwcGInOgo=</text>
+        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYnMgPSBbcG0gZm9yIHBtIGRpbWVuc2lvbmluZ19pdGVyYXRpb24uY29yZV9vdXRwdXQucGh5c2ljYWxfbWFjaGluZXMgaWYgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRfd29ya2Vyc19wZXJfdm1fbGIgPQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGlmIHZpcnR1YWxfbWFjaGluZV90eXBlLm5hbWUgPT0gJ3BwYicgYW5kICdrcHBzJyBpbiBtYXhfY2FwYWNpdHlfaW5wdXRfcGFyYW1ldGVyX3R5cGUubmFtZToKICAgICAgICAgICAgICAgIHBhc3M=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRfd29ya2Vyc19wZXJfdm1fcHBiID0K</text>
       </register>
       <register name=":" type="4">
         <text>%:s/r620/r630/g</text>
       </register>
     </registers>
     <search>
-      <last-search>CoreOutputSignalLoad</last-search>
+      <last-search>workers_per_vm</last-search>
       <last-offset />
-      <last-pattern>CoreOutputSignalLoad</last-pattern>
+      <last-pattern>workers_per_vm</last-pattern>
       <last-replace>r630</last-replace>
       <last-substitute>r620</last-substitute>
       <last-dir>1</last-dir>
@@ -881,7 +877,6 @@ This has not been done at this time, however.</text>
     </search>
     <history>
       <history-search>
-        <entry>Keybo</entry>
         <entry>tls</entry>
         <entry>1</entry>
         <entry>]</entry>
@@ -901,6 +896,7 @@ This has not been done at this time, however.</text>
         <entry encoding="base64">XDxtYXhfY2FwYWNpdHlfcGVyX3ZtXD4=</entry>
         <entry>vswitch</entry>
         <entry>CoreOutputSignalLoad</entry>
+        <entry>workers_per_vm</entry>
       </history-search>
       <history-cmd>
         <entry>source .ideavimrc</entry>
