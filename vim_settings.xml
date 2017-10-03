@@ -226,11 +226,11 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/orchestrator_tests.py" timestamp="1506954491787">
         <mark key="'" line="17" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1506952544946">
-        <mark key="[" line="23" column="90" />
-        <mark key="]" line="23" column="93" />
-        <mark key="^" line="23" column="93" />
-        <mark key="." line="23" column="93" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1507014161575">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/GetCostFromTests/testing_csv_file.csv" timestamp="1506954775617">
         <mark key="[" line="5" column="31" />
