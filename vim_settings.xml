@@ -569,11 +569,11 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/orchestrator_tests.py" timestamp="1506954491787">
         <mark key="'" line="17" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1507014161575">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="25" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1507018075578">
+        <mark key="[" line="23" column="96" />
+        <mark key="]" line="23" column="96" />
         <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+        <mark key="." line="23" column="96" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day21/main.py" timestamp="1450819952401">
         <mark key="[" line="82" column="52" />
@@ -692,10 +692,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>29.38271605</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>29.38271605</text>
       </register>
       <register name="/" type="4">
         <text>vswitch</text>
