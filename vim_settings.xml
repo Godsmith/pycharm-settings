@@ -85,11 +85,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507043177560">
-        <mark key="[" line="173" column="97" />
-        <mark key="]" line="173" column="102" />
-        <mark key="." line="173" column="102" />
-        <mark key="^" line="173" column="102" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507109257707">
+        <mark key="[" line="183" column="85" />
+        <mark key="]" line="183" column="86" />
+        <mark key="." line="183" column="86" />
+        <mark key="^" line="189" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -250,7 +250,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1507043186415">
+      <file name="/Python Console" timestamp="1507109165789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -488,11 +488,11 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1507108595108">
-        <mark key="[" line="18" column="99" />
-        <mark key="]" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="47" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1507108948982">
+        <mark key="[" line="45" column="59" />
+        <mark key="]" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+        <mark key="^" line="52" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/DailyProgrammer/2016-04-01 Never Ending Snake/main.py" timestamp="1460055332276">
         <mark key="[" line="46" column="18" />
@@ -630,7 +630,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507108616095">
+      <file name="/Dummy.txt" timestamp="1507109269322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -813,17 +813,17 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>G</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jX2xiX3dvcmtlcl9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGJfd29ya2VyJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>workers_per_vm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X251bWJlcl9vZl93b3JrZXJzX3Blcl9wYmJfdmVwZ18yMDE4UTEoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykKCiAgICAgICAgd29ya2VycyA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfd29ya2Vyc19wZXJfdm1fcHBiJ10KCiAgICAgICAgYXNzZXJ0IHdvcmtlcnMgPT0gMTIK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jX2xiX3dvcmtlcl9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGJfd29ya2VyJ10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ2lucHV0XzgwMjBfc3NjMy5qc29uJykK</text>
