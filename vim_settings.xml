@@ -85,11 +85,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507109257707">
-        <mark key="[" line="183" column="85" />
-        <mark key="]" line="183" column="86" />
-        <mark key="." line="183" column="86" />
-        <mark key="^" line="189" column="74" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507110368832">
+        <mark key="[" line="191" column="46" />
+        <mark key="]" line="191" column="54" />
+        <mark key="." line="191" column="54" />
+        <mark key="^" line="191" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -813,8 +813,8 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jX2xiX3dvcmtlcl9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGJfd29ya2VyJ10K</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -823,7 +823,7 @@
         <text>workers_per_vm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jX2xiX3dvcmtlcl9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGJfd29ya2VyJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY19sYl9jb25zdW1lcl9pbnN0YW5jZXMgPSBwcm9jX2xiX3dvcmtlcl9jb25zdW1lcnNbMF0uaW5zdGFuY2VzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ2lucHV0XzgwMjBfc3NjMy5qc29uJykK</text>
