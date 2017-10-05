@@ -84,12 +84,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507183453879">
-        <mark key="'" line="122" column="12" />
-        <mark key="[" line="588" column="138" />
-        <mark key="]" line="588" column="140" />
-        <mark key="." line="588" column="140" />
-        <mark key="^" line="588" column="140" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507186118684">
+        <mark key="'" line="209" column="27" />
+        <mark key="[" line="602" column="0" />
+        <mark key="]" line="602" column="69" />
+        <mark key="." line="602" column="69" />
+        <mark key="^" line="191" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -137,6 +137,12 @@
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/ExtractVba/extract_vba.py" timestamp="1506667055938">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="77" column="11" />
+        <mark key="]" line="83" column="19" />
+        <mark key="." line="83" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" timestamp="1507020348004">
         <mark key="'" line="290" column="44" />
@@ -244,7 +250,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1507183397007">
+      <file name="/Python Console" timestamp="1507186304996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -253,7 +259,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1507183199482">
+      <file name="/fragment.py" timestamp="1507186184279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -288,12 +294,11 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1507120002521">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1507185316388">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="24" column="47" />
-        <mark key="]" line="24" column="47" />
-        <mark key="." line="24" column="47" />
-        <mark key="^" line="24" column="45" />
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" timestamp="1505485280525">
         <mark key="'" line="31" column="20" />
@@ -471,7 +476,8 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1507121451054">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1507186340417">
+        <mark key="'" line="58" column="38" />
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
         <mark key="." line="398" column="0" />
@@ -493,11 +499,11 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1507108948982">
-        <mark key="[" line="45" column="59" />
-        <mark key="]" line="45" column="59" />
-        <mark key="." line="45" column="59" />
-        <mark key="^" line="52" column="70" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1507185145060">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/DailyProgrammer/2016-04-01 Never Ending Snake/main.py" timestamp="1460055332276">
         <mark key="[" line="46" column="18" />
@@ -550,7 +556,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1507010102972">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1507186596617">
+        <mark key="'" line="404" column="28" />
         <mark key="[" line="444" column="77" />
         <mark key="]" line="445" column="23" />
         <mark key="^" line="445" column="23" />
@@ -725,14 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="60" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
-      <jump line="34" column="31" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
-      <jump line="9" column="8" filename="$USER_HOME$/workspace/TestPythonProject/hello.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/workspace/TestPythonProject/hello.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/CandiFileFixer/candi_file_fixer.py" />
-      <jump line="72" column="18" filename="$USER_HOME$/workspace/CandiFileFixer/candi_file_fixer.py" />
       <jump line="68" column="4" filename="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" />
       <jump line="28" column="20" filename="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" />
       <jump line="216" column="17" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" />
@@ -825,22 +824,30 @@
       <jump line="121" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="122" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="24" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" />
+      <jump line="593" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="209" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="22" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
+      <jump line="53" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
+      <jump line="58" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
+      <jump line="97" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
+      <jump line="341" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="404" column="28" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>in_capacity_cpu</text>
+        <text>platform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X2NhcGFjaXR5LnZtX21heF9jYXBhY2l0aWVzWyhkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiLCBkYXRhdHlwZXMuUmVzb3VyY2UudmNwdV91cF93b3JrZXIpXS5tYXhfY2FwYWNpdGllc1sKICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5NYXhDYXBhY2l0eUtwaU5hbWUuZW5kX3VzZXJfa3Bwc10ucGVyX3Jlc291cmNlCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3dvcmtlcl9jYXBhY2l0eV9wcGIoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsKHNlbGYuaW5fKQoKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgYXNzZXJ0IDAgPCBjYXBhY2l0eV9wZXJfd29ya2VyIDwgMTAwMDAwICAjIGp1c3QgdG8gdmVyaWZ5IHRoYXQgaXQncyBhIG5vbi16ZXJvIGludAoKICAgIGRlZiB0ZXN0X3dvcmtlcl9jYXBhY2l0eV9wcGJfc3Jpb3ZfYmlnX2NhbmRpKHNlbGYpOgogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gc2VsZi5oZWxwZXIucnVuX2VwZ19tb2RlbF93aXRoX2lucHV0KCdpbnB1dF9jYXBhY2l0eV9wZXJfd29ya2VyX1NSSU9WLmpzb24nKQoKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgYXNzZXJ0IDEzMCA8IGNhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICBUT0RPOiB0aGlzIGZhaWxzIGJlY2F1c2Ugb2YgdGhlIHNjYWxlIGZhY3RvciAwLjg4IGluIHRoZSBpbnB1dCBqc29uCiAgICAgICAgIyB0aGF0IHNob3VsZCBiZSAxLjAuIFJlYWN0aXZlIHRoaXMgYXNzZXJ0IHdoZW4gaXQgaGFzIGJlZW4gZml4ZWQuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -881,37 +888,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5FcGdDYW5kaU1vZGVsLmVwZy5kYXRhdHlwZXMgaW1wb3J0IE1heENhcGFjaXR5S3BpTmFtZSwgVmlydHVhbE1hY2hpbmUsIFJlc291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0X2RpY3RbICdvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX2xiJ10gPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgdm1zX2FuZF9yZXNvdXJjZXMgPSBtYXhfY2FwYWNpdHkudm1fbWF4X2NhcGFjaXRpZXMua2V5cygpCiAgICAgICAgZm9yIGtleSBpbiB2bXNfYW5kX3Jlc291cmNlczoKICAgICAgICAgICAgcGFzcwogICAgICAgIGtleSA9IFtrZXkgZm9yIGtleSBpbiB2bXNfYW5kX3Jlc291cmNlcyBpZiBrZXlbMF0ubmFtZSA9PSAncHBiJyBhbmQga2V5WzFdLm5hbWUgPT0gJ3ZjcHVfdXBfd29ya2VyJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZtc19hbmRfcmVzb3VyY2VzWygnQ1BCJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWaXJ0dWFsTWFjaGluZS5wcGIKICAgICAgICBNYXhDYXBhY2l0eUtwaU5hbWUuZW5kX3VzZXJfa3Bwcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQUEIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdoZW4gY2FsY3VsYXRpbmcgbWF4IGNhcGFjaXR5IHBlciB3b3JrZXIsIGFsd2F5cyBpZ25vcmUgUE0KICAgICAgICBtYXhfY2FwYWNpdHlfZXhjbHVkaW5nX3BtID0gTWF4Q2FwYWNpdHlFeGNlbCgKICAgICAgICAgICAgZGksIGV4Y2VsX2lucHV0Lm1heF9jYXBhY2l0eV9rcGlfdHJhZmZpY190b3RhbF9pbnB1dCwKICAgICAgICAgICAgcG1fYWZmZWN0c19tYXhfY2FwYWNpdHk9RmFsc2UpCiAgICAgICAgY2FwYWNpdHlfa3Bwc19wZXJfcHBiX2lnbm9yaW5nX3BtID0gbWF4X2NhcGFjaXR5X3Blcl92bSgKICAgICAgICAgICAgbWF4X2NhcGFjaXR5X2V4Y2x1ZGluZ19wbSwgZGF0YXR5cGVzLk1heENhcGFjaXR5S3BpTmFtZS5lbmRfdXNlcl9rcHBzLCBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiKQo=</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5FcGdDYW5kaU1vZGVsLmVwZy5kYXRhdHlwZXMgaW1wb3J0IE1heENhcGFjaXR5S3BpTmFtZSwgVmlydHVhbE1hY2hpbmUsIFJlc291cmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ2lucHV0XzgwMjBfc3NjMy5qc29uJykK</text>
+        <text encoding="base64">CiAgICAgICAgdm1zX2FuZF9yZXNvdXJjZXMgPSBtYXhfY2FwYWNpdHkudm1fbWF4X2NhcGFjaXRpZXMua2V5cygpCiAgICAgICAgZm9yIGtleSBpbiB2bXNfYW5kX3Jlc291cmNlczoKICAgICAgICAgICAgcGFzcwogICAgICAgIGtleSA9IFtrZXkgZm9yIGtleSBpbiB2bXNfYW5kX3Jlc291cmNlcyBpZiBrZXlbMF0ubmFtZSA9PSAncHBiJyBhbmQga2V5WzFdLm5hbWUgPT0gJ3ZjcHVfdXBfd29ya2VyJ10K</text>
       </register>
       <register name=":" type="4">
         <text>%:s/r620/r630/g</text>
       </register>
     </registers>
     <search>
-      <last-search>in_capacity_cpu</last-search>
+      <last-search>platform</last-search>
       <last-offset />
-      <last-pattern>in_capacity_cpu</last-pattern>
+      <last-pattern>platform</last-pattern>
       <last-replace>r630</last-replace>
       <last-substitute>r620</last-substitute>
       <last-dir>1</last-dir>
@@ -919,7 +926,6 @@
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>lb</entry>
         <entry>DELL_R620</entry>
@@ -939,6 +945,7 @@
         <entry>max_capacity</entry>
         <entry>sriov</entry>
         <entry>in_capacity_cpu</entry>
+        <entry>platform</entry>
       </history-search>
       <history-cmd>
         <entry>source .ideavimrc</entry>
