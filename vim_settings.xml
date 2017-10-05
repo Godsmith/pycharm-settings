@@ -84,10 +84,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507181660604">
-        <mark key="[" line="578" column="0" />
-        <mark key="]" line="579" column="0" />
-        <mark key="." line="579" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1507183453879">
+        <mark key="'" line="122" column="12" />
+        <mark key="[" line="588" column="138" />
+        <mark key="]" line="588" column="140" />
+        <mark key="." line="588" column="140" />
+        <mark key="^" line="588" column="140" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/display.py" timestamp="1481225437684">
         <mark key="'" line="34" column="31" />
@@ -161,8 +163,8 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" timestamp="1507016916228">
-        <mark key="'" line="48" column="22" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" timestamp="1507183684002">
+        <mark key="'" line="24" column="30" />
         <mark key="[" line="55" column="48" />
         <mark key="]" line="55" column="48" />
         <mark key="." line="55" column="48" />
@@ -242,7 +244,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1507122773916">
+      <file name="/Python Console" timestamp="1507183397007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -251,10 +253,11 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1507122764686">
+      <file name="/fragment.py" timestamp="1507183199482">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
         <mark key="[" line="45" column="18" />
@@ -638,7 +641,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507109269322">
+      <file name="/Dummy.txt" timestamp="1507182295116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -722,14 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="36" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
-      <jump line="38" column="61" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
-      <jump line="39" column="65" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
-      <jump line="40" column="65" filename="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" />
-      <jump line="11" column="80" filename="$USER_HOME$/workspace/adventofcode2016/day07/ipv7_string.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
-      <jump line="49" column="30" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
       <jump line="57" column="60" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode2016/day08/display.py" />
@@ -822,22 +817,30 @@
       <jump line="42" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="108" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="116" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="118" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="119" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="121" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="122" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
+      <jump line="24" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdoZW4gY2FsY3VsYXRpbmcgbWF4IGNhcGFjaXR5IHBlciB3b3JrZXIsIGFsd2F5cyBpZ25vcmUgUE0KICAgICAgICBtYXhfY2FwYWNpdHlfZXhjbHVkaW5nX3BtID0gTWF4Q2FwYWNpdHlFeGNlbCgKICAgICAgICAgICAgZGksIGV4Y2VsX2lucHV0Lm1heF9jYXBhY2l0eV9rcGlfdHJhZmZpY190b3RhbF9pbnB1dCwKICAgICAgICAgICAgcG1fYWZmZWN0c19tYXhfY2FwYWNpdHk9RmFsc2UpCiAgICAgICAgY2FwYWNpdHlfa3Bwc19wZXJfcHBiX2lnbm9yaW5nX3BtID0gbWF4X2NhcGFjaXR5X3Blcl92bSgKICAgICAgICAgICAgbWF4X2NhcGFjaXR5X2V4Y2x1ZGluZ19wbSwgZGF0YXR5cGVzLk1heENhcGFjaXR5S3BpTmFtZS5lbmRfdXNlcl9rcHBzLCBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>restrictions</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>workers_per_vm</text>
+        <text>in_capacity_cpu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfY2FwYWNpdHkgPSBNYXhDYXBhY2l0eUV4Y2VsKAogICAgICAgICAgICBkaSwgZXhjZWxfaW5wdXQubWF4X2NhcGFjaXR5X2twaV90cmFmZmljX3RvdGFsX2lucHV0LAogICAgICAgICAgICBleGNlbF9pbnB1dC5wbV9hZmZlY3RzX21heF9jYXBhY2l0eSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X2NhcGFjaXR5LnZtX21heF9jYXBhY2l0aWVzWyhkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiLCBkYXRhdHlwZXMuUmVzb3VyY2UudmNwdV91cF93b3JrZXIpXS5tYXhfY2FwYWNpdGllc1sKICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5NYXhDYXBhY2l0eUtwaU5hbWUuZW5kX3VzZXJfa3Bwc10ucGVyX3Jlc291cmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdoZW4gY2FsY3VsYXRpbmcgbWF4IGNhcGFjaXR5IHBlciB3b3JrZXIsIGFsd2F5cyBpZ25vcmUgUE0KICAgICAgICBtYXhfY2FwYWNpdHlfZXhjbHVkaW5nX3BtID0gTWF4Q2FwYWNpdHlFeGNlbCgKICAgICAgICAgICAgZGksIGV4Y2VsX2lucHV0Lm1heF9jYXBhY2l0eV9rcGlfdHJhZmZpY190b3RhbF9pbnB1dCwKICAgICAgICAgICAgcG1fYWZmZWN0c19tYXhfY2FwYWNpdHk9RmFsc2UpCiAgICAgICAgY2FwYWNpdHlfa3Bwc19wZXJfcHBiX2lnbm9yaW5nX3BtID0gbWF4X2NhcGFjaXR5X3Blcl92bSgKICAgICAgICAgICAgbWF4X2NhcGFjaXR5X2V4Y2x1ZGluZ19wbSwgZGF0YXR5cGVzLk1heENhcGFjaXR5S3BpTmFtZS5lbmRfdXNlcl9rcHBzLCBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -878,37 +881,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ2lucHV0XzgwMjBfc3NjMy5qc29uJykK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5FcGdDYW5kaU1vZGVsLmVwZy5kYXRhdHlwZXMgaW1wb3J0IE1heENhcGFjaXR5S3BpTmFtZSwgVmlydHVhbE1hY2hpbmUsIFJlc291cmNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykK</text>
+        <text encoding="base64">CiAgICAgICAgdm1zX2FuZF9yZXNvdXJjZXMgPSBtYXhfY2FwYWNpdHkudm1fbWF4X2NhcGFjaXRpZXMua2V5cygpCiAgICAgICAgZm9yIGtleSBpbiB2bXNfYW5kX3Jlc291cmNlczoKICAgICAgICAgICAgcGFzcwogICAgICAgIGtleSA9IFtrZXkgZm9yIGtleSBpbiB2bXNfYW5kX3Jlc291cmNlcyBpZiBrZXlbMF0ubmFtZSA9PSAncHBiJyBhbmQga2V5WzFdLm5hbWUgPT0gJ3ZjcHVfdXBfd29ya2VyJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHZtc19hbmRfcmVzb3VyY2VzWygnQ1BCJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykK</text>
+        <text encoding="base64">ICAgICAgICBWaXJ0dWFsTWFjaGluZS5wcGIKICAgICAgICBNYXhDYXBhY2l0eUtwaU5hbWUuZW5kX3VzZXJfa3Bwcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwpmcm9tIG1vZGVsLkVwZ0NhbmRpTW9kZWwuZXBnLmRhdGF0eXBlcyBpbXBvcnQgVmlydHVhbE1hY2hpbmUKZnJvbSBtb2RlbC5FcGdDYW5kaU1vZGVsLmVwZy5kYXRhdHlwZXMgaW1wb3J0IENvbnN1bWVyCmZyb20gbW9kZWwuRXBnQ2FuZGlNb2RlbC5lcGcuZGF0YXR5cGVzIGltcG9ydCBSZXNvdXJjZQo=</text>
+        <text encoding="base64">ICAgICAgICBQUEIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmxhdHRlbiA9IGl0ZXJ0b29scy5jaGFpbi5mcm9tX2l0ZXJhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFdoZW4gY2FsY3VsYXRpbmcgbWF4IGNhcGFjaXR5IHBlciB3b3JrZXIsIGFsd2F5cyBpZ25vcmUgUE0KICAgICAgICBtYXhfY2FwYWNpdHlfZXhjbHVkaW5nX3BtID0gTWF4Q2FwYWNpdHlFeGNlbCgKICAgICAgICAgICAgZGksIGV4Y2VsX2lucHV0Lm1heF9jYXBhY2l0eV9rcGlfdHJhZmZpY190b3RhbF9pbnB1dCwKICAgICAgICAgICAgcG1fYWZmZWN0c19tYXhfY2FwYWNpdHk9RmFsc2UpCiAgICAgICAgY2FwYWNpdHlfa3Bwc19wZXJfcHBiX2lnbm9yaW5nX3BtID0gbWF4X2NhcGFjaXR5X3Blcl92bSgKICAgICAgICAgICAgbWF4X2NhcGFjaXR5X2V4Y2x1ZGluZ19wbSwgZGF0YXR5cGVzLk1heENhcGFjaXR5S3BpTmFtZS5lbmRfdXNlcl9rcHBzLCBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYiA9IFtwbSBmb3IgcG0gaW4gb3V0X2RldGFpbHMuaXRlcmF0aW9uc1stMV0uY29yZV9vdXRwdXQucGh5c2ljYWxfbWFjaGluZXMgaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbS52aXJ0dWFsX21hY2hpbmVzWy0xXS50eXBlLm5hbWUgPT0gJ3BwYiddCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluXyA9IHNlbGYuaGVscGVyLmdldF9lcGdfbW9kZWxfaW5wdXRfZGF0YSgKICAgICAgICAgICAgJ2lucHV0XzgwMjBfc3NjMy5qc29uJykK</text>
       </register>
       <register name=":" type="4">
         <text>%:s/r620/r630/g</text>
       </register>
     </registers>
     <search>
-      <last-search>workers_per_vm</last-search>
+      <last-search>in_capacity_cpu</last-search>
       <last-offset />
-      <last-pattern>workers_per_vm</last-pattern>
+      <last-pattern>in_capacity_cpu</last-pattern>
       <last-replace>r630</last-replace>
       <last-substitute>r620</last-substitute>
       <last-dir>1</last-dir>
@@ -916,9 +919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tls</entry>
-        <entry>1</entry>
-        <entry>]</entry>
         <entry>}</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>lb</entry>
@@ -936,6 +936,9 @@
         <entry>vswitch</entry>
         <entry>CoreOutputSignalLoad</entry>
         <entry>workers_per_vm</entry>
+        <entry>max_capacity</entry>
+        <entry>sriov</entry>
+        <entry>in_capacity_cpu</entry>
       </history-search>
       <history-cmd>
         <entry>source .ideavimrc</entry>
