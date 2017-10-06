@@ -227,12 +227,12 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1507210252039">
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1507271453861">
         <mark key="'" line="1013" column="48" />
-        <mark key="[" line="1013" column="0" />
-        <mark key="]" line="1013" column="0" />
-        <mark key="." line="1013" column="0" />
-        <mark key="^" line="1013" column="0" />
+        <mark key="[" line="1013" column="205" />
+        <mark key="]" line="1013" column="211" />
+        <mark key="." line="1013" column="211" />
+        <mark key="^" line="1013" column="211" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
         <mark key="[" line="6" column="0" />
@@ -710,10 +710,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>eseblag</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>eseblag</text>
       </register>
       <register name="/" type="4">
         <text>teu</text>
