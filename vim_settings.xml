@@ -439,11 +439,12 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1507186809396">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1507296849291">
         <mark key="'" line="404" column="28" />
-        <mark key="]" line="440" column="23" />
+        <mark key="[" line="451" column="125" />
+        <mark key="]" line="451" column="125" />
         <mark key="^" line="440" column="23" />
-        <mark key="." line="440" column="23" />
+        <mark key="." line="451" column="125" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/web_gui/static/vis.js" timestamp="1507009625579" />
       <file name="$USER_HOME$/workspace/adventofcode2016/day01/day01.py" timestamp="1480702663372">
@@ -710,10 +711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eseblag</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>eseblag</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>teu</text>
