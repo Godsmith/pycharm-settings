@@ -22,8 +22,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1507107083291">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_double_worker_capacity.json" timestamp="1507702308102">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/main.py" timestamp="1480971776397">
         <mark key="[" line="3" column="23" />
@@ -371,6 +374,12 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/double_worker_capacity.py" timestamp="1507702198881">
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="11" column="102" />
+        <mark key="." line="11" column="102" />
+        <mark key="^" line="11" column="102" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/misc.py" timestamp="1506405234801" />
       <file name="$USER_HOME$/workspace/AdventOfCode/day12/main.py" timestamp="1449949245522">
         <mark key="[" line="25" column="0" />
@@ -584,9 +593,6 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="24" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1506953525836">
-        <mark key="[" line="98" column="11" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day21/main.py" timestamp="1450819952401">
         <mark key="[" line="82" column="52" />
         <mark key="]" line="82" column="53" />
@@ -703,11 +709,11 @@
       <jump line="224" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYiA9IFtwbSBmb3IgcG0gaW4gZGltZW5zaW9uaW5nX2l0ZXJhdGlvbi5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcyBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBtLnZpcnR1YWxfbWFjaGluZXNbLTFdLnR5cGUubmFtZSA9PSAncHBiJ10KICAgICAgICBhY3RpdmVfcHBiX3ZtcyA9IFtdCiAgICAgICAgZm9yIHBtIGluIHBoeXNpY2FsX21hY2hpbmVzX3dpdGhfcHBiOgogICAgICAgICAgICBhY3RpdmVfcHBiX3Ztcy5leHRlbmQoCiAgICAgICAgICAgICAgICBbdm0gZm9yIHZtIGluIHBtLnZpcnR1YWxfbWFjaGluZXMgaWYgdm0udHlwZS5uYW1lID09ICdwcGInIGFuZCB2bS5zdGF0ZS5uYW1lID09ICdhY3RpdmUnXSkKCiAgICAgICAgaWYgbm90IGFjdGl2ZV9wcGJfdm1zOgogICAgICAgICAgICByZXR1cm4gJ05vIFBQQiBWTXMnCiAgICAgICAgdm0gPSBhY3RpdmVfcHBiX3Ztc1swXQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.514150420095646</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0.514150420095646</text>
       </register>
       <register name="/" type="4">
         <text>vm</text>
@@ -716,7 +722,7 @@
         <text encoding="base64">ICAgICAgICB2bSA9IGNscy5fZ2V0X2FjdGl2ZV9wcGIoZGltZW5zaW9uaW5nX2l0ZXJhdGlvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYiA9IFtwbSBmb3IgcG0gaW4gZGltZW5zaW9uaW5nX2l0ZXJhdGlvbi5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcyBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBtLnZpcnR1YWxfbWFjaGluZXNbLTFdLnR5cGUubmFtZSA9PSAncHBiJ10KICAgICAgICBhY3RpdmVfcHBiX3ZtcyA9IFtdCiAgICAgICAgZm9yIHBtIGluIHBoeXNpY2FsX21hY2hpbmVzX3dpdGhfcHBiOgogICAgICAgICAgICBhY3RpdmVfcHBiX3Ztcy5leHRlbmQoCiAgICAgICAgICAgICAgICBbdm0gZm9yIHZtIGluIHBtLnZpcnR1YWxfbWFjaGluZXMgaWYgdm0udHlwZS5uYW1lID09ICdwcGInIGFuZCB2bS5zdGF0ZS5uYW1lID09ICdhY3RpdmUnXSkKCiAgICAgICAgaWYgbm90IGFjdGl2ZV9wcGJfdm1zOgogICAgICAgICAgICByZXR1cm4gJ05vIFBQQiBWTXMnCiAgICAgICAgdm0gPSBhY3RpdmVfcHBiX3Ztc1swXQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X29sZF90ZXN0X3RoYXRfZ2F2ZV8xMzYoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykKCiAgICAgICAgc2NhbGVfZmFjdG9yID0gZmxvYXQoc2VsZi5oZWxwZXIuaW5wdXRbJ3B5dGhvbiddWydpbl9jYXBhY2l0eV9jcHUnXSkKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPSBjYXBhY2l0eV9wZXJfd29ya2VyKnNjYWxlX2ZhY3RvcgoKICAgICAgICBhc3NlcnQgMTMwIDwgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDAKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -757,28 +763,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYiA9IFtwbSBmb3IgcG0gaW4gZGltZW5zaW9uaW5nX2l0ZXJhdGlvbi5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcyBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBtLnZpcnR1YWxfbWFjaGluZXNbLTFdLnR5cGUubmFtZSA9PSAncHBiJ10KICAgICAgICBhY3RpdmVfcHBiX3ZtcyA9IFtdCiAgICAgICAgZm9yIHBtIGluIHBoeXNpY2FsX21hY2hpbmVzX3dpdGhfcHBiOgogICAgICAgICAgICBhY3RpdmVfcHBiX3Ztcy5leHRlbmQoCiAgICAgICAgICAgICAgICBbdm0gZm9yIHZtIGluIHBtLnZpcnR1YWxfbWFjaGluZXMgaWYgdm0udHlwZS5uYW1lID09ICdwcGInIGFuZCB2bS5zdGF0ZS5uYW1lID09ICdhY3RpdmUnXSkKCiAgICAgICAgaWYgbm90IGFjdGl2ZV9wcGJfdm1zOgogICAgICAgICAgICByZXR1cm4gJ05vIFBQQiBWTXMnCiAgICAgICAgdm0gPSBhY3RpdmVfcHBiX3Ztc1swXQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYiA9IFtwbSBmb3IgcG0gaW4gZGltZW5zaW9uaW5nX2l0ZXJhdGlvbi5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcyBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBtLnZpcnR1YWxfbWFjaGluZXNbLTFdLnR5cGUubmFtZSA9PSAncHBiJ10KICAgICAgICBhY3RpdmVfcHBiX3ZtcyA9IFtdCiAgICAgICAgZm9yIHBtIGluIHBoeXNpY2FsX21hY2hpbmVzX3dpdGhfcHBiOgogICAgICAgICAgICBhY3RpdmVfcHBiX3Ztcy5leHRlbmQoCiAgICAgICAgICAgICAgICBbdm0gZm9yIHZtIGluIHBtLnZpcnR1YWxfbWFjaGluZXMgaWYgdm0udHlwZS5uYW1lID09ICdwcGInIGFuZCB2bS5zdGF0ZS5uYW1lID09ICdhY3RpdmUnXSkKCiAgICAgICAgaWYgbm90IGFjdGl2ZV9wcGJfdm1zOgogICAgICAgICAgICByZXR1cm4gJ05vIFBQQiBWTXMnCiAgICAgICAgdm0gPSBhY3RpdmVfcHBiX3Ztc1swXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaHlzaWNhbF9tYWNoaW5lc193aXRoX3BwYiA9IFtwbSBmb3IgcG0gaW4gZGltZW5zaW9uaW5nX2l0ZXJhdGlvbi5jb3JlX291dHB1dC5waHlzaWNhbF9tYWNoaW5lcyBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBtLnZpcnR1YWxfbWFjaGluZXNbLTFdLnR5cGUubmFtZSA9PSAncHBiJ10KICAgICAgICBhY3RpdmVfcHBiX3ZtcyA9IFtdCiAgICAgICAgZm9yIHBtIGluIHBoeXNpY2FsX21hY2hpbmVzX3dpdGhfcHBiOgogICAgICAgICAgICBhY3RpdmVfcHBiX3Ztcy5leHRlbmQoCiAgICAgICAgICAgICAgICBbdm0gZm9yIHZtIGluIHBtLnZpcnR1YWxfbWFjaGluZXMgaWYgdm0udHlwZS5uYW1lID09ICdwcGInIGFuZCB2bS5zdGF0ZS5uYW1lID09ICdhY3RpdmUnXSkKCiAgICAgICAgaWYgbm90IGFjdGl2ZV9wcGJfdm1zOgogICAgICAgICAgICByZXR1cm4gJ05vIFBQQiBWTXMnCiAgICAgICAgdm0gPSBhY3RpdmVfcHBiX3Ztc1swXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jX3VwX3dvcmtlcl9jb25zdW1lciA9IFtjIGZvciBjIGluIHZtLmNvbnN1bWVycyBpZiBjLnR5cGUubmFtZSA9PSAncHJvY191cF93b3JrZXInXVswXQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jX3VwX3dvcmtlcl9jb25zdW1lciA9IFtjIGZvciBjIGluIHZtLmNvbnN1bWVycyBpZiBjLnR5cGUubmFtZSA9PSAncHJvY191cF93b3JrZXInXVswXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY19sYl9jb25zdW1lcl9pbnN0YW5jZXMgPSAnTm90IHN1cHBvcnRlZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jX2xiX3RldV9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGJfdGV1J10KICAgICAgICBwcm9jX2xiX3dvcmtlcl9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGJfd29ya2VyJ10KICAgICAgICBwcm9jX2xjX3dvcmtlcl9jb25zdW1lcnMgPSBbYyBmb3IgYyBpbiB2bS5jb25zdW1lcnMgaWYgYy50eXBlLm5hbWUgPT0gJ3Byb2NfbGNfd29ya2VyJ10KICAgICAgICBpZiBwcm9jX2xiX3RldV9jb25zdW1lcnM6CiAgICAgICAgICAgIHByb2NfbGJfY29uc3VtZXJfaW5zdGFuY2VzID0gcHJvY19sYl90ZXVfY29uc3VtZXJzWzBdLmluc3RhbmNlcwogICAgICAgIGVsaWYgcHJvY19sYl93b3JrZXJfY29uc3VtZXJzOgogICAgICAgICAgICBwcm9jX2xiX2NvbnN1bWVyX2luc3RhbmNlcyA9IHByb2NfbGJfd29ya2VyX2NvbnN1bWVyc1swXS5pbnN0YW5jZXMKICAgICAgICBlbGlmIHByb2NfbGNfd29ya2VyX2NvbnN1bWVyczoKICAgICAgICAgICAgcHJvY19sYl9jb25zdW1lcl9pbnN0YW5jZXMgPSBwcm9jX2xjX3dvcmtlcl9jb25zdW1lcnNbMF0uaW5zdGFuY2VzCiAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY19sYl9jb25zdW1lcl9pbnN0YW5jZXMgPSAnTm90IHN1cHBvcnRlZCcK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
