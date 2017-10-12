@@ -135,6 +135,12 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507807145976">
+        <mark key="[" line="136" column="40" />
+        <mark key="]" line="136" column="40" />
+        <mark key="." line="136" column="40" />
+        <mark key="^" line="136" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/static/style.css" timestamp="1424209496622">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="30" />
@@ -199,6 +205,12 @@
         <mark key="]" line="46" column="20" />
         <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_sessions_zero.json" timestamp="1507807641669">
+        <mark key="[" line="129" column="41" />
+        <mark key="]" line="129" column="41" />
+        <mark key="." line="129" column="41" />
+        <mark key="^" line="129" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/testclass.py" timestamp="1424557038866">
         <mark key="[" line="5" column="63" />
@@ -276,6 +288,11 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_calibration_zero.json" timestamp="1507807451456">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main.py" timestamp="1449523946017">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -299,6 +316,11 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_strange_scale_factor_worker_capacity.json" timestamp="1507807356635">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/load.py" timestamp="1507015972510">
         <mark key="[" line="47" column="42" />
@@ -463,6 +485,12 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507807786967">
+        <mark key="[" line="25" column="107" />
+        <mark key="]" line="25" column="108" />
+        <mark key="." line="25" column="108" />
+        <mark key="^" line="25" column="109" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day24/main.py" timestamp="1451004831296">
         <mark key="[" line="53" column="34" />
         <mark key="]" line="53" column="35" />
@@ -510,6 +538,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_signaling_zero.json" timestamp="1507807712555">
+        <mark key="[" line="166" column="29" />
+        <mark key="]" line="166" column="29" />
+        <mark key="." line="166" column="29" />
+        <mark key="^" line="56" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/misc.py" timestamp="1420663505533">
         <mark key="[" line="0" column="20" />
@@ -706,19 +740,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>This</text>
+        <text>input_calibration_zero</text>
       </register>
       <register name="-" type="4">
-        <text>This</text>
+        <text>input_calibration_zero</text>
       </register>
       <register name="/" type="4">
         <text>NoPp</text>
       </register>
-      <register name="0" type="4">
-        <text>out_capacity_kpps_per_worker_lb</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NhbGlicmF0aW9uX3plcm8oc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ2J1Z3NcXFBDRVBHQ0FOREktNDMzXFxpbnB1dF9jYWxpYnJhdGlvbl96ZXJvLmpzb24nKQoKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgcHJpbnQoY2FwYWNpdHlfcGVyX3dvcmtlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -759,28 +793,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyLCBmbG9hdCkgYW5kIGlzaW5zdGFuY2Uob3V0X2xiX3Byb2Nlc3Nlc19wZXJfdm1fcHBiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQpIGVsc2UgJ05vdCBpbXBsZW1lbnRlZCBmb3IgdGhpcyByZWxlYXNlJwo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X29sZF90ZXN0X3RoYXRfZ2F2ZV8xMzYoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykKCiAgICAgICAgc2NhbGVfZmFjdG9yID0gZmxvYXQoc2VsZi5oZWxwZXIuaW5wdXRbJ3B5dGhvbiddWydpbl9jYXBhY2l0eV9jcHUnXSkKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPSBjYXBhY2l0eV9wZXJfd29ya2VyKnNjYWxlX2ZhY3RvcgoKICAgICAgICBhc3NlcnQgMTMwIDwgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDAKCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyID0gJ05vdCBzdXBwb3J0ZWQnCg==</text>
+      <register name="3" type="4">
+        <text>from framework.test_case import TestCase
+from tests.util.test_helper import TestHelper
+
+
+class Tes</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYiwgZGF0YXR5cGVzLlJlc291cmNlLnZjcHVfbGJfdGV1KSBpbiBtYXhfY2FwYWNpdHkudm1fbWF4X2NhcGFjaXRpZXM6Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyLCBmbG9hdCkgYW5kIGlzaW5zdGFuY2Uob3V0X2xiX3Byb2Nlc3Nlc19wZXJfdm1fcHBiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQpIGVsc2UgJ05vdCBpbXBsZW1lbnRlZCBmb3IgdGhpcyByZWxlYXNlJwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfcHBicyA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyID0gJ05vdCBzdXBwb3J0ZWQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzX3BwYnMgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYiwgZGF0YXR5cGVzLlJlc291cmNlLnZjcHVfbGJfdGV1KSBpbiBtYXhfY2FwYWNpdHkudm1fbWF4X2NhcGFjaXRpZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0X3dvcmtlcnNfcGVyX3ZtX3BwYiwgaW50KSBlbHNlICdOb3QgYXBwbGljYWJsZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfd29ya2VyLCBmbG9hdCkgYW5kIGlzaW5zdGFuY2UoCg==</text>
+        <text encoding="base64">ICAgICAgICBoYXNfcHBicyA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
