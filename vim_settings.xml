@@ -45,7 +45,7 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_calibration_and_signaling_zero.json" timestamp="1507810256543">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_calibration_and_signaling_zero.json" timestamp="1507812837045">
         <mark key="[" line="54" column="31" />
         <mark key="]" line="54" column="31" />
         <mark key="." line="54" column="31" />
@@ -116,6 +116,11 @@
         <mark key="^" line="43" column="69" />
         <mark key="." line="290" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507813275980">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="16" />
@@ -141,11 +146,11 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507807145976">
-        <mark key="[" line="136" column="40" />
-        <mark key="]" line="136" column="40" />
-        <mark key="." line="136" column="40" />
-        <mark key="^" line="136" column="40" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507813241703">
+        <mark key="[" line="166" column="29" />
+        <mark key="]" line="166" column="29" />
+        <mark key="." line="166" column="30" />
+        <mark key="^" line="165" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/static/style.css" timestamp="1424209496622">
         <mark key="[" line="1" column="30" />
@@ -190,9 +195,6 @@
         <mark key="]" line="8" column="62" />
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
-      </file>
-      <file name="/Python Console" timestamp="1507207157204">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
         <mark key="[" line="48" column="55" />
@@ -491,11 +493,11 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507807786967">
-        <mark key="[" line="25" column="107" />
-        <mark key="]" line="25" column="108" />
-        <mark key="." line="25" column="108" />
-        <mark key="^" line="25" column="109" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507813297722">
+        <mark key="[" line="39" column="75" />
+        <mark key="]" line="39" column="90" />
+        <mark key="." line="39" column="90" />
+        <mark key="^" line="39" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day24/main.py" timestamp="1451004831296">
         <mark key="[" line="53" column="34" />
@@ -746,16 +748,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>184946599525</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>184946599525</text>
       </register>
       <register name="/" type="4">
         <text>NoPp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NhbGlicmF0aW9uX3plcm8oc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ2J1Z3NcXFBDRVBHQ0FOREktNDMzXFxpbnB1dF9jYWxpYnJhdGlvbl96ZXJvLmpzb24nKQoKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgcHJpbnQoY2FwYWNpdHlfcGVyX3dvcmtlcikK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NhbGlicmF0aW9uX2FuZF9zaWduYWxpbmdfemVybyhzZWxmKToKICAgICAgICBvdXRfYXBpLCBvdXRfZGV0YWlscyA9IHNlbGYuaGVscGVyLnJ1bl9lcGdfbW9kZWxfd2l0aF9pbnB1dCgnYnVnc1xcUENFUEdDQU5ESS00MzNcXGlucHV0X2NhbGlicmF0aW9uX2FuZF9zaWduYWxpbmdfemVyby5qc29uJykKCiAgICAgICAgY2FwYWNpdHlfcGVyX3dvcmtlciA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX3BwYiddCgogICAgICAgIHByaW50KGNhcGFjaXR5X3Blcl93b3JrZXIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
