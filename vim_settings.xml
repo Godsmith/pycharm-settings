@@ -482,12 +482,12 @@
         <mark key="^" line="440" column="23" />
         <mark key="." line="451" column="125" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1508139028438">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1508142186146">
         <mark key="'" line="69" column="28" />
-        <mark key="[" line="74" column="74" />
-        <mark key="]" line="74" column="74" />
-        <mark key="^" line="74" column="77" />
-        <mark key="." line="74" column="74" />
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="43" />
+        <mark key="^" line="74" column="96" />
+        <mark key="." line="74" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day01/day01.py" timestamp="1480702663372">
         <mark key="'" line="0" column="0" />
@@ -764,10 +764,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>NoPp</text>
@@ -845,7 +845,7 @@ class Tes</text>
         <text encoding="base64">ICAgICAgICBoYXNfcHBicyA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -895,12 +895,12 @@ class Tes</text>
         <entry>%s/: /': /g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>s/1/2/g</entry>
-        <entry>w</entry>
         <entry>%s/DELL_R620/DELL_R630/g</entry>
         <entry>:</entry>
         <entry>%:s/R620/R630/g</entry>
         <entry>%:s/r620/r630/g</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
