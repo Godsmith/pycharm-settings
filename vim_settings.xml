@@ -9,6 +9,12 @@
         <mark key="^" line="199" column="65" />
         <mark key="." line="199" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_PCEPGCANDI-265_divide_by_zero.py" timestamp="1508225331328">
+        <mark key="[" line="12" column="110" />
+        <mark key="]" line="12" column="114" />
+        <mark key="^" line="12" column="114" />
+        <mark key="." line="12" column="114" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day10/main.py" timestamp="1449779350816">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="16" />
@@ -20,6 +26,9 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="/a.dummy" timestamp="1508225157289">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_double_worker_capacity.json" timestamp="1507702308102">
         <mark key="[" line="51" column="31" />
@@ -763,11 +772,11 @@
       <jump line="69" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">MTMwIDwgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDA=</text>
       </register>
       <register name="/" type="4">
         <text>NoPp</text>
@@ -776,7 +785,7 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2NhbGlicmF0aW9uX2FuZF9zaWduYWxpbmdfemVybyhzZWxmKToKICAgICAgICBvdXRfYXBpLCBvdXRfZGV0YWlscyA9IHNlbGYuaGVscGVyLnJ1bl9lcGdfbW9kZWxfd2l0aF9pbnB1dCgnYnVnc1xcUENFUEdDQU5ESS00MzNcXGlucHV0X2NhbGlicmF0aW9uX2FuZF9zaWduYWxpbmdfemVyby5qc29uJykKCiAgICAgICAgY2FwYWNpdHlfcGVyX3dvcmtlciA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX3BwYiddCgogICAgICAgIHByaW50KGNhcGFjaXR5X3Blcl93b3JrZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -817,32 +826,32 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzY2FsZV9mYWN0b3IgPSBmbG9hdChzZWxmLmhlbHBlci5pbnB1dFsncHl0aG9uJ11bJ2luX2NhcGFjaXR5X2NwdSddKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzY2FsZWRfY2FwYWNpdHlfcGVyX3dvcmtlciA9IGNhcGFjaXR5X3Blcl93b3JrZXIqc2NhbGVfZmFjdG9yCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X25ld190ZXN0X3RoYXRfZ2l2ZXNfMTIwKHNlbGYpOgogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gc2VsZi5oZWxwZXIucnVuX2VwZ19tb2RlbF93aXRoX2lucHV0KCdidWdzXFxpbnB1dF9zdHJhbmdlX3NjYWxlX2ZhY3Rvcl93b3JrZXJfY2FwYWNpdHkuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl93b3JrZXIgPSBvdXRfYXBpWydweXRob24nXVsnb3V0X2NhcGFjaXR5X2twcHNfcGVyX3dvcmtlcl9wcGInXQoKICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X29sZF90ZXN0X3RoYXRfZ2F2ZV8xMzYoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykKCiAgICAgICAgc2NhbGVfZmFjdG9yID0gZmxvYXQoc2VsZi5oZWxwZXIuaW5wdXRbJ3B5dGhvbiddWydpbl9jYXBhY2l0eV9jcHUnXSkKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPSBjYXBhY2l0eV9wZXJfd29ya2VyKnNjYWxlX2ZhY3RvcgoKICAgICAgICBhc3NlcnQgMTMwIDwgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDAKCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>from framework.test_case import TestCase
 from tests.util.test_helper import TestHelper
 
 
 class Tes</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyLCBmbG9hdCkgYW5kIGlzaW5zdGFuY2Uob3V0X2xiX3Byb2Nlc3Nlc19wZXJfdm1fcHBiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQpIGVsc2UgJ05vdCBpbXBsZW1lbnRlZCBmb3IgdGhpcyByZWxlYXNlJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyID0gJ05vdCBzdXBwb3J0ZWQnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYiwgZGF0YXR5cGVzLlJlc291cmNlLnZjcHVfbGJfdGV1KSBpbiBtYXhfY2FwYWNpdHkudm1fbWF4X2NhcGFjaXRpZXM6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfcHBicyA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
