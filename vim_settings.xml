@@ -99,11 +99,11 @@
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1506953680586">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="117" column="35" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1508324267000">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="48" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day06/test_day06.py" timestamp="1481017323689">
         <mark key="'" line="27" column="60" />
@@ -173,7 +173,7 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1507207304615">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1508324364139">
         <mark key="'" line="611" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_applier.py" timestamp="1507020425959">
@@ -307,6 +307,12 @@
         <mark key="]" line="23" column="16" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_epg_releases.py" timestamp="1508324103477">
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="80" />
+        <mark key="." line="9" column="80" />
+        <mark key="^" line="9" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day02/main.py" timestamp="1449521194792">
         <mark key="[" line="2" column="0" />
@@ -475,9 +481,6 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1507707195595">
-        <mark key="'" line="0" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/__init__.py" timestamp="1424556950287">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="12" />
@@ -511,12 +514,16 @@
         <mark key="^" line="74" column="8" />
         <mark key="." line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" timestamp="1506929532611">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" timestamp="1508323617415">
         <mark key="'" line="18" column="29" />
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="21" column="47" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="33" />
         <mark key="^" line="21" column="47" />
         <mark key="." line="21" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_physical_epg_traffic_paths.py" timestamp="1508323575073">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507813297722">
         <mark key="[" line="39" column="75" />
@@ -596,7 +603,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507814196528">
+      <file name="/Dummy.txt" timestamp="1508324137072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -774,19 +781,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVwZ18xXzEgPSAnRVBHIDEuMScK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTMwIDwgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDA=</text>
+        <text>low_traffic_vepg</text>
       </register>
       <register name="/" type="4">
         <text>NoPp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NhbGlicmF0aW9uX2FuZF9zaWduYWxpbmdfemVybyhzZWxmKToKICAgICAgICBvdXRfYXBpLCBvdXRfZGV0YWlscyA9IHNlbGYuaGVscGVyLnJ1bl9lcGdfbW9kZWxfd2l0aF9pbnB1dCgnYnVnc1xcUENFUEdDQU5ESS00MzNcXGlucHV0X2NhbGlicmF0aW9uX2FuZF9zaWduYWxpbmdfemVyby5qc29uJykKCiAgICAgICAgY2FwYWNpdHlfcGVyX3dvcmtlciA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX3BwYiddCgogICAgICAgIHByaW50KGNhcGFjaXR5X3Blcl93b3JrZXIpCg==</text>
+        <text encoding="base64">ICAgIGVwZ18xXzAgPSAnRVBHIDEuMCcKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzIgPSAnRVBHIDEuMicKICAgIGVwZ18xXzMgPSAnRVBHIDEuMycKICAgIGVwZ18xXzQgPSAnRVBHIDEuNCcKICAgIGVwZ18xXzUgPSAnRVBHIDEuNScKICAgIGVwZ18xXzYgPSAnRVBHIDEuNicKICAgIGVwZ18xXzcgPSAnRVBHIDEuNycKICAgIGVwZ18xXzggPSAnRVBHIDEuOCcKICAgIGVwZ18xXzkgPSAnRVBHIDEuOScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVwZ18xXzEgPSAnRVBHIDEuMScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -827,35 +834,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FsZV9mYWN0b3IgPSBmbG9hdChzZWxmLmhlbHBlci5pbnB1dFsncHl0aG9uJ11bJ2luX2NhcGFjaXR5X2NwdSddKQo=</text>
+        <text encoding="base64">ICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScKICAgIGVwZ18xXzEgPSAnRVBHIDEuMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10K</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF93b3JrZXJfY2FwYWNpdHlfbGIoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsKHNlbGYuaW5fKQoKICAgICAgICBjYXBhY2l0eV9wZXJfbGIgPSBvdXRfYXBpWydweXRob24nXVsnb3V0X2NhcGFjaXR5X2twcHNfcGVyX3dvcmtlcl9sYiddCgogICAgICAgIGFzc2VydCAwIDwgY2FwYWNpdHlfcGVyX2xiIDwgMTAwMDAwICAjIGp1c3QgdG8gdmVyaWZ5IHRoYXQgaXQncyBhIG5vbi16ZXJvIGludAoKICAgIGRlZiB0ZXN0X3dvcmtlcl9jYXBhY2l0eV9sYl9zcmlvdl9iaWdfY2FuZGkoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ2lucHV0X2NhcGFjaXR5X3Blcl93b3JrZXJfU1JJT1YuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl9sYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX2xiJ10KCiAgICAgICAgYXNzZXJ0IDAgPCBjYXBhY2l0eV9wZXJfbGIgPCAxMDAwMDAgICMganVzdCB0byB2ZXJpZnkgdGhhdCBpdCdzIGEgbm9uLXplcm8gaW50CgogICAgZGVmIHRlc3RfbGVnYWN5X3BhdGhzX25vX3RyYWZmaWMoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ2xlZ2FjeV9wYXRoc19ub190cmFmZmljLmpzb24nKQoKICAgICAgICB3b3JrZXJzID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF93b3JrZXJzX3Blcl92bV9sYiddCgogICAgICAgIGFzc2VydCB3b3JrZXJzID09ICdOb3Qgc3VwcG9ydGVkJwoKICAgIGRlZiB0ZXN0X3dvcmtlcl9jYXBhY2l0eV9ub3NhY2Moc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ2ZlYXR1cmVzXFxpbnB1dF92ZXBnX25vX3NhY2MuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl9sYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX3BwYiddCgogICAgICAgIGFzc2VydCA2OTAgPCBjYXBhY2l0eV9wZXJfbGIgPCA3MTAKCiAgICBkZWYgdGVzdF93b3JrZXJfY2FwYWNpdHlfc2FjY19ub19waXNjKHNlbGYpOgogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gc2VsZi5oZWxwZXIucnVuX2VwZ19tb2RlbF93aXRoX2lucHV0KCdmZWF0dXJlc1xcaW5wdXRfdmVwZ19zYWNjX25vX3Bpc2MuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl9sYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX3BwYiddCgogICAgICAgIGFzc2VydCA1NTAgPCBjYXBhY2l0eV9wZXJfbGIgPCA1NzAKCiAgICBkZWYgdGVzdF9sYl93b3JrZXJfY2FwYWNpdHlfc2FjY19ub19waXNjKHNlbGYpOgogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gc2VsZi5oZWxwZXIucnVuX2VwZ19tb2RlbF93aXRoX2lucHV0KCdmZWF0dXJlc1xcaW5wdXRfdmVwZ19zYWNjX25vX3Bpc2MuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl9sYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX2xiJ10KCiAgICAgICAgYXNzZXJ0IDUxMCA8IGNhcGFjaXR5X3Blcl9sYiA8IDUyMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FsZWRfY2FwYWNpdHlfcGVyX3dvcmtlciA9IGNhcGFjaXR5X3Blcl93b3JrZXIqc2NhbGVfZmFjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X25ld190ZXN0X3RoYXRfZ2l2ZXNfMTIwKHNlbGYpOgogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gc2VsZi5oZWxwZXIucnVuX2VwZ19tb2RlbF93aXRoX2lucHV0KCdidWdzXFxpbnB1dF9zdHJhbmdlX3NjYWxlX2ZhY3Rvcl93b3JrZXJfY2FwYWNpdHkuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl93b3JrZXIgPSBvdXRfYXBpWydweXRob24nXVsnb3V0X2NhcGFjaXR5X2twcHNfcGVyX3dvcmtlcl9wcGInXQoKICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgYXNzZXJ0IDAgPCBjYXBhY2l0eV9wZXJfd29ya2VyIDwgMTAwMDAwICAjIGp1c3QgdG8gdmVyaWZ5IHRoYXQgaXQncyBhIG5vbi16ZXJvIGludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMTMwIDwgY2FwYWNpdHlfcGVyX3dvcmtlciA8IDE0MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X29sZF90ZXN0X3RoYXRfZ2F2ZV8xMzYoc2VsZik6CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBzZWxmLmhlbHBlci5ydW5fZXBnX21vZGVsX3dpdGhfaW5wdXQoJ3dvcmtlcl9jYXBhY2l0eV92ZXBnX0RQSS5qc29uJykKCiAgICAgICAgc2NhbGVfZmFjdG9yID0gZmxvYXQoc2VsZi5oZWxwZXIuaW5wdXRbJ3B5dGhvbiddWydpbl9jYXBhY2l0eV9jcHUnXSkKICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfcHBiJ10KCiAgICAgICAgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPSBjYXBhY2l0eV9wZXJfd29ya2VyKnNjYWxlX2ZhY3RvcgoKICAgICAgICBhc3NlcnQgMTMwIDwgc2NhbGVkX2NhcGFjaXR5X3Blcl93b3JrZXIgPCAxNDAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>from framework.test_case import TestCase
-from tests.util.test_helper import TestHelper
-
-
-class Tes</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzY2FsZV9mYWN0b3IgPSBmbG9hdChzZWxmLmhlbHBlci5pbnB1dFsncHl0aG9uJ11bJ2luX2NhcGFjaXR5X2NwdSddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -898,7 +901,6 @@ class Tes</text>
         <entry>s/Pyprika/pyprika</entry>
         <entry>s/Pyprika/pyprika/g</entry>
         <entry>%s/Pyprika/pyprika</entry>
-        <entry>reg</entry>
         <entry>%s/ExerciseOccasion/Exercise/g</entry>
         <entry>s/:/:'</entry>
         <entry>s/:/':/g</entry>
@@ -911,6 +913,7 @@ class Tes</text>
         <entry>%:s/r620/r630/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
