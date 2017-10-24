@@ -344,10 +344,11 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" timestamp="1508837089799">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" timestamp="1508847620471">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_strange_scale_factor_worker_capacity.json" timestamp="1507807356635">
         <mark key="[" line="16" column="29" />
