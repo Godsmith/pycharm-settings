@@ -211,7 +211,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1508769503682">
+      <file name="/Python Console" timestamp="1508827740713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -348,6 +348,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" timestamp="1508829574095">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_strange_scale_factor_worker_capacity.json" timestamp="1507807356635">
         <mark key="[" line="16" column="29" />
@@ -496,6 +502,12 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1508423472592">
         <mark key="'" line="269" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" timestamp="1508829989882">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1508142186146">
         <mark key="'" line="69" column="28" />
@@ -666,6 +678,12 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="24" column="90" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/fixtures/updates.csv" timestamp="1508828562596">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day21/main.py" timestamp="1450819952401">
         <mark key="[" line="82" column="52" />
         <mark key="]" line="82" column="53" />
@@ -782,20 +800,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/lazy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWdpdCBwdXNoIG9yaWdpbiBIRUFEOnJlZnMvZm9yL21hc3Rlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>refs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWdpdCBwdXNoIG9yaWdpbiBIRUFEOnJlZnMvZm9yL21hc3Rlcgo=</text>
+        <text encoding="base64">Y29weWZpbGUoRklYVFVSRV9YTFNNX1BBVEgsIFRFTVBfWExTTV9QQVRIKQoKd29ya2Jvb2sgPSBOb25lCnRyeToKICAgIHdvcmtib29rID0gbG9hZF93b3JrYm9vayhURU1QX1hMU01fUEFUSCwga2VlcF92YmE9VHJ1ZSkKICAgIHNoZWV0ID0gd29ya2Jvb2suZ2V0X3NoZWV0X2J5X25hbWUoJ1VwZGF0ZXMnKQogICAgd2l0aCBvcGVuKENTVl9QQVRILCAncnQnKSBhcyBmOgogICAgICAgIHJlYWRlciA9IGNzdi5yZWFkZXIoZiwgZGVsaW1pdGVyPSd8JykKICAgICAgICBmb3Igciwgcm93IGluIGVudW1lcmF0ZShyZWFkZXIpOgogICAgICAgICAgICBmb3IgYywgdmFsdWUgaW4gZW51bWVyYXRlKHJvdyk6CiAgICAgICAgICAgICAgICBzaGVldC5jZWxsKHJvdz1yICsgUk9XX09GRlNFVCwgY29sdW1uPWMgK0NPTFVNTl9PRkZTRVQpLnZhbHVlID0gdmFsdWUKICAgIHdvcmtib29rLnNhdmUoVEVNUF9YTFNNX1BBVEgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVBHIDIuMwpFUEcgMi40CkVQRyAyLjUKRVBHIDIuNgpFUEcgMi43CkVQRyAyLjgKRVBHIDIuOQo=</text>
+        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -836,28 +854,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVwZ18yXzIgPSAnRVBHIDIuMicKICAgIGVwZ18yXzMgPSAnRVBHIDIuMycKICAgIGVwZ18yXzQgPSAnRVBHIDIuNCcKICAgIGVwZ18yXzUgPSAnRVBHIDIuNScKICAgIGVwZ18yXzYgPSAnRVBHIDIuNicKICAgIGVwZ18yXzcgPSAnRVBHIDIuNycKICAgIGVwZ18yXzggPSAnRVBHIDIuOCcKICAgIGVwZ18yXzkgPSAnRVBHIDIuOScK</text>
+        <text encoding="base64">Uk9XX09GRlNFVCA9IDUKQ09MVU1OX09GRlNFVCA9IDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU3RhdGUoRGF0YXR5cGUpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFueSA9ICcqJyAgIyBhbnkgb2YgdGhlIGJlbG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcmVzb3VyY2Uoc2VsZiwgZGltZW5zaW9uaW5nX3Jlc3VsdHMsIHZtX3R5cGUsIHJlc291cmNlX3R5cGUsIGl0ZXJhdGlvbj0wKToKICAgICAgICBwbSA9IFtwbSBmb3IgcG0gaW4gZGltZW5zaW9uaW5nX3Jlc3VsdHMuaXRlcmF0aW9uc1tpdGVyYXRpb25dLmNvcmVfb3V0cHV0LnBoeXNpY2FsX21hY2hpbmVzIGlmIHBtLnR5cGUgPT0gdm1fdHlwZQogICAgICAgIHJldHVybiByZXNvdXJjZV9saXN0Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHZtIGluIHBtLnZpcnR1YWxfbWFjaGluZXMKICAgICAgICAgICAgaWYgdm0udHlwZSBpcyB2bV90eXBlCiAgICAgICAgICAgIGZvciByZXNvdXJjZSBpbiBwbS5yZXNvdXJjZXMKICAgICAgICAgICAgaWYgcmVzb3VyY2UudHlwZSBpcyByZXNvdXJjZV90eXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZV9saXN0ID0gWwo=</text>
+        <text encoding="base64">I3VwZGF0ZV91cGRhdGVzX3NoZWV0Lm1haW4obmV3IHRlbXBvcmFyeSBleGNlbCBmaWxlLCApCiMgYXNzZXJ0IGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
