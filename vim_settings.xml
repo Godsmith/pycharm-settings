@@ -67,11 +67,6 @@
         <mark key="." line="54" column="31" />
         <mark key="^" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateCandiCosts/test_cost_collection.py" timestamp="1508850853921">
-        <mark key="[" line="223" column="61" />
-        <mark key="]" line="223" column="61" />
-        <mark key="." line="223" column="61" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day14/main.py" timestamp="1450202658959">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="31" column="15" />
@@ -620,11 +615,6 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateCandiCosts/cost_collection.py" timestamp="1508850840569">
-        <mark key="[" line="254" column="63" />
-        <mark key="]" line="254" column="63" />
-        <mark key="." line="254" column="63" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507813297722">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="39" column="90" />
@@ -739,10 +729,13 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509441795777">
+      <file name="/Dummy.txt" timestamp="1509444294303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" timestamp="1509444291849">
+        <mark key="'" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day07/test_ipv7_string.py" timestamp="1481137892425">
         <mark key="'" line="42" column="65" />
@@ -787,11 +780,6 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateCandiCosts/test_create_candi_costs.py" timestamp="1508851254608">
-        <mark key="[" line="180" column="43" />
-        <mark key="]" line="180" column="43" />
-        <mark key="." line="180" column="43" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main2.py" timestamp="1449524083617">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="24" />
@@ -830,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="23" filename="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" />
       <jump line="112" column="25" filename="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" />
       <jump line="114" column="9" filename="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" />
       <jump line="467" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
@@ -930,6 +917,7 @@
       <jump line="33" column="46" filename="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" />
       <jump line="31" column="62" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" />
+      <jump line="29" column="27" filename="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -939,7 +927,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>EPG 1.0</text>
+        <text>valid_vm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3b3JrYm9vayA9IHh3LkJvb2soeGxzbV9wYXRoKQo=</text>
@@ -1014,9 +1002,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EPG 1.0</last-search>
+      <last-search>valid_vm</last-search>
       <last-offset />
-      <last-pattern>EPG 1.0</last-pattern>
+      <last-pattern>valid_vm</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,7 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXhfY2FwYWNpdHlfcGVyX3ZtXD4=</entry>
         <entry>vswitch</entry>
         <entry>CoreOutputSignalLoad</entry>
         <entry>workers_per_vm</entry>
@@ -1044,6 +1031,7 @@
         <entry>Signal</entry>
         <entry>refs</entry>
         <entry>EPG 1.0</entry>
+        <entry>valid_vm</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.vimrc</entry>
