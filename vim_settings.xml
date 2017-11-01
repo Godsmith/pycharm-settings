@@ -89,11 +89,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1509542410668">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1509543213354">
+        <mark key="'" line="608" column="52" />
         <mark key="[" line="191" column="42" />
-        <mark key="]" line="191" column="42" />
-        <mark key="^" line="608" column="48" />
-        <mark key="." line="191" column="42" />
+        <mark key="]" line="191" column="84" />
+        <mark key="^" line="191" column="84" />
+        <mark key="." line="191" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8010_ssc3.json" timestamp="1508851238792">
         <mark key="[" line="2" column="25" />
@@ -324,12 +325,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1507209740188">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1509543253315">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="59" column="17" />
-        <mark key="." line="59" column="17" />
-        <mark key="^" line="59" column="41" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="69" />
+        <mark key="." line="38" column="69" />
+        <mark key="^" line="38" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/CandiFileFixer/test/test_candi_file_fixer.py" timestamp="1505485280525">
         <mark key="'" line="31" column="20" />
@@ -566,11 +567,11 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1508851215584">
-        <mark key="[" line="41" column="90" />
-        <mark key="]" line="41" column="90" />
-        <mark key="." line="41" column="90" />
-        <mark key="^" line="55" column="91" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1509543424915">
+        <mark key="[" line="52" column="70" />
+        <mark key="]" line="52" column="70" />
+        <mark key="." line="52" column="70" />
+        <mark key="^" line="52" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day22/main.py" timestamp="1450994574493">
         <mark key="[" line="167" column="21" />
@@ -914,7 +915,6 @@
       <jump line="595" column="67" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="599" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="605" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="608" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="611" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="810" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="653" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
@@ -957,16 +957,17 @@
       <jump line="69" column="22" filename="$USER_HOME$/workspace/candi_epg-main/documents/How to debug.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
       <jump line="38" column="36" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
+      <jump line="608" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Not supported</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Not supported</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>dist</text>
+        <text>''</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKHNlbGYuaW5fLCAnaW5fdmVyc2lvbl9zdycsICdFUEcxLjAnKQo=</text>
@@ -1041,9 +1042,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dist</last-search>
+      <last-search>''</last-search>
       <last-offset />
-      <last-pattern>dist</last-pattern>
+      <last-pattern>''</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1051,7 +1052,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_capacity</entry>
         <entry>sriov</entry>
         <entry>in_capacity_cpu</entry>
         <entry>platform</entry>
@@ -1071,6 +1071,7 @@
         <entry>supported_</entry>
         <entry>pres</entry>
         <entry>dist</entry>
+        <entry>''</entry>
       </history-search>
       <history-cmd>
         <entry>/Pyprika/pyprika/g</entry>
