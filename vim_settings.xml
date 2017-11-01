@@ -89,11 +89,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1509541061640">
-        <mark key="[" line="613" column="113" />
-        <mark key="]" line="613" column="30" />
-        <mark key="^" line="613" column="30" />
-        <mark key="." line="613" column="30" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1509542410668">
+        <mark key="[" line="191" column="42" />
+        <mark key="]" line="191" column="42" />
+        <mark key="^" line="608" column="48" />
+        <mark key="." line="191" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8010_ssc3.json" timestamp="1508851238792">
         <mark key="[" line="2" column="25" />
@@ -762,7 +762,7 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509541042127">
+      <file name="/Dummy.txt" timestamp="1509542101875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -960,10 +960,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in_</text>
+        <text>Not supported</text>
       </register>
       <register name="-" type="4">
-        <text>in_</text>
+        <text>Not supported</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
