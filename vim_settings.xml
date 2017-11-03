@@ -492,6 +492,10 @@
         <mark key="." line="14" column="82" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/insert_build_number.py" timestamp="1509702167093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1508850845699">
         <mark key="[" line="93" column="32" />
         <mark key="]" line="93" column="32" />
@@ -606,12 +610,12 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1508423472592">
         <mark key="'" line="269" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" timestamp="1508837040319">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="27" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" timestamp="1509702145395">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1508851230007">
         <mark key="[" line="32" column="42" />
@@ -960,8 +964,8 @@
       <jump line="608" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -970,7 +974,7 @@
         <text>''</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKHNlbGYuaW5fLCAnaW5fdmVyc2lvbl9zdycsICdFUEcxLjAnKQo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbl8gPSBzZWxmLmhlbHBlci5nZXRfZXBnX21vZGVsX2lucHV0X2RhdGEoJ2lucHV0X2FsbF9pbnB1dHNfZXBnMV8wLmpzb24nKQogICAgICAgIHNlbGYuaGVscGVyLnNldF9hcGlfdmFsdWUoaW5fLCAnaW5fdmVyc2lvbl9zdycsICdFUEcxLjMnKQo=</text>
