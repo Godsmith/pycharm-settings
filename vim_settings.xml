@@ -37,7 +37,7 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1510054028497">
+      <file name="/a.dummy" timestamp="1510056184557">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -274,7 +274,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1510054557927">
+      <file name="/Python Console" timestamp="1510057002258">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -369,7 +369,7 @@
         <mark key="." line="45" column="8" />
         <mark key="^" line="45" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1510055045482" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1510056969999" />
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481225331910">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="73" column="49" />
@@ -422,6 +422,11 @@
         <mark key="]" line="79" column="33" />
         <mark key="." line="79" column="33" />
         <mark key="^" line="79" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/vsfo_6_vcpus_per_cpb_should_not_give_3_ssc.py" timestamp="1510056195205">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" timestamp="1507016178492">
         <mark key="[" line="891" column="27" />
@@ -730,10 +735,6 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pdcepgcandi364.py" timestamp="1509516564230">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="38" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_signaling_zero.json" timestamp="1507807712555">
         <mark key="[" line="166" column="29" />
         <mark key="]" line="166" column="29" />
@@ -774,7 +775,7 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509542101875">
+      <file name="/Dummy.txt" timestamp="1510056462106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -809,6 +810,12 @@
         <mark key="]" line="205" column="34" />
         <mark key="." line="205" column="34" />
         <mark key="^" line="205" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/vsfo_8_vcpus_should_not_give_3_ssc.py" timestamp="1510056062879">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day12/main2.py" timestamp="1450017645156">
         <mark key="[" line="11" column="28" />
@@ -972,10 +979,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test_egress_and_sriov_bug</text>
+        <text>TestVsfo6VcpusShouldNotWork</text>
       </register>
       <register name="-" type="4">
-        <text>test_egress_and_sriov_bug</text>
+        <text>TestVsfo6VcpusShouldNotWork</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
