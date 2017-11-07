@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" timestamp="1510054390462">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" timestamp="1510066328488">
         <mark key="[" line="197" column="48" />
         <mark key="]" line="199" column="65" />
         <mark key="^" line="199" column="65" />
@@ -91,7 +91,7 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1509543213354">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1510066987103">
         <mark key="'" line="608" column="52" />
         <mark key="[" line="191" column="42" />
         <mark key="]" line="191" column="84" />
@@ -262,6 +262,12 @@
         <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" timestamp="1510066946918">
+        <mark key="[" line="127" column="72" />
+        <mark key="]" line="127" column="43" />
+        <mark key="." line="127" column="109" />
+        <mark key="^" line="127" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/doc/design_doc.txt" timestamp="1425415952379">
         <mark key="[" line="1" column="92" />
         <mark key="]" line="2" column="98" />
@@ -274,7 +280,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1510057002258">
+      <file name="/Python Console" timestamp="1510066954292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -369,8 +375,12 @@
         <mark key="." line="45" column="8" />
         <mark key="^" line="45" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1510061443822">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1510067000335">
         <mark key="'" line="16" column="23" />
+        <mark key="[" line="402" column="55" />
+        <mark key="]" line="402" column="54" />
+        <mark key="^" line="402" column="54" />
+        <mark key="." line="402" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/test_display.py" timestamp="1481225331910">
         <mark key="'" line="0" column="0" />
@@ -430,7 +440,8 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" timestamp="1507016178492">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" timestamp="1510066654727">
+        <mark key="'" line="130" column="35" />
         <mark key="[" line="891" column="27" />
         <mark key="]" line="891" column="27" />
         <mark key="^" line="892" column="59" />
@@ -878,7 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" />
       <jump line="48" column="22" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" />
       <jump line="61" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
       <jump line="86" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
@@ -978,6 +988,7 @@
       <jump line="608" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="22" column="50" filename="$USER_HOME$/workspace/candi_epg-main/scripts/insert_build_number.py" />
       <jump line="16" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
+      <jump line="130" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -987,7 +998,7 @@
         <text>TestVsfo6VcpusShouldNotWork</text>
       </register>
       <register name="/" type="4">
-        <text>= 1</text>
+        <text>physical_mac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiB3b3JrYm9vay5zaGVldHNbJ1VwZGF0ZXMnXS5yYW5nZVsnRVBHX1ZlcnNpb24nXS52YWx1ZQo=</text>
@@ -1062,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search>= 1</last-search>
+      <last-search>physical_mac</last-search>
       <last-offset />
-      <last-pattern>= 1</last-pattern>
+      <last-pattern>physical_mac</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,7 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry>platform</entry>
         <entry>total</entry>
         <entry>lb</entry>
         <entry encoding="base64">XDxXb3JrZXJDYXBhY2l0eVw+</entry>
@@ -1092,6 +1102,7 @@
         <entry>''</entry>
         <entry>book</entry>
         <entry>= 1</entry>
+        <entry>physical_mac</entry>
       </history-search>
       <history-cmd>
         <entry>/Pyprika/pyprika/g</entry>
