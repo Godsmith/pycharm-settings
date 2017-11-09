@@ -141,7 +141,13 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510228289671" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510232087626">
+        <mark key="'" line="127" column="36" />
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="32" />
+        <mark key="^" line="61" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1508851174486">
         <mark key="[" line="1167" column="55" />
         <mark key="]" line="1167" column="55" />
@@ -281,7 +287,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1510230386322">
+      <file name="/Python Console" timestamp="1510232554666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -290,7 +296,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1510230401360">
+      <file name="/fragment.py" timestamp="1510232561894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
@@ -519,11 +525,11 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" timestamp="1510230597695">
-        <mark key="[" line="93" column="30" />
-        <mark key="]" line="93" column="31" />
-        <mark key="^" line="94" column="28" />
-        <mark key="." line="93" column="31" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" timestamp="1510232547584">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/sacc_no_pisc.py" timestamp="1508851235039">
         <mark key="[" line="14" column="82" />
@@ -796,7 +802,7 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510230147780">
+      <file name="/Dummy.txt" timestamp="1510231390511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -897,13 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
-      <jump line="256" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
-      <jump line="290" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
-      <jump line="173" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="0" column="24" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
@@ -997,22 +996,29 @@
       <jump line="40" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="45" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="71" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
+      <jump line="205" column="40" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
+      <jump line="113" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
+      <jump line="114" column="53" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
+      <jump line="115" column="36" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
+      <jump line="119" column="24" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
+      <jump line="120" column="17" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
+      <jump line="127" column="36" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hcHBfd2FzX29wZW4K</text>
       </register>
       <register name="-" type="4">
-        <text>keys</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>self.ip</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhbmRfZXBnX3diLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9pbnB1dF9zaGVldF92YWx1ZSgnYnVpbGRfbnVtYmVyJywgMTMzNykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9wZW5fY2FuZF9lcGdfd2IoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hcHBfd2FzX29wZW4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1053,37 +1059,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsLkFwcGxpY2F0aW9uLkRpc3BsYXlBbGVydHMgPSBkaXNwbGF5X2FsZXJ0cwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHhsd2luZ3MgYXV0b21hdGljYWxseSBjb252ZXJ0cyB0byBmbG9hdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsLkFwcGxpY2F0aW9uLkRpc3BsYXlBbGVydHMgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wZW5fY2FuZF9lcGdfd2IoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5X2FsZXJ0cyA9IHNlbGYuZXhjZWwuQXBwbGljYXRpb24uRGlzcGxheUFsZXJ0cwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsLkFwcGxpY2F0aW9uLkRpc3BsYXlBbGVydHMgPSBkaXNwbGF5X2FsZXJ0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsLkFwcGxpY2F0aW9uLkRpc3BsYXlBbGVydHMgPSBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5X2FsZXJ0cyA9IHNlbGYuZXhjZWwuQXBwbGljYXRpb24uRGlzcGxheUFsZXJ0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcGVuX2NhbmRfZXBnX3diKHNlbGYpOgogICAgICAgIHNlbGYuY2FuZF9lcGdfd2IgPSBzZWxmLmV4Y2VsLldvcmtib29rcy5PcGVuKAogICAgICAgICAgICAjIDw8PDw8PDwgSEVBRDp0ZXN0cy9leGNlbF9oYW5kbGVyLnB5CiAgICAgICAgICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJy4uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY2FuZF9lcGcueGxzbScpKSkKICAgICAgICAjID09PT09PT0KICAgICAgICAjICAgICAgICAgICAgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAnY2FuZF9lcGcueGxzbScpKQogICAgICAgICMgPj4+Pj4+PiBtYXN0ZXI6dGVzdHMvdXRpbC9leGNlbF9oYW5kbGVyLnB5CiAgICAgICAgc2VsZi5pcGNfc2hlZXQgPSBzZWxmLmNhbmRfZXBnX3diLlNoZWV0cygnSVBDJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsLkRpc3BsYXlBbGVydHMgPSBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBvcGVuX2NhbmRfZXBnX3diKHNlbGYpOgogICAgICAgIHNlbGYuY2FuZF9lcGdfd2IgPSBzZWxmLmV4Y2VsLldvcmtib29rcy5PcGVuKAogICAgICAgICAgICAjIDw8PDw8PDwgSEVBRDp0ZXN0cy9leGNlbF9oYW5kbGVyLnB5CiAgICAgICAgICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJy4uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY2FuZF9lcGcueGxzbScpKSkKICAgICAgICAjID09PT09PT0KICAgICAgICAjICAgICAgICAgICAgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAnY2FuZF9lcGcueGxzbScpKQogICAgICAgICMgPj4+Pj4+PiBtYXN0ZXI6dGVzdHMvdXRpbC9leGNlbF9oYW5kbGVyLnB5CiAgICAgICAgc2VsZi5pcGNfc2hlZXQgPSBzZWxmLmNhbmRfZXBnX3diLlNoZWV0cygnSVBDJykK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>self.ip</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>self.ip</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1091,7 +1097,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lb</entry>
         <entry encoding="base64">XDxXb3JrZXJDYXBhY2l0eVw+</entry>
         <entry>signal_cost</entry>
         <entry>sacc_no_pisc</entry>
@@ -1111,6 +1116,7 @@
         <entry>= 1</entry>
         <entry>physical_mac</entry>
         <entry>self.ip</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>/Pyprika/pyprika/g</entry>
