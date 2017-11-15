@@ -553,6 +553,12 @@
         <mark key="." line="14" column="82" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/insert_build_number.py" timestamp="1510761330547">
+        <mark key="[" line="55" column="56" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1510752450328">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="94" column="41" />
@@ -1048,19 +1054,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmLnNlZWsoMCkK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X3VwKCkK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihweXRob25fcGF0aCwgJ3InLCBuZXdsaW5lPSdcbicpIGFzIGY6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmLnNlZWsoMCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1101,28 +1107,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDA5N2RkZDI0Li4uIEFkZCBuZXcgY2xhc3MgZm9yIGJldHRlciBzZXBhcmF0aW9uIG9mIGNvbmNlcm5zCg==</text>
+        <text encoding="base64">ICAgIHdpdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzNDljN2ExYi4uLiBTb2x2ZSBsZWZ0LWJlaGluZCBFeGNlbCBpbnN0YW5jZXMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKCdzdGFydCBleGNlbC5leGUnKQo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDA5N2RkZDI0Li4uIEFkZCBuZXcgY2xhc3MgZm9yIGJldHRlciBzZXBhcmF0aW9uIG9mIGNvbmNlcm5zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfID0gc2VsZi5leGNlbF9oYW5kbGVyLmRlZmF1bHRfdGVzdF9pbnB1dAogICAgICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lucHV0KGlucHV0XykK</text>
+        <text encoding="base64">Pj4+Pj4+PiAzNDljN2ExYi4uLiBTb2x2ZSBsZWZ0LWJlaGluZCBFeGNlbCBpbnN0YW5jZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oYXBwLmJvb2tzKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGFwcC5ib29rcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKCdzdGFydCBleGNlbC5leGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoYm9vaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfID0gc2VsZi5leGNlbF9oYW5kbGVyLmRlZmF1bHRfdGVzdF9pbnB1dAogICAgICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lucHV0KGlucHV0XykK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
