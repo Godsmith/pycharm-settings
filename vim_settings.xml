@@ -141,12 +141,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510733567083">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510735749622">
         <mark key="'" line="130" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="188" column="7" />
+        <mark key="[" line="99" column="32" />
+        <mark key="]" line="100" column="7" />
+        <mark key="." line="100" column="7" />
+        <mark key="^" line="100" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1508851174486">
         <mark key="[" line="1167" column="55" />
@@ -1028,7 +1028,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X3VwKCkK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -1037,7 +1037,7 @@
         <text>send_out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X3VwKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
