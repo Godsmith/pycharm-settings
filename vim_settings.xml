@@ -160,11 +160,7 @@
         <mark key="^" line="122" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/external_module.py" timestamp="1510752182509">
-        <mark key="'" line="18" column="34" />
         <mark key="[" line="12" column="9" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1508850692128">
         <mark key="[" line="551" column="36" />
@@ -546,12 +542,10 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" timestamp="1510754108901">
-        <mark key="'" line="47" column="31" />
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="60" column="27" />
-        <mark key="^" line="60" column="27" />
-        <mark key="." line="60" column="27" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" timestamp="1510756096245">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/sacc_no_pisc.py" timestamp="1508851235039">
         <mark key="[" line="14" column="82" />
@@ -771,7 +765,7 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/manage.py" timestamp="1510752646410">
         <mark key="[" line="10" column="59" />
         <mark key="]" line="10" column="59" />
-        <mark key="^" line="11" column="56" />
+        <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/nosacc.py" timestamp="1508851227734">
@@ -1053,8 +1047,8 @@
       <jump line="47" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -1066,7 +1060,7 @@
         <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X3VwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKCdzdGFydCBleGNlbC5leGUnKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1107,28 +1101,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfID0gc2VsZi5leGNlbF9oYW5kbGVyLmRlZmF1bHRfdGVzdF9pbnB1dAogICAgICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lucHV0KGlucHV0XykK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDA5N2RkZDI0Li4uIEFkZCBuZXcgY2xhc3MgZm9yIGJldHRlciBzZXBhcmF0aW9uIG9mIGNvbmNlcm5zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oYXBwLmJvb2tzKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzNDljN2ExYi4uLiBTb2x2ZSBsZWZ0LWJlaGluZCBFeGNlbCBpbnN0YW5jZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGFwcC5ib29rcykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoYm9vaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKCdzdGFydCBleGNlbC5leGUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5fd29ya2Jvb2tzID0gWwogICAgICAgICAgICAgICAgICAgIGJvb2submFtZQogICAgICAgICAgICAgICAgICAgIGZvciBhcHAgaW4geGx3aW5ncy5hcHBzCiAgICAgICAgICAgICAgICAgICAgZm9yIGJvb2sgaW4gYXBwLmJvb2tzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfID0gc2VsZi5leGNlbF9oYW5kbGVyLmRlZmF1bHRfdGVzdF9pbnB1dAogICAgICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lucHV0KGlucHV0XykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oYXBwLmJvb2tzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGFwcC5ib29rcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoYm9vaykK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
