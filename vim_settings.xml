@@ -141,12 +141,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510740128962">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="147" column="19" />
-        <mark key="." line="147" column="19" />
-        <mark key="^" line="147" column="11" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510741963232">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="115" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1508851174486">
         <mark key="[" line="1167" column="55" />
@@ -182,7 +182,7 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1510739624780" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1510741413154" />
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="16" />
@@ -297,7 +297,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1510740137714">
+      <file name="/Python Console" timestamp="1510741602137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -552,11 +552,10 @@
         <mark key="." line="14" column="82" />
         <mark key="^" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1510739557516">
-        <mark key="[" line="269" column="50" />
-        <mark key="]" line="269" column="54" />
-        <mark key="^" line="269" column="54" />
-        <mark key="." line="269" column="54" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1510741669087">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1508850845699">
         <mark key="[" line="93" column="32" />
@@ -1040,8 +1039,8 @@
       <jump line="130" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfID0gc2VsZi5leGNlbF9oYW5kbGVyLmRlZmF1bHRfdGVzdF9pbnB1dAogICAgICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lucHV0KGlucHV0XykK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -1053,7 +1052,7 @@
         <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X3VwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5fd29ya2Jvb2tzID0gWwogICAgICAgICAgICAgICAgICAgIGJvb2submFtZQogICAgICAgICAgICAgICAgICAgIGZvciBhcHAgaW4geGx3aW5ncy5hcHBzCiAgICAgICAgICAgICAgICAgICAgZm9yIGJvb2sgaW4gYXBwLmJvb2tzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfID0gc2VsZi5leGNlbF9oYW5kbGVyLmRlZmF1bHRfdGVzdF9pbnB1dAogICAgICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lucHV0KGlucHV0XykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1094,16 +1093,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oYXBwLmJvb2tzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGFwcC5ib29rcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoYm9vaykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5leGNlbF9oYW5kbGVyLnNlbmRfb3V0cHV0X2Zyb21fZXhjZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5fd29ya2Jvb2tzID0gWwogICAgICAgICAgICAgICAgICAgIGJvb2submFtZQogICAgICAgICAgICAgICAgICAgIGZvciBhcHAgaW4geGx3aW5ncy5hcHBzCiAgICAgICAgICAgICAgICAgICAgZm9yIGJvb2sgaW4gYXBwLmJvb2tzXQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
@@ -1115,7 +1114,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2VuZF9vdXRwdXRfZnJvbV9leGNlbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIElmIEV4Y2VsIHdhcyBjbG9zZWQgb3Igb3BlbiBidXQgd2l0aCBubyBvcGVuIHdvcmtib29rcyBwcmV2aW91c2x5LAogICAgICAgICMgYW4gb3BlbiBFeGNlbCBpbnN0YW5jZSB3aWxsIGJlIGxlZnQgYmVoaW5kIGFmdGVyIHRlYXJpbmcgZG93biB0aGUgdGVzdHMuCiAgICAgICAgIyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL1pvb21lckFuYWx5dGljcy94bHdpbmdzL2lzc3Vlcy81NDgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5leGNlbF9oYW5kbGVyLnNlbmRfb3V0cHV0X2Zyb21fZXhjZWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
