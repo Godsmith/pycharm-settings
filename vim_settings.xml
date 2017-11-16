@@ -300,7 +300,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1510754013902">
+      <file name="/Python Console" timestamp="1510837692333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -560,11 +560,12 @@
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1510752450328">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="94" column="41" />
-        <mark key="^" line="94" column="41" />
-        <mark key="." line="94" column="41" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1510837825611">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="107" column="49" />
+        <mark key="]" line="107" column="49" />
+        <mark key="." line="107" column="49" />
+        <mark key="^" line="107" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1508850845699">
         <mark key="[" line="93" column="32" />
@@ -857,7 +858,7 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510823757957">
+      <file name="/Dummy.txt" timestamp="1510837791908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -961,31 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="593" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="22" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="53" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="58" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="97" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
-      <jump line="404" column="28" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
-      <jump line="65" column="33" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/bugs/strange_scale_factor_worker_capacity.py" />
-      <jump line="611" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" />
-      <jump line="10" column="11" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1058" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1057" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1056" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1047" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1024" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1017" column="67" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="1013" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="584" column="67" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="166" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="174" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="193" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="595" column="67" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="599" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
@@ -1061,22 +1037,47 @@
       <jump line="45" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="47" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="4" column="31" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="10" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="235" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="206" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="38" column="72" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="91" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="39" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>csv2cach</text>
+        <text>def run_mo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihweXRob25fcGF0aCwgJ3InLCBuZXdsaW5lPSdcbicpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFJ1biB0aGUgbW9kZWwgaW4gdGhlIG1haW4gdGhyZWFkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBSdW4gdGhlIG1vZGVsIGluIHRoZSBtYWluIHRocmVhZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1117,37 +1118,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcyA9IFtsaW5lIGZvciBsaW5lIGluIGxpbmVzIGlmIGxpbmUuc3RyaXAoKV0K</text>
+        <text encoding="base64">ICAgICAgICAjIFJ1biB0aGUgbW9kZWwgaW4gdGhlIG1haW4gdGhyZWFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNlZWsoMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBMZXQgdGhlIG1vZGVsIGNvbnRpbnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5pdGlhbGl6ZWQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDA5N2RkZDI0Li4uIEFkZCBuZXcgY2xhc3MgZm9yIGJldHRlciBzZXBhcmF0aW9uIG9mIGNvbmNlcm5zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbGl6ZWQgPSBUcnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzNDljN2ExYi4uLiBTb2x2ZSBsZWZ0LWJlaGluZCBFeGNlbCBpbnN0YW5jZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplZCA9IEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>csv2cach</last-search>
+      <last-search>def run_mo</last-search>
       <last-offset />
-      <last-pattern>csv2cach</last-pattern>
+      <last-pattern>def run_mo</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1155,7 +1156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Signal</entry>
         <entry>refs</entry>
         <entry>EPG 1.0</entry>
         <entry>valid_vm</entry>
@@ -1175,6 +1175,7 @@
         <entry>call</entry>
         <entry>os</entry>
         <entry>csv2cach</entry>
+        <entry>def run_mo</entry>
       </history-search>
       <history-cmd>
         <entry>/Pyprika/pyprika/g</entry>
@@ -1188,15 +1189,15 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>s/1/2/g</entry>
         <entry>%s/DELL_R620/DELL_R630/g</entry>
-        <entry>:</entry>
         <entry>%:s/R620/R630/g</entry>
         <entry>%:s/r620/r630/g</entry>
         <entry>reg</entry>
         <entry>%s/EPG 1.0/EPG1.0/g</entry>
         <entry>w</entry>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>:</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
