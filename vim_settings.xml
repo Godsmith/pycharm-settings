@@ -661,6 +661,12 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/commands/update_sqlite.py" timestamp="1510821426468">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
         <mark key="]" line="21" column="72" />
@@ -672,6 +678,9 @@
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1510821240090">
+        <mark key="'" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/__init__.py" timestamp="1424556950287">
         <mark key="[" line="3" column="7" />
@@ -847,7 +856,7 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510757341219">
+      <file name="/Dummy.txt" timestamp="1510821508930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -951,7 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" />
       <jump line="593" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="22" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
       <jump line="53" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
@@ -1051,6 +1059,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="45" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="47" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
+      <jump line="4" column="31" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1060,7 +1069,7 @@
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>os</text>
+        <text>csv2cach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggb3BlbihweXRob25fcGF0aCwgJ3InLCBuZXdsaW5lPSdcbicpIGFzIGY6Cg==</text>
@@ -1135,9 +1144,9 @@
       </register>
     </registers>
     <search>
-      <last-search>os</last-search>
+      <last-search>csv2cach</last-search>
       <last-offset />
-      <last-pattern>os</last-pattern>
+      <last-pattern>csv2cach</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
       <last-dir>1</last-dir>
@@ -1145,7 +1154,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_egress_v</entry>
         <entry>Signal</entry>
         <entry>refs</entry>
         <entry>EPG 1.0</entry>
@@ -1165,6 +1173,7 @@
         <entry>logging</entry>
         <entry>call</entry>
         <entry>os</entry>
+        <entry>csv2cach</entry>
       </history-search>
       <history-cmd>
         <entry>/Pyprika/pyprika/g</entry>
