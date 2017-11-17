@@ -106,12 +106,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510754018027">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_cand_epg.py" timestamp="1510900856722">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="70" />
+        <mark key="[" line="124" column="41" />
+        <mark key="]" line="124" column="41" />
+        <mark key="." line="124" column="41" />
+        <mark key="^" line="147" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1508851174486">
         <mark key="[" line="1167" column="55" />
@@ -127,10 +127,10 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/external_module.py" timestamp="1510752182509">
         <mark key="[" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1508850692128">
-        <mark key="[" line="551" column="36" />
-        <mark key="]" line="551" column="36" />
-        <mark key="." line="551" column="36" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1510899875386">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/max_allowed_load.csv" timestamp="1508851456598">
         <mark key="[" line="10" column="6" />
@@ -143,7 +143,6 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1510741413154" />
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="16" />
@@ -185,8 +184,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1510839015278">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1510900124438">
         <mark key="'" line="169" column="1" />
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_applier.py" timestamp="1507020425959">
         <mark key="[" line="57" column="0" />
@@ -245,7 +248,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1510841333205">
+      <file name="/Python Console" timestamp="1510900104727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -359,6 +362,11 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/convert.py" timestamp="1510840193608">
         <mark key="'" line="46" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/db/db_tests.py" timestamp="1510900253413">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_calibration_zero.json" timestamp="1507807451456">
         <mark key="[" line="54" column="31" />
@@ -743,7 +751,7 @@
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510841580030">
+      <file name="/Dummy.txt" timestamp="1510900685172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -808,8 +816,11 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1510841627066">
-        <mark key="[" line="314" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1510899848135">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="0" />
+        <mark key="^" line="325" column="13" />
+        <mark key="." line="326" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/fixtures/updates.csv" timestamp="1508828562596">
         <mark key="[" line="1" column="0" />
@@ -939,8 +950,8 @@
       <jump line="813" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/cand_gsn/default_test_input.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -952,7 +963,7 @@
         <text encoding="base64">ICAgICAgICAjIFJ1biB0aGUgbW9kZWwgaW4gdGhlIG1haW4gdGhyZWFkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbih2YWx1ZXMpLCAwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -993,28 +1004,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlbGF0aW9uc19hcmVfcmVzcGVjdGVkKHNlbGYpOgogICAgICAgICIiIlRlc3QgdGhhdCBhIHJlbGF0aW9ucyBmaWxlIGlzIGNvcnJlY3RseSB1c2VkIHRvIHJlZHVjZSB0aGUgbnVtYmVyIG9mCiAgICAgICAgbGluZXMgaW4gdGhlIG91dHB1dCBmaWxlLiIiIgoKICAgICAgICAjIFRoZSBsaW5lICJHR1NOLU1QRyAyMDEwQSBTU1ItODAxMCxUcnVlIiBpcyBub3QgaW5jbHVkZWQgaW4gdGhlCiAgICAgICAgIyBleHBlY3RlZCBvdXRwdXQgZmlsZSwgc2luY2UgdGhhdCBjb21iaW5hdGlvbiBldmFsdWF0ZXMgdG8gRmFsc2UgaW4KICAgICAgICAjIHRoZSBmaWxlICJyZWxhdGlvbnMvdmFsaWRfcGxhdGZvcm1zLmNzdiIKICAgICAgICBjYWNoZV9wYXRoID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnZGF0YScsICdyb3V0aW5nX3RhYmxlX2V4cGVjdGVkLmNzdicpCiAgICAgICAgZXhwZWN0ZWRfbGluZXMgPSBvcGVuKGNhY2hlX3BhdGgsIG1vZGU9J3JVJykucmVhZGxpbmVzKCkKCiAgICAgICAgaW5wdXRfcGF0aCA9IG9zLnBhdGguam9pbigKICAgICAgICAgICAgb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJ2RhdGEnLCAncm91dGluZ190YWJsZS5jc3YnKQogICAgICAgIHJlbGF0aW9uc19wYXRoID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnZGF0YScsICdyZWxhdGlvbnMnLAogICAgICAgICAgICAndmFsaWRfcGxhdGZvcm1zLmNzdicpCiAgICAgICAgY29udmVydF9jc3ZfdG9fY2FjaGUoCiAgICAgICAgICAgIGlucHV0X3BhdGgsCiAgICAgICAgICAgIE1lYXN1cmVtZW50c1RhYmxlKAogICAgICAgICAgICAgICAgWydSZWxlYXNlJywgJ1BsYXRmb3JtJ10sIFsnUmVsZWFzZScsICdQbGF0Zm9ybSddKSwKICAgICAgICAgICAgQ3N2V3JpdGVyKHNlbGYub3V0cHV0X2ZpbGUubmFtZSksCiAgICAgICAgICAgIHJlbGF0aW9uX2ZpbGVzPVsocmVsYXRpb25zX3BhdGgsIFsnUmVsZWFzZScsICdQbGF0Zm9ybSddKV0sCiAgICAgICAgICAgIGRlbGV0ZV9jb2x1bW5fbmFtZXM9Wyd1bml0J10pCiAgICAgICAgb3V0cHV0X2xpbmVzID0gc2VsZi5vdXRwdXRfZmlsZS5maWxlLnJlYWRsaW5lcygpCiAgICAgICAgc2VsZi5hc3NlcnRDb3VudEVxdWFsKG91dHB1dF9saW5lcywgZXhwZWN0ZWRfbGluZXMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2V4dHJhY3RfaW52YWxpZF9waHlzaWNhbF9tYWNoaW5lX2RlcGxveW1lbnQoc2VsZik6CiAgICAgICAgcmVmZXJlbmNlX21hY2hpbmUgPSBFeGNlbElucHV0LmV4dHJhY3RfcmVmZXJlbmNlX21hY2hpbmUoCiAgICAgICAgICAgIGRhdGF0eXBlcy5SZWxlYXNlLmVwZ18yMDE0YiwKICAgICAgICAgICAgZGF0YXR5cGVzLlBsYXRmb3JtLnNzcl84MDEwKQoKICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygKICAgICAgICAgICAgUGFyc2luZ0Vycm9yLAogICAgICAgICAgICBFeGNlbElucHV0LmV4dHJhY3RfcGh5c2ljYWxfbWFjaGluZV9kZXBsb3ltZW50LAogICAgICAgICAgICB7J2luX3BoeXNpY2FsX21hY2hpbmVfZGVwbG95bWVudCc6ICd1bmtub3duIGRlcGxveW1lbnQgbmFtZSd9LAogICAgICAgICAgICByZWZlcmVuY2VfbWFjaGluZSwKICAgICAgICAgICAgZGF0YXR5cGVzLlBsYXRmb3JtLnNzcl84MDEwKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBSdW4gdGhlIG1vZGVsIGluIHRoZSBtYWluIHRocmVhZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJ1biB0aGUgbW9kZWwgaW4gdGhlIG1haW4gdGhyZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVmZXJlbmNlX21hY2hpbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBMZXQgdGhlIG1vZGVsIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgRXhjZWxJbnB1dC5yYWlzZV9wYXJzaW5nX2Vycm9yKAogICAgICAgICAgICAgICAgcmVsZWFzZV90eXBlLCBwbGF0Zm9ybV90eXBlLCAnJywKICAgICAgICAgICAgICAgICdub3QgYSB2YWxpZCByZWxlYXNlIGFuZCBwbGF0Zm9ybSBjb21iaW5hdGlvbicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5pdGlhbGl6ZWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYWlzZSBhbiBleGNlcHRpb24gaWYgbm90IGEgdmFsaWQgY29tYmluYXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbGl6ZWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlbGF0aW9uc19hcmVfcmVzcGVjdGVkKHNlbGYpOgogICAgICAgICIiIlRlc3QgdGhhdCBhIHJlbGF0aW9ucyBmaWxlIGlzIGNvcnJlY3RseSB1c2VkIHRvIHJlZHVjZSB0aGUgbnVtYmVyIG9mCiAgICAgICAgbGluZXMgaW4gdGhlIG91dHB1dCBmaWxlLiIiIgoKICAgICAgICAjIFRoZSBsaW5lICJHR1NOLU1QRyAyMDEwQSBTU1ItODAxMCxUcnVlIiBpcyBub3QgaW5jbHVkZWQgaW4gdGhlCiAgICAgICAgIyBleHBlY3RlZCBvdXRwdXQgZmlsZSwgc2luY2UgdGhhdCBjb21iaW5hdGlvbiBldmFsdWF0ZXMgdG8gRmFsc2UgaW4KICAgICAgICAjIHRoZSBmaWxlICJyZWxhdGlvbnMvdmFsaWRfcGxhdGZvcm1zLmNzdiIKICAgICAgICBjYWNoZV9wYXRoID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnZGF0YScsICdyb3V0aW5nX3RhYmxlX2V4cGVjdGVkLmNzdicpCiAgICAgICAgZXhwZWN0ZWRfbGluZXMgPSBvcGVuKGNhY2hlX3BhdGgsIG1vZGU9J3JVJykucmVhZGxpbmVzKCkKCiAgICAgICAgaW5wdXRfcGF0aCA9IG9zLnBhdGguam9pbigKICAgICAgICAgICAgb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJ2RhdGEnLCAncm91dGluZ190YWJsZS5jc3YnKQogICAgICAgIHJlbGF0aW9uc19wYXRoID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnZGF0YScsICdyZWxhdGlvbnMnLAogICAgICAgICAgICAndmFsaWRfcGxhdGZvcm1zLmNzdicpCiAgICAgICAgY29udmVydF9jc3ZfdG9fY2FjaGUoCiAgICAgICAgICAgIGlucHV0X3BhdGgsCiAgICAgICAgICAgIE1lYXN1cmVtZW50c1RhYmxlKAogICAgICAgICAgICAgICAgWydSZWxlYXNlJywgJ1BsYXRmb3JtJ10sIFsnUmVsZWFzZScsICdQbGF0Zm9ybSddKSwKICAgICAgICAgICAgQ3N2V3JpdGVyKHNlbGYub3V0cHV0X2ZpbGUubmFtZSksCiAgICAgICAgICAgIHJlbGF0aW9uX2ZpbGVzPVsocmVsYXRpb25zX3BhdGgsIFsnUmVsZWFzZScsICdQbGF0Zm9ybSddKV0sCiAgICAgICAgICAgIGRlbGV0ZV9jb2x1bW5fbmFtZXM9Wyd1bml0J10pCiAgICAgICAgb3V0cHV0X2xpbmVzID0gc2VsZi5vdXRwdXRfZmlsZS5maWxlLnJlYWRsaW5lcygpCiAgICAgICAgc2VsZi5hc3NlcnRDb3VudEVxdWFsKG91dHB1dF9saW5lcywgZXhwZWN0ZWRfbGluZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
