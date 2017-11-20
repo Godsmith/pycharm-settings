@@ -202,12 +202,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1511176260196">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1511180690621">
         <mark key="'" line="179" column="33" />
-        <mark key="[" line="677" column="12" />
-        <mark key="]" line="677" column="12" />
+        <mark key="[" line="660" column="81" />
+        <mark key="]" line="660" column="81" />
         <mark key="^" line="677" column="12" />
-        <mark key="." line="677" column="12" />
+        <mark key="." line="660" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_applier.py" timestamp="1507020425959">
         <mark key="[" line="57" column="0" />
@@ -996,10 +996,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IC0+IFwgZGF0YXR5cGVzLkNvbnN1bWVyUGF0aA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IC0+IFwgZGF0YXR5cGVzLkNvbnN1bWVyUGF0aA==</text>
       </register>
       <register name="/" type="4">
         <text>consumer_path</text>
