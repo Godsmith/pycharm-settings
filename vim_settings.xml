@@ -49,7 +49,12 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1511351654018" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1511356258719">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="94" />
+        <mark key="^" line="245" column="48" />
+        <mark key="." line="245" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/database.py" timestamp="1424207636646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -574,11 +579,11 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/path_consumer.csv" timestamp="1511355145033">
-        <mark key="[" line="12" column="95" />
-        <mark key="]" line="12" column="129" />
-        <mark key="." line="11" column="168" />
-        <mark key="^" line="11" column="127" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/path_consumer.csv" timestamp="1511355212806">
+        <mark key="[" line="11" column="167" />
+        <mark key="]" line="11" column="167" />
+        <mark key="." line="11" column="167" />
+        <mark key="^" line="19" column="129" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_vepg.json" timestamp="1511276575195">
         <mark key="[" line="11" column="0" />
@@ -918,12 +923,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1511354890262">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1511356007455">
         <mark key="'" line="195" column="10" />
-        <mark key="[" line="698" column="0" />
-        <mark key="]" line="698" column="0" />
-        <mark key="^" line="768" column="60" />
-        <mark key="." line="698" column="0" />
+        <mark key="[" line="723" column="42" />
+        <mark key="]" line="724" column="46" />
+        <mark key="^" line="724" column="46" />
+        <mark key="." line="724" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1508851230007">
         <mark key="[" line="32" column="42" />
@@ -1191,82 +1196,100 @@
       <jump line="827" column="53" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RWdyZXNzIG9wdGltaXphdGlvbiB3aXRoIHZMQyAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBtcyA9IHNlbGYuZ2V0X3Btc193aXRoX3NwZWNpZmljX3ZtX3R5cGUoZGltZW5zaW9uaW5nX3Jlc3VsdHMsIGl0ZXJhdGlvbiwgdm1fdHlwZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, resource_type, iteration=0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">RWdyZXNzIG9wdGltaXphdGlvbiB3aXRoIHZMQyAgICAgICA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZV9saXN0ID0gc2VsZi5nZXRfcG1fcmVzb3VyY2VzX2Zyb21fbGlzdF9vZl9wbXMocG1zLCByZXNvdXJjZV90eXBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdW5pdCBpbiBbJycsJ0snLCdNJywnRycsJ1QnLCdQJywnRScsJ1onXToKICAgICAgICAgICAgaWYgYWJzKG51bSkgPCAxMDAwLjA6CiAgICAgICAgICAgICAgICByZXR1cm4gIiUzLjFmJXMlcyIgJSAobnVtLCB1bml0LCBzdWZmaXgpCiAgICAgICAgICAgIG51bSAvPSAxMDAwLjAKICAgICAgICByZXR1cm4gIiUuMWYlcyVzIiAlIChudW0sICdZaScsIHN1ZmZpeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBtcyA9IHNlbGYuZ2V0X3Btc193aXRoX3NwZWNpZmljX3ZtX3R5cGUoZGltZW5zaW9uaW5nX3Jlc3VsdHMsIGl0ZXJhdGlvbiwgdm1fdHlwZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="103" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWZmaXggPSAnYnBzJwo=</text>
+        <text encoding="base64">ICAgICAgICBleHQsTEMgICB8MC41ICB8ICAgICAgfCAgICAgICB8ICAgICB8ICAgICAgfCAgICAgICB8NTAKICAgICAgICBMQyxQUEIgICB8ICAgICB8ICAgICAgfCAgICAgICB8ICAgICB8ICAgICAgfCAgICAgICB8NTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfC0tPiBQUEIocHJvY191cF93b3JrZXIpIC0tPiBFeHRlcm5hbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICBpZiAnbGluaycgaW4gc2VsZi50eXBlLm5hbWU6CiAgICAgICAgICAgIGFtb3VudCA9IHNlbGYubWFrZV9odW1hbl9yZWFkYWJsZShzZWxmLmFtb3VudCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBhbW91bnQgPSBzZWxmLmFtb3VudAogICAgICAgIHJldHVybiBcCiAgICAgICAgICAgICdMb2FkKHR5cGU9e3R5cGV9LCBhbW91bnQ9e2Ftb3VudH0sIHJhdGU9e3JhdGV9KScuZm9ybWF0KAogICAgICAgICAgICAgICAgdHlwZT1zZWxmLnR5cGUubmFtZSwKICAgICAgICAgICAgICAgIGFtb3VudD1hbW91bnQsCiAgICAgICAgICAgICAgICByYXRlPXNlbGYucmF0ZSwKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdW5pdCBpbiBbJycsJ0snLCdNJywnRycsJ1QnLCdQJywnRScsJ1onXToKICAgICAgICAgICAgaWYgYWJzKG51bSkgPCAxMDAwLjA6CiAgICAgICAgICAgICAgICByZXR1cm4gIiUzLjFmJXMlcyIgJSAobnVtLCB1bml0LCBzdWZmaXgpCiAgICAgICAgICAgIG51bSAvPSAxMDAwLjAKICAgICAgICByZXR1cm4gIiUuMWYlcyVzIiAlIChudW0sICdZaScsIHN1ZmZpeCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbW91bnQgPSBzZWxmLmFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWZmaXggPSAnYnBzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGh1bQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX3ZtX2xpbmVjYXJkJywgJzAnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICBpZiAnbGluaycgaW4gc2VsZi50eXBlLm5hbWU6CiAgICAgICAgICAgIGFtb3VudCA9IHNlbGYubWFrZV9odW1hbl9yZWFkYWJsZShzZWxmLmFtb3VudCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBhbW91bnQgPSBzZWxmLmFtb3VudAogICAgICAgIHJldHVybiBcCiAgICAgICAgICAgICdMb2FkKHR5cGU9e3R5cGV9LCBhbW91bnQ9e2Ftb3VudH0sIHJhdGU9e3JhdGV9KScuZm9ybWF0KAogICAgICAgICAgICAgICAgdHlwZT1zZWxmLnR5cGUubmFtZSwKICAgICAgICAgICAgICAgIGFtb3VudD1hbW91bnQsCiAgICAgICAgICAgICAgICByYXRlPXNlbGYucmF0ZSwKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZV89Z2V0YXR0cihzZWxmLnR5cGVfLCAnbmFtZScsIHNlbGYudHlwZV8pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
