@@ -574,11 +574,11 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/path_consumer.csv" timestamp="1511354056947">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="51" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/path_consumer.csv" timestamp="1511355145033">
+        <mark key="[" line="12" column="95" />
+        <mark key="]" line="12" column="129" />
+        <mark key="." line="11" column="168" />
+        <mark key="^" line="11" column="127" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_vepg.json" timestamp="1511276575195">
         <mark key="[" line="11" column="0" />
@@ -918,7 +918,7 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1511354256843">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1511354890262">
         <mark key="'" line="195" column="10" />
         <mark key="[" line="698" column="0" />
         <mark key="]" line="698" column="0" />
@@ -1192,7 +1192,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RWdyZXNzIG9wdGltaXphdGlvbiB3aXRoIHZMQyAgICAgICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1200,8 +1200,8 @@
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIG1ha2VfaHVtYW5fcmVhZGFibGUoY2xzLCBudW0sIHN1ZmZpeD0nYnBzJyk6CiAgICAgICAgZm9yIHVuaXQgaW4gWycnLCdLJywnTScsJ0cnLCdUJywnUCcsJ0UnLCdaJ106CiAgICAgICAgICAgIGlmIGFicyhudW0pIDwgMTAwMC4wOgogICAgICAgICAgICAgICAgcmV0dXJuICIlMy4xZiVzJXMiICUgKG51bSwgdW5pdCwgc3VmZml4KQogICAgICAgICAgICBudW0gLz0gMTAwMC4wCiAgICAgICAgcmV0dXJuICIlLjFmJXMlcyIgJSAobnVtLCAnWWknLCBzdWZmaXgpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">RWdyZXNzIG9wdGltaXphdGlvbiB3aXRoIHZMQyAgICAgICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgdW5pdCBpbiBbJycsJ0snLCdNJywnRycsJ1QnLCdQJywnRScsJ1onXToKICAgICAgICAgICAgaWYgYWJzKG51bSkgPCAxMDAwLjA6CiAgICAgICAgICAgICAgICByZXR1cm4gIiUzLjFmJXMlcyIgJSAobnVtLCB1bml0LCBzdWZmaXgpCiAgICAgICAgICAgIG51bSAvPSAxMDAwLjAKICAgICAgICByZXR1cm4gIiUuMWYlcyVzIiAlIChudW0sICdZaScsIHN1ZmZpeCkK</text>
