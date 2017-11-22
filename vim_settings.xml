@@ -113,7 +113,7 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/external_module.py" timestamp="1511342433178">
         <mark key="[" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1511364470320">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1511365948126">
         <mark key="'" line="59" column="33" />
         <mark key="[" line="79" column="72" />
         <mark key="]" line="79" column="72" />
@@ -258,12 +258,12 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" timestamp="1511353529411">
-        <mark key="'" line="827" column="53" />
-        <mark key="[" line="839" column="23" />
-        <mark key="]" line="839" column="23" />
-        <mark key="." line="839" column="23" />
-        <mark key="^" line="839" column="20" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" timestamp="1511366365229">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="824" column="66" />
+        <mark key="]" line="824" column="66" />
+        <mark key="." line="824" column="66" />
+        <mark key="^" line="824" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day08/main.py" timestamp="1481225535292">
         <mark key="[" line="7" column="31" />
@@ -277,11 +277,11 @@
         <mark key="." line="49" column="32" />
         <mark key="^" line="49" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_excel_input_validation.py" timestamp="1511345009775">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="40" />
-        <mark key="^" line="64" column="11" />
-        <mark key="." line="48" column="40" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_excel_input_validation.py" timestamp="1511365547834">
+        <mark key="[" line="64" column="64" />
+        <mark key="]" line="64" column="64" />
+        <mark key="^" line="64" column="64" />
+        <mark key="." line="64" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/load.py" timestamp="1507015972510">
         <mark key="[" line="47" column="42" />
@@ -492,7 +492,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511364819495">
+      <file name="/Dummy.txt" timestamp="1511365531196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1106,8 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="212" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="206" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="185" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
@@ -1206,19 +1204,21 @@
       <jump line="217" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="215" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="202" column="19" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="764" column="6" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" />
+      <jump line="4" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>helper.get</text>
+        <text>make_h</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX3ZtX2xjJywgJzEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0dGVyID0gcGFydGlhbChzZWxmLm1ha2VfaHVtYW5fcmVhZGFibGUsIHN1ZmZpeD0nYnBzJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX3ZtX2xpbmVjYXJkJywgJzYnKQo=</text>
@@ -1308,18 +1308,16 @@
       </register>
     </registers>
     <search>
-      <last-search>helper.get</last-search>
+      <last-search>make_h</last-search>
       <last-offset />
-      <last-pattern>helper.get</last-pattern>
+      <last-pattern>make_h</last-pattern>
       <last-replace>EPG1.0</last-replace>
       <last-substitute>EPG 1.0</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send_out</entry>
-        <entry>logging</entry>
         <entry>call</entry>
         <entry>os</entry>
         <entry>csv2cach</entry>
@@ -1338,6 +1336,8 @@
         <entry>usage</entry>
         <entry>.usage</entry>
         <entry>helper.get</entry>
+        <entry>make_hu</entry>
+        <entry>make_h</entry>
       </history-search>
       <history-cmd>
         <entry>s/Pyprika/pyprika/g</entry>
