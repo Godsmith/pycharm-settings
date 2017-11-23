@@ -309,9 +309,9 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" timestamp="1510739955916">
-        <mark key="[" line="66" column="72" />
-        <mark key="]" line="68" column="62" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" timestamp="1511430963296">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="54" />
         <mark key="." line="68" column="62" />
         <mark key="^" line="68" column="62" />
       </file>
@@ -501,7 +501,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511428485895">
+      <file name="/Dummy.txt" timestamp="1511430943447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1213,8 +1213,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_strange_scale_factor_worker_capacity.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA6dHlwZSBleGNlbF9pbnB1dDogZXBnX2RpbWVuc2lvbmluZy5FeGNlbElucHV0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
@@ -1223,7 +1223,7 @@
         <text>in_dpi_tcp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0dGVyID0gcGFydGlhbChzZWxmLm1ha2VfaHVtYW5fcmVhZGFibGUsIHN1ZmZpeD0nYnBzJykK</text>
+        <text encoding="base64">ICAgICAgICA6dHlwZSBleGNlbF9pbnB1dDogZXBnX2RpbWVuc2lvbmluZy5FeGNlbElucHV0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY3N2X3BhdGgsICdydCcpIGFzIGY6CiAgICAgICAgICAgIHJlYWRlciA9IGNzdi5yZWFkZXIoZiwgZGVsaW1pdGVyPSd8JykKICAgICAgICAgICAgZm9yIGksIHJvdyBpbiBlbnVtZXJhdGUocmVhZGVyKToKICAgICAgICAgICAgICAgIGlmIGxlbihyb3cpICE9IENPTFVNTlNfUEVSX1JPVzoKICAgICAgICAgICAgICAgICAgICByYWlzZSBDc3ZSb3dzTm90RXF1YWxMZW5ndGhFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICdFcnJvcjogUm93ICVzIGRvZXMgbm90IGhhdmUgJXMgY29sdW1ucyEgUm93OiAiJXMiJyAlIChpICsgMSwgQ09MVU1OU19QRVJfUk9XLCByb3cpKQogICAgICAgICAgICBmLnNlZWsoMCkKICAgICAgICAgICAgdGFibGUgPSBbbGlzdChyb3cpIGZvciByb3cgaW4gcmVhZGVyXQo=</text>
