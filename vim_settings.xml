@@ -514,7 +514,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512727479946">
+      <file name="/Dummy.txt" timestamp="1512736673165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -947,12 +947,18 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1512732774504">
-        <mark key="'" line="226" column="19" />
-        <mark key="[" line="546" column="63" />
-        <mark key="]" line="546" column="63" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1512736791649">
+        <mark key="'" line="546" column="63" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="45" />
         <mark key="^" line="546" column="62" />
         <mark key="." line="546" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1512736793163">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1508851230007">
         <mark key="[" line="32" column="42" />
@@ -1131,7 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="72" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="91" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="39" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
@@ -1231,19 +1236,20 @@
       <jump line="44" column="40" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
       <jump line="45" column="36" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
       <jump line="49" column="46" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
+      <jump line="546" column="63" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0ZXN0cy51dGlsLnRlc3RfaGVscGVyIGltcG9ydCBUZXN0SGVscGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>VirtualEpgTrafficPaths</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrYm9vayA9IHh3LkJvb2sodGVtcF94bHNtKQo=</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy51dGlsLnRlc3RfaGVscGVyIGltcG9ydCBUZXN0SGVscGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVBHIDIwMTdRM3x2RVBHICAgIHxDUEIgICAgICAgICAgIHx2Y3B1X2NwX2RlZCAgICAgICAgfHZjcHUgICAgICAgICAgICAgICAgICAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHxEaWFtZXRlciBFbmRwb2ludCBEYWVtb24gcHJvY2Vzc2VzCg==</text>
