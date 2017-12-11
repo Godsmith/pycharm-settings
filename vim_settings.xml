@@ -193,10 +193,9 @@
         <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" timestamp="1512991488429">
-        <mark key="[" line="80" column="4" />
-        <mark key="]" line="80" column="4" />
-        <mark key="." line="80" column="19" />
-        <mark key="^" line="70" column="19" />
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="4" />
+        <mark key="." line="65" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/gymday.py" timestamp="1424210475068">
         <mark key="[" line="8" column="62" />
@@ -443,11 +442,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_physical_epg_traffic_paths.py" timestamp="1511185800236">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/consumer_instances.csv" timestamp="1511338954295">
         <mark key="[" line="6" column="0" />
