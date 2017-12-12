@@ -393,9 +393,9 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1513072248107">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day22/main.py" timestamp="1450994574493">
@@ -528,7 +528,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513071835416">
+      <file name="/Dummy.txt" timestamp="1513073230421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -776,13 +776,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/test_case.py" timestamp="1512983851806">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1513070854552">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="18" column="89" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1513073219935">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="60" column="14" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/update_spgw_post_13A_control_plane.py" timestamp="1508851168530">
         <mark key="[" line="123" column="83" />
@@ -990,12 +988,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513001486229">
-        <mark key="'" line="340" column="0" />
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="359" column="0" />
-        <mark key="^" line="515" column="62" />
-        <mark key="." line="359" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513073530819">
+        <mark key="'" line="606" column="48" />
+        <mark key="[" line="609" column="114" />
+        <mark key="]" line="609" column="114" />
+        <mark key="^" line="227" column="67" />
+        <mark key="." line="609" column="114" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1513071480571">
         <mark key="'" line="29" column="14" />
@@ -1181,9 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="756" column="68" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="772" column="70" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="888" column="34" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="892" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="928" column="90" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1281,13 +1276,16 @@
       <jump line="319" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="340" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="221" column="48" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="606" column="48" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Available in CANDI 2017 9.0. Use EPG 2018Q1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
@@ -1296,7 +1294,7 @@
         <text encoding="base64">ICAgICAgICBjYXBhY2l0eV9wZXJfd29ya2VyID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfbGInXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9sYl93b3JrZXJfY2FwYWNpdHlfc2FjY19ub19waXNjKHNlbGYpOgogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gc2VsZi5oZWxwZXIucnVuX2VwZ19tb2RlbF93aXRoX2lucHV0KCdmZWF0dXJlc1xcaW5wdXRfdmVwZ19zYWNjX25vX3Bpc2MuanNvbicpCgogICAgICAgIGNhcGFjaXR5X3Blcl9sYiA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfY2FwYWNpdHlfa3Bwc19wZXJfd29ya2VyX2xiJ10KCiAgICAgICAgYXNzZXJ0IDUxMCA8IGNhcGFjaXR5X3Blcl9sYiA8IDUyMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1323,28 +1321,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXZhaWxhYmxlIGluIENBTkRJCjIwMTcKOS4wLlVzZQpFUEcKMjAxOApRMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbl8gPSBoZWxwZXIuZ2V0X2VwZ19tb2RlbF9pbnB1dF9kYXRhKGZpbGVfbmFtZV89J2ZlYXR1cmVzXFx2c2ZvXFxtaW5pbWFsLmpzb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZV9maWxlX25hbWU9J2xvd190cmFmZmljX3ZlcGcuanNvbicpCg==</text>
+        <text encoding="base64">QXZhaWxhYmxlIGluIENBTkRJCjIwMTcKOS4wLlVzZQpFUEcKMjAxOApRMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBoZWxwZXIucnVuX2VwZ19tb2RlbChpbl8pCgogICAgICAgIG5ld19jYXBhY2l0eV9wZXJfdGV1ID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfbGInXQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbl8gPSBoZWxwZXIuZ2V0X2VwZ19tb2RlbF9pbnB1dF9kYXRhKGZpbGVfbmFtZV89J2ZlYXR1cmVzXFx2c2ZvXFxtaW5pbWFsLmpzb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZV9maWxlX25hbWU9J2xvd190cmFmZmljX3ZlcGcuanNvbicpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBoZWxwZXIucnVuX2VwZ19tb2RlbChpbl8pCgogICAgICAgIG5ld19jYXBhY2l0eV9wZXJfdGV1ID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfbGInXQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXBhY2l0eV9wZXJfdGV1ID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfbGInXQo=</text>
+        <text encoding="base64">ICAgICAgICBpbl8gPSBoZWxwZXIuZ2V0X2VwZ19tb2RlbF9pbnB1dF9kYXRhKGZpbGVfbmFtZV89J2ZlYXR1cmVzXFx2c2ZvXFxtaW5pbWFsLmpzb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZV9maWxlX25hbWU9J2xvd190cmFmZmljX3ZlcGcuanNvbicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92ZXJzaW9uX3N3JywgJ0VQRyAyMDE4UTEnKQogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gaGVscGVyLnJ1bl9lcGdfbW9kZWwoaW5fKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXBhY2l0eV9wZXJfdGV1ID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfbGInXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92ZXJzaW9uX3N3JywgJ0VQRyAyMDE4UTEnKQogICAgICAgIG91dF9hcGksIG91dF9kZXRhaWxzID0gaGVscGVyLnJ1bl9lcGdfbW9kZWwoaW5fKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
