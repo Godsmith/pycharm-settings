@@ -804,6 +804,9 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/resource.py" timestamp="1513089089335">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" timestamp="1512727600748">
         <mark key="[" line="73" column="6" />
         <mark key="]" line="73" column="10" />
@@ -1172,7 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="892" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="928" column="90" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="935" column="71" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="24" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1272,6 +1274,7 @@
       <jump line="221" column="48" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="606" column="48" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="137" column="53" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/resource.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
