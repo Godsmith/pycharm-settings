@@ -32,7 +32,7 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1513162536701">
+      <file name="/a.dummy" timestamp="1513246829058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -113,6 +113,12 @@
         <mark key="." line="122" column="12" />
         <mark key="^" line="122" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/overview.rst" timestamp="1513248267408">
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="31" />
+        <mark key="^" line="85" column="30" />
+        <mark key="." line="85" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1513244090011">
         <mark key="'" line="59" column="33" />
         <mark key="[" line="11" column="0" />
@@ -185,9 +191,9 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" timestamp="1513179980664">
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="61" column="11" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" timestamp="1513247285917">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="7" />
         <mark key="." line="61" column="11" />
         <mark key="^" line="62" column="7" />
       </file>
@@ -318,6 +324,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/instance_level.py" timestamp="1513246696963">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/datatypes.py" timestamp="1511338933253">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -352,6 +364,12 @@
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/debugging.rst" timestamp="1513247480469">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/jsonCompare/json_compare.py" timestamp="1512983817286">
         <mark key="[" line="9" column="15" />
@@ -451,6 +469,13 @@
         <mark key="." line="158" column="20" />
         <mark key="^" line="158" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/instance_path.py" timestamp="1513246818546">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/consumer_instances.csv" timestamp="1511338954295">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -466,6 +491,12 @@
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="35" />
         <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/level_connection.py" timestamp="1513246854243">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day03/main2.py" timestamp="1449503965864">
         <mark key="[" line="9" column="0" />
@@ -535,7 +566,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513245081516">
+      <file name="/Dummy.txt" timestamp="1513248270994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -558,11 +589,11 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/runtests.py" timestamp="1513167107230">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="33" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="14" column="33" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/runtests.py" timestamp="1513248181981">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main2.py" timestamp="1449524083617">
         <mark key="[" line="6" column="0" />
@@ -592,6 +623,9 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" timestamp="1513248523145">
+        <mark key="'" line="684" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day23/main.py" timestamp="1450996622598">
         <mark key="[" line="4" column="0" />
@@ -812,9 +846,6 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/resource.py" timestamp="1513089089335">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" timestamp="1512727600748">
         <mark key="[" line="73" column="6" />
         <mark key="]" line="73" column="10" />
@@ -980,8 +1011,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" timestamp="1513243920772">
-        <mark key="'" line="939" column="16" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" timestamp="1513248611963">
+        <mark key="'" line="1329" column="0" />
         <mark key="[" line="1322" column="0" />
         <mark key="]" line="1322" column="16" />
         <mark key="." line="1322" column="16" />
@@ -1004,8 +1035,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1513164914712">
-        <mark key="'" line="105" column="23" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1513248138859">
+        <mark key="'" line="105" column="5" />
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="107" column="31" />
+        <mark key="." line="107" column="31" />
+        <mark key="^" line="109" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513243732734">
         <mark key="'" line="723" column="48" />
@@ -1199,12 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" />
       <jump line="13" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
@@ -1291,7 +1320,6 @@
       <jump line="132" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="552" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="553" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="105" column="23" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/updates.csv" />
       <jump line="11" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="2514" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" />
@@ -1299,22 +1327,29 @@
       <jump line="530" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" />
       <jump line="21" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/commands_tests.py" />
       <jump line="939" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/instance_path.py" />
+      <jump line="106" column="37" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="105" column="5" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="1316" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" />
+      <jump line="684" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="928" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" />
+      <jump line="1329" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRfbnVtYmVyX29mX3BtcyhleGNlbF9pbnB1dCkK</text>
+      <register name="&quot;" type="4">
+        <text>InstanceConnectionLevel</text>
       </register>
       <register name="-" type="4">
-        <text>consumer_path=None,</text>
+        <text>InstanceConnectionLevel</text>
       </register>
       <register name="/" type="4">
-        <text>from_excel_</text>
+        <text>test_link_load_objects</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvbnN1bWVyX3BhdGgiOiAiY3BhdGhfbGVnYWN5IiwK</text>
+        <text encoding="base64">dGVzdC1weXRob246IG1vZGVsL0VwZ0NhbmRpTW9kZWwvZXBnL2NhY2hlLmRiIG1vZGVsL3Rlc3RzL0RlbW9Nb2RlbC9kZW1vL2NhY2hlLmRiCgljZCBtb2RlbCAmJiBcCglweXRob24gcnVudGVzdHMucHkgLS1uby1jb3ZlcmFnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRfbnVtYmVyX29mX3BtcyhleGNlbF9pbnB1dCkK</text>
+        <text encoding="base64">V2l0aCB0aGUgbW92ZSBmcm9tIG5vc2UgdG8gcHl0ZXN0LCB0aGlzIGZpbGUgYmVjYW1lIGEgYml0CnN1cGVyZmx1b3VzLCBzaW5jZSBydW5uaW5nCgogICAgcnVudGVzdHMucHkgWy0tbm8tY292ZXJhZ2VdLgoKaXMgZXhhY3RseSBlcXVhbCB0byBydW5uaW5nCgogICAgcHl0ZXN0IFstLW5vLWNvdl0KCkJ1dCBpdCBzaG91bGQgYmUga2VwdCBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkgdW50aWwgd2UgaGF2ZQptYWRlIHN1cmUgcHl0ZXN0IGlzIHdvcmtpbmcgd2VsbC4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1341,47 +1376,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluX2NvbnN1bWVyX3BhdGgiOiAiY3BhdGhfbGVnYWN5IiwK</text>
+        <text encoding="base64">CXB5dGhvbiBtb2RlbC9ydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJpbl9jb25zdW1lcl9wYXRoIjogImNwYXRoX2xlZ2FjeSIsCg==</text>
+        <text encoding="base64">ICAgIGludmFsaWRfbnVtYmVyX29mX3BtcyhleGNlbF9pbnB1dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImluX2NvbnN1bWVyX3BhdGgiOiAiY3BhdGhfbGVnYWN5IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
+        <text encoding="base64">ICAgICJpbl9jb25zdW1lcl9wYXRoIjogImNwYXRoX2xlZ2FjeSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfbGVnYWN5JykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfbGVnYWN5JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzX2luZ3Jlc3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>from_excel_</last-search>
+      <last-search>test_link_load_objects</last-search>
       <last-offset />
-      <last-pattern>from_excel_</last-pattern>
-      <last-replace>helper</last-replace>
-      <last-substitute>Consumer</last-substitute>
+      <last-pattern>test_link_load_objects</last-pattern>
+      <last-replace>InstanceConnection</last-replace>
+      <last-substitute>ConnectionInstance</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>in_traff</entry>
-        <entry>in_dpi_tcp</entry>
-        <entry>get_new_ver</entry>
         <entry>load</entry>
         <entry>TEMP_XLS</entry>
         <entry>dist</entry>
@@ -1399,9 +1431,11 @@
         <entry>consumer_path</entry>
         <entry>from_excel_input</entry>
         <entry>from_excel_</entry>
+        <entry>ConnectionInstance</entry>
+        <entry>python-model-unit</entry>
+        <entry>test_link_load_objects</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Pyprika/pyprika</entry>
         <entry>%s/ExerciseOccasion/Exercise/g</entry>
         <entry>s/:/:'</entry>
         <entry>s/:/':/g</entry>
@@ -1420,6 +1454,7 @@
         <entry>helper.usage</entry>
         <entry>q</entry>
         <entry>%s/self.helper/helper/g</entry>
+        <entry>%s/ConnectionInstance/InstanceConnection/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
