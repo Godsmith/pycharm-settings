@@ -566,7 +566,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513248270994">
+      <file name="/Dummy.txt" timestamp="1513252258459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -688,10 +688,10 @@
         <mark key="]" line="179" column="12" />
         <mark key="." line="179" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/vsfo/minimal.json" timestamp="1513070925483">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/vsfo/minimal.json" timestamp="1513252390311">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="32" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
@@ -705,11 +705,6 @@
         <mark key="[" line="54" column="31" />
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_output_functions_tests.py" timestamp="1513243879289">
-        <mark key="'" line="530" column="15" />
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="410" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
@@ -789,6 +784,9 @@
         <mark key="]" line="2" column="98" />
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
+      </file>
+      <file name="/Python Console" timestamp="1513253127644">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1511339606705">
         <mark key="[" line="0" column="0" />
@@ -1049,12 +1047,12 @@
         <mark key="^" line="344" column="67" />
         <mark key="." line="653" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1513071480571">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1513253260532">
         <mark key="'" line="29" column="14" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="49" column="42" />
-        <mark key="^" line="49" column="42" />
-        <mark key="." line="49" column="42" />
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1508851230007">
         <mark key="[" line="32" column="42" />
@@ -1088,6 +1086,11 @@
         <mark key="]" line="36" column="41" />
         <mark key="." line="36" column="34" />
         <mark key="^" line="36" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/__init__.py" timestamp="1513253139889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day24/main.py" timestamp="1451004831296">
         <mark key="[" line="53" column="34" />
@@ -1336,20 +1339,20 @@
       <jump line="1329" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/load_calculator_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>InstanceConnectionLevel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHV0aWxkZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>InstanceConnectionLevel</text>
+        <text>teu</text>
       </register>
       <register name="/" type="4">
-        <text>test_link_load_objects</text>
+        <text>consumer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVzdC1weXRob246IG1vZGVsL0VwZ0NhbmRpTW9kZWwvZXBnL2NhY2hlLmRiIG1vZGVsL3Rlc3RzL0RlbW9Nb2RlbC9kZW1vL2NhY2hlLmRiCgljZCBtb2RlbCAmJiBcCglweXRob24gcnVudGVzdHMucHkgLS1uby1jb3ZlcmFnZQo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgncHBiX3ZjcHUsIGxiX3ZjcHUsIHdvcmtlcnMsIHRldXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsoNiwgNCwgMSwgMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgxMCwgNiwgMiwgMyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgxNiwgNiwgNywgMyldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V2l0aCB0aGUgbW92ZSBmcm9tIG5vc2UgdG8gcHl0ZXN0LCB0aGlzIGZpbGUgYmVjYW1lIGEgYml0CnN1cGVyZmx1b3VzLCBzaW5jZSBydW5uaW5nCgogICAgcnVudGVzdHMucHkgWy0tbm8tY292ZXJhZ2VdLgoKaXMgZXhhY3RseSBlcXVhbCB0byBydW5uaW5nCgogICAgcHl0ZXN0IFstLW5vLWNvdl0KCkJ1dCBpdCBzaG91bGQgYmUga2VwdCBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkgdW50aWwgd2UgaGF2ZQptYWRlIHN1cmUgcHl0ZXN0IGlzIHdvcmtpbmcgd2VsbC4K</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxkZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1376,37 +1379,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB5dGhvbiBtb2RlbC9ydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl9sb2dpY2FsX2NvcmVzX3BwYl9sYicsIGxiX3ZjcHUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRfbnVtYmVyX29mX3BtcyhleGNlbF9pbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDEwLCA2LCAyLCAzKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluX2NvbnN1bWVyX3BhdGgiOiAiY3BhdGhfbGVnYWN5IiwK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhdHlwZXMuQwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJpbl9jb25zdW1lcl9wYXRoIjogImNwYXRoX2xlZ2FjeSIsCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXUgPSBkYXRhdHlwZXMuUmVzb3VyY2UudmNwdV9sYl90ZXUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
+        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSBkYXRhdHlwZXMuUmVzb3VyY2UudmNwdV91cF93b3JrZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
+        <text encoding="base64">V2l0aCB0aGUgbW92ZSBmcm9tIG5vc2UgdG8gcHl0ZXN0LCB0aGlzIGZpbGUgYmVjYW1lIGEgYml0CnN1cGVyZmx1b3VzLCBzaW5jZSBydW5uaW5nCgogICAgcnVudGVzdHMucHkgWy0tbm8tY292ZXJhZ2VdLgoKaXMgZXhhY3RseSBlcXVhbCB0byBydW5uaW5nCgogICAgcHl0ZXN0IFstLW5vLWNvdl0KCkJ1dCBpdCBzaG91bGQgYmUga2VwdCBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkgdW50aWwgd2UgaGF2ZQptYWRlIHN1cmUgcHl0ZXN0IGlzIHdvcmtpbmcgd2VsbC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfbGVnYWN5JykK</text>
+        <text encoding="base64">CXB5dGhvbiBtb2RlbC9ydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2NvbnN1bWVyX3BhdGgnLCAnY3BhdGhfZWdyZXNzJykK</text>
+        <text encoding="base64">ICAgIGludmFsaWRfbnVtYmVyX29mX3BtcyhleGNlbF9pbnB1dCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test_link_load_objects</last-search>
+      <last-search>consumer</last-search>
       <last-offset />
-      <last-pattern>test_link_load_objects</last-pattern>
+      <last-pattern>consumer</last-pattern>
       <last-replace>InstanceConnection</last-replace>
       <last-substitute>ConnectionInstance</last-substitute>
       <last-dir>1</last-dir>
@@ -1414,7 +1417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry>TEMP_XLS</entry>
         <entry>dist</entry>
         <entry>base_d</entry>
@@ -1434,6 +1436,7 @@
         <entry>ConnectionInstance</entry>
         <entry>python-model-unit</entry>
         <entry>test_link_load_objects</entry>
+        <entry>consumer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExerciseOccasion/Exercise/g</entry>
