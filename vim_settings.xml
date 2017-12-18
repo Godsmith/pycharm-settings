@@ -100,10 +100,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513591114001">
-        <mark key="[" line="1420" column="34" />
-        <mark key="]" line="1420" column="34" />
-        <mark key="." line="1420" column="34" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513603748120">
+        <mark key="[" line="1421" column="62" />
+        <mark key="]" line="1421" column="78" />
+        <mark key="." line="1421" column="78" />
+        <mark key="^" line="1421" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/GenerateVmSizeCsv/generate.py" timestamp="1508851248582">
         <mark key="[" line="122" column="12" />
@@ -443,6 +444,12 @@
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" timestamp="1513604217759">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="38" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_cp_only.json" timestamp="1511276564629">
         <mark key="[" line="11" column="0" />
@@ -1338,20 +1345,20 @@
       <jump line="131" column="24" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzaGVldCA9IHdvcmtib29rLnNoZWV0c1snVXBkYXRlcyddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>clean-cand</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UEFZMTF8MTIvMTgvMjAxN3xlZmlsbGFufFRSVUV8Rml4IHJlbGVhc2UgbnVtYmVycyBiZWNvbWluZyBvdXQgb2Ygc3luYyB3aGVuIG5vdCBzZXQgd2l0aCBidWlsZCBzY3JpcHQK</text>
+      <register name="0" type="4">
+        <text>workbook.sheets['Updates']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJtIC1mIC5jYW5kX2VwZ194bHNtCg==</text>
+        <text encoding="base64">ICAgICAgICBzaGVldCA9IHdvcmtib29rLnNoZWV0c1snVXBkYXRlcyddCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1378,19 +1385,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBEdW1teSBmaWxlIGZvciBNYWtlZmlsZQouY2FuZF9lcGdfeGxzbQoK</text>
+        <text encoding="base64">CXJtIC1mIC5jYW5kX2VwZ194bHNtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRvdWNoIC5jYW5kX2VwZ194bHNtCg==</text>
+        <text encoding="base64">IyBEdW1teSBmaWxlIGZvciBNYWtlZmlsZQouY2FuZF9lcGdfeGxzbQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSNweXRob24gc2NyaXB0cy91cGRhdGVfY2FuZF9lcGdfY2FjaGUucHkgLS1mb3JjZQo=</text>
+        <text encoding="base64">CXRvdWNoIC5jYW5kX2VwZ194bHNtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSMgVGhpcyBydWxlIGdldHMgZXhlY3V0ZWQsIGZvciBpbnN0YW5jZSwgd2hlbiBhIC5jc3YgdGFibGUgaXMgbmV3ZXIgdGhhbiBjYW5kX2VwZy54bHNtLgoJIyBXZSBuZWVkIHRvIHRvdWNoIGNhbmRfZXBnLnhsc20gdG8gZmFrZSBhIHN1Y2Nlc3NmdWwgdGFyZ2V0IHVwZGF0ZS4KCSMgQnkgdG91Y2hpbmcgY2FuZF9lcGcueGxzbSwgLmNhbmRfZXBnX3hsc20gd2lsbCBhbHNvIG5lZWQgdG8gYmUgcmVidWlsdCwgd2hpY2ggaXMgZG9uZSBieSB1cGRhdGluZyB0aGUgY2FjaGUgc2hlZXRzLgoJdG91Y2ggY2FuZF9lcGcueGxzbQoKIyBjYW5kX2VwZy54bHNtIG5lZWRzIHRvIGRlcGVuZCBvbiBpdHNlbGYsIGJlY2F1c2UgaWYgYSBjYWNoZSBzaGVldCBpcyB1cGRhdGVkIGFuZCBjYW5kX2VwZy54bHNtIGlzIHJvbGxlZCBiYWNrLCB3ZSBuZWVkIHRvIHJlLXVwZGF0ZSB0aGUgY2FjaGUgc2hlZXQuCiMgSG93ZXZlciwgaXQgY2Fubm90IGRlcGVuZCBvbiBpdHNlbGYgZGlyZWN0bHksIGJlY2F1c2UgdGhhdCBjYXVzZXMgYSByZWN1cnNpdmUgZGVwZW5kZW5jeSwgd2hpY2ggaXNuJ3QgYWxsb3dlZC4KLmNhbmRfZXBnX3hsc206IGNhbmRfZXBnLnhsc20K</text>
+        <text encoding="base64">CSNweXRob24gc2NyaXB0cy91cGRhdGVfY2FuZF9lcGdfY2FjaGUucHkgLS1mb3JjZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSMgVGhpcyBydWxlIGdldHMgZXhlY3V0ZWQsIGZvciBpbnN0YW5jZSwgd2hlbiBhIC5jc3YgdGFibGUgaXMgbmV3ZXIgdGhhbiBjYW5kX2VwZy54bHNtLgoJIyBXZSBuZWVkIHRvIHRvdWNoIGNhbmRfZXBnLnhsc20gdG8gZmFrZSBhIHN1Y2Nlc3NmdWwgdGFyZ2V0IHVwZGF0ZS4KCSMgQnkgdG91Y2hpbmcgY2FuZF9lcGcueGxzbSwgLmNhbmRfZXBnX3hsc20gd2lsbCBhbHNvIG5lZWQgdG8gYmUgcmVidWlsdCwgd2hpY2ggaXMgZG9uZSBieSB1cGRhdGluZyB0aGUgY2FjaGUgc2hlZXRzLgoJdG91Y2ggY2FuZF9lcGcueGxzbQoKIyBjYW5kX2VwZy54bHNtIG5lZWRzIHRvIGRlcGVuZCBvbiBpdHNlbGYsIGJlY2F1c2UgaWYgYSBjYWNoZSBzaGVldCBpcyB1cGRhdGVkIGFuZCBjYW5kX2VwZy54bHNtIGlzIHJvbGxlZCBiYWNrLCB3ZSBuZWVkIHRvIHJlLXVwZGF0ZSB0aGUgY2FjaGUgc2hlZXQuCiMgSG93ZXZlciwgaXQgY2Fubm90IGRlcGVuZCBvbiBpdHNlbGYgZGlyZWN0bHksIGJlY2F1c2UgdGhhdCBjYXVzZXMgYSByZWN1cnNpdmUgZGVwZW5kZW5jeSwgd2hpY2ggaXNuJ3QgYWxsb3dlZC4KLmNhbmRfZXBnX3hsc206IGNhbmRfZXBnLnhsc20K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
