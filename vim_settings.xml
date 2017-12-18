@@ -100,10 +100,10 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513605531272">
-        <mark key="[" line="1421" column="79" />
-        <mark key="]" line="1421" column="79" />
-        <mark key="." line="1421" column="79" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513607456788">
+        <mark key="[" line="1422" column="3" />
+        <mark key="]" line="1422" column="4" />
+        <mark key="." line="1422" column="4" />
         <mark key="^" line="1421" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/GenerateVmSizeCsv/generate.py" timestamp="1508851248582">
@@ -1346,8 +1346,8 @@
       <jump line="678" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UEFaMXwxMi8xOC8yMDE3fGVmaWxsYW58VFJVRXxSZXN0b3JlZCBmb3JtdWxhIG9uIFVwZGF0ZXMgc2hlZXQgYW5kIGZpeGVkIHNjcmlwdAo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1356,7 +1356,7 @@
         <text>in_sgw_create_session</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBQeXRob24gdW5pdCB0ZXN0czoKdGVzdDogbW9kZWwvdGVzdHMvRGVtb01vZGVsL2RlbW8vY2FjaGUuZGIK</text>
+        <text encoding="base64">UEFaMXwxMi8xOC8yMDE3fGVmaWxsYW58VFJVRXxSZXN0b3JlZCBmb3JtdWxhIG9uIFVwZGF0ZXMgc2hlZXQgYW5kIGZpeGVkIHNjcmlwdAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaGVldCA9IHdvcmtib29rLnNoZWV0c1snVXBkYXRlcyddCg==</text>
