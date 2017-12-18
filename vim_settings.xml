@@ -100,12 +100,10 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513587284447">
-        <mark key="'" line="1418" column="97" />
-        <mark key="[" line="1418" column="101" />
-        <mark key="]" line="1418" column="101" />
-        <mark key="." line="1418" column="101" />
-        <mark key="^" line="1418" column="101" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513588703216">
+        <mark key="[" line="1420" column="0" />
+        <mark key="]" line="1420" column="0" />
+        <mark key="." line="1420" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/GenerateVmSizeCsv/generate.py" timestamp="1508851248582">
         <mark key="[" line="122" column="12" />
@@ -1035,10 +1033,7 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1513587475584">
         <mark key="'" line="91" column="27" />
-        <mark key="[" line="97" column="46" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="95" column="0" />
+        <mark key="[" line="91" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513259131339">
         <mark key="'" line="723" column="48" />
@@ -1336,8 +1331,8 @@
       <jump line="1418" column="97" filename="$USER_HOME$/workspace/candi_epg-main/updates.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tiable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHNjcmlwdCBoYXJkY29kZSB2ZXJzaW9uICMgaW4gY2FuZF9lcGcueGxzbQo=</text>
       </register>
       <register name="-" type="4">
         <text>tiable</text>
@@ -1349,7 +1344,7 @@
         <text encoding="base64">ICAgICAgICBzaGVldC5yYW5nZSgnQzUnKS52YWx1ZSA9IHRhYmxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJlbGVhc2UtY2FuZC1lcGcteGxzbQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHNjcmlwdCBoYXJkY29kZSB2ZXJzaW9uICMgaW4gY2FuZF9lcGcueGxzbQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1376,31 +1371,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVsZWFzZS1jYW5kLWVwZy14bHNtOiAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2FuZF9lcGcueGxzbTogc2NyaXB0cy91cGRhdGVfY2FuZF9lcGdfY2FjaGUucHkKY2FuZF9lcGcueGxzbTogc2NyaXB0cy91cGRhdGVfdXBkYXRlc19zaGVldC5weQo=</text>
+        <text encoding="base64">CXJlbGVhc2UtY2FuZC1lcGcteGxzbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVsZWFzZS1jYW5kLWVwZy14bHNtOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FuZF9lcGcueGxzbTogc2NyaXB0cy9pbnNlcnRfYnVpbGRfbnVtYmVyLnB5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhpcyBkaWQgbm90IHdvcms7IGhvdyB0byBkbyBpdCBzbyB0aGF0IGJ1aWxkIG51bWJlciBpcyBhbHdheXMgaW5zZXJ0ZWQgd2hlbiBidWlsZGluZyBjYW5kX2VwZ19tb2RlbC5leGUsIGJ1dCBub3QgdHdpY2U/ClBlcmhhcHMgdGhlIGJlbG93LgpjYW5kX2VwZ19tb2RlbC5leGU6IHVwZGF0ZXMuY3N2Cg==</text>
+        <text encoding="base64">Y2FuZF9lcGcueGxzbTogc2NyaXB0cy91cGRhdGVfY2FuZF9lcGdfY2FjaGUucHkKY2FuZF9lcGcueGxzbTogc2NyaXB0cy91cGRhdGVfdXBkYXRlc19zaGVldC5weQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB5dGhvbiBzY3JpcHRzL2luc2VydF9idWlsZF9udW1iZXIucHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB5dGhvbiBzY3JpcHRzL2luc2VydF9idWlsZF9udW1iZXIucHkK</text>
+        <text encoding="base64">Y2FuZF9lcGcueGxzbTogc2NyaXB0cy9pbnNlcnRfYnVpbGRfbnVtYmVyLnB5Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1454,8 +1449,8 @@
         <entry>q</entry>
         <entry>%s/self.helper/helper/g</entry>
         <entry>%s/ConnectionInstance/InstanceConnection/g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
