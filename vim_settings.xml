@@ -100,11 +100,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513603748120">
-        <mark key="[" line="1421" column="62" />
-        <mark key="]" line="1421" column="78" />
-        <mark key="." line="1421" column="78" />
-        <mark key="^" line="1421" column="78" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513605531272">
+        <mark key="[" line="1421" column="79" />
+        <mark key="]" line="1421" column="79" />
+        <mark key="." line="1421" column="79" />
+        <mark key="^" line="1421" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/GenerateVmSizeCsv/generate.py" timestamp="1508851248582">
         <mark key="[" line="122" column="12" />
@@ -231,7 +231,8 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1509454756079">
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1513605108606">
+        <mark key="'" line="678" column="76" />
         <mark key="[" line="1014" column="0" />
         <mark key="]" line="1014" column="0" />
         <mark key="." line="1014" column="0" />
@@ -1043,11 +1044,11 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1513591085231">
-        <mark key="'" line="131" column="24" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1513605674801">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513259131339">
         <mark key="'" line="723" column="48" />
@@ -1243,23 +1244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="19" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
-      <jump line="764" column="6" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" />
-      <jump line="4" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api.py" />
-      <jump line="657" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" />
-      <jump line="757" column="45" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="768" column="80" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_strange_scale_factor_worker_capacity.json" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/candi_epg-main/scripts/insert_build_number.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/workspace/candi_epg-main/scripts/insert_build_number.py" />
-      <jump line="25" column="9" filename="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" />
-      <jump line="41" column="13" filename="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" />
-      <jump line="17" column="35" filename="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" />
-      <jump line="28" column="35" filename="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" />
-      <jump line="29" column="23" filename="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_update_updates_sheet.py" />
-      <jump line="22" column="30" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
-      <jump line="37" column="36" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
-      <jump line="44" column="40" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
       <jump line="45" column="36" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
       <jump line="49" column="46" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
       <jump line="546" column="63" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
@@ -1343,19 +1327,36 @@
       <jump line="118" column="19" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="125" column="25" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="131" column="24" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="693" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="694" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="811" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="354" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="355" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="405" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="406" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="407" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="408" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="409" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="410" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="630" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="631" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="632" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="13" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="898" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="678" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVldCA9IHdvcmtib29rLnNoZWV0c1snVXBkYXRlcyddCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>clean-cand</text>
+        <text>in_sgw_create_session</text>
       </register>
-      <register name="0" type="4">
-        <text>workbook.sheets['Updates']</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBQeXRob24gdW5pdCB0ZXN0czoKdGVzdDogbW9kZWwvdGVzdHMvRGVtb01vZGVsL2RlbW8vY2FjaGUuZGIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaGVldCA9IHdvcmtib29rLnNoZWV0c1snVXBkYXRlcyddCg==</text>
@@ -1413,18 +1414,16 @@
       </register>
     </registers>
     <search>
-      <last-search>clean-cand</last-search>
+      <last-search>in_sgw_create_session</last-search>
       <last-offset />
-      <last-pattern>clean-cand</last-pattern>
+      <last-pattern>in_sgw_create_session</last-pattern>
       <last-replace>InstanceConnection</last-replace>
-      <last-substitute>ConnectionInstance</last-substitute>
+      <last-substitute>clean-cand</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8</entry>
-        <entry>searchor</entry>
         <entry>Consumer</entry>
         <entry encoding="base64">XDx0ZXN0c1w+</entry>
         <entry>consumer_path</entry>
@@ -1443,6 +1442,8 @@
         <entry>cand_e</entry>
         <entry>\.cand</entry>
         <entry>clean-cand</entry>
+        <entry encoding="base64">XDxpbl9zcGd3X2NyZWF0ZV9zZXNzaW9uXD4=</entry>
+        <entry>in_sgw_create_session</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExerciseOccasion/Exercise/g</entry>
