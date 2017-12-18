@@ -101,9 +101,9 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1513588703216">
-        <mark key="[" line="1420" column="0" />
-        <mark key="]" line="1420" column="0" />
-        <mark key="." line="1420" column="0" />
+        <mark key="[" line="1418" column="0" />
+        <mark key="]" line="1418" column="0" />
+        <mark key="." line="1418" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/GenerateVmSizeCsv/generate.py" timestamp="1508851248582">
         <mark key="[" line="122" column="12" />
@@ -443,12 +443,6 @@
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_updates_sheet.py" timestamp="1513587252926">
-        <mark key="[" line="20" column="83" />
-        <mark key="]" line="20" column="91" />
-        <mark key="." line="20" column="91" />
-        <mark key="^" line="20" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_cp_only.json" timestamp="1511276564629">
         <mark key="[" line="11" column="0" />
@@ -830,6 +824,12 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Unit test guidelines.txt" timestamp="1513590249131">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main2.py" timestamp="1449609338914">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="16" />
@@ -1030,10 +1030,6 @@
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1513587475584">
-        <mark key="'" line="91" column="27" />
-        <mark key="[" line="91" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513259131339">
         <mark key="'" line="723" column="48" />
@@ -1332,10 +1328,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHNjcmlwdCBoYXJkY29kZSB2ZXJzaW9uICMgaW4gY2FuZF9lcGcueGxzbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tiable</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>bein</text>
@@ -1344,7 +1340,7 @@
         <text encoding="base64">ICAgICAgICBzaGVldC5yYW5nZSgnQzUnKS52YWx1ZSA9IHRhYmxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHNjcmlwdCBoYXJkY29kZSB2ZXJzaW9uICMgaW4gY2FuZF9lcGcueGxzbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1371,31 +1367,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJlbGVhc2UtY2FuZC1lcGcteGxzbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVsZWFzZS1jYW5kLWVwZy14bHNtOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHNjcmlwdCBoYXJkY29kZSB2ZXJzaW9uICMgaW4gY2FuZF9lcGcueGxzbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FuZF9lcGcueGxzbTogc2NyaXB0cy91cGRhdGVfY2FuZF9lcGdfY2FjaGUucHkKY2FuZF9lcGcueGxzbTogc2NyaXB0cy91cGRhdGVfdXBkYXRlc19zaGVldC5weQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FuZF9lcGcueGxzbTogc2NyaXB0cy9pbnNlcnRfYnVpbGRfbnVtYmVyLnB5Cg==</text>
+        <text encoding="base64">CXJlbGVhc2UtY2FuZC1lcGcteGxzbQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1449,8 +1445,8 @@
         <entry>q</entry>
         <entry>%s/self.helper/helper/g</entry>
         <entry>%s/ConnectionInstance/InstanceConnection/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
