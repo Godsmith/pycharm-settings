@@ -837,10 +837,10 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Unit test guidelines.txt" timestamp="1513590249131">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Unit test guidelines.txt" timestamp="1513863363126">
+        <mark key="[" line="32" column="87" />
+        <mark key="]" line="32" column="87" />
+        <mark key="." line="32" column="87" />
         <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main2.py" timestamp="1449609338914">
@@ -1346,11 +1346,11 @@
       <jump line="590" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/web_gui/gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UEFaMXwxMi8xOC8yMDE3fGVmaWxsYW58VFJVRXxSZXN0b3JlZCBmb3JtdWxhIG9uIFVwZGF0ZXMgc2hlZXQgYW5kIGZpeGVkIHNjcmlwdAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>run(</text>
