@@ -1058,7 +1058,7 @@
         <mark key="'" line="723" column="48" />
         <mark key="^" line="344" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1515504307081">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1515572902822">
         <mark key="'" line="47" column="38" />
         <mark key="[" line="46" column="38" />
         <mark key="]" line="46" column="38" />
@@ -1414,7 +1414,7 @@
         <text encoding="base64">CSNweXRob24gc2NyaXB0cy91cGRhdGVfY2FuZF9lcGdfY2FjaGUucHkgLS1mb3JjZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1450,7 +1450,6 @@
         <entry>upload-bu</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ExerciseOccasion/Exercise/g</entry>
         <entry>s/:/:'</entry>
         <entry>s/:/':/g</entry>
         <entry>%s/: /': /g</entry>
@@ -1470,6 +1469,7 @@
         <entry>%s/ConnectionInstance/InstanceConnection/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1531,6 +1531,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
