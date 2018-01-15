@@ -378,6 +378,9 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" timestamp="1516016862341">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/lazy.txt" timestamp="1513868373936">
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
@@ -584,7 +587,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516009481625">
+      <file name="/Dummy.txt" timestamp="1516016846570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1082,10 +1085,6 @@
         <mark key="." line="35" column="22" />
         <mark key="^" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1513259131339">
-        <mark key="'" line="723" column="48" />
-        <mark key="^" line="344" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1515575736427">
         <mark key="'" line="48" column="49" />
         <mark key="[" line="31" column="51" />
@@ -1270,8 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="315" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="287" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="281" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="9" column="65" filename="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/datatypes_null.py" />
@@ -1370,6 +1367,8 @@
       <jump line="202" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="216" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="215" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="70" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1379,7 +1378,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>4</text>
+        <text>elif memb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBzZWxmLmVpLmV4dHJhY3RfdmFsdWVfZnJvbV9rZXkoJ3Rlc3QnKQo=</text>
@@ -1456,13 +1455,13 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jYWxpYnJhdGlvbl9tZW1fY3BiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoTest</text>
       </register>
     </registers>
     <search>
-      <last-search>4</last-search>
+      <last-search>elif memb</last-search>
       <last-offset />
-      <last-pattern>4</last-pattern>
+      <last-pattern>elif memb</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1470,8 +1469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run(</entry>
-        <entry>upload-bu</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>save_to_exc</entry>
         <entry>max_loads</entry>
@@ -1490,6 +1487,8 @@
         <entry>assert</entry>
         <entry>test_set_phy</entry>
         <entry>4</entry>
+        <entry>elif me</entry>
+        <entry>elif memb</entry>
       </history-search>
       <history-cmd>
         <entry>%:s/r620/r630/g</entry>
@@ -1506,12 +1505,12 @@
         <entry>w</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoTest</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0Li9n</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
