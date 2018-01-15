@@ -378,8 +378,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" timestamp="1516016862341">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" timestamp="1516017967226">
+        <mark key="'" line="202" column="12" />
+        <mark key="[" line="202" column="29" />
+        <mark key="]" line="202" column="29" />
+        <mark key="^" line="202" column="8" />
+        <mark key="." line="202" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/lazy.txt" timestamp="1513868373936">
         <mark key="[" line="218" column="0" />
@@ -1269,7 +1273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="281" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="9" column="65" filename="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/datatypes_null.py" />
       <jump line="39" column="43" filename="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/external_module.py" />
@@ -1369,16 +1372,17 @@
       <jump line="215" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="70" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
+      <jump line="202" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>elif memb</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBzZWxmLmVpLmV4dHJhY3RfdmFsdWVfZnJvbV9rZXkoJ3Rlc3QnKQo=</text>
@@ -1455,13 +1459,13 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jYWxpYnJhdGlvbl9tZW1fY3BiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoTest</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>elif memb</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>elif memb</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,7 +1473,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwuXD4=</entry>
         <entry>save_to_exc</entry>
         <entry>max_loads</entry>
         <entry>max_capacity_kpi_traffic_to</entry>
@@ -1489,9 +1492,9 @@
         <entry>4</entry>
         <entry>elif me</entry>
         <entry>elif memb</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
-        <entry>%:s/r620/r630/g</entry>
         <entry>%s/EPG 1.0/EPG1.0/g</entry>
         <entry>:</entry>
         <entry>q!</entry>
@@ -1511,6 +1514,7 @@
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0Li9n</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoTest</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
