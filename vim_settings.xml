@@ -1242,12 +1242,12 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1516010155254">
-        <mark key="'" line="663" column="0" />
-        <mark key="[" line="663" column="0" />
-        <mark key="]" line="663" column="0" />
-        <mark key="^" line="280" column="26" />
-        <mark key="." line="663" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1516093495010">
+        <mark key="'" line="603" column="37" />
+        <mark key="[" line="605" column="85" />
+        <mark key="]" line="606" column="23" />
+        <mark key="^" line="606" column="23" />
+        <mark key="." line="604" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_capacity_per_worker_SRIOV.json" timestamp="1511276598397">
         <mark key="[" line="11" column="0" />
@@ -1280,8 +1280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="77" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
-      <jump line="284" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="401" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="414" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="422" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1380,13 +1378,15 @@
       <jump line="226" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" />
       <jump line="271" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" />
       <jump line="295" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" />
+      <jump line="604" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>split</text>
       </register>
       <register name="/" type="4">
         <text>if.*and</text>
@@ -1395,7 +1395,7 @@
         <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBzZWxmLmVpLmV4dHJhY3RfdmFsdWVfZnJvbV9rZXkoJ3Rlc3QnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBJZiB0aGlzIG1lbWJlciBpcyBhbnkgPT4gYWRkIGFsbCB0aGUgZW51bSdzIG1lbWJlcnMuCiAgICAgICAgICAgICMgRW51bVR5cGUudHJlZSBpcyBub3QgaGFuZGxlZCBoZXJlIGJlY2F1c2Ugd2hlbiBnZW5lcmF0aW5nIGtleQogICAgICAgICAgICAjIGNvbWJpbmF0aW9ucyBmb3IgYSB0cmVlIHdlIHdhbnQgb25seSB0aGUgdHJlZSdzIGxlYXZlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHZtX3R5cGUgaW4gJ2dzYyBjcGIgcHBiJy5zcGxpdCgpOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1442,31 +1442,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9zaGFsbF9hbGxfbWVtYmVyc19iZV9hZGRlZChtZW1iZXIpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5laS5leHRyYWN0X2NwX3VwX2RlcGxveW1lbnQoKSwK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi50cmFuc2l0X3RyYWZmaWNfd2l0aF9oZWFkZXJzX2Jwcwo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51ZV90cmFmZmljX3dpdGhfaGVhZGVyc19pbnRvX3RoZV9ub2RlX3Bwc191bAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW1ldGVyX3R5cGUgaW4gJ2xvYWQgY2FsaWJyYXRpb24nLnNwbGl0KCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51ZV90cmFmZmljX3dpdGhfaGVhZGVyc19pbnRvX3RoZV9ub2RlX3Bwc19kbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBJZiB0aGlzIG1lbWJlciBpcyBhbnkgPT4gYWRkIGFsbCB0aGUgZW51bSdzIG1lbWJlcnMuCiAgICAgICAgICAgICMgRW51bVR5cGUudHJlZSBpcyBub3QgaGFuZGxlZCBoZXJlIGJlY2F1c2Ugd2hlbiBnZW5lcmF0aW5nIGtleQogICAgICAgICAgICAjIGNvbWJpbmF0aW9ucyBmb3IgYSB0cmVlIHdlIHdhbnQgb25seSB0aGUgdHJlZSdzIGxlYXZlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51ZV90cmFmZmljX3dpdGhfaGVhZGVyc19pbnRvX3RoZV9ub2RlX2Jwc191bAo=</text>
+        <text encoding="base64">ZGVmIF9zaGFsbF9hbGxfbWVtYmVyc19iZV9hZGRlZChtZW1iZXIpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51ZV90cmFmZmljX3dpdGhfaGVhZGVyc19pbnRvX3RoZV9ub2RlX2Jwc19kbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5laS5leHRyYWN0X2NwX3VwX2RlcGxveW1lbnQoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51ZV90cmFmZmljX3dpdGhfaGVhZGVyc19pbnRvX3RoZV9ub2RlX2Jwcwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi50cmFuc2l0X3RyYWZmaWNfd2l0aF9oZWFkZXJzX2Jwcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1514,7 +1514,6 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>action GotoClass</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0L2c=</entry>
@@ -1522,6 +1521,7 @@
         <entry>action RenameElement</entry>
         <entry>action GotoTest</entry>
         <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
