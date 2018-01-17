@@ -49,6 +49,12 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/setup.py" timestamp="1516182621592">
+        <mark key="[" line="9" column="101" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/main.py" timestamp="1480971776397">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="4" column="38" />
@@ -83,6 +89,12 @@
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/requirements.txt" timestamp="1516182645963">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8010_ssc3.json" timestamp="1511276579094">
         <mark key="[" line="11" column="0" />
@@ -1067,12 +1079,12 @@
         <mark key="." line="35" column="22" />
         <mark key="^" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1515575736427">
-        <mark key="'" line="48" column="49" />
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="34" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1516182896916">
+        <mark key="'" line="19" column="21" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
         <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="34" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1516024961785">
         <mark key="'" line="295" column="14" />
@@ -1246,7 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="650" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="654" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="658" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="663" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1346,22 +1357,23 @@
       <jump line="131" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="11" column="7" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="58" column="56" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="19" column="21" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">J25vc2UnLCAnc3BoaW54Jywg</text>
       </register>
       <register name="/" type="4">
-        <text>update_sqlite</text>
+        <text>&quot;&quot;&quot;</text>
       </register>
       <register name="0" type="4">
         <text>book.name for book in xlwings.books</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFF1ZXVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1408,45 +1420,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogSSBkaXNhYmxlZCB0aGlzIHRlc3RjYXNlIGFjY29yZGluZyB0byBodHRwczovL3BkdXBjLWppcmEubW8uc3cuZXJpY3Nzb24uc2UvYnJvd3NlL1BDRVBHQ0FOREktNjI5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIHNlbGYuY2FuZF9nc25fd2IgYW5kIG5vdCBzZWxmLl9jYW5kX2dzbl93Yl93YXNfb3BlbjoKICAgICAgICAgICAgICAgIHNlbGYuY2FuZF9nc25fd2IuY2xvc2UoKQogICAgICAgICAgICBpZiBzZWxmLmNhbmRfZXBnX3diIGFuZCBub3Qgc2VsZi5fY2FuZF9lcGdfd2Jfd2FzX29wZW46CiAgICAgICAgICAgICAgICBzZWxmLmNhbmRfZXBnX3diLmNsb3NlKCkKICAgICAgICBleGNlcHQgcHl3aW50eXBlcy5jb21fZXJyb3I6CiAgICAgICAgICAgICMgSW4gc29tZSB0ZXN0cywgdGhlIEV4Y2VsIGZpbGVzIGFyZSBjbG9zZWQgaW5zaWRlIHRoZSB0ZXN0LgogICAgICAgICAgICAjIFdoZW4gdGhvc2UgZmFpbCwgdGhlIEV4Y2VsIGZpbGUgbWlnaHQgYmUgY2xvc2VkIGJlZm9yZSB0aGUgdGVhcmRvd24uCiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjeHcuQXBwLmRpc3BsYXlfYWxlcnRzID0gc2VsZi5wcmV2aW91c19kaXNwbGF5X2FsZXJ0cwo=</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZXZpb3VzX2Rpc3BsYXlfYWxlcnRzID0geHcuQXBwLmRpc3BsYXlfYWxlcnRzCg==</text>
+        <text encoding="base64">c3BoaW54Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4dy5BcHAucXVpdCgwKQo=</text>
+        <text encoding="base64">c3BoaW54Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBpcGVfbmFtZSA9IHBpcGVfbmFtZQo=</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFF1ZXVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFdPUktCT09LX05BTUUgPSAnY2FuZF9nc24ueGxzbScK</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gUXVldWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIHNlbGYuY2FuZF9nc25fd2IgYW5kIG5vdCBzZWxmLl9jYW5kX2dzbl93Yl93YXNfb3BlbjoKICAgICAgICAgICAgICAgIHNlbGYuY2FuZF9nc25fd2IuY2xvc2UoKQogICAgICAgICAgICBpZiBzZWxmLmNhbmRfZXBnX3diIGFuZCBub3Qgc2VsZi5fY2FuZF9lcGdfd2Jfd2FzX29wZW46CiAgICAgICAgICAgICAgICBzZWxmLmNhbmRfZXBnX3diLmNsb3NlKCkKICAgICAgICBleGNlcHQgcHl3aW50eXBlcy5jb21fZXJyb3I6CiAgICAgICAgICAgICMgSW4gc29tZSB0ZXN0cywgdGhlIEV4Y2VsIGZpbGVzIGFyZSBjbG9zZWQgaW5zaWRlIHRoZSB0ZXN0LgogICAgICAgICAgICAjIFdoZW4gdGhvc2UgZmFpbCwgdGhlIEV4Y2VsIGZpbGUgbWlnaHQgYmUgY2xvc2VkIGJlZm9yZSB0aGUgdGVhcmRvd24uCiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>update_sqlite</last-search>
+      <last-search>&quot;&quot;&quot;</last-search>
       <last-offset />
-      <last-pattern>update_sqlite</last-pattern>
+      <last-pattern>&quot;&quot;&quot;</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return sel</entry>
         <entry>self.ei.di</entry>
         <entry>assert</entry>
         <entry>test_set_phy</entry>
@@ -1466,6 +1477,7 @@
         <entry>pywin</entry>
         <entry>pywintypes</entry>
         <entry>update_sqlite</entry>
+        <entry>&quot;&quot;&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/EPG 1.0/EPG1.0/g</entry>
@@ -1477,7 +1489,6 @@
         <entry>%s/self.helper/helper/g</entry>
         <entry>%s/ConnectionInstance/InstanceConnection/g</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action GotoClass</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
@@ -1487,6 +1498,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
+        <entry>w</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
