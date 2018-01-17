@@ -615,11 +615,11 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/runtests.py" timestamp="1513585147947">
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/runtests.py" timestamp="1516190644309">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main2.py" timestamp="1449524083617">
         <mark key="[" line="6" column="0" />
@@ -1376,7 +1376,7 @@
         <text>book.name for book in xlwings.books</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGZvciBhcHAgaW4geHcuYXBwczoKICAgICAgICAgICAgYXBwLnF1aXQoKQo+Pj4+Pj4+IEZpeCBQQ0VQR0NBTkRJLTUzMTogUnVuIGF1eGlsaWFyaWVzIGluIGRhZW1vbiB0aHJlYWRzIGluc3RlYWQgb2YgaW4gcHJvY2Vzc2VzCg==</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1423,28 +1423,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IFtdCiAgICAnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGZvciBhcHAgaW4geHcuYXBwczoKICAgICAgICAgICAgYXBwLnF1aXQoKQo+Pj4+Pj4+IEZpeCBQQ0VQR0NBTkRJLTUzMTogUnVuIGF1eGlsaWFyaWVzIGluIGRhZW1vbiB0aHJlYWRzIGluc3RlYWQgb2YgaW4gcHJvY2Vzc2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZGVmIHRlYXJfZG93bl9hbGxfdGVzdHMoc2VsZik6Cj4+Pj4+Pj4gRml4IFBDRVBHQ0FOREktNTMxOiBSdW4gYXV4aWxpYXJpZXMgaW4gZGFlbW9uIHRocmVhZHMgaW5zdGVhZCBvZiBpbiBwcm9jZXNzZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXggUENFUEdDQU5ESS01MzE6IFJ1biBhdXhpbGlhcmllcyBpbiBkYWVtb24gdGhyZWFkcyBpbnN0ZWFkIG9mIGluIHByb2Nlc3Nlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFF1ZXVlCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgZGVmIHRlYXJfZG93bl9hbGxfdGVzdHMoc2VsZik6Cj4+Pj4+Pj4gRml4IFBDRVBHQ0FOREktNTMxOiBSdW4gYXV4aWxpYXJpZXMgaW4gZGFlbW9uIHRocmVhZHMgaW5zdGVhZCBvZiBpbiBwcm9jZXNzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggUENFUEdDQU5ESS01MzE6IFJ1biBhdXhpbGlhcmllcyBpbiBkYWVtb24gdGhyZWFkcyBpbnN0ZWFkIG9mIGluIHByb2Nlc3Nlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFF1ZXVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
