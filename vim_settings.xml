@@ -162,12 +162,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1511425128040">
-        <mark key="'" line="657" column="0" />
-        <mark key="[" line="955" column="0" />
-        <mark key="]" line="955" column="0" />
-        <mark key="^" line="955" column="20" />
-        <mark key="." line="955" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1516197009084">
+        <mark key="'" line="392" column="4" />
+        <mark key="[" line="394" column="4" />
+        <mark key="]" line="394" column="4" />
+        <mark key="^" line="395" column="66" />
+        <mark key="." line="394" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1513584952000">
         <mark key="[" line="2" column="2" />
@@ -592,7 +592,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516193840689">
+      <file name="/Dummy.txt" timestamp="1516196362034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -616,10 +616,9 @@
         <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/runtests.py" timestamp="1516190644309">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main2.py" timestamp="1449524083617">
         <mark key="[" line="6" column="0" />
@@ -964,6 +963,12 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/runtests.py" timestamp="1516196331592">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi494.json" timestamp="1511276602768">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1095,12 +1100,6 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1516182896916">
         <mark key="'" line="19" column="21" />
         <mark key="^" line="31" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1516024961785">
-        <mark key="'" line="295" column="14" />
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="42" />
-        <mark key="." line="32" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recepten_se_recipe_web_parser.py" timestamp="1420663575634">
         <mark key="[" line="74" column="8" />
@@ -1268,7 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="360" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="148" column="43" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="153" column="43" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
@@ -1368,22 +1366,23 @@
       <jump line="254" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/How to set up the development environment.txt" />
       <jump line="49" column="36" filename="$USER_HOME$/workspace/candi_epg-main/documents/How to set up the development environment.txt" />
+      <jump line="392" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2luY2Ug</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>2012</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text>book.name for book in xlwings.books</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1430,37 +1429,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NS4gU2V0IHRoZSBkZWZhdWx0IHRlc3QgcnVubmVyIHRvIHB5LnRlc3Q6CiAgIEZpbGUvU2V0dGluZ3MvVG9vbHMvUHl0aG9uIEludGVncmF0ZWQgVG9vbHMvRGVmYXVsdCB0ZXN0IHJ1bm5lcgogICBUaGlzIHdheSwgdGVzdHMgd2lsbCBydW4gd2l0aCBweS50ZXN0IGluc3RlYWQgb2Ygd2l0aCB1bml0dGVzdCB3aGVuIHJpZ2h0LWNsaWNraW5nIGEgZmlsZSBhbmQgY2hvb3NpbmcgIlJ1biB0ZXN0Li4uIgo=</text>
+        <text encoding="base64">aW1wb3J0IG5vc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcnJwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IFtdCiAgICAnJycK</text>
+        <text encoding="base64">NS4gU2V0IHRoZSBkZWZhdWx0IHRlc3QgcnVubmVyIHRvIHB5LnRlc3Q6CiAgIEZpbGUvU2V0dGluZ3MvVG9vbHMvUHl0aG9uIEludGVncmF0ZWQgVG9vbHMvRGVmYXVsdCB0ZXN0IHJ1bm5lcgogICBUaGlzIHdheSwgdGVzdHMgd2lsbCBydW4gd2l0aCBweS50ZXN0IGluc3RlYWQgb2Ygd2l0aCB1bml0dGVzdCB3aGVuIHJpZ2h0LWNsaWNraW5nIGEgZmlsZSBhbmQgY2hvb3NpbmcgIlJ1biB0ZXN0Li4uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGZvciBhcHAgaW4geHcuYXBwczoKICAgICAgICAgICAgYXBwLnF1aXQoKQo+Pj4+Pj4+IEZpeCBQQ0VQR0NBTkRJLTUzMTogUnVuIGF1eGlsaWFyaWVzIGluIGRhZW1vbiB0aHJlYWRzIGluc3RlYWQgb2YgaW4gcHJvY2Vzc2VzCg==</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IFtdCiAgICAnJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGZvciBhcHAgaW4geHcuYXBwczoKICAgICAgICAgICAgYXBwLnF1aXQoKQo+Pj4+Pj4+IEZpeCBQQ0VQR0NBTkRJLTUzMTogUnVuIGF1eGlsaWFyaWVzIGluIGRhZW1vbiB0aHJlYWRzIGluc3RlYWQgb2YgaW4gcHJvY2Vzc2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZGVmIHRlYXJfZG93bl9hbGxfdGVzdHMoc2VsZik6Cj4+Pj4+Pj4gRml4IFBDRVBHQ0FOREktNTMxOiBSdW4gYXV4aWxpYXJpZXMgaW4gZGFlbW9uIHRocmVhZHMgaW5zdGVhZCBvZiBpbiBwcm9jZXNzZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXggUENFUEdDQU5ESS01MzE6IFJ1biBhdXhpbGlhcmllcyBpbiBkYWVtb24gdGhyZWFkcyBpbnN0ZWFkIG9mIGluIHByb2Nlc3Nlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>2012</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>2012</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1468,7 +1467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>if*and</entry>
         <entry>if.*and</entry>
         <entry>extract_cali</entry>
         <entry>sb</entry>
@@ -1488,6 +1486,7 @@
         <entry encoding="base64">PDw8PA==</entry>
         <entry encoding="base64">Pj4+Pj4=</entry>
         <entry>2012</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>:</entry>
