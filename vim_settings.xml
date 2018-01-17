@@ -592,7 +592,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516191143718">
+      <file name="/Dummy.txt" timestamp="1516192177039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -660,6 +660,13 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/How to set up the development environment.txt" timestamp="1516192420030">
+        <mark key="'" line="49" column="36" />
+        <mark key="[" line="161" column="20" />
+        <mark key="]" line="161" column="20" />
+        <mark key="." line="161" column="20" />
+        <mark key="^" line="160" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main.py" timestamp="1449948856646">
         <mark key="[" line="2" column="0" />
@@ -890,7 +897,7 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/db/db_tests.py" timestamp="1516191141231">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/db/db_tests.py" timestamp="1516192146120">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="15" />
@@ -1261,8 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
-      <jump line="339" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="346" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="360" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="148" column="43" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
@@ -1361,13 +1366,15 @@
       <jump line="136" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" />
       <jump line="32" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" />
       <jump line="254" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/How to set up the development environment.txt" />
+      <jump line="49" column="36" filename="$USER_HOME$/workspace/candi_epg-main/documents/How to set up the development environment.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J25vc2UnLCAnc3BoaW54Jywg</text>
+        <text encoding="base64">c2luY2Ug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+Pj4=</text>
@@ -1376,7 +1383,7 @@
         <text>book.name for book in xlwings.books</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcnJwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1423,31 +1430,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IFtdCiAgICAnJycK</text>
+        <text encoding="base64">NS4gU2V0IHRoZSBkZWZhdWx0IHRlc3QgcnVubmVyIHRvIHB5LnRlc3Q6CiAgIEZpbGUvU2V0dGluZ3MvVG9vbHMvUHl0aG9uIEludGVncmF0ZWQgVG9vbHMvRGVmYXVsdCB0ZXN0IHJ1bm5lcgogICBUaGlzIHdheSwgdGVzdHMgd2lsbCBydW4gd2l0aCBweS50ZXN0IGluc3RlYWQgb2Ygd2l0aCB1bml0dGVzdCB3aGVuIHJpZ2h0LWNsaWNraW5nIGEgZmlsZSBhbmQgY2hvb3NpbmcgIlJ1biB0ZXN0Li4uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGZvciBhcHAgaW4geHcuYXBwczoKICAgICAgICAgICAgYXBwLnF1aXQoKQo+Pj4+Pj4+IEZpeCBQQ0VQR0NBTkRJLTUzMTogUnVuIGF1eGlsaWFyaWVzIGluIGRhZW1vbiB0aHJlYWRzIGluc3RlYWQgb2YgaW4gcHJvY2Vzc2VzCg==</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IFtdCiAgICAnJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGZvciBhcHAgaW4geHcuYXBwczoKICAgICAgICAgICAgYXBwLnF1aXQoKQo+Pj4+Pj4+IEZpeCBQQ0VQR0NBTkRJLTUzMTogUnVuIGF1eGlsaWFyaWVzIGluIGRhZW1vbiB0aHJlYWRzIGluc3RlYWQgb2YgaW4gcHJvY2Vzc2VzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgZGVmIHRlYXJfZG93bl9hbGxfdGVzdHMoc2VsZik6Cj4+Pj4+Pj4gRml4IFBDRVBHQ0FOREktNTMxOiBSdW4gYXV4aWxpYXJpZXMgaW4gZGFlbW9uIHRocmVhZHMgaW5zdGVhZCBvZiBpbiBwcm9jZXNzZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXggUENFUEdDQU5ESS01MzE6IFJ1biBhdXhpbGlhcmllcyBpbiBkYWVtb24gdGhyZWFkcyBpbnN0ZWFkIG9mIGluIHByb2Nlc3Nlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFF1ZXVlCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgZGVmIHRlYXJfZG93bl9hbGxfdGVzdHMoc2VsZik6Cj4+Pj4+Pj4gRml4IFBDRVBHQ0FOREktNTMxOiBSdW4gYXV4aWxpYXJpZXMgaW4gZGFlbW9uIHRocmVhZHMgaW5zdGVhZCBvZiBpbiBwcm9jZXNzZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggUENFUEdDQU5ESS01MzE6IFJ1biBhdXhpbGlhcmllcyBpbiBkYWVtb24gdGhyZWFkcyBpbnN0ZWFkIG9mIGluIHByb2Nlc3Nlcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1501,8 +1508,8 @@
         <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
