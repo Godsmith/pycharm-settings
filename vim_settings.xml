@@ -578,7 +578,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516094680429">
+      <file name="/Dummy.txt" timestamp="1516180463632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -635,9 +635,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" timestamp="1513248523145">
-        <mark key="'" line="684" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day23/main.py" timestamp="1450996622598">
         <mark key="[" line="4" column="0" />
@@ -791,9 +788,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/web_gui/gui.py" timestamp="1513761636429">
-        <mark key="'" line="590" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" timestamp="1511183759896">
         <mark key="'" line="13" column="39" />
@@ -954,12 +948,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1516178279234">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1516180173990">
         <mark key="'" line="11" column="7" />
         <mark key="[" line="256" column="34" />
-        <mark key="]" line="256" column="28" />
-        <mark key="." line="256" column="28" />
-        <mark key="^" line="256" column="28" />
+        <mark key="]" line="250" column="22" />
+        <mark key="." line="250" column="22" />
+        <mark key="^" line="250" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vsfo.json" timestamp="1512737284873">
         <mark key="[" line="11" column="31" />
@@ -1066,8 +1060,8 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1516094516745">
-        <mark key="'" line="24" column="51" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1516180204601">
+        <mark key="'" line="58" column="56" />
         <mark key="[" line="35" column="22" />
         <mark key="]" line="35" column="22" />
         <mark key="." line="35" column="22" />
@@ -1102,7 +1096,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/settings.py" timestamp="1511165461132">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/settings.py" timestamp="1516180424544">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="36" column="41" />
         <mark key="." line="36" column="34" />
@@ -1252,7 +1246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="646" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="650" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="654" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="658" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1352,6 +1345,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="131" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="11" column="7" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="58" column="56" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1361,7 +1355,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pywintypes</text>
+        <text>update_sqlite</text>
       </register>
       <register name="0" type="4">
         <text>book.name for book in xlwings.books</text>
@@ -1438,21 +1432,20 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gUXVldWUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>pywintypes</last-search>
+      <last-search>update_sqlite</last-search>
       <last-offset />
-      <last-pattern>pywintypes</last-pattern>
+      <last-pattern>update_sqlite</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>return sel</entry>
         <entry>self.ei.di</entry>
         <entry>assert</entry>
@@ -1472,6 +1465,7 @@
         <entry>start</entry>
         <entry>pywin</entry>
         <entry>pywintypes</entry>
+        <entry>update_sqlite</entry>
       </history-search>
       <history-cmd>
         <entry>%s/EPG 1.0/EPG1.0/g</entry>
@@ -1491,9 +1485,9 @@
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0Li9n</entry>
         <entry>action GotoTest</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
