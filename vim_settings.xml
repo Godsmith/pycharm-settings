@@ -808,9 +808,6 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1516103967130">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1511339606705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -957,12 +954,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1516104769346">
-        <mark key="'" line="134" column="73" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-        <mark key="^" line="254" column="26" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1516178279234">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="256" column="34" />
+        <mark key="]" line="256" column="28" />
+        <mark key="." line="256" column="28" />
+        <mark key="^" line="256" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vsfo.json" timestamp="1512737284873">
         <mark key="[" line="11" column="31" />
@@ -1255,12 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="626" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="629" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="632" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="635" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="638" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="642" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="646" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="650" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="654" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1316,7 +1307,6 @@
       <jump line="222" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="6" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="7" column="10" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="30" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="37" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="42" column="43" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
@@ -1355,22 +1345,29 @@
       <jump line="134" column="73" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="48" column="24" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
       <jump line="2" column="16" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
+      <jump line="253" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="12" column="7" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="133" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="87" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="131" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>pywintypes</text>
       </register>
       <register name="0" type="4">
         <text>book.name for book in xlwings.books</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIHNlbGYuY2FuZF9nc25fd2IgYW5kIG5vdCBzZWxmLl9jYW5kX2dzbl93Yl93YXNfb3BlbjoKICAgICAgICAgICAgICAgIHNlbGYuY2FuZF9nc25fd2IuY2xvc2UoKQogICAgICAgICAgICBpZiBzZWxmLmNhbmRfZXBnX3diIGFuZCBub3Qgc2VsZi5fY2FuZF9lcGdfd2Jfd2FzX29wZW46CiAgICAgICAgICAgICAgICBzZWxmLmNhbmRfZXBnX3diLmNsb3NlKCkKICAgICAgICBleGNlcHQgcHl3aW50eXBlcy5jb21fZXJyb3I6CiAgICAgICAgICAgICMgSW4gc29tZSB0ZXN0cywgdGhlIEV4Y2VsIGZpbGVzIGFyZSBjbG9zZWQgaW5zaWRlIHRoZSB0ZXN0LgogICAgICAgICAgICAjIFdoZW4gdGhvc2UgZmFpbCwgdGhlIEV4Y2VsIGZpbGUgbWlnaHQgYmUgY2xvc2VkIGJlZm9yZSB0aGUgdGVhcmRvd24uCiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFF1ZXVlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1417,46 +1414,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjeHcuQXBwLmRpc3BsYXlfYWxlcnRzID0gc2VsZi5wcmV2aW91c19kaXNwbGF5X2FsZXJ0cwo=</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZXZpb3VzX2Rpc3BsYXlfYWxlcnRzID0geHcuQXBwLmRpc3BsYXlfYWxlcnRzCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIHNlbGYuY2FuZF9nc25fd2IgYW5kIG5vdCBzZWxmLl9jYW5kX2dzbl93Yl93YXNfb3BlbjoKICAgICAgICAgICAgICAgIHNlbGYuY2FuZF9nc25fd2IuY2xvc2UoKQogICAgICAgICAgICBpZiBzZWxmLmNhbmRfZXBnX3diIGFuZCBub3Qgc2VsZi5fY2FuZF9lcGdfd2Jfd2FzX29wZW46CiAgICAgICAgICAgICAgICBzZWxmLmNhbmRfZXBnX3diLmNsb3NlKCkKICAgICAgICBleGNlcHQgcHl3aW50eXBlcy5jb21fZXJyb3I6CiAgICAgICAgICAgICMgSW4gc29tZSB0ZXN0cywgdGhlIEV4Y2VsIGZpbGVzIGFyZSBjbG9zZWQgaW5zaWRlIHRoZSB0ZXN0LgogICAgICAgICAgICAjIFdoZW4gdGhvc2UgZmFpbCwgdGhlIEV4Y2VsIGZpbGUgbWlnaHQgYmUgY2xvc2VkIGJlZm9yZSB0aGUgdGVhcmRvd24uCiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4dy5BcHAucXVpdCgwKQo=</text>
+        <text encoding="base64">ICAgICAgICAjeHcuQXBwLmRpc3BsYXlfYWxlcnRzID0gc2VsZi5wcmV2aW91c19kaXNwbGF5X2FsZXJ0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBpcGVfbmFtZSA9IHBpcGVfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZXZpb3VzX2Rpc3BsYXlfYWxlcnRzID0geHcuQXBwLmRpc3BsYXlfYWxlcnRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdPUktCT09LX05BTUUgPSAnY2FuZF9nc24ueGxzbScK</text>
+        <text encoding="base64">ICAgICAgICB4dy5BcHAucXVpdCgwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gUXVldWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBpcGVfbmFtZSA9IHBpcGVfbmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYucXVldWUuZW1wdHkoKToKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgIFdPUktCT09LX05BTUUgPSAnY2FuZF9nc24ueGxzbScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdHZXQgdGhlIG9wZW4gd29ya2Jvb2tzLicpCiAgICAgICAgICAgIG9wZW5fd29ya2Jvb2tzID0gW2Jvb2submFtZSBmb3IgYm9vayBpbiB4bHdpbmdzLmJvb2tzXQogICAgICAgICAgICBsb2dnZXIuZGVidWcoJ1RoZSBvcGVuIHdvcmtib29rcyBhcmUgWyVzXS4nICUgJywgJy5qb2luKG9wZW5fd29ya2Jvb2tzKSkKICAgICAgICAgICAgIyB0cnk6CiAgICAgICAgICAgICMgICAgIGxvZ2dlci5kZWJ1ZygnVGhlIG9wZW4gd29ya2Jvb2tzIGFyZSBbJXNdLicgJQogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgJywgJy5qb2luKGJvb2submFtZSBmb3IgYm9vayBpbiB4bHdpbmdzLmJvb2tzKSkKICAgICAgICAgICAgIyBleGNlcHQgKHB5d2ludHlwZXMuY29tX2Vycm9yLCBPU0Vycm9yKSBhcyBlOgogICAgICAgICAgICAjICAgICBsb2dnZXIuZGVidWcoJ0V4Y2VsIGlzIGJ1c3k6ICcgKyBzdHIoZSkpCiAgICAgICAgICAgICMgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIGFueShtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgbmFtZTogbmFtZS5zdGFydHN3aXRoKHNlbGYuV09SS0JPT0tfTkFNRSksCiAgICAgICAgICAgICAgICBvcGVuX3dvcmtib29rcwogICAgICAgICAgICApKToKICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnVGhlIHdvcmtib29rICVzIGlzIG9wZW4uJyAlIHNlbGYuV09SS0JPT0tfTkFNRSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoJ1RoZSB3b3JrYm9vayAlcyBpcyBub3Qgb3Blbi4nICUgc2VsZi5XT1JLQk9PS19OQU1FKQogICAgICAgICAgICAgICAgc2VsZi5zZW5kX3N1aWNpZGVfY29tbWFuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gUXVldWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>pywintypes</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>pywintypes</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extract</entry>
-        <entry>def extract</entry>
         <entry>return</entry>
         <entry>return sel</entry>
         <entry>self.ei.di</entry>
@@ -1475,6 +1470,8 @@
         <entry>process</entry>
         <entry>started</entry>
         <entry>start</entry>
+        <entry>pywin</entry>
+        <entry>pywintypes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/EPG 1.0/EPG1.0/g</entry>
