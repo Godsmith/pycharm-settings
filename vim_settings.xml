@@ -487,12 +487,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1516281969543">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1516283398850">
         <mark key="'" line="49" column="41" />
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="29" />
+        <mark key="[" line="66" column="42" />
+        <mark key="]" line="66" column="42" />
+        <mark key="^" line="65" column="41" />
+        <mark key="." line="66" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_larger_ppb_and_cpb_vm_sizes_in_epg_2018q1.json" timestamp="1511276557216">
         <mark key="[" line="11" column="0" />
@@ -844,7 +844,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1516200437213">
+      <file name="/Python Console" timestamp="1516283364180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516199157670">
@@ -1265,10 +1265,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/orchestrator_tests.py" timestamp="1511183991095">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/orchestrator_tests.py" timestamp="1516283487747">
+        <mark key="[" line="175" column="60" />
+        <mark key="]" line="175" column="60" />
+        <mark key="." line="175" column="60" />
+        <mark key="^" line="177" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1508851159835">
         <mark key="[" line="44" column="37" />
@@ -1420,16 +1421,16 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, validate_excel_input</text>
       </register>
       <register name="/" type="4">
-        <text>def to_</text>
+        <text encoding="base64">XDxmb3JtYXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>dimensioning_results, excel_input)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI2Vycm9yX21zZyA9ICdFUlJPUjoge30nLmZvcm1hdCgnJy5qb2luKFthIGZvciBhIGluIGUuYXJnc10pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX3Jlc3VsdHMgPSBEaW1lbnNpb25pbmdSZXN1bHRzKCkK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZXBnX2RpbWVuc2lvbmluZy5vcmNoZXN0cmF0b3IudmFsaWRhdGVfZXhjZWxfaW5wdXQnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1475,46 +1476,46 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RvcmVfZGF0YToKICAgICAgICAgICAgICAgIHNlbGYud3JpdGVyLnN1Ym1pdCgKICAgICAgICAgICAgICAgICAgICBTdG9yYWdlLnNhdmVfZXhlY3V0aW9uLAogICAgICAgICAgICAgICAgICAgIGlucHV0Xywgb3V0cHV0LCBkaW1lbnNpb25pbmdfcmVzdWx0cykK</text>
+      <register name="2" type="4">
+        <text>format(''.join([a for a in e.args]))
+            error_msg = 'ERROR: ' + str(e)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc3RvcmVfZGF0YV9pZl9lbmFibGVkKGRpbWVuc2lvbmluZ19yZXN1bHRzLCBpbnB1dF8sIG91dHB1dCwgc3RvcmVfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX3Jlc3VsdHMgPSBEaW1lbnNpb25pbmdSZXN1bHRzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAjIHNhdmUgdGhlIGRpbWVuc2lvbmluZyByZXN1bHQgZGlyZWN0bHkgd2l0aG91dCBkZWxheQogICAgICAgICAgICAgICAgIyBTdG9yYWdlLnNhdmVfZXhlY3V0aW9uKGlucHV0Xywgb3V0cHV0LCBkaW1lbnNpb25pbmdfcmVzdWx0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RvcmVfZGF0YToKICAgICAgICAgICAgICAgIHNlbGYud3JpdGVyLnN1Ym1pdCgKICAgICAgICAgICAgICAgICAgICBTdG9yYWdlLnNhdmVfZXhlY3V0aW9uLAogICAgICAgICAgICAgICAgICAgIGlucHV0Xywgb3V0cHV0LCBkaW1lbnNpb25pbmdfcmVzdWx0cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGltZW5zaW9uaW5nX21vZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc3RvcmVfZGF0YV9pZl9lbmFibGVkKGRpbWVuc2lvbmluZ19yZXN1bHRzLCBpbnB1dF8sIG91dHB1dCwgc3RvcmVfZGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX21vZGUgPSBzZWxmLmdldF9kaW1lbnNpb25pbmdfbW9kZShleGNlbF9pbnB1dCkK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAjIHNhdmUgdGhlIGRpbWVuc2lvbmluZyByZXN1bHQgZGlyZWN0bHkgd2l0aG91dCBkZWxheQogICAgICAgICAgICAgICAgIyBTdG9yYWdlLnNhdmVfZXhlY3V0aW9uKGlucHV0Xywgb3V0cHV0LCBkaW1lbnNpb25pbmdfcmVzdWx0cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cnR5cGU6IHR1cGxlW3N0ciwgZXBnX2RpbWVuc2lvbmluZy5kaW1lbnNpb25pbmdfbW9kZXMuRGltZW5zaW9uaW5nUmVzdWx0c10K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGltZW5zaW9uaW5nX21vZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBjYXRjaF9leGNlcHRpb25zOiBib29sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX21vZGUgPSBzZWxmLmdldF9kaW1lbnNpb25pbmdfbW9kZShleGNlbF9pbnB1dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBzdG9yZV9kYXRhOiBib29sCg==</text>
+        <text encoding="base64">ICAgICAgICA6cnR5cGU6IHR1cGxlW3N0ciwgZXBnX2RpbWVuc2lvbmluZy5kaW1lbnNpb25pbmdfbW9kZXMuRGltZW5zaW9uaW5nUmVzdWx0c10K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>def to_</last-search>
+      <last-search encoding="base64">XDxmb3JtYXRcPg==</last-search>
       <last-offset />
-      <last-pattern>def to_</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtYXRcPg==</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>process</entry>
         <entry>started</entry>
         <entry>start</entry>
         <entry>pywin</entry>
@@ -1534,6 +1535,7 @@
         <entry>dict[</entry>
         <entry>get_dimens</entry>
         <entry>def to_</entry>
+        <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>:</entry>
