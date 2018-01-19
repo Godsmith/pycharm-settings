@@ -840,7 +840,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1516355524815">
+      <file name="/Python Console" timestamp="1516355760714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516351153985">
@@ -1216,12 +1216,12 @@
         <mark key="]" line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" timestamp="1516355517790">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" timestamp="1516356433712">
+        <mark key="'" line="24" column="55" />
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" timestamp="1513257836761">
         <mark key="[" line="12" column="6" />
@@ -1323,12 +1323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="256" column="62" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="257" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="259" column="105" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="263" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="267" column="50" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="307" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="308" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="313" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
@@ -1423,22 +1417,28 @@
       <jump line="621" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="13" column="34" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
+      <jump line="42" column="15" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
+      <jump line="32" column="55" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
+      <jump line="30" column="33" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
+      <jump line="25" column="55" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>scope='module'</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsIGltcG9ydCBzZXR0aW5ncywgZGF0YXR5cGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92bV9jcGJfc3RhbmRieScsIDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfYXBpCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92bV9jcGJfc3RhbmRieScsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1485,37 +1485,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlbW92ZXNfcmVkdW5kYW50X3BwYihzZWxmLCBoZWxwZXIpOgogICAgICAgIGluXyA9IGhlbHBlci5nZXRfZXBnX21vZGVsX2lucHV0X2RhdGEoJ2xvd190cmFmZmljX3ZlcGcuanNvbicpCiAgICAgICAgaGVscGVyLnNldF9hcGlfdmFsdWUoaW5fLCAnaW5fdm1fcHBiX3N0YW5kYnknLCAxKQoKICAgICAgICBjcGJfY291bnRfd2l0aG91dF9mYWlsdXJlID0gc2VsZi5jcGJfY291bnQoaGVscGVyLCBpbl8pCgogICAgICAgIGhlbHBlci5zZXRfYXBpX3ZhbHVlKGluXywgJ2luX2ZhaWx1cmVfY2FzZV9lbmFibGVkJywgJ1RSVUUnKQogICAgICAgIGNwYl9jb3VudF93aXRoX2ZhaWx1cmUgPSBzZWxmLmNwYl9jb3VudChoZWxwZXIsIGluXykKCiAgICAgICAgYXNzZXJ0IGNwYl9jb3VudF93aXRoX2ZhaWx1cmUgPT0gY3BiX2NvdW50X3dpdGhvdXRfZmFpbHVyZQoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBlcnJvcl9tc2cgPSAnRVJST1I6IHt9Jy5mb3JtYXQoJycuam9pbihbYSBmb3IgYSBpbiBlLmFyZ3NdKSkKPj4+Pj4+PiBiN2RkMmNhZS4uLiBSZWZhY3RvcmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRfYXBpLCBvdXRfZGV0YWlscyA9IGhlbHBlci5ydW5fZXBnX21vZGVsKGluXykKCiAgICAgICAgY3BiX2NvdW50X3dpdGhfZmFpbHVyZSA9IG91dF9hcGlbJ3B5dGhvbiddWydvdXRfdm1fcGVyX3ZuZl9jcGJfYXZhaWxhYmxlJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZGMxZjRjZS4uLiBGaXggY3Jhc2ggaW4gZXJyb3IgaGFuZGxpbmcK</text>
+        <text encoding="base64">ICAgICAgICBvdXRfYXBpLCBvdXRfZGV0YWlscyA9IGhlbHBlci5ydW5fZXBnX21vZGVsKGluXykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2Vycm9yX21zZyA9ICdFUlJPUjoge30nLmZvcm1hdCgnJy5qb2luKFthIGZvciBhIGluIGUuYXJnc10pKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRfYXBpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>out</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>out</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
       <last-dir>-1</last-dir>
@@ -1523,7 +1523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tear_down</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">PDw8PA==</entry>
         <entry encoding="base64">Pj4+Pj4=</entry>
@@ -1543,6 +1542,7 @@
         <entry>sgw</entry>
         <entry>'python</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>out</entry>
       </history-search>
       <history-cmd>
         <entry>:</entry>
