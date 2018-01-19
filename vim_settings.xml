@@ -345,11 +345,11 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" timestamp="1516290452012">
-        <mark key="[" line="38" column="74" />
-        <mark key="]" line="38" column="74" />
-        <mark key="." line="38" column="74" />
-        <mark key="^" line="38" column="73" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" timestamp="1516343680872">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="94" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_not_valid_consumer_path.py" timestamp="1510048419365">
         <mark key="[" line="15" column="13" />
@@ -357,10 +357,11 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1516286332110">
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="33" column="54" />
-        <mark key="." line="33" column="54" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1516343723599">
+        <mark key="[" line="31" column="90" />
+        <mark key="]" line="31" column="91" />
+        <mark key="." line="31" column="91" />
+        <mark key="^" line="31" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day25/main.py" timestamp="1451064482123">
         <mark key="[" line="19" column="42" />
@@ -482,6 +483,13 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1516343418778">
+        <mark key="'" line="85" column="97" />
+        <mark key="[" line="85" column="98" />
+        <mark key="]" line="85" column="113" />
+        <mark key="^" line="85" column="113" />
+        <mark key="." line="85" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_larger_ppb_and_cpb_vm_sizes_in_epg_2018q1.json" timestamp="1511276557216">
         <mark key="[" line="11" column="0" />
@@ -1317,9 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="57" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
-      <jump line="177" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="184" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="186" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="189" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
@@ -1417,19 +1422,22 @@
       <jump line="150" column="68" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/deployment_creators_tests.py" />
       <jump line="314" column="69" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/deployment_creators_tests.py" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/deployment_creators_tests.py" />
+      <jump line="84" column="97" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" />
+      <jump line="5" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>CachedDatabase()</text>
       </register>
       <register name="/" type="4">
-        <text>PerServ</text>
+        <text>Cach</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsIGltcG9ydCBMb2FkQ2FsY3VsYXRvcgo=</text>
+        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsLmRiIGltcG9ydCBDYWNoZWREYXRhYmFzZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsLmRiIGltcG9ydCBDYWNoZWREYXRhYmFzZQo=</text>
@@ -1479,37 +1487,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFiYXNlID0gQ2FjaGVkRGF0YWJhc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhYmFzZSA9IENhY2hlZERhdGFiYXNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcnJwo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2FkX2NhbGN1bGF0b3IsIGRhdGFiYXNlKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGxvYWRfY2FsY3VsYXRvcikKICAgICAgICBzZWxmLmRhdGFiYXNlID0gZGF0YWJhc2UKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsLmRiIGltcG9ydCBDYWNoZWREYXRhYmFzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcnJwogICAgIyBUT0RPOiBJIGRpc2FibGVkIHRoaXMgdGVzdGNhc2UgYWNjb3JkaW5nIHRvIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS02MjkKICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFiYXNlID0gQ2FjaGVkRGF0YWJhc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsIGltcG9ydCBMb2FkQ2FsY3VsYXRvcgo=</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlcGdfZGltZW5zaW9uaW5nLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZF9jYWxjdWxhdG9yX21vY2ssCg==</text>
+        <text encoding="base64">ICAgICcnJwogICAgIyBUT0RPOiBJIGRpc2FibGVkIHRoaXMgdGVzdGNhc2UgYWNjb3JkaW5nIHRvIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS02MjkKICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZXBnX2RpbWVuc2lvbmluZy5vcmNoZXN0cmF0b3IuTG9hZENhbGN1bGF0b3InKQo=</text>
+        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsIGltcG9ydCBMb2FkQ2FsY3VsYXRvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>PerServ</last-search>
+      <last-search>Cach</last-search>
       <last-offset />
-      <last-pattern>PerServ</last-pattern>
+      <last-pattern>Cach</last-pattern>
       <last-replace>excel_input.</last-replace>
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1517,7 +1525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update_sqlite</entry>
         <entry>&quot;&quot;&quot;</entry>
         <entry>feature</entry>
         <entry>tear_down</entry>
@@ -1537,6 +1544,7 @@
         <entry>class</entry>
         <entry>Loa</entry>
         <entry>PerServ</entry>
+        <entry>Cach</entry>
       </history-search>
       <history-cmd>
         <entry>:</entry>
