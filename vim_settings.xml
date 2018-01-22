@@ -480,7 +480,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1516625726884">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1516628369886">
+        <mark key="'" line="69" column="75" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="49" />
       </file>
@@ -599,7 +600,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516375849232">
+      <file name="/Dummy.txt" timestamp="1516629268556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1016,7 +1017,6 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/runbenchmark.py" timestamp="1516264176329" />
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1508850845699">
         <mark key="[" line="93" column="32" />
         <mark key="]" line="93" column="32" />
@@ -1136,7 +1136,6 @@
         <mark key="]" line="32" column="42" />
         <mark key="." line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/storage.py" timestamp="1516345273258" />
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recepten_se_recipe_web_parser.py" timestamp="1420663575634">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -1306,8 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="45" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/write.py" />
       <jump line="144" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/write.py" />
       <jump line="146" column="9" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/write.py" />
       <jump line="29" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/lookup_table.py" />
@@ -1406,6 +1403,8 @@
       <jump line="221" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="167" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="178" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" />
+      <jump line="69" column="75" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1492,7 +1491,7 @@
         <text encoding="base64">Y2xhc3MgRG9EaW1lbnNpb25pbmdUZXN0cyhUZXN0Q2FzZSk6CiAgICBNT0RFTCA9ICdFUEcnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1528,10 +1527,6 @@
         <entry>excel_input.sign</entry>
       </history-search>
       <history-cmd>
-        <entry>:</entry>
-        <entry>q!</entry>
-        <entry>2p</entry>
-        <entry>helper.usage</entry>
         <entry>q</entry>
         <entry>%s/self.helper/helper/g</entry>
         <entry>%s/ConnectionInstance/InstanceConnection/g</entry>
@@ -1548,6 +1543,10 @@
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
