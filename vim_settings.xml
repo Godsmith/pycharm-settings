@@ -38,7 +38,7 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1516095804948">
+      <file name="/a.dummy" timestamp="1517219633263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -118,6 +118,9 @@
         <mark key="]" line="85" column="31" />
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1517219682653">
+        <mark key="'" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507107077170">
         <mark key="[" line="10" column="24" />
@@ -522,6 +525,12 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_validation_tests.py" timestamp="1517220058342">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day03/main2.py" timestamp="1449503965864">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -596,7 +605,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516897163078">
+      <file name="/Dummy.txt" timestamp="1517219737605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -994,11 +1003,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1516630336336">
-        <mark key="'" line="255" column="0" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vsfo.json" timestamp="1512737284873">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="37" />
@@ -1303,8 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="38" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" />
       <jump line="40" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" />
       <jump line="213" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="442" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
@@ -1403,22 +1405,24 @@
       <jump line="14" column="46" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" />
       <jump line="49" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api/core_input.py" />
+      <jump line="130" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="2" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>dimensioning_modes</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>excel</text>
+        <text>DeploymentCre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfZ2V0X2RpbWVuc2lvbmluZ19tb2RlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmRpbWVuc2lvbmluZ19tb2Rlc19hbmRfZGVwbG95bWVudF9jcmVhdG9yc1tzZWxmLl9leGNlbF9pbnB1dC5kaW1lbnNpb25pbmdfbW9kZV1bMF0oc2VsZi5sb2FkX2NhbGN1bGF0b3IsIHNlbGYuZGF0YWJhc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwbG95bWVudF9jcmVhdG9yID0gc2VsZi5fZ2V0X2RlcGxveW1lbnRfY3JlYXRvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBFeGNlbElucHV0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1465,37 +1469,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX21vZGUgPSBzZWxmLl9nZXRfZGltZW5zaW9uaW5nX21vZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwbG95bWVudF9jcmVhdG9yID0gc2VsZi5fZ2V0X2RlcGxveW1lbnRfY3JlYXRvcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlcGdfZGltZW5zaW9uaW5nLmRlcGxveW1lbnRfY3JlYXRvcnMgaW1wb3J0ICgKICAgIERlcGxveW1lbnRDcmVhdG9yT25lVm1QZXJTZXJ2ZXIsIERlcGxveW1lbnRDcmVhdG9yUHJlZGVmaW5lZCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRlcGxveW1lbnRfY3JlYXRvciA9IGRlcGxveW1lbnRfY3JlYXRvcgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX21vZGUgPSBzZWxmLl9nZXRfZGltZW5zaW9uaW5nX21vZGUoKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBlcGdfZGltZW5zaW9uaW5nLmRlcGxveW1lbnRfY3JlYXRvcnMgaW1wb3J0ICgKICAgIERlcGxveW1lbnRDcmVhdG9yT25lVm1QZXJTZXJ2ZXIsIERlcGxveW1lbnRDcmVhdG9yUHJlZGVmaW5lZCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlcGxveW1lbnRfY3JlYXRvciA9IGRlcGxveW1lbnRfY3JlYXRvcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX3Jlc3VsdHMgPSBzZWxmLl9nZXRfZGltZW5zaW9uaW5nX21vZGUoKS5ydW4oY29yZV9pbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX21vZGUgPSBzZWxmLl9nZXRfZGltZW5zaW9uaW5nX21vZGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSBkaWN0XzogZGljdAogICAgICAgIDpydHlwZTogQ29yZUlucHV0CiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uaW5nX3Jlc3VsdHMgPSBzZWxmLl9nZXRfZGltZW5zaW9uaW5nX21vZGUoKS5ydW4oY29yZV9pbnB1dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSBleGNlbF9pbnB1dDogZXBnX2RpbWVuc2lvbmluZy5FeGNlbElucHV0CiAgICAgICAgOnJldHVybjogVGhlIHJlc3VsdHMgZnJvbSB0aGUgZmlyc3QgYW5kIHRoZSBsYXN0IGl0ZXJhdGlvbnMuCiAgICAgICAgOnJ0eXBlOiBEaW1lbnNpb25pbmdSZXN1bHRzCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSBkaWN0XzogZGljdAogICAgICAgIDpydHlwZTogQ29yZUlucHV0CiAgICAgICAgIiIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoTest</text>
       </register>
     </registers>
     <search>
-      <last-search>excel</last-search>
+      <last-search>DeploymentCre</last-search>
       <last-offset />
-      <last-pattern>excel</last-pattern>
+      <last-pattern>DeploymentCre</last-pattern>
       <last-replace>'DimensioningResults'</last-replace>
       <last-substitute>DimensioningResults</last-substitute>
       <last-dir>1</last-dir>
@@ -1503,7 +1507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.database</entry>
         <entry>database</entry>
         <entry>number_of_v\</entry>
         <entry>number_of_vnf</entry>
@@ -1523,6 +1526,7 @@
         <entry>call(</entry>
         <entry>DimensioningResults</entry>
         <entry>excel</entry>
+        <entry>DeploymentCre</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self.helper/helper/g</entry>
@@ -1531,7 +1535,6 @@
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL2V4Y2VsX2lucHV0Li9n</entry>
-        <entry>action GotoTest</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>w</entry>
@@ -1541,10 +1544,11 @@
         <entry>action MethodUp</entry>
         <entry>action GotoClass</entry>
         <entry>action MethodDown</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
         <entry>%s/DimensioningResults/'DimensioningResults'/g</entry>
         <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
