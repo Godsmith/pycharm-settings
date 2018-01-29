@@ -38,7 +38,7 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1517219633263">
+      <file name="/a.dummy" timestamp="1517221813252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,8 +119,9 @@
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1517219682653">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1517222164067">
         <mark key="'" line="2" column="48" />
+        <mark key="[" line="129" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507107077170">
         <mark key="[" line="10" column="24" />
@@ -344,11 +345,11 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1516897670527">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="34" column="20" />
-        <mark key="." line="34" column="20" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1517221897296">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="14" />
+        <mark key="^" line="33" column="14" />
+        <mark key="." line="33" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day25/main.py" timestamp="1451064482123">
         <mark key="[" line="19" column="42" />
@@ -478,11 +479,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1517214483923">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="50" column="54" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1517221852636">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_larger_ppb_and_cpb_vm_sizes_in_epg_2018q1.json" timestamp="1511276557216">
         <mark key="[" line="11" column="0" />
@@ -525,17 +526,14 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_validation_tests.py" timestamp="1517220058342">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day03/main2.py" timestamp="1449503965864">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" timestamp="1517221806496">
+        <mark key="'" line="218" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/manage.py" timestamp="1511173426419">
         <mark key="[" line="10" column="0" />
@@ -605,7 +603,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517219737605">
+      <file name="/Dummy.txt" timestamp="1517222354595">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -806,6 +804,12 @@
         <mark key="[" line="168" column="40" />
         <mark key="]" line="168" column="40" />
         <mark key="." line="168" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/core_input_builder_tests.py" timestamp="1517221972898">
+        <mark key="[" line="79" column="13" />
+        <mark key="]" line="79" column="18" />
+        <mark key="." line="79" column="18" />
+        <mark key="^" line="79" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/test/test_ingredient_list.py" timestamp="1420662582805">
         <mark key="[" line="108" column="46" />
@@ -1257,11 +1261,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/orchestrator_tests.py" timestamp="1516897827929">
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="68" column="40" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/orchestrator_tests.py" timestamp="1517222375068">
+        <mark key="[" line="68" column="56" />
+        <mark key="]" line="68" column="71" />
+        <mark key="." line="68" column="71" />
+        <mark key="^" line="68" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/dpi.py" timestamp="1508851159835">
         <mark key="[" line="44" column="37" />
@@ -1307,10 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" />
-      <jump line="213" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="442" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="447" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="11" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="89" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="53" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/dimensioning_modes.py" />
@@ -1407,16 +1407,20 @@
       <jump line="88" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/api/core_input.py" />
       <jump line="130" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
       <jump line="2" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="14" column="10" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" />
+      <jump line="218" column="9" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>DeploymentCre</text>
+        <text>class C</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfZ2V0X2RpbWVuc2lvbmluZ19tb2RlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmRpbWVuc2lvbmluZ19tb2Rlc19hbmRfZGVwbG95bWVudF9jcmVhdG9yc1tzZWxmLl9leGNlbF9pbnB1dC5kaW1lbnNpb25pbmdfbW9kZV1bMF0oc2VsZi5sb2FkX2NhbGN1bGF0b3IsIHNlbGYuZGF0YWJhc2UpCg==</text>
@@ -1497,9 +1501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DeploymentCre</last-search>
+      <last-search>class C</last-search>
       <last-offset />
-      <last-pattern>DeploymentCre</last-pattern>
+      <last-pattern>class C</last-pattern>
       <last-replace>'DimensioningResults'</last-replace>
       <last-substitute>DimensioningResults</last-substitute>
       <last-dir>1</last-dir>
@@ -1507,8 +1511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>database</entry>
-        <entry>number_of_v\</entry>
         <entry>number_of_vnf</entry>
         <entry>divide_traff</entry>
         <entry>number_of</entry>
@@ -1527,6 +1529,8 @@
         <entry>DimensioningResults</entry>
         <entry>excel</entry>
         <entry>DeploymentCre</entry>
+        <entry>class</entry>
+        <entry>class C</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self.helper/helper/g</entry>
