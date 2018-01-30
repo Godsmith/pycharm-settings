@@ -1024,6 +1024,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1517316434668">
+        <mark key="'" line="255" column="0" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vsfo.json" timestamp="1512737284873">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="37" />
@@ -1530,7 +1535,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1583,9 +1588,9 @@
         <entry>%s/DimensioningResults/'DimensioningResults'/g</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoTest</entry>
-        <entry>action GotoFile</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
