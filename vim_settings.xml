@@ -673,12 +673,6 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/failure_case.py" timestamp="1517307292521">
-        <mark key="[" line="42" column="43" />
-        <mark key="]" line="42" column="58" />
-        <mark key="." line="42" column="58" />
-        <mark key="^" line="42" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_PCEPGCANDI-265_divide_by_zero.py" timestamp="1508230302311">
         <mark key="[" line="12" column="110" />
         <mark key="]" line="12" column="114" />
