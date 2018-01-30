@@ -192,12 +192,12 @@
         <mark key="." line="61" column="11" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" timestamp="1517299286596">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" timestamp="1517305034493">
+        <mark key="'" line="72" column="16" />
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="11" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/gymday.py" timestamp="1424210475068">
         <mark key="[" line="8" column="62" />
@@ -673,12 +673,12 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/failure_case.py" timestamp="1517303455881">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/failure_case.py" timestamp="1517304166539">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+        <mark key="[" line="10" column="73" />
+        <mark key="]" line="10" column="81" />
+        <mark key="." line="10" column="81" />
+        <mark key="^" line="10" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_PCEPGCANDI-265_divide_by_zero.py" timestamp="1508230302311">
         <mark key="[" line="12" column="110" />
@@ -1333,11 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="445" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="446" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="450" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
-      <jump line="457" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" />
       <jump line="313" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/deployment_creators_tests.py" />
       <jump line="75" column="53" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/deployment_creators_tests.py" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/deployment_creators_tests.py" />
@@ -1429,10 +1424,15 @@
       <jump line="336" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/core_input_builder_tests.py" />
       <jump line="21" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
       <jump line="7" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
       <jump line="52" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/failure_case.py" />
       <jump line="56" column="34" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/failure_case.py" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/failure_case.py" />
+      <jump line="78" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
+      <jump line="47" column="46" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
+      <jump line="72" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/failure_case_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1442,16 +1442,32 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>if virt</text>
       </register>
       <register name="0" type="4">
-        <text>Dict[datatypes.VirtualMachine, Dict[datatypes.State, int]]'</text>
+        <text>{
+                datatypes.VirtualMachine.gsc: {
+                    datatypes.State.active: 1
+                },
+                datatypes.VirtualMachine.cpb: {
+                    datatypes.State.active: 2,
+                    datatypes.State.failure: 1
+                },
+                datatypes.VirtualMachine.ppb: {
+                    datatypes.State.active: 3,
+                    datatypes.State.failure: 1
+                },
+                datatypes.VirtualMachine.lc: {
+                    datatypes.State.active: 1,
+                    datatypes.State.failure: 1
+                },
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1498,28 +1514,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmlydHVhbF9tYWNoaW5lczogRGljdGlvbmFyeSBzcGVjaWZ5aW5nIHRoZSBudW1iZXIgb2YgdmlydHVhbAogICAgICAgICAgIG1hY2hpbmVzIHRvIGJlIGNvbnN0cnVjdGVkIG9mIGVhY2ggdHlwZS4KICAgICAgICA6dHlwZSB2aXJ0dWFsX21hY2hpbmVzOiBkaWN0W2dlbmVyaWNfbW9kZWwuZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLAogICAgICAgICAgIGRpY3RbZ2VuZXJpY19tb2RlbC5kYXRhdHlwZXMuU3RhdGUsIGludF1dCiAgICAgICAgOnJldHVybjogU3RhbmRieSBWTXMgaGF2ZSB0aGVpciBudW1iZXIgb2YgaW5zdGFuY2VzIGRlY3JlbWVudGVkIHdpdGggMS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5sYzogewogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDEsCiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmZhaWx1cmU6IDEKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWTSBwZXIgaG9zdCBvZiBhIGNlcnRhaW4gdHlwZSwgaW4gd2hpY2ggY2FzZSBpdCBjYW4gYmUgb3ZlcnJpZGRlbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIHN1bShzdGF0ZXMudmFsdWVzKCkpIDw9IDA6CiAgICAgICAgICAgICAgICAjIE5vIG1hY2hpbmVzIGF2YWlsYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2M6IHsKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmNwYjogewogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDIsCiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmZhaWx1cmU6IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdmlydHVhbF9tYWNoaW5lX3R5cGUgbm90IGluIFsKICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5jcGIsCiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiLAogICAgICAgICAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmxjCiAgICAgICAgICAgIF06CiAgICAgICAgICAgICAgICAjIEZhaWx1cmUgY2FzZSBtb2RlIGRvZXMgb25seSBhZmZlY3RzIHNvbWUgdmlydHVhbCBtYWNoaW5lcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNT1ZFIFRISVMgVE8gU0VQQVJBVEUgVEVTVCBDTEFTUwo=</text>
+        <text encoding="base64">ICAgICAgICB2bXNfcGVyX3NlcnZlcl9mcm9tX3ZtX3R5cGUgPSBkZWZhdWx0ZGljdCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsX2lucHV0ID0gT25lVm1QZXJTZXJ2ZXJDb3JlSW5wdXRCdWlsZGVyKENhY2hlZERhdGFiYXNlKCkpCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlbW92ZV92aXJ0dWFsX21hY2hpbmVzX2luX2ZhaWx1cmVfY2FzZV9tb2RlKHNlbGYpOgogICAgICAgIG1vZGVsX2lucHV0ID0gT25lVm1QZXJTZXJ2ZXJDb3JlSW5wdXRCdWlsZGVyKENhY2hlZERhdGFiYXNlKCkpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgKICAgICAgICAgICAgbW9kZWxfaW5wdXQuX3JlbW92ZV92aXJ0dWFsX21hY2hpbmVzX2luX2ZhaWx1cmVfY2FzZV9tb2RlKHsKICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5jcGI6IHsKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiA1LAogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5zdGFuZGJ5OiA1CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLCB7CiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUuY3BiOiB7CiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogNSwKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogNCwKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuZmFpbHVyZTogMQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIE1PVkUgVEhJUyBUTyBTRVBBUkFURSBURVNUIENMQVNTCiAgICAgICAgICAgIG1vZGVsX2lucHV0Ll9yZW1vdmVfdmlydHVhbF9tYWNoaW5lc19pbl9mYWlsdXJlX2Nhc2VfbW9kZSh7CiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUuZ3NjOiB7CiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogMQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5jcGI6IHsKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAyLAogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5zdGFuZGJ5OiAxCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYjogewogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDMsCiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLnN0YW5kYnk6IDEKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUubGM6IHsKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAyCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLCB7CiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUuZ3NjOiB7CiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogMQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5jcGI6IHsKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAyLAogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5mYWlsdXJlOiAxCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYjogewogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDMsCiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmZhaWx1cmU6IDEKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUubGM6IHsKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5mYWlsdXJlOiAxCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIG1vZGVsX2lucHV0Ll9yZW1vdmVfdmlydHVhbF9tYWNoaW5lc19pbl9mYWlsdXJlX2Nhc2VfbW9kZSh7CiAgICAgICAgICAgICAgICBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUuY3BiOiB7CiAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogMCwKICAgICAgICAgICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KSwKICAgICAgICAgICAge30KICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MethodDown</text>
