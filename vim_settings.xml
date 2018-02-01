@@ -334,12 +334,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1517487311310">
-        <mark key="'" line="648" column="8" />
-        <mark key="[" line="518" column="0" />
-        <mark key="]" line="535" column="13" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1517494457398">
+        <mark key="'" line="96" column="42" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507813275980">
         <mark key="[" line="54" column="31" />
@@ -385,7 +385,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_all_inputs_epg1_0.json" timestamp="1511276563153">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_all_inputs_epg1_0.json" timestamp="1517493478397">
+        <mark key="'" line="20" column="30" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -581,12 +582,12 @@
         <mark key="]" line="180" column="4" />
         <mark key="." line="180" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517489869668">
-        <mark key="'" line="86" column="47" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="45" />
-        <mark key="." line="306" column="45" />
-        <mark key="^" line="306" column="45" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517494237560">
+        <mark key="'" line="826" column="0" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="^" line="84" column="49" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_capacity_per_worker_SRIOV.json" timestamp="1511276598397">
         <mark key="[" line="11" column="0" />
@@ -595,50 +596,13 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" />
-      <jump line="1309" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="12" column="40" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
-      <jump line="47" column="4" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
-      <jump line="10" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="14" column="46" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="236" column="34" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="286" column="60" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="808" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="816" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="821" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="824" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="831" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="795" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="391" column="7" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="291" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="392" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="15" column="66" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="19" column="81" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="241" column="34" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="298" column="21" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="399" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="296" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="300" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="401" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="648" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="74" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="87" column="50" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="22" column="56" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="237" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="376" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="23" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="24" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="25" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="27" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="28" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="29" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="30" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -647,7 +611,6 @@
       <jump line="33" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="34" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="35" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="36" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="37" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="38" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="39" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -663,16 +626,8 @@
       <jump line="49" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="50" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="51" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="52" column="50" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="53" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="54" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="55" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="56" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="59" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="60" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="61" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="62" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="63" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="64" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="65" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="66" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -691,10 +646,56 @@
       <jump line="80" column="67" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="81" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="82" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="83" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="84" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="85" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="86" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="83" column="65" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="24" column="71" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="25" column="56" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="326" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="26" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="27" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="1046" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="301" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="232" column="53" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="257" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="275" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="278" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="279" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="280" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="281" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="282" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="284" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="285" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="504" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="503" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="283" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="277" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="52" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="53" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="54" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="55" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="56" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="57" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="59" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="58" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="63" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="330" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="1038" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="36" column="60" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="243" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="20" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_all_inputs_epg1_0.json" />
+      <jump line="402" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="401" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="84" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="797" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="871" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="488" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="73" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="75" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="487" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="96" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -704,16 +705,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>TODO</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>Para</text>
+        <text>test_extract_bool</text>
       </register>
-      <register name="0" type="4">
-        <text>load_ppb_mem</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2V4dHJhY3RfZmFpbHVyZV9jYXNlX2VuYWJsZWRfaW52YWxpZF8xKHNlbGYpOgogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsnaW5fZmFpbHVyZV9jYXNlX2VuYWJsZWQnOiAnbm8nfQogICAgICAgIHNlbGYuYXNzZXJ0UmFpc2VzKAogICAgICAgICAgICBQYXJzaW5nRXJyb3IsCiAgICAgICAgICAgIHNlbGYuZWkuZXh0cmFjdF9mYWlsdXJlX2Nhc2VfZW5hYmxlZCwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBwYXJhbWV0ZXIudHlwZSA9PSBmbG9hdDoKICAgICAgICAgICAgICAgIHZhbHVlID0gZXhjZWxfaW5wdXQuZXh0cmFjdF90b19pbnRlZ2VyKHBhcmFtZXRlci5qc29uX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVpLmRpY3RfaW5wdXQgPSB7J2luX2ZhaWx1cmVfY2FzZV9lbmFibGVkJzogJ25vJ30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -744,37 +745,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVpLmV4dHJhY3RfdG9fZmxvYXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGFyYW1ldGVyLnR5cGUK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2V4dHJhY3RfZmxvYXRfaW52YWxpZChzZWxmKToKICAgICAgICBzZWxmLmVpLmV4dHJhY3RfdG9fZmxvYXQoKQogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsKICAgICAgICAgICAgJ2luX2NhcGFjaXR5X2xpbmtfYnBzJzogJzEwMDAwMDAwMDAwMCwwMCUnLAogICAgICAgIH0KICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygKICAgICAgICAgICAgUGFyc2luZ0Vycm9yLAogICAgICAgICAgICBzZWxmLmVpLmV4dHJhY3RfY2FwYWNpdHlfbGlua19icHMKICAgICAgICApCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBib29sCiAgICAgICAgcG1fYWZmZWN0c19tYXhfY2FwYWNpdHk9RmFsc2UsCiAgICAgICAgZmFpbHVyZV9jYXNlX2VuYWJsZWQ9RmFsc2UsCiAgICAgICAgc2FjY19lbmFibGVkPUZhbHNlLAoKICAgICAgICAjIGludAogICAgICAgIGJ1aWxkX251bWJlcj0wLAogICAgICAgIGxvZ2ljYWxfY29yZXNfbWF4PTAsCgogICAgICAgICMgZmxvYXQKICAgICAgICB0cmFuc2FjdGlvbnNfcGVyX3NlY29uZD0wLjAsCiAgICAgICAgY2FwYWNpdHlfY3B1PTAuMCwK</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9leHRyYWN0X2J1aWxkX251bWJlcl8xKHNlbGYpOgogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsnYnVpbGRfbnVtYmVyJzogJ1BBMjMnfQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIHNlbGYuZWkuZXh0cmFjdF9idWlsZF9udW1iZXIoKSwgJ1BBMjMnKQoKICAgIGRlZiB0ZXN0X2V4dHJhY3RfYnVpbGRfbnVtYmVyXzIoc2VsZik6CiAgICAgICAgc2VsZi5laS5kaWN0X2lucHV0ID0geydidWlsZF9udW1iZXInOiAnUEFLMjM1J30KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBzZWxmLmVpLmV4dHJhY3RfYnVpbGRfbnVtYmVyKCksCiAgICAgICAgICAgICdQQUsyMzUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgIFRoZXJlIGFyZSBhbHJlYWR5IG1hbnkgbAo=</text>
+        <text encoding="base64">CiAgICBkZWYgZXh0cmFjdF9wbV9hZmZlY3RzX21heF9jYXBhY2l0eShzZWxmKToKICAgICAgICAiIiJFeHRyYWN0IGlmIGl0IGlzIGRlcGxveWVkIG9uIGEgc2hhcmVkIHNlcnZlci4KICAgICAgICA6cnR5cGU6IGJvb2wKICAgICAgICAiIiIKICAgICAgICBzZWxmLnBtX2FmZmVjdHNfbWF4X2NhcGFjaXR5ID0gc2VsZi5leHRyYWN0X3RvX2Jvb2xlYW4oCiAgICAgICAgICAgICdpbl9wbV9hZmZlY3RzX21heF9jYXBhY2l0eScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgYm9vbAogICAgICAgICAgICBwbV9hZmZlY3RzX21heF9jYXBhY2l0eT1GYWxzZSwKICAgICAgICAgICAgZmFpbHVyZV9jYXNlX2VuYWJsZWQ9RmFsc2UsCiAgICAgICAgICAgIHNhY2NfZW5hYmxlZD1GYWxzZSwKCiAgICAgICAgICAgICMgaW50CiAgICAgICAgICAgIGJ1aWxkX251bWJlcj0wLAogICAgICAgICAgICBsb2dpY2FsX2NvcmVzX21heD0wLAoKICAgICAgICAgICAgIyBmbG9hdAogICAgICAgICAgICB0cmFuc2FjdGlvbnNfcGVyX3NlY29uZD0wLjAsCiAgICAgICAgICAgIGNhcGFjaXR5X2NwdT0wLjAsCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZXh0cmFjdF9tYXhfbG9hZF9jcHVfY29udHJvbF9wbGFuZShzZWxmKToKICAgICAgICBzZWxmLm1heF9sb2FkX2NwdV9jb250cm9sX3BsYW5lID0gc2VsZi5leHRyYWN0X3RvX2Zsb2F0KCdpbl9tYXhfbG9hZF9jcHVfY29udHJvbF9wbGFuZScpCgogICAgZGVmIGV4dHJhY3RfbWF4X2xvYWRfY3B1X3VzZXJfcGxhbmUoc2VsZik6CiAgICAgICAgc2VsZi5tYXhfbG9hZF9jcHVfdXNlcl9wbGFuZSA9IHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fbWF4X2xvYWRfY3B1X3VzZXJfcGxhbmUnKQoKICAgIGRlZiBleHRyYWN0X21heF9sb2FkX21lbShzZWxmKToKICAgICAgICBzZWxmLm1heF9sb2FkX21lbSA9IHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fbWF4X2xvYWRfbWVtJykKCiAgICBkZWYgZXh0cmFjdF9tYXhfbG9hZF9saW5rKHNlbGYpOgogICAgICAgIHNlbGYubWF4X2xvYWRfbGluayA9IHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fbWF4X2xvYWRfbGluaycpCgogICAgZGVmIGV4dHJhY3RfbWF4X2xvYWRfdnN3aXRjaChzZWxmKToKICAgICAgICBzZWxmLm1heF9sb2FkX3Zzd2l0Y2ggPSBzZWxmLmV4dHJhY3RfdG9fZmxvYXQoJ2luX21heF9sb2FkX3Zzd2l0Y2gnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfYnBzKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHMgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHMnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfYnBzX2RsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfZGwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfZGwnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfYnBzX3VsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfdWwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfdWwnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfcHBzX2RsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfZGwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfZGwnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfcHBzX3VsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfdWwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfdWwnKQoKICAgIGRlZiBleHRyYWN0X3RyYW5zaXRfdHJhZmZpY193aXRoX2hlYWRlcnNfYnBzKHNlbGYpOgogICAgICAgIHNlbGYudHJhbnNpdF90cmFmZmljX3dpdGhfaGVhZGVyc19icHMgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdHJhbnNpdF90cmFmZmljX3dpdGhfaGVhZGVyc19icHMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBib29sCiAgICAgICAgICAgIHBtX2FmZmVjdHNfbWF4X2NhcGFjaXR5PUZhbHNlLAogICAgICAgICAgICBmYWlsdXJlX2Nhc2VfZW5hYmxlZD1GYWxzZSwKICAgICAgICAgICAgc2FjY19lbmFibGVkPUZhbHNlLAoKICAgICAgICAgICAgIyBpbnQKICAgICAgICAgICAgYnVpbGRfbnVtYmVyPTAsCiAgICAgICAgICAgIGxvZ2ljYWxfY29yZXNfbWF4PTAsCgogICAgICAgICAgICAjIGZsb2F0CiAgICAgICAgICAgIHRyYW5zYWN0aW9uc19wZXJfc2Vjb25kPTAuMCwKICAgICAgICAgICAgY2FwYWNpdHlfY3B1PTAuMCwK</text>
+        <text encoding="base64">ICAgIGRlZiBleHRyYWN0X2J1aWxkX251bWJlcihzZWxmKToKICAgICAgICBzZWxmLmJ1aWxkX251bWJlciA9IHNlbGYuZXh0cmFjdF90b19zdHJpbmcoJ2J1aWxkX251bWJlcicpCiAgICAgICAgcmV0dXJuIHNlbGYuYnVpbGRfbnVtYmVyCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMDkK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>Para</last-search>
+      <last-search>test_extract_bool</last-search>
       <last-offset />
-      <last-pattern>Para</last-pattern>
+      <last-pattern>test_extract_bool</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -782,26 +783,26 @@
     </search>
     <history>
       <history-search>
-        <entry>self.virtual</entry>
-        <entry>cpb</entry>
-        <entry>virtual_mach</entry>
-        <entry>virtual_machine</entry>
-        <entry>if virt</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry>write_nam</entry>
-        <entry>__init</entry>
-        <entry>kill</entry>
-        <entry>nosete</entry>
-        <entry>pytest</entry>
-        <entry>extract_rel</entry>
-        <entry>in_ver</entry>
-        <entry>release</entry>
         <entry>signals</entry>
         <entry>self</entry>
         <entry>False</entry>
         <entry>)</entry>
         <entry>pm_affects_max</entry>
         <entry>Para</entry>
+        <entry>deploy_consu</entry>
+        <entry>deploy_co</entry>
+        <entry>build_num</entry>
+        <entry>linecard</entry>
+        <entry>1x10</entry>
+        <entry>linecard_</entry>
+        <entry>transactions_p</entry>
+        <entry>pm_affects_m</entry>
+        <entry>in_pm_af</entry>
+        <entry>transit</entry>
+        <entry>extract_to_s</entry>
+        <entry>extract_to</entry>
+        <entry>extract_to_float</entry>
+        <entry>test_extract_bool</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -818,12 +819,12 @@
         <entry>action MethodDown</entry>
         <entry>action GotoClass</entry>
         <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5zL0ZhbHNlLzAuMA==</entry>
         <entry encoding="base64">JzwsJz5zL0ZhbHNlLzA=</entry>
         <entry encoding="base64">JzwsJz5zLykvKSw=</entry>
         <entry>reg</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
