@@ -582,7 +582,7 @@
         <mark key="]" line="180" column="4" />
         <mark key="." line="180" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517413145031">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517478807609">
         <mark key="'" line="1310" column="8" />
         <mark key="[" line="44" column="6" />
         <mark key="]" line="45" column="31" />
@@ -785,7 +785,7 @@
         <text encoding="base64">ICAgICAgICAjIHdoaWxlIFRydWU6CiAgICAgICAgIyAgICAgdHJ5OgogICAgICAgICN3aW4zMnBpcGUuQ2FsbE5hbWVkUGlwZShwaXBlX25hbWUsIGInaGVsbG8nLCAxMCwgNTAwMCkKCiAgICAgICAgI0NvbW1hbmQud3JpdGVfbmFtZWRfcGlwZShuYW1lZF9waXBlLCAnbm9uc2Vuc2UnKQogICAgICAgICMgICAgIGJyZWFrCiAgICAgICAgIyBleGNlcHQgcHl3aW50eXBlcy5lcnJvcjoKICAgICAgICAjICAgICB0aW1lLnNsZWVwKDEpCiAgICAgICAgIyAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -834,13 +834,13 @@
         <entry>action ReformatCode</entry>
         <entry>wq</entry>
         <entry>%s/DimensioningResults/'DimensioningResults'/g</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoTest</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
         <entry>action GotoClass</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
