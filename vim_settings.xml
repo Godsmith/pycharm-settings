@@ -334,12 +334,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1517494457398">
-        <mark key="'" line="96" column="42" />
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1517567722552">
+        <mark key="'" line="627" column="13" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="96" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507813275980">
         <mark key="[" line="54" column="31" />
@@ -596,27 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="87" column="50" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="22" column="56" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="237" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="376" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="23" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="28" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="29" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="30" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="31" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="32" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="33" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="34" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="35" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="37" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="38" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="39" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="40" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="41" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="42" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="43" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="44" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="45" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -696,6 +675,27 @@
       <jump line="487" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="96" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="4" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="91" column="21" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="319" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="106" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="324" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="117" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="112" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="119" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="134" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="135" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="146" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="581" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="392" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="398" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="660" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="663" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="653" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="94" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="461" column="53" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="627" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -705,16 +705,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>123.123</text>
       </register>
       <register name="/" type="4">
-        <text>test_extract_bool</text>
+        <text>extract_float_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2V4dHJhY3RfZmFpbHVyZV9jYXNlX2VuYWJsZWRfaW52YWxpZF8xKHNlbGYpOgogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsnaW5fZmFpbHVyZV9jYXNlX2VuYWJsZWQnOiAnbm8nfQogICAgICAgIHNlbGYuYXNzZXJ0UmFpc2VzKAogICAgICAgICAgICBQYXJzaW5nRXJyb3IsCiAgICAgICAgICAgIHNlbGYuZWkuZXh0cmFjdF9mYWlsdXJlX2Nhc2VfZW5hYmxlZCwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2V4dHJhY3RfdG9faW50ZWdlcl9pbnZhbGlkXzEoc2VsZik6CiAgICAgICAgc2VsZi5laS5kaWN0X2lucHV0ID0geyd0ZXN0JzogJ3R3byd9CiAgICAgICAgc2VsZi5hc3NlcnRSYWlzZXMoCiAgICAgICAgICAgIFBhcnNpbmdFcnJvciwKICAgICAgICAgICAgc2VsZi5laS5leHRyYWN0X3RvX2ludGVnZXIoJ3Rlc3QnKQogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVpLmRpY3RfaW5wdXQgPSB7J2luX2ZhaWx1cmVfY2FzZV9lbmFibGVkJzogJ25vJ30K</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -745,37 +745,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVpLmV4dHJhY3RfdG9fZmxvYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFyc2luZ0Vycm9yLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2V4dHJhY3RfZmxvYXRfaW52YWxpZChzZWxmKToKICAgICAgICBzZWxmLmVpLmV4dHJhY3RfdG9fZmxvYXQoKQogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsKICAgICAgICAgICAgJ2luX2NhcGFjaXR5X2xpbmtfYnBzJzogJzEwMDAwMDAwMDAwMCwwMCUnLAogICAgICAgIH0KICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygKICAgICAgICAgICAgUGFyc2luZ0Vycm9yLAogICAgICAgICAgICBzZWxmLmVpLmV4dHJhY3RfY2FwYWNpdHlfbGlua19icHMKICAgICAgICApCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9leHRyYWN0X2J1aWxkX251bWJlcl8xKHNlbGYpOgogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsnYnVpbGRfbnVtYmVyJzogJ1BBMjMnfQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIHNlbGYuZWkuZXh0cmFjdF9idWlsZF9udW1iZXIoKSwgJ1BBMjMnKQoKICAgIGRlZiB0ZXN0X2V4dHJhY3RfYnVpbGRfbnVtYmVyXzIoc2VsZik6CiAgICAgICAgc2VsZi5laS5kaWN0X2lucHV0ID0geydidWlsZF9udW1iZXInOiAnUEFLMjM1J30KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBzZWxmLmVpLmV4dHJhY3RfYnVpbGRfbnVtYmVyKCksCiAgICAgICAgICAgICdQQUsyMzUnKQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgZXh0cmFjdF9wbV9hZmZlY3RzX21heF9jYXBhY2l0eShzZWxmKToKICAgICAgICAiIiJFeHRyYWN0IGlmIGl0IGlzIGRlcGxveWVkIG9uIGEgc2hhcmVkIHNlcnZlci4KICAgICAgICA6cnR5cGU6IGJvb2wKICAgICAgICAiIiIKICAgICAgICBzZWxmLnBtX2FmZmVjdHNfbWF4X2NhcGFjaXR5ID0gc2VsZi5leHRyYWN0X3RvX2Jvb2xlYW4oCiAgICAgICAgICAgICdpbl9wbV9hZmZlY3RzX21heF9jYXBhY2l0eScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFyc2luZ0Vycm9yLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgZXh0cmFjdF9tYXhfbG9hZF9jcHVfY29udHJvbF9wbGFuZShzZWxmKToKICAgICAgICBzZWxmLm1heF9sb2FkX2NwdV9jb250cm9sX3BsYW5lID0gc2VsZi5leHRyYWN0X3RvX2Zsb2F0KCdpbl9tYXhfbG9hZF9jcHVfY29udHJvbF9wbGFuZScpCgogICAgZGVmIGV4dHJhY3RfbWF4X2xvYWRfY3B1X3VzZXJfcGxhbmUoc2VsZik6CiAgICAgICAgc2VsZi5tYXhfbG9hZF9jcHVfdXNlcl9wbGFuZSA9IHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fbWF4X2xvYWRfY3B1X3VzZXJfcGxhbmUnKQoKICAgIGRlZiBleHRyYWN0X21heF9sb2FkX21lbShzZWxmKToKICAgICAgICBzZWxmLm1heF9sb2FkX21lbSA9IHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fbWF4X2xvYWRfbWVtJykKCiAgICBkZWYgZXh0cmFjdF9tYXhfbG9hZF9saW5rKHNlbGYpOgogICAgICAgIHNlbGYubWF4X2xvYWRfbGluayA9IHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fbWF4X2xvYWRfbGluaycpCgogICAgZGVmIGV4dHJhY3RfbWF4X2xvYWRfdnN3aXRjaChzZWxmKToKICAgICAgICBzZWxmLm1heF9sb2FkX3Zzd2l0Y2ggPSBzZWxmLmV4dHJhY3RfdG9fZmxvYXQoJ2luX21heF9sb2FkX3Zzd2l0Y2gnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfYnBzKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHMgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHMnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfYnBzX2RsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfZGwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfZGwnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfYnBzX3VsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfdWwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9icHNfdWwnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfcHBzX2RsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfZGwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfZGwnKQoKICAgIGRlZiBleHRyYWN0X3VlX3RyYWZmaWNfd2l0aF9oZWFkZXJzX2ludG9fdGhlX25vZGVfcHBzX3VsKHNlbGYpOgogICAgICAgIHNlbGYudWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfdWwgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdWVfdHJhZmZpY193aXRoX2hlYWRlcnNfaW50b190aGVfbm9kZV9wcHNfdWwnKQoKICAgIGRlZiBleHRyYWN0X3RyYW5zaXRfdHJhZmZpY193aXRoX2hlYWRlcnNfYnBzKHNlbGYpOgogICAgICAgIHNlbGYudHJhbnNpdF90cmFmZmljX3dpdGhfaGVhZGVyc19icHMgPSBcCiAgICAgICAgICAgIHNlbGYuZXh0cmFjdF90b19mbG9hdCgnaW5fdHJhbnNpdF90cmFmZmljX3dpdGhfaGVhZGVyc19icHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVpLmV4dHJhY3RfbWF4X2xvYWRfY3B1X2NvbnRyb2xfcGxhbmUoKQogICAgICAgIHNlbGYuZWkuZXh0cmFjdF9tYXhfbG9hZF9jcHVfdXNlcl9wbGFuZSgpCiAgICAgICAgc2VsZi5laS5leHRyYWN0X21heF9sb2FkX21lbSgpCiAgICAgICAgc2VsZi5laS5leHRyYWN0X21heF9sb2FkX2xpbmsoKQogICAgICAgIHNlbGYuZWkuZXh0cmFjdF9tYXhfbG9hZF92c3dpdGNoKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBleHRyYWN0X2J1aWxkX251bWJlcihzZWxmKToKICAgICAgICBzZWxmLmJ1aWxkX251bWJlciA9IHNlbGYuZXh0cmFjdF90b19zdHJpbmcoJ2J1aWxkX251bWJlcicpCiAgICAgICAgcmV0dXJuIHNlbGYuYnVpbGRfbnVtYmVyCgo=</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9zZXRfbWF4X2xvYWRzX2ludmFsaWQoc2VsZik6CiAgICAgICAgc2VsZi5laS5kaWN0X2lucHV0ID0gewogICAgICAgICAgICAnaW5fbWF4X2xvYWRfY3B1X2NvbnRyb2xfcGxhbmUnOiAnJywKICAgICAgICB9CiAgICAgICAgc2VsZi5hc3NlcnRSYWlzZXMoCiAgICAgICAgICAgIFBhcnNpbmdFcnJvciwKICAgICAgICAgICAgc2VsZi5laS5leHRyYWN0X21heF9sb2FkX2NwdV9jb250cm9sX3BsYW5lCiAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMDkK</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9leHRyYWN0X2xvZ2ljYWxfY29yZXNfbWF4KHNlbGYpOgogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsnaW5fbG9naWNhbF9jb3Jlc19tYXgnOiAzLCB9CiAgICAgICAgc2VsZi5laS5leHRyYWN0X2xvZ2ljYWxfY29yZXNfbWF4KCksIDMKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuZWkubG9naWNhbF9jb3Jlc19tYXgsIDMpCgogICAgZGVmIHRlc3RfZXh0cmFjdF9sb2dpY2FsX2NvcmVzX21heF9pbnZhbGlkKHNlbGYpOgogICAgICAgIHNlbGYuZWkuZGljdF9pbnB1dCA9IHsnaW5fbG9naWNhbF9jb3Jlc19tYXgnOiAnMSwxJ30KICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygKICAgICAgICAgICAgUGFyc2luZ0Vycm9yLAogICAgICAgICAgICBzZWxmLmVpLmV4dHJhY3RfbG9naWNhbF9jb3Jlc19tYXgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>test_extract_bool</last-search>
+      <last-search>extract_float_</last-search>
       <last-offset />
-      <last-pattern>test_extract_bool</last-pattern>
+      <last-pattern>extract_float_</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -783,18 +783,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signals</entry>
-        <entry>self</entry>
-        <entry>False</entry>
-        <entry>)</entry>
-        <entry>pm_affects_max</entry>
-        <entry>Para</entry>
-        <entry>deploy_consu</entry>
-        <entry>deploy_co</entry>
-        <entry>build_num</entry>
-        <entry>linecard</entry>
-        <entry>1x10</entry>
-        <entry>linecard_</entry>
         <entry>transactions_p</entry>
         <entry>pm_affects_m</entry>
         <entry>in_pm_af</entry>
@@ -803,6 +791,18 @@
         <entry>extract_to</entry>
         <entry>extract_to_float</entry>
         <entry>test_extract_bool</entry>
+        <entry>extract_fail</entry>
+        <entry>extract_fai</entry>
+        <entry>extract_float_inv</entry>
+        <entry>invalid</entry>
+        <entry>extract_linecards_2x1</entry>
+        <entry>extract_to_int</entry>
+        <entry>extract_logic</entry>
+        <entry>test_extract_max</entry>
+        <entry>set_max_lo</entry>
+        <entry>test_extract_float</entry>
+        <entry>,00%</entry>
+        <entry>extract_float_</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
