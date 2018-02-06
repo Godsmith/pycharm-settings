@@ -110,7 +110,7 @@
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1517578167614">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1517904932901">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -776,7 +776,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1517586632592">
+      <file name="/Python Console" timestamp="1517904961515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517585600670">
@@ -1396,7 +1396,7 @@
         <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1450,8 +1450,8 @@
         <entry>:</entry>
         <entry>s/parameter.type/type(attr)/</entry>
         <entry>reg</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
