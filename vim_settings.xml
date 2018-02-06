@@ -561,7 +561,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517586882744">
+      <file name="/Dummy.txt" timestamp="1517905737416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1432,7 +1432,6 @@
         <entry>Para</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0ZhbHNlLzA=</entry>
         <entry encoding="base64">JzwsJz5zLykvKSw=</entry>
         <entry encoding="base64">JzwsJz5zL2V4Y2VsX2lucHV0L3NlbGY=</entry>
         <entry encoding="base64">JzwsJz5zL0V4Y2VsSW5wdXQvc2VsZg==</entry>
@@ -1451,6 +1450,7 @@
         <entry>s/parameter.type/type(attr)/</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
