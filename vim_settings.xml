@@ -1190,8 +1190,8 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517902781028">
-        <mark key="'" line="16" column="13" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517911987397">
+        <mark key="'" line="13" column="8" />
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
@@ -1228,7 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="78" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="15" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="24" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="43" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1328,6 +1327,7 @@
       <jump line="80" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="81" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="82" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1347,7 +1347,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Para</text>
+        <text>database</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2MsIGRhdGF0eXBlcy5SZXNvdXJjZS5jcHUpOgogICAgICAgICAgICAgICAgc2VsZi5sb2FkX2dzY19jcHUsCg==</text>
@@ -1397,13 +1397,13 @@
         <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
-      <last-search>Para</last-search>
+      <last-search>database</last-search>
       <last-offset />
-      <last-pattern>Para</last-pattern>
+      <last-pattern>database</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1411,7 +1411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dl</entry>
         <entry>=</entry>
         <entry>generic_mo</entry>
         <entry>{</entry>
@@ -1431,9 +1430,9 @@
         <entry>.type</entry>
         <entry>dict_input</entry>
         <entry>Para</entry>
+        <entry>database</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLykvKSw=</entry>
         <entry encoding="base64">JzwsJz5zL2V4Y2VsX2lucHV0L3NlbGY=</entry>
         <entry encoding="base64">JzwsJz5zL0V4Y2VsSW5wdXQvc2VsZg==</entry>
         <entry>s/dl/ul/g</entry>
@@ -1453,6 +1452,7 @@
         <entry>w</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
