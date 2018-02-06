@@ -1010,12 +1010,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1517586890368">
-        <mark key="'" line="31" column="37" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="32" column="80" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1517920498888">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="44" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/close_cand_epg_xlsm.py" timestamp="1516025086582">
         <mark key="[" line="2" column="3" />
@@ -1190,11 +1190,11 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517911987397">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1517919969215">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
         <mark key="^" line="120" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_capacity_per_worker_SRIOV.json" timestamp="1511276598397">
@@ -1228,8 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="24" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="43" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="28" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="189" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1327,7 +1325,9 @@
       <jump line="80" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="81" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="82" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="13" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="128" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1347,13 +1347,13 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>database</text>
+        <text>extract</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2MsIGRhdGF0eXBlcy5SZXNvdXJjZS5jcHUpOgogICAgICAgICAgICAgICAgc2VsZi5sb2FkX2dzY19jcHUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBwYXJhbWV0ZXIgaW4gUEFSQU1FVEVSUzoKICAgICAgICAjICAgICBpZiBwYXJhbWV0ZXIuYXR0cmlidXRlX25hbWUgaW4ga3dhcmdzOgogICAgICAgICMgICAgICAgICB2YWx1ZSA9IGt3YXJnc1twYXJhbWV0ZXIuYXR0cmlidXRlX25hbWVdCiAgICAgICAgIyAgICAgICAgIHNldGF0dHIoc2VsZiwgcGFyYW1ldGVyLmF0dHJpYnV0ZV9uYW1lLCBjb3B5KHZhbHVlKSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1373,37 +1373,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA+Pj4geCA9IEV4Y2VsSW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAjIG1ha2Ugc3VyZSBubyBpbnB1dHMgYXJlIGxlZnQKICAgICAgICAjIENvbW1lbnRlZCBvdXQgdW50aWwgd2UgYXJlIGZpbmlzaGVkIHdpdGggCiAgICAgICAgIiIiZm9yIGtleSBpbiBzZWxmLmRpY3RfaW5wdXQ6CiAgICAgICAgICAgIHJhaXNlIFBhcnNpbmdFcnJvcigie30ge30iLmZvcm1hdChrZXksICdpbnB1dCBwYXJhbWV0ZXIgdW5rbm93biB0byB0aGUgbW9kZWwnKSkiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1ha2Ugc3VyZSBubyBpbnB1dHMgYXJlIGxlZnQKICAgICAgICAiIiJmb3Iga2V5IGluIHNlbGYuZGljdF9pbnB1dDoKICAgICAgICAgICAgcmFpc2UgUGFyc2luZ0Vycm9yKCJ7fSB7fSIuZm9ybWF0KGtleSwgJ2lucHV0IHBhcmFtZXRlciB1bmtub3duIHRvIHRoZSBtb2RlbCcpKSIiIgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBwYXJhbWV0ZXIgaW4gUEFSQU1FVEVSUzoKICAgICAgICAjICAgICBpZiBwYXJhbWV0ZXIuYXR0cmlidXRlX25hbWUgaW4ga3dhcmdzOgogICAgICAgICMgICAgICAgICB2YWx1ZSA9IGt3YXJnc1twYXJhbWV0ZXIuYXR0cmlidXRlX25hbWVdCiAgICAgICAgIyAgICAgICAgIHNldGF0dHIoc2VsZiwgcGFyYW1ldGVyLmF0dHJpYnV0ZV9uYW1lLCBjb3B5KHZhbHVlKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgICA+Pj4geCA9IEV4Y2VsSW5wdXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ1aWxkX251bWJlciA9IDAK</text>
+        <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3BlY2lhbCAtIHRoZXNlIHBhcmFtZXRlcnMgaGF2ZSB0aGVpciBvd24gcGFyc2luZyBtZXRob2RzLgo=</text>
+        <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcignZGljdF9pbnB1dCcsICdOL0EnLCAnU1BFQ0lBTCcpLAo=</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcignc2lnbmFscycsICdUT0RPJywgJ0RpY3RbZGF0YXR5cGVzLlNpZ25hbCwgZmxvYXRdJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ1aWxkX251bWJlciA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
-      <last-search>database</last-search>
+      <last-search>extract</last-search>
       <last-offset />
-      <last-pattern>database</last-pattern>
+      <last-pattern>extract</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1411,9 +1411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
-        <entry>generic_mo</entry>
-        <entry>{</entry>
         <entry>generi</entry>
         <entry>[</entry>
         <entry>&quot;&quot;&quot;</entry>
@@ -1431,6 +1428,9 @@
         <entry>dict_input</entry>
         <entry>Para</entry>
         <entry>database</entry>
+        <entry>def set_</entry>
+        <entry>def extra</entry>
+        <entry>extract</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2V4Y2VsX2lucHV0L3NlbGY=</entry>
