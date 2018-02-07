@@ -218,7 +218,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518014282541">
+      <file name="/Dummy.txt" timestamp="1518015632020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -337,6 +337,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Releasing to big candi community.txt" timestamp="1518015631518">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/update_spgw_post_13A_control_plane.py" timestamp="1508851168530">
         <mark key="[" line="123" column="83" />
         <mark key="]" line="123" column="83" />
@@ -388,10 +393,10 @@
         <mark key="." line="121" column="64" />
         <mark key="^" line="121" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1508850845699">
-        <mark key="[" line="93" column="32" />
-        <mark key="]" line="93" column="32" />
-        <mark key="." line="93" column="32" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1518015636660">
+        <mark key="[" line="141" column="20" />
+        <mark key="]" line="141" column="20" />
+        <mark key="." line="141" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateCandiCosts/create_candi_costs.py" timestamp="1508851262305">
         <mark key="[" line="287" column="43" />
@@ -607,7 +612,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*.py</text>
+        <text>-no-test</text>
       </register>
       <register name="/" type="4">
         <text>consumerpath</text>
