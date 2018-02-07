@@ -88,7 +88,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1517569767401">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1517991344666">
+        <mark key="'" line="191" column="6" />
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="43" />
       </file>
@@ -565,7 +566,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517910788039">
+      <file name="/Dummy.txt" timestamp="1517990859019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1243,7 +1244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="93" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="94" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1343,6 +1343,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/test_input.xml" />
       <jump line="4096" column="35" filename="$USER_HOME$/workspace/candi_epg-main/data/test_input.xml" />
       <jump line="4155" column="35" filename="$USER_HOME$/workspace/candi_epg-main/data/test_input.xml" />
+      <jump line="191" column="6" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1362,7 +1363,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>EPG1.3</text>
+        <text>consumerpath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2MsIGRhdGF0eXBlcy5SZXNvdXJjZS5jcHUpOgogICAgICAgICAgICAgICAgc2VsZi5sb2FkX2dzY19jcHUsCg==</text>
@@ -1416,9 +1417,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EPG1.3</last-search>
+      <last-search>consumerpath</last-search>
       <last-offset />
-      <last-pattern>EPG1.3</last-pattern>
+      <last-pattern>consumerpath</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1426,7 +1427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>generic_model.</entry>
         <entry>tuple</entry>
         <entry>default_val</entry>
         <entry>, 0.0)</entry>
@@ -1446,6 +1446,7 @@
         <entry>EPG 1.0</entry>
         <entry>EPG1.2</entry>
         <entry>EPG1.3</entry>
+        <entry>consumerpath</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2V4Y2VsX2lucHV0L3NlbGY=</entry>
