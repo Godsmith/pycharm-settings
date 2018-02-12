@@ -1515,7 +1515,7 @@
         <text encoding="base64">ZnJvbSBlcGdfZGltZW5zaW9uaW5nLmV4Y2VsX2lucHV0X3BhcmFtZXRlcnMgaW1wb3J0IFBBUkFNRVRFUlMK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1569,8 +1569,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action MethodDown</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoClass</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
