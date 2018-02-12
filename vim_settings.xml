@@ -345,12 +345,12 @@
         <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/build/lib/generic_model/db.py" timestamp="1517910357790" />
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1517578125574">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1518098745920">
         <mark key="'" line="30" column="37" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="30" column="51" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="59" />
+        <mark key="." line="30" column="59" />
+        <mark key="^" line="30" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day25/main.py" timestamp="1451064482123">
         <mark key="[" line="19" column="42" />
@@ -631,7 +631,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518097748178">
+      <file name="/Dummy.txt" timestamp="1518099361503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -780,11 +780,6 @@
         <mark key="]" line="13" column="6" />
         <mark key="." line="10" column="6" />
         <mark key="^" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1517581225582">
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="0" />
-        <mark key="." line="572" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507813275980">
         <mark key="[" line="54" column="31" />
@@ -1134,12 +1129,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1517920498888">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="44" column="50" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1518098219153">
+        <mark key="[" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/close_cand_epg_xlsm.py" timestamp="1516025086582">
         <mark key="[" line="2" column="3" />
@@ -1174,6 +1165,9 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1516633020670">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/storage.py" timestamp="1518098999132">
+        <mark key="[" line="10" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recepten_se_recipe_web_parser.py" timestamp="1420663575634">
         <mark key="[" line="74" column="8" />
@@ -1237,11 +1231,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/do_dimensioning.py" timestamp="1517578104034">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="14" column="51" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/do_dimensioning.py" timestamp="1518098712296">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_failure_case.py" timestamp="1516356433712">
         <mark key="'" line="24" column="55" />
@@ -1349,14 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="125" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="5" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="7" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="8" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="9" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="10" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="11" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="12" column="71" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="13" column="54" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1449,6 +1435,14 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" />
       <jump line="97" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/pipe.py" />
+      <jump line="697" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="160" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="181" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="180" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
+      <jump line="549" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1465,16 +1459,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pipe_nam</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHNldFVwQ2xhc3MoY2xzKToKICAgICAgICBzdXBlcigpLnNldFVwQ2xhc3MoKQogICAgICAgIGpzb25fZmlsZV9wYXRoID0gUGF0aChvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5yZWFscGF0aChfX2ZpbGVfXykpKSAvIFwKICAgICAgICAgICAgICAgICAgICAgICAgICcuLicgLyAnLi4nIC8gJy4uJyAvICd0ZXN0cycgLyAnZml4dHVyZXMnIC8gXAogICAgICAgICAgICAgICAgICAgICAgICAgJ2V4Y2VsX3B5dGhvbl9pbnRlcmZhY2UnIC8gJ2lucHV0X2FsbF9pbnB1dHNfZXBnMV8wLmpzb24nCiAgICAgICAgd2l0aCBvcGVuKHN0cihqc29uX2ZpbGVfcGF0aCkpIGFzIGY6CiAgICAgICAgICAgIGNscy5qc29uX2lucHV0ID0gZi5yZWFkKCkKICAgICAgICBjbHMuX2RhdGFiYXNlID0gRGF0YWJhc2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBzdXRpbAppbXBvcnQgcHl3aW50eXBlcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1494,37 +1488,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHdpbjMyZmlsZQppbXBvcnQgd2luMzJwaXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uX2ZpbGVfcGF0aCA9IFBhdGgob3MucGF0aC5kaXJuYW1lKG9zLnBhdGgucmVhbHBhdGgoX19maWxlX18pKSkgLyBcCiAgICAgICAgICAgICAgICAgICAgICAgICAnLi4nIC8gJy4uJyAvICcuLicgLyAndGVzdHMnIC8gJ2ZpeHR1cmVzJyAvIFwKICAgICAgICAgICAgICAgICAgICAgICAgICdleGNlbF9weXRob25faW50ZXJmYWNlJyAvICdpbnB1dF9hbGxfaW5wdXRzX2VwZzFfMC5qc29uJwogICAgICAgIHdpdGggb3BlbihzdHIoanNvbl9maWxlX3BhdGgpKSBhcyBmOgogICAgICAgICAgICBjbHMuanNvbl9pbnB1dCA9IGYucmVhZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBzdXRpbAppbXBvcnQgcHl3aW50eXBlcwo=</text>
+        <text encoding="base64">ZnJvbSBlcGdfZGltZW5zaW9uaW5nLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIFBpcGU6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbmFtZSk6CiAgICAgICAgc2VsZi5fbmFtZSA9IG5hbWUKICAgICAgICBzZWxmLl9uYW1lZF9waXBlID0gTm9uZQogICAgICAgICMgS2lsbCBjb21wZXRpbmcgUHl0aG9uIHNlcnZlciBwcm9jZXNzZXMKICAgICAgICBzZWxmLmtpbGxfYWxyZWFkeV9ydW5uaW5nX3NlcnZlcl9pbnN0YW5jZXMoKQoKCiAgICBkZWYgcmVhZChzZWxmKToKICAgICAgICBsb2dnaW5nLmluZm8oJ0NyZWF0aW5nIHBpcGUuLi4nKQogICAgICAgICMgSSBndWVzcyB0aGF0IGEgbmV3IHBpcGUgaGFzIHRvIGJlIGNyZWF0ZWQgZm9yIGVhY2ggbG9vcCBpcwogICAgICAgICMgYmVjYXVzZSBFeGNlbCBjbG9zZXMgaXQgd2hlbiBpdCBoYXMgcmVjZWl2ZWQgYW4gYW5zd2VyIHRvIGl0cwogICAgICAgICMgcXVlcnkuIEhvd2V2ZXIsIHRoYXQncyBvbmx5IGEgdGhlb3J5LgogICAgICAgIHNlbGYuX25hbWVkX3BpcGUgPSB3aW4zMnBpcGUuQ3JlYXRlTmFtZWRQaXBlKAogICAgICAgICAgICBzZWxmLl9uYW1lLAogICAgICAgICAgICB3aW4zMnBpcGUuUElQRV9BQ0NFU1NfRFVQTEVYLAogICAgICAgICAgICB3aW4zMnBpcGUuUElQRV9UWVBFX01FU1NBR0UgfCB3aW4zMnBpcGUuUElQRV9XQUlULAogICAgICAgICAgICB3aW4zMnBpcGUuUElQRV9VTkxJTUlURURfSU5TVEFOQ0VTLAogICAgICAgICAgICA2NTUzNiwKICAgICAgICAgICAgNjU1MzYsCiAgICAgICAgICAgIHdpbjMycGlwZS5OTVBXQUlUX1VTRV9ERUZBVUxUX1dBSVQsCiAgICAgICAgICAgIE5vbmUpCiAgICAgICAgbG9nZ2luZy5pbmZvKCdQaXBlIGNyZWF0ZWQ7IHdhaXRpbmcgZm9yIGRhdGEuJykKCiAgICAgICAgd2luMzJwaXBlLkNvbm5lY3ROYW1lZFBpcGUoc2VsZi5fbmFtZWRfcGlwZSwgTm9uZSkKICAgICAgICByZWNlaXZlZF9kYXRhID0gd2luMzJmaWxlLlJlYWRGaWxlKHNlbGYuX25hbWVkX3BpcGUsIDMwMDAwKQogICAgICAgIHJlY2VpdmVkX2J5dGVhcnJheSA9IHJlY2VpdmVkX2RhdGFbMV0KICAgICAgICBpZiByZWNlaXZlZF9ieXRlYXJyYXkgPT0gYidLSUxMJzoKICAgICAgICAgICAgIyBBbm90aGVyIGluc3RhbmNlIG9mIHRoZSBzZXJ2ZXIgaGFzIGJlZW4gc3RhcnRlZCwgd2hpY2ggc2VudCB1cwogICAgICAgICAgICAjIHRoZSBtZXNzYWdlICdLSUxMJy4gV2Ugd2lsbCBzaHV0IGRvd24gdGhpcyBpbnN0YW5jZSBhbmQgbGV0IHRoZQogICAgICAgICAgICAjIG5ldyBpbnN0YW5jZSBsaXZlLgogICAgICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KAogICAgICAgICAgICAgICAgJ0EgbmV3IGluc3RhbmNlIG9mIHRoZSBFUEcgQ0FOREkgUHl0aG9uIG1vZGVsIGhhcyBiZWVuICcKICAgICAgICAgICAgICAgICdzdGFydGVkLiBFeGl0aW5nIHRoaXMgcHJvY2Vzcy4nKQogICAgICAgIHJlY2VpdmVkX3RleHQgPSByZWNlaXZlZF9ieXRlYXJyYXkuZGVjb2RlKCd1dGYtOCcpCiAgICAgICAgcmV0dXJuIHJlY2VpdmVkX3RleHRbOnJlY2VpdmVkX3RleHQuaW5kZXgoJ1wwJyldCgogICAgZGVmIHdyaXRlKHNlbGYsIHRleHRfdG9fc2VuZCk6CiAgICAgICAgYnl0ZXNhcnJheV90b19zZW5kID0gYnl0ZWFycmF5KHRleHRfdG9fc2VuZCwgJ3V0Zi04JykKICAgICAgICB3aW4zMmZpbGUuV3JpdGVGaWxlKHNlbGYuX25hbWVkX3BpcGUsIGJ5dGVzYXJyYXlfdG9fc2VuZCkKCiAgICBkZWYga2lsbF9hbHJlYWR5X3J1bm5pbmdfc2VydmVyX2luc3RhbmNlcyhzZWxmKToKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgU2VuZCBhIG1lc3NhZ2UgJ0tJTEwnIHRvIGFueSBydW5uaW5nIHNlcnZlciB3aXRoIHRoZSBzYW1lIHBpcGUKICAgICAgICAgICAgIyBuYW1lCiAgICAgICAgICAgIHdpbjMycGlwZS5DYWxsTmFtZWRQaXBlKHNlbGYuX25hbWUsIGInS0lMTCcsIDEwLCA1MDAwKQogICAgICAgICAgICAjIElmIG5vIGV4Y2VwdGlvbiBpcyB0aHJvd24sIGl0IG1lYW5zIHRoYXQgdGhlcmUgaXMgYW5vdGhlciBydW5uaW5nCiAgICAgICAgICAgICMgaW5zdGFuY2Ugd2hpY2ggd3JvdGUgYSBtZXNzYWdlIGJhY2suIEhvd2V2ZXIsIHRoYXQgcHJvYmFibHkgbWVhbnMKICAgICAgICAgICAgIyB0aGF0IGl0IGRpZCBub3QgZXhpdC4KICAgICAgICAgICAgbG9nZ2luZy5pbmZvKAogICAgICAgICAgICAgICAgJ0FuIGFscmVhZHkgcnVubmluZyBpbnN0YW5jZSBvZiB0aGUgRVBHIENBTkRJIFB5dGhvbiAnCiAgICAgICAgICAgICAgICAnbW9kZWwgd2FzIGZvdW5kLCBidXQgaXQgaXMgdW5jbGVhciBpZiBpdCBleGl0ZWQgZ3JhY2VmdWxseS4nKQogICAgICAgICAgICBzZWxmLmtpbGxfYWxyZWFkeV9ydW5uaW5nX2V4ZSgpCiAgICAgICAgZXhjZXB0IHB5d2ludHlwZXMuZXJyb3IgYXMgZToKICAgICAgICAgICAgaWYgZS5zdHJlcnJvciA9PSAnVGhlIHN5c3RlbSBjYW5ub3QgZmluZCB0aGUgZmlsZSBzcGVjaWZpZWQuJzoKICAgICAgICAgICAgICAgICMgTm8gb3RoZXIgaW5zdGFuY2UgZm91bmQuCiAgICAgICAgICAgICAgICAjIEhhcHBlbnMgd2hlbiB0aGVyZSBleGlzdHMgbm8gbmFtZWQgcGlwZSB3aXRoIHRoaXMgbmFtZS4KICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygKICAgICAgICAgICAgICAgICAgICAnTm8gb3RoZXIgcnVubmluZyBpbnN0YW5jZSBvZiB0aGUgRVBHIENBTkRJIFB5dGhvbiBtb2RlbCAnCiAgICAgICAgICAgICAgICAgICAgJ3dhcyBmb3VuZC4nKQogICAgICAgICAgICBlbGlmIGUuc3RyZXJyb3IgPT0gJ1RoZSBwaXBlIGhhcyBiZWVuIGVuZGVkLic6CiAgICAgICAgICAgICAgICAjIE90aGVyIGluc3RhbmNlIGV4aXRlZC4KICAgICAgICAgICAgICAgICMgSGFwcGVucyB3aGVuIFN5c3RlbUV4aXQgaXMgdGhyb3duIGFuZCB0aGUgc2VydmVyIHF1aXRzLAogICAgICAgICAgICAgICAgIyBiZWZvcmUgYW55IG1lc3NhZ2UgaXMgcmV0dXJuZWQuCiAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oCiAgICAgICAgICAgICAgICAgICAgJ0FuIGFscmVhZHkgcnVubmluZyBpbnN0YW5jZSBvZiB0aGUgRVBHIENBTkRJIFB5dGhvbiAnCiAgICAgICAgICAgICAgICAgICAgJ21vZGVsIHdhcyBmb3VuZCwgYW5kIGl0IGV4aXRlZCBncmFjZWZ1bGx5LicpCiAgICAgICAgICAgIGVsaWYgZS5zdHJlcnJvciA9PSAnTW9yZSBkYXRhIGlzIGF2YWlsYWJsZS4nOgogICAgICAgICAgICAgICAgIyBPdGhlciBpbnN0YW5jZSBkaWQgbm90IGV4aXQuCiAgICAgICAgICAgICAgICAjIEhhcHBlbnMgd2hlbiB0aGUgb3RoZXIgaW5zdGFuY2UncyByZWFkX25hbWVkX3BpcGUgbWV0aG9kCiAgICAgICAgICAgICAgICAjIHJldHVybnMsIHdpdGhvdXQgd3JpdGluZyBhbnl0aGluZyBiYWNrIG9yIHNodXR0aW5nIGl0c2VsZgogICAgICAgICAgICAgICAgIyBkb3duLgogICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKAogICAgICAgICAgICAgICAgICAgICdBbiBhbHJlYWR5IHJ1bm5pbmcgaW5zdGFuY2Ugb2YgdGhlIEVQRyBDQU5ESSBQeXRob24gJwogICAgICAgICAgICAgICAgICAgICdtb2RlbCB3YXMgZm91bmQsIGFuZCBpdCBkaWQgbm90IHNodXQgaXRzZWxmIGRvd24uJykKICAgICAgICAgICAgICAgIHNlbGYua2lsbF9hbHJlYWR5X3J1bm5pbmdfZXhlKCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoIlVuaGFuZGxlZCBwaXBlIGVycm9yOiAne30nIi5mb3JtYXQoZS5zdHJlcnJvcikpCiAgICAgICAgICAgICAgICBzZWxmLmtpbGxfYWxyZWFkeV9ydW5uaW5nX2V4ZSgpCiAgICAgICAgZXhjZXB0IEJhc2VFeGNlcHRpb246CiAgICAgICAgICAgIHNlbGYua2lsbF9hbHJlYWR5X3J1bm5pbmdfZXhlKCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYga2lsbF9hbHJlYWR5X3J1bm5pbmdfZXhlKCk6CiAgICAgICAgIyBGYWxsIGJhY2sgb24ga2lsbGluZyB0aGUgcHJvY2VzcyBieSBmb3JjZSwgaWYgaXQgZGlkIG5vdCBleGl0CiAgICAgICAgIyBncmFjZWZ1bGx5CiAgICAgICAgY2FuZF9lcGdfcHJvY2Vzc2VzID0gWwogICAgICAgICAgICBwcm9jZXNzCiAgICAgICAgICAgIGZvciBwcm9jZXNzIGluIHBzdXRpbC5wcm9jZXNzX2l0ZXIoKQogICAgICAgICAgICBpZiBwcm9jZXNzLm5hbWUoKSA9PSAnY2FuZF9lcGdfbW9kZWwuZXhlJyBhbmQKICAgICAgICAgICAgICAgcHJvY2Vzcy5waWQgIT0gb3MuZ2V0cGlkKCkgYW5kICAjIEl0c2VsZgogICAgICAgICAgICAgICBwc3V0aWwuUHJvY2Vzcyhvcy5nZXRwaWQoKSkgbm90IGluIHByb2Nlc3MuY2hpbGRyZW4oKSAgIyBJdHMgUHlJbnN0YWxsZXIgYm9vdHN0cmFwIHBhcmVudAogICAgICAgIF0KICAgICAgICBmb3IgcHJvY2VzcyBpbiBjYW5kX2VwZ19wcm9jZXNzZXM6CiAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygKICAgICAgICAgICAgICAgICJLaWxsaW5nIGEgcnVubmluZyBwcm9jZXNzIHdpdGggdGhlIG5hbWUgJ3t9JyBhbmQgdGhlIHBpZCAiCiAgICAgICAgICAgICAgICAiJ3t9Jy4iLmZvcm1hdChwcm9jZXNzLm5hbWUoKSwgcHJvY2Vzcy5waWQpKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBwcm9jZXNzLmtpbGwoKQogICAgICAgICAgICBleGNlcHQgcHN1dGlsLk5vU3VjaFByb2Nlc3M6CiAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhYmFzZSA9IGRhdGFiYXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBraWxsX2FscmVhZHlfcnVubmluZ19zZXJ2ZXJfaW5zdGFuY2VzKHNlbGYsIHBpcGVfbmFtZSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICAjIFNlbmQgYSBtZXNzYWdlICdLSUxMJyB0byBhbnkgcnVubmluZyBzZXJ2ZXIgd2l0aCB0aGUgc2FtZSBwaXBlCiAgICAgICAgICAgICMgbmFtZQogICAgICAgICAgICB3aW4zMnBpcGUuQ2FsbE5hbWVkUGlwZShwaXBlX25hbWUsIGInS0lMTCcsIDEwLCA1MDAwKQogICAgICAgICAgICAjIElmIG5vIGV4Y2VwdGlvbiBpcyB0aHJvd24sIGl0IG1lYW5zIHRoYXQgdGhlcmUgaXMgYW5vdGhlciBydW5uaW5nCiAgICAgICAgICAgICMgaW5zdGFuY2Ugd2hpY2ggd3JvdGUgYSBtZXNzYWdlIGJhY2suIEhvd2V2ZXIsIHRoYXQgcHJvYmFibHkgbWVhbnMKICAgICAgICAgICAgIyB0aGF0IGl0IGRpZCBub3QgZXhpdC4KICAgICAgICAgICAgbG9nZ2luZy5pbmZvKAogICAgICAgICAgICAgICAgJ0FuIGFscmVhZHkgcnVubmluZyBpbnN0YW5jZSBvZiB0aGUgRVBHIENBTkRJIFB5dGhvbiAnCiAgICAgICAgICAgICAgICAnbW9kZWwgd2FzIGZvdW5kLCBidXQgaXQgaXMgdW5jbGVhciBpZiBpdCBleGl0ZWQgZ3JhY2VmdWxseS4nKQogICAgICAgICAgICBzZWxmLmtpbGxfYWxyZWFkeV9ydW5uaW5nX2V4ZSgpCiAgICAgICAgZXhjZXB0IHB5d2ludHlwZXMuZXJyb3IgYXMgZToKICAgICAgICAgICAgaWYgZS5zdHJlcnJvciA9PSAnVGhlIHN5c3RlbSBjYW5ub3QgZmluZCB0aGUgZmlsZSBzcGVjaWZpZWQuJzoKICAgICAgICAgICAgICAgICMgTm8gb3RoZXIgaW5zdGFuY2UgZm91bmQuCiAgICAgICAgICAgICAgICAjIEhhcHBlbnMgd2hlbiB0aGVyZSBleGlzdHMgbm8gbmFtZWQgcGlwZSB3aXRoIHRoaXMgbmFtZS4KICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygKICAgICAgICAgICAgICAgICAgICAnTm8gb3RoZXIgcnVubmluZyBpbnN0YW5jZSBvZiB0aGUgRVBHIENBTkRJIFB5dGhvbiBtb2RlbCAnCiAgICAgICAgICAgICAgICAgICAgJ3dhcyBmb3VuZC4nKQogICAgICAgICAgICBlbGlmIGUuc3RyZXJyb3IgPT0gJ1RoZSBwaXBlIGhhcyBiZWVuIGVuZGVkLic6CiAgICAgICAgICAgICAgICAjIE90aGVyIGluc3RhbmNlIGV4aXRlZC4KICAgICAgICAgICAgICAgICMgSGFwcGVucyB3aGVuIFN5c3RlbUV4aXQgaXMgdGhyb3duIGFuZCB0aGUgc2VydmVyIHF1aXRzLAogICAgICAgICAgICAgICAgIyBiZWZvcmUgYW55IG1lc3NhZ2UgaXMgcmV0dXJuZWQuCiAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oCiAgICAgICAgICAgICAgICAgICAgJ0FuIGFscmVhZHkgcnVubmluZyBpbnN0YW5jZSBvZiB0aGUgRVBHIENBTkRJIFB5dGhvbiAnCiAgICAgICAgICAgICAgICAgICAgJ21vZGVsIHdhcyBmb3VuZCwgYW5kIGl0IGV4aXRlZCBncmFjZWZ1bGx5LicpCiAgICAgICAgICAgIGVsaWYgZS5zdHJlcnJvciA9PSAnTW9yZSBkYXRhIGlzIGF2YWlsYWJsZS4nOgogICAgICAgICAgICAgICAgIyBPdGhlciBpbnN0YW5jZSBkaWQgbm90IGV4aXQuCiAgICAgICAgICAgICAgICAjIEhhcHBlbnMgd2hlbiB0aGUgb3RoZXIgaW5zdGFuY2UncyByZWFkX25hbWVkX3BpcGUgbWV0aG9kCiAgICAgICAgICAgICAgICAjIHJldHVybnMsIHdpdGhvdXQgd3JpdGluZyBhbnl0aGluZyBiYWNrIG9yIHNodXR0aW5nIGl0c2VsZgogICAgICAgICAgICAgICAgIyBkb3duLgogICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKAogICAgICAgICAgICAgICAgICAgICdBbiBhbHJlYWR5IHJ1bm5pbmcgaW5zdGFuY2Ugb2YgdGhlIEVQRyBDQU5ESSBQeXRob24gJwogICAgICAgICAgICAgICAgICAgICdtb2RlbCB3YXMgZm91bmQsIGFuZCBpdCBkaWQgbm90IHNodXQgaXRzZWxmIGRvd24uJykKICAgICAgICAgICAgICAgIHNlbGYua2lsbF9hbHJlYWR5X3J1bm5pbmdfZXhlKCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoIlVuaGFuZGxlZCBwaXBlIGVycm9yOiAne30nIi5mb3JtYXQoZS5zdHJlcnJvcikpCiAgICAgICAgICAgICAgICBzZWxmLmtpbGxfYWxyZWFkeV9ydW5uaW5nX2V4ZSgpCiAgICAgICAgZXhjZXB0IEJhc2VFeGNlcHRpb246CiAgICAgICAgICAgIHNlbGYua2lsbF9hbHJlYWR5X3J1bm5pbmdfZXhlKCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYga2lsbF9hbHJlYWR5X3J1bm5pbmdfZXhlKCk6CiAgICAgICAgIyBGYWxsIGJhY2sgb24ga2lsbGluZyB0aGUgcHJvY2VzcyBieSBmb3JjZSwgaWYgaXQgZGlkIG5vdCBleGl0CiAgICAgICAgIyBncmFjZWZ1bGx5CiAgICAgICAgY2FuZF9lcGdfcHJvY2Vzc2VzID0gWwogICAgICAgICAgICBwcm9jZXNzCiAgICAgICAgICAgIGZvciBwcm9jZXNzIGluIHBzdXRpbC5wcm9jZXNzX2l0ZXIoKQogICAgICAgICAgICBpZiBwcm9jZXNzLm5hbWUoKSA9PSAnY2FuZF9lcGdfbW9kZWwuZXhlJyBhbmQKICAgICAgICAgICAgICAgcHJvY2Vzcy5waWQgIT0gb3MuZ2V0cGlkKCkgYW5kICAjIEl0c2VsZgogICAgICAgICAgICAgICBwc3V0aWwuUHJvY2Vzcyhvcy5nZXRwaWQoKSkgbm90IGluIHByb2Nlc3MuY2hpbGRyZW4oKSAgIyBJdHMgUHlJbnN0YWxsZXIgYm9vdHN0cmFwIHBhcmVudAogICAgICAgIF0KICAgICAgICBmb3IgcHJvY2VzcyBpbiBjYW5kX2VwZ19wcm9jZXNzZXM6CiAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygKICAgICAgICAgICAgICAgICJLaWxsaW5nIGEgcnVubmluZyBwcm9jZXNzIHdpdGggdGhlIG5hbWUgJ3t9JyBhbmQgdGhlIHBpZCAiCiAgICAgICAgICAgICAgICAiJ3t9Jy4iLmZvcm1hdChwcm9jZXNzLm5hbWUoKSwgcHJvY2Vzcy5waWQpKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBwcm9jZXNzLmtpbGwoKQogICAgICAgICAgICBleGNlcHQgcHN1dGlsLk5vU3VjaFByb2Nlc3M6CiAgICAgICAgICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">ZnJvbSBlcGdfZGltZW5zaW9uaW5nLmV4Y2VsX2lucHV0X3BhcmFtZXRlcnMgaW1wb3J0IFBBUkFNRVRFUlMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIEtpbGwgY29tcGV0aW5nIFB5dGhvbiBzZXJ2ZXIgcHJvY2Vzc2VzCiAgICAgICAgc2VsZi5raWxsX2FscmVhZHlfcnVubmluZ19zZXJ2ZXJfaW5zdGFuY2VzKHBpcGVfbmFtZSkKCg==</text>
+        <text encoding="base64">ZnJvbSBjb3B5IGltcG9ydCBjb3B5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsLmRiIGltcG9ydCBEYXRhYmFzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">aW1wb3J0IHBzdXRpbAppbXBvcnQgcHl3aW50eXBlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYud3JpdGVfbmFtZWRfcGlwZShuYW1lZF9waXBlLCB0ZXh0X3RvX3NlbmQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHdpbjMyZmlsZQppbXBvcnQgd2luMzJwaXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>pipe_nam</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>pipe_nam</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1532,17 +1526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>, 0)</entry>
-        <entry>.loads</entry>
-        <entry>parameter.type</entry>
-        <entry>.type</entry>
-        <entry>dict_input</entry>
-        <entry>Para</entry>
-        <entry>database</entry>
-        <entry>def set_</entry>
-        <entry>def extra</entry>
-        <entry>extract</entry>
-        <entry>EPG 1.0</entry>
         <entry>EPG1.2</entry>
         <entry>EPG1.3</entry>
         <entry>consumerpath</entry>
@@ -1552,6 +1535,17 @@
         <entry>()</entry>
         <entry>kill_al</entry>
         <entry>pipe_nam</entry>
+        <entry>Database</entry>
+        <entry>ExceLinput(</entry>
+        <entry>ExcelInput()</entry>
+        <entry>cls()</entry>
+        <entry>cls</entry>
+        <entry>ExcelInputTests</entry>
+        <entry>excelinputtest</entry>
+        <entry>testexce</entry>
+        <entry>setupclass</entry>
+        <entry>setUpclas</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0V4Y2VsSW5wdXQvc2VsZg==</entry>
@@ -1571,8 +1565,8 @@
         <entry>reg</entry>
         <entry>w</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action MethodDown</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
