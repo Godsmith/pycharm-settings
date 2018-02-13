@@ -830,9 +830,10 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1518014287898">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="40" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1518509866365">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="166" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/datatype.py" timestamp="1508851217983">
         <mark key="[" line="168" column="40" />
@@ -978,10 +979,6 @@
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
-      </file>
-      <file name="/runmodel.py" timestamp="1517579532927">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/jsonCompare/file1.json" timestamp="1511276495905">
         <mark key="[" line="11" column="0" />
@@ -1346,9 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="54" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="14" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="16" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="18" column="69" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="19" column="63" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="20" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1446,6 +1440,9 @@
       <jump line="549" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="39" column="0" filename="$USER_HOME$/AppData/Local/Continuum/Anaconda3/envs/py34/Lib/site-packages/pip/_vendor/distlib/database.py" />
       <jump line="10" column="6" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" />
+      <jump line="100" column="21" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
+      <jump line="167" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1468,7 +1465,7 @@
         <text>CachedDataba</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHNldFVwQ2xhc3MoY2xzKToKICAgICAgICBzdXBlcigpLnNldFVwQ2xhc3MoKQogICAgICAgIGpzb25fZmlsZV9wYXRoID0gUGF0aChvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5yZWFscGF0aChfX2ZpbGVfXykpKSAvIFwKICAgICAgICAgICAgICAgICAgICAgICAgICcuLicgLyAnLi4nIC8gJy4uJyAvICd0ZXN0cycgLyAnZml4dHVyZXMnIC8gXAogICAgICAgICAgICAgICAgICAgICAgICAgJ2V4Y2VsX3B5dGhvbl9pbnRlcmZhY2UnIC8gJ2lucHV0X2FsbF9pbnB1dHNfZXBnMV8wLmpzb24nCiAgICAgICAgd2l0aCBvcGVuKHN0cihqc29uX2ZpbGVfcGF0aCkpIGFzIGY6CiAgICAgICAgICAgIGNscy5qc29uX2lucHV0ID0gZi5yZWFkKCkKICAgICAgICBjbHMuX2RhdGFiYXNlID0gRGF0YWJhc2UoKQo=</text>
+        <text encoding="base64">TmVlZGVkIHNvZnR3YXJlIGZvciBkZXZlbG9waW5nIHRoZSBtb2RlbAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpEb3dubG9hZCBhbmQgSW5zdGFsbCBWaXN1YWwgU3R1ZGlvIENvbW11bml0eSAyMDE1Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLVVzZWQgRm9yIHJ1bm5pbmcgWGxzVW5pdCAKICBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy80NDI5MDY3Mi9ob3ctdG8tZG93bmxvYWQtdmlzdWFsLXN0dWRpby1jb21tdW5pdHktZWRpdGlvbi0yMDE1LW5vdC0yMDE3CgoKR2l0Ci0tLQoKMS4gIEluc3RhbGwgR2l0IGZvciBXaW5kb3dzIDY0LWJpdCAKCiAgICBodHRwczovL2dpdC1zY20uY29tL2Rvd25sb2FkL3dpbgoKMi4gIFNldCB1cCBTU0gga2V5IGF1dGhlbnRpY2F0aW9uIHRvIEdlcnJpdCBDZW50cmFsICAKCjIuMSBDcmVhdGUgYSBwdWJsaWMgU1NIIGtleQogIAoJICBzc2gta2V5Z2VuIC10IHJzYSAtYiA0MDk2IC1DICI8WW91ciBFcmljc3NvbiBlbWFpbD4iCgoJSW4gR2l0IEJhc2g6CgkgIGV2YWwgIiQoc3NoLWFnZW50IC1zKSIKCW90aGVyd2lzZToKICAgICAgZXZhbCAkKHNzaC1hZ2VudCAtcykKCgkgIHNzaC1hZGQgfi8uc3NoL2lkX3JzYQoKCSAgY2xpcCA8IH4vLnNzaC9pZF9yc2EucHViCgoyLjIgRm9sbG93IHRoZSBpbnN0cnVjdGlvbnMgb24KICAgIAoJaHR0cHM6Ly9kcnVwYWwtcGR1LXBhY2tldGNvcmUubW8uc3cuZXJpY3Nzb24uc2UvY29udGVudC9nYXRld2F5LWdpdC1hbmQtZ2Vycml0LXdvcmtmbG93I1NldHVwX1NTSF9rZXlfYXV0aGVudGljYXRpb25fdG9fU0VMTl9HZXJyaXRfYW5kX0dlcnJpdF9DZW50cmFsCgozLiAgQ2xvbmUgdGhlIHJlcG8KCiAgICAgIGdpdCBjbG9uZSBzc2g6Ly9nZXJyaXQuZXJpY3Nzb24uc2U6Mjk0MTgvcGMvdG9vbHMvY2FuZGktZXBnCgo0LiBTZXQgdXAgdGhlIGdpdCBob29rcyBuZWVkZWQgdG8gYmUgYWJsZSB0byBwdXNoIHRvIEdlcnJpdAogICAgICBnaXRkaXI9JChnaXQgcmV2LXBhcnNlIC0tZ2l0LWRpcik7IHNjcCAtcCAtUCAyOTQxOCBnZXJyaXQuZXJpY3Nzb24uc2U6aG9va3MvY29tbWl0LW1zZyAke2dpdGRpcn0vaG9va3MvCgoKTWluaW1hbCBHTlUgV2luZG93cyAoTWluR1ctNjQpIG1ha2UgZmlsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoxLiBEb3dubG9hZCB0aGUgbGF0ZXN0IGZpbGUgZnJvbToKICAgaHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvbWluZ3ctdzY0L2ZpbGVzL0V4dGVybmFsJTIwYmluYXJ5JTIwcGFja2FnZXMlMjAlMjhXaW42NCUyMGhvc3RlZCUyOS9tYWtlLwoKICAgQXMgb2Ygd3JpdGluZyB0aGlzIGd1aWRlLCB0aGUgbGF0ZXN0IGZpbGUgaXMgbWFrZS0zLjgyLjkwLTIwMTExMTE1LnppcCwgZ290dGVuIGZyb206CiAgIGh0dHBzOi8vc291cmNlZm9yZ2UubmV0L3Byb2plY3RzL21pbmd3LXc2NC9maWxlcy9FeHRlcm5hbCUyMGJpbmFyeSUyMHBhY2thZ2VzJTIwJTI4V2luNjQlMjBob3N0ZWQlMjkvbWFrZS9tYWtlLTMuODIuOTAtMjAxMTExMTUuemlwL2Rvd25sb2FkCgoyLiBGaW5kIHRoZSBtYWtlLTMuODIuOTAtMjAxMTExMTUuemlwIGZpbGUgb24geW91ciBsb2NhbCBkaXNrLgoKMy4gQ29weSB0aGUgZmlsZSBgbWFrZS1YLllZLlpaL2Jpbl9hbWQ2NC9tYWtlLmV4ZWAgYW5kIHBhc3RlIGl0IGludG8gYEM6XFByb2dyYW0gRmlsZXNcR2l0XHVzclxiaW5gLgoKClB5dGhvbgotLS0tLS0KCjEuIEluc3RhbGwgdGhlIGxhdGVzdCBBbmFjb25kYSBQeXRob24gMy54IGZyb206CiAgIGh0dHBzOi8vd3d3LmNvbnRpbnV1bS5pby9kb3dubG9hZHMKICAgTm90ZTogSW4gdGhlIGFkdmFuY2VkIGluc3RhbGxhdGlvbiBPcHRpb25zLCBkb24ndCBmb3JnZXQgdG8gdGljayAiYWRkIGFuYWNvbmRhIHRvIFBBVEggZW52aXJvbm1lbnQgdmFyaWFibGUiIG9wdGlvbi4KICAgICAgICAgaS5lIGlnbm9yZSB0aGUgd2FybmluZwoKMi4gTWFrZSBzdXJlIHlvdSBoYXZlIHRoZSBsYXRlc3QgdmVyc2lvbi4KCiAgIEluc3RydWN0aW9ucyBmb3IgdXBkYXRpbmcgQW5hY29uZGEgYXJlIHRha2VuIGZyb206CiAgIGh0dHA6Ly9kb2NzLmNvbnRpbnV1bS5pby9hbmFjb25kYS9pbnN0YWxsI3VwZGF0aW5nLWZyb20tb2xkZXItYW5hY29uZGEtdmVyc2lvbnMKCiAgIFRoZSBjb21tYW5kcyBhcmU6CgogICAgICAgJCBjb25kYSB1cGRhdGUgY29uZGEKICAgICAgICQgY29uZGEgdXBkYXRlIGFuYWNvbmRhCgogICBJZiB5b3UgYXJlIHJ1bm5pbmcgaW4gYSBDb25kYSBlbnZpcm9ubWVudCwgeW91IHVwZGF0ZSBgY29uZGFgIGluIHRoZQogICBmb2xsb3dpbmcgd2F5OgoKICAgICAgICQgc291cmNlIGRlYWN0aXZhdGUKICAgICAgICQgY29uZGEgdXBkYXRlIGNvbmRhCiAgICAgICAkIHNvdXJjZSBhY3RpdmF0ZSBweTM0CgozLiBDcmVhdGUgYW4gQW5hY29uZGEgUHl0aG9uIDMuNCBlbnZpcm9ubWVudDoKICAgKE5CISBOb3QgbmVlZGVkIGlmIEFuYWNvbmRhIFB5dGhvbiAzIHdhcyBpbnN0YWxsZWQpCiAgICAgICAKICAgQ3JlYXRlIHZpcnR1YWwgZW52aXJvbm1lbnQgYW5kIGFjdGl2YXRlIGl0LgoKICAgICAgICQgY29uZGEgY3JlYXRlIC1uIHB5MzQgcHl0aG9uPTMuNCBhbmFjb25kYQogICAgICAgJCBzb3VyY2UgYWN0aXZhdGUgcHkzNAoKICAgQWRkIGBzb3VyY2UgYWN0aXZhdGUgcHkzNGAgdG8geW91ciBgfi8uYmFzaHJjYCBmaWxlIHRvIG1ha2UgMy40IHRoZSBkZWZhdWx0OiBpZiAuYmFzaHJjIGZpbGUgZG9lc25vdCBleGl0LCB0aGVuIGNyZWF0ZSBpdC4KCiAgICAgICAkIGNkIH4KICAgICAgICQgdmkgLmJhc2hyYwogICAgICAgc291cmNlIGFjdGl2YXRlIHB5MzQKICAgICAgIEVTQzp3cQoKNC4gSW5zdGFsbCBkZXBlbmRlbmNpZXMgKHJ1biB0aGUgZm9sbG93aW5nIGNvbWFuZHMgaW4gcm9vdCBkaXIpOgoKICAgICAgICQgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dAogICAgICAgJCBweXRob24gc2V0dXAucHkgZGV2ZWxvcAoKNS4gVG8gZ2V0IHB5dGhvbiB3b3JraW5nIGluIEdpdCBCYXNoLCB5b3UgbWlnaHQgaGF2ZSB0byBhZGQgdGhlIGZvbGxvd2luZwogICBsaW5lIHRvIHlvdXIgfi8uYmFzaHJjOgogICAKICAgICAgIGFsaWFzIHB5dGhvbj0nd2lucHR5IHB5dGhvbi5leGUnIAoKCkV4Y2VsCi0tLS0tCgpJbiBvcmRlciBmb3IgdGhlIEV4Y2VsIGludGVncmF0aW9uIHRlc3RzIChlLmcuIFhsc1VuaXQpIHRvIHdvcmssIG1hY3JvcyBtdXN0IGJlIHBlcm1hbmVudGx5IGVuYWJsZWQuCgpFbmFibGUgYWxsIG1hY3JvcyBieSBnb2luZyB0byAKCiAgRmlsZS0+T3B0aW9ucy0+VHJ1c3QgQ2VudGVyLT5UcnVzdCBDZW50ZXIgU2V0dGluZ3MuLi4tPk1hY3JvIFNldHRpbmdzIAoKYW5kIGNsaWNraW5nIAogIAogIEVuYWJsZSBhbGwgbWFjcm9zCgoKRGlhCi0tLQoKVGhpcyBwYWNrYWdlIGlzIHVzZWQgZm9yIGdlbmVyYXRpbmcgcGljdHVyZXMgZm9yIHRoZSBTcGhpbnggdXNlciBkb2N1bWVudGF0aW9uLgoKMS4gRG93bmxvYWQgYW5kIGluc3RhbGwgYmluYXJ5IGZyb206IGh0dHA6Ly9kaWEtaW5zdGFsbGVyLmRlLwoKMi4gQXBwZW5kCgogICAgICA7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxEaWFcYmluCiAgIAogICB0byB0aGUgc3lzdGVtJ3MgUEFUSC4KCjMuIEdlbmVyaWMgaW5zdHJ1Y3Rpb25zIGZvciBob3cgdG8gdXBkYXRlIHRoZSBQQVRIIHZhcmlhYmxlOgogICBodHRwczovL3d3dy5qYXZhLmNvbS9lbi9kb3dubG9hZC9oZWxwL3BhdGgueG1sCgoKCgpJREUgZm9yIGRlYnVnZ2luZyB0aGUgY29kZQo9PT09PT09PT09PT09PT09PT09PT09PT09PQoKUHlDaGFybQotLS0tLS0tCjEuIERvd25sb2FkIHRoZSBQeWNoYXJtIENvbW11bml0eSBlZGl0aW9uIGZvciBlZGl0aW5nIGFuZCBkZWJ1Z2dpbmcgdGhlIHB5dGhvbiBjb2RlCglodHRwczovL3d3dy5qZXRicmFpbnMuY29tL3B5Y2hhcm0vZG93bmxvYWQvI3NlY3Rpb249d2luZG93cwoKMi4gSW5zdGFsbCBQeUNoYXJtCgozLiBDcmVhdGUgYSBuZXcgUHlDaGFybSBwcm9qZWN0IGluIHlvdXIgbG9jYWwgY29kZSByZXBvc2l0b3J5CgozLiBTZXR1cCB0aGUgcHl0aG9uIGludGVycHJldGVyIHRvIGJlIGFibGUgdG8gZGVidWcgdGhlIHB5dGhvbiBjb2RlCglGaWxlL1NldHRpbmdzL1Byb2plY3QgSW50ZXJwcmV0ZXIKICAgQWRkIHRoZSBwYXRoIHRvIHlvdXIgbG9jYWwgaW5zdGFsbGVkIFB5dGhvbiAzLjQgLmV4ZSBmaWxlCQoJUHl0aG9uIDMuNC41IChDOlxVc2Vyc1x7VVNFUk5BTUV9XEFwcERhdGFcTG9jYWxcQ29udGludXVtXEFuYWNvbmRhXGVudnNccHkzNFxweXRob24uZXhlKQoKNC4gU2V0IHRoZSBkZWZhdWx0IHRlc3QgcnVubmVyIHRvIHB5LnRlc3Q6CiAgIEZpbGUvU2V0dGluZ3MvVG9vbHMvUHl0aG9uIEludGVncmF0ZWQgVG9vbHMvRGVmYXVsdCB0ZXN0IHJ1bm5lcgogICBUaGlzIG1ha2VzIFB5Q2hhcm0gdXNlIHB5LnRlc3Qgd2hlbiByaWdodC1jbGlja2luZyBhIGZpbGUgYW5kIGNob29zaW5nICJSdW4gdGVzdC4uLiIuCiAgIFRoaXMgaXMgcmVxdWlyZWQgc2luY2Ugc29tZSBvZiB0aGUgdGVzdCBjYXNlcyB1c2UgcHkudGVzdCBmZWF0dXJlcyBsaWtlIHBhcmFtZXRyaXphdGlvbi4KCjUuIElmIHlvdSB3b3VsZCBsaWtlIHRvIHJldXNlIHNvbWUgcHJlZGVmaW5lZCBydW4gY29uZmlndXJhdGlvbnMgdGhlbiBjb3B5IHRoZSBjb250ZW50cyBvZgoJLi4vdG9vbHMvUHlDaGFybS9ydW5Db25maWd1cmF0aW9ucwogICB0byB5b3UgbG9jYWwgcHlDaGFybSBmb2xkZXIKCS4uLy5pZGVhL3J1bkNvbmZpZ3VyYXRpb25zIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KHBhcmFtcykK</text>
