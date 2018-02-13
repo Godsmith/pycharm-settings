@@ -229,6 +229,9 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1518516738487">
+        <mark key="'" line="299" column="76" />
+      </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="7" />
@@ -478,10 +481,6 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="/excel_input.py" timestamp="1517579281269">
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="393" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/__init__.py" timestamp="1424556950287">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="12" />
@@ -635,7 +634,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518511877913">
+      <file name="/Dummy.txt" timestamp="1518516539176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -905,10 +904,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/test_case.py" timestamp="1517916839552">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1513073219935">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -1156,13 +1151,6 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1517405949940">
-        <mark key="'" line="12" column="40" />
-        <mark key="[" line="112" column="61" />
-        <mark key="]" line="112" column="60" />
-        <mark key="." line="112" column="60" />
-        <mark key="^" line="112" column="60" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1516633020670">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1343,22 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="69" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="19" column="63" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="20" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="21" column="81" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="22" column="81" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="24" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="25" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="26" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="27" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="28" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="29" column="63" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="30" column="67" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="31" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="32" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="33" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="34" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="35" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="36" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="37" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1443,6 +1415,22 @@
       <jump line="100" column="21" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="16" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="1133" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="1099" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="1052" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="869" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="868" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="867" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="527" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="305" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="304" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="303" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="302" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="301" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="300" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="299" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1462,7 +1450,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>CachedDataba</text>
+        <text>in_spgw_no_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TmVlZGVkIHNvZnR3YXJlIGZvciBkZXZlbG9waW5nIHRoZSBtb2RlbAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpEb3dubG9hZCBhbmQgSW5zdGFsbCBWaXN1YWwgU3R1ZGlvIENvbW11bml0eSAyMDE1Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLVVzZWQgRm9yIHJ1bm5pbmcgWGxzVW5pdCAKICBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy80NDI5MDY3Mi9ob3ctdG8tZG93bmxvYWQtdmlzdWFsLXN0dWRpby1jb21tdW5pdHktZWRpdGlvbi0yMDE1LW5vdC0yMDE3CgoKR2l0Ci0tLQoKMS4gIEluc3RhbGwgR2l0IGZvciBXaW5kb3dzIDY0LWJpdCAKCiAgICBodHRwczovL2dpdC1zY20uY29tL2Rvd25sb2FkL3dpbgoKMi4gIFNldCB1cCBTU0gga2V5IGF1dGhlbnRpY2F0aW9uIHRvIEdlcnJpdCBDZW50cmFsICAKCjIuMSBDcmVhdGUgYSBwdWJsaWMgU1NIIGtleQogIAoJICBzc2gta2V5Z2VuIC10IHJzYSAtYiA0MDk2IC1DICI8WW91ciBFcmljc3NvbiBlbWFpbD4iCgoJSW4gR2l0IEJhc2g6CgkgIGV2YWwgIiQoc3NoLWFnZW50IC1zKSIKCW90aGVyd2lzZToKICAgICAgZXZhbCAkKHNzaC1hZ2VudCAtcykKCgkgIHNzaC1hZGQgfi8uc3NoL2lkX3JzYQoKCSAgY2xpcCA8IH4vLnNzaC9pZF9yc2EucHViCgoyLjIgRm9sbG93IHRoZSBpbnN0cnVjdGlvbnMgb24KICAgIAoJaHR0cHM6Ly9kcnVwYWwtcGR1LXBhY2tldGNvcmUubW8uc3cuZXJpY3Nzb24uc2UvY29udGVudC9nYXRld2F5LWdpdC1hbmQtZ2Vycml0LXdvcmtmbG93I1NldHVwX1NTSF9rZXlfYXV0aGVudGljYXRpb25fdG9fU0VMTl9HZXJyaXRfYW5kX0dlcnJpdF9DZW50cmFsCgozLiAgQ2xvbmUgdGhlIHJlcG8KCiAgICAgIGdpdCBjbG9uZSBzc2g6Ly9nZXJyaXQuZXJpY3Nzb24uc2U6Mjk0MTgvcGMvdG9vbHMvY2FuZGktZXBnCgo0LiBTZXQgdXAgdGhlIGdpdCBob29rcyBuZWVkZWQgdG8gYmUgYWJsZSB0byBwdXNoIHRvIEdlcnJpdAogICAgICBnaXRkaXI9JChnaXQgcmV2LXBhcnNlIC0tZ2l0LWRpcik7IHNjcCAtcCAtUCAyOTQxOCBnZXJyaXQuZXJpY3Nzb24uc2U6aG9va3MvY29tbWl0LW1zZyAke2dpdGRpcn0vaG9va3MvCgoKTWluaW1hbCBHTlUgV2luZG93cyAoTWluR1ctNjQpIG1ha2UgZmlsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoxLiBEb3dubG9hZCB0aGUgbGF0ZXN0IGZpbGUgZnJvbToKICAgaHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvbWluZ3ctdzY0L2ZpbGVzL0V4dGVybmFsJTIwYmluYXJ5JTIwcGFja2FnZXMlMjAlMjhXaW42NCUyMGhvc3RlZCUyOS9tYWtlLwoKICAgQXMgb2Ygd3JpdGluZyB0aGlzIGd1aWRlLCB0aGUgbGF0ZXN0IGZpbGUgaXMgbWFrZS0zLjgyLjkwLTIwMTExMTE1LnppcCwgZ290dGVuIGZyb206CiAgIGh0dHBzOi8vc291cmNlZm9yZ2UubmV0L3Byb2plY3RzL21pbmd3LXc2NC9maWxlcy9FeHRlcm5hbCUyMGJpbmFyeSUyMHBhY2thZ2VzJTIwJTI4V2luNjQlMjBob3N0ZWQlMjkvbWFrZS9tYWtlLTMuODIuOTAtMjAxMTExMTUuemlwL2Rvd25sb2FkCgoyLiBGaW5kIHRoZSBtYWtlLTMuODIuOTAtMjAxMTExMTUuemlwIGZpbGUgb24geW91ciBsb2NhbCBkaXNrLgoKMy4gQ29weSB0aGUgZmlsZSBgbWFrZS1YLllZLlpaL2Jpbl9hbWQ2NC9tYWtlLmV4ZWAgYW5kIHBhc3RlIGl0IGludG8gYEM6XFByb2dyYW0gRmlsZXNcR2l0XHVzclxiaW5gLgoKClB5dGhvbgotLS0tLS0KCjEuIEluc3RhbGwgdGhlIGxhdGVzdCBBbmFjb25kYSBQeXRob24gMy54IGZyb206CiAgIGh0dHBzOi8vd3d3LmNvbnRpbnV1bS5pby9kb3dubG9hZHMKICAgTm90ZTogSW4gdGhlIGFkdmFuY2VkIGluc3RhbGxhdGlvbiBPcHRpb25zLCBkb24ndCBmb3JnZXQgdG8gdGljayAiYWRkIGFuYWNvbmRhIHRvIFBBVEggZW52aXJvbm1lbnQgdmFyaWFibGUiIG9wdGlvbi4KICAgICAgICAgaS5lIGlnbm9yZSB0aGUgd2FybmluZwoKMi4gTWFrZSBzdXJlIHlvdSBoYXZlIHRoZSBsYXRlc3QgdmVyc2lvbi4KCiAgIEluc3RydWN0aW9ucyBmb3IgdXBkYXRpbmcgQW5hY29uZGEgYXJlIHRha2VuIGZyb206CiAgIGh0dHA6Ly9kb2NzLmNvbnRpbnV1bS5pby9hbmFjb25kYS9pbnN0YWxsI3VwZGF0aW5nLWZyb20tb2xkZXItYW5hY29uZGEtdmVyc2lvbnMKCiAgIFRoZSBjb21tYW5kcyBhcmU6CgogICAgICAgJCBjb25kYSB1cGRhdGUgY29uZGEKICAgICAgICQgY29uZGEgdXBkYXRlIGFuYWNvbmRhCgogICBJZiB5b3UgYXJlIHJ1bm5pbmcgaW4gYSBDb25kYSBlbnZpcm9ubWVudCwgeW91IHVwZGF0ZSBgY29uZGFgIGluIHRoZQogICBmb2xsb3dpbmcgd2F5OgoKICAgICAgICQgc291cmNlIGRlYWN0aXZhdGUKICAgICAgICQgY29uZGEgdXBkYXRlIGNvbmRhCiAgICAgICAkIHNvdXJjZSBhY3RpdmF0ZSBweTM0CgozLiBDcmVhdGUgYW4gQW5hY29uZGEgUHl0aG9uIDMuNCBlbnZpcm9ubWVudDoKICAgKE5CISBOb3QgbmVlZGVkIGlmIEFuYWNvbmRhIFB5dGhvbiAzIHdhcyBpbnN0YWxsZWQpCiAgICAgICAKICAgQ3JlYXRlIHZpcnR1YWwgZW52aXJvbm1lbnQgYW5kIGFjdGl2YXRlIGl0LgoKICAgICAgICQgY29uZGEgY3JlYXRlIC1uIHB5MzQgcHl0aG9uPTMuNCBhbmFjb25kYQogICAgICAgJCBzb3VyY2UgYWN0aXZhdGUgcHkzNAoKICAgQWRkIGBzb3VyY2UgYWN0aXZhdGUgcHkzNGAgdG8geW91ciBgfi8uYmFzaHJjYCBmaWxlIHRvIG1ha2UgMy40IHRoZSBkZWZhdWx0OiBpZiAuYmFzaHJjIGZpbGUgZG9lc25vdCBleGl0LCB0aGVuIGNyZWF0ZSBpdC4KCiAgICAgICAkIGNkIH4KICAgICAgICQgdmkgLmJhc2hyYwogICAgICAgc291cmNlIGFjdGl2YXRlIHB5MzQKICAgICAgIEVTQzp3cQoKNC4gSW5zdGFsbCBkZXBlbmRlbmNpZXMgKHJ1biB0aGUgZm9sbG93aW5nIGNvbWFuZHMgaW4gcm9vdCBkaXIpOgoKICAgICAgICQgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dAogICAgICAgJCBweXRob24gc2V0dXAucHkgZGV2ZWxvcAoKNS4gVG8gZ2V0IHB5dGhvbiB3b3JraW5nIGluIEdpdCBCYXNoLCB5b3UgbWlnaHQgaGF2ZSB0byBhZGQgdGhlIGZvbGxvd2luZwogICBsaW5lIHRvIHlvdXIgfi8uYmFzaHJjOgogICAKICAgICAgIGFsaWFzIHB5dGhvbj0nd2lucHR5IHB5dGhvbi5leGUnIAoKCkV4Y2VsCi0tLS0tCgpJbiBvcmRlciBmb3IgdGhlIEV4Y2VsIGludGVncmF0aW9uIHRlc3RzIChlLmcuIFhsc1VuaXQpIHRvIHdvcmssIG1hY3JvcyBtdXN0IGJlIHBlcm1hbmVudGx5IGVuYWJsZWQuCgpFbmFibGUgYWxsIG1hY3JvcyBieSBnb2luZyB0byAKCiAgRmlsZS0+T3B0aW9ucy0+VHJ1c3QgQ2VudGVyLT5UcnVzdCBDZW50ZXIgU2V0dGluZ3MuLi4tPk1hY3JvIFNldHRpbmdzIAoKYW5kIGNsaWNraW5nIAogIAogIEVuYWJsZSBhbGwgbWFjcm9zCgoKRGlhCi0tLQoKVGhpcyBwYWNrYWdlIGlzIHVzZWQgZm9yIGdlbmVyYXRpbmcgcGljdHVyZXMgZm9yIHRoZSBTcGhpbnggdXNlciBkb2N1bWVudGF0aW9uLgoKMS4gRG93bmxvYWQgYW5kIGluc3RhbGwgYmluYXJ5IGZyb206IGh0dHA6Ly9kaWEtaW5zdGFsbGVyLmRlLwoKMi4gQXBwZW5kCgogICAgICA7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxEaWFcYmluCiAgIAogICB0byB0aGUgc3lzdGVtJ3MgUEFUSC4KCjMuIEdlbmVyaWMgaW5zdHJ1Y3Rpb25zIGZvciBob3cgdG8gdXBkYXRlIHRoZSBQQVRIIHZhcmlhYmxlOgogICBodHRwczovL3d3dy5qYXZhLmNvbS9lbi9kb3dubG9hZC9oZWxwL3BhdGgueG1sCgoKCgpJREUgZm9yIGRlYnVnZ2luZyB0aGUgY29kZQo9PT09PT09PT09PT09PT09PT09PT09PT09PQoKUHlDaGFybQotLS0tLS0tCjEuIERvd25sb2FkIHRoZSBQeWNoYXJtIENvbW11bml0eSBlZGl0aW9uIGZvciBlZGl0aW5nIGFuZCBkZWJ1Z2dpbmcgdGhlIHB5dGhvbiBjb2RlCglodHRwczovL3d3dy5qZXRicmFpbnMuY29tL3B5Y2hhcm0vZG93bmxvYWQvI3NlY3Rpb249d2luZG93cwoKMi4gSW5zdGFsbCBQeUNoYXJtCgozLiBDcmVhdGUgYSBuZXcgUHlDaGFybSBwcm9qZWN0IGluIHlvdXIgbG9jYWwgY29kZSByZXBvc2l0b3J5CgozLiBTZXR1cCB0aGUgcHl0aG9uIGludGVycHJldGVyIHRvIGJlIGFibGUgdG8gZGVidWcgdGhlIHB5dGhvbiBjb2RlCglGaWxlL1NldHRpbmdzL1Byb2plY3QgSW50ZXJwcmV0ZXIKICAgQWRkIHRoZSBwYXRoIHRvIHlvdXIgbG9jYWwgaW5zdGFsbGVkIFB5dGhvbiAzLjQgLmV4ZSBmaWxlCQoJUHl0aG9uIDMuNC41IChDOlxVc2Vyc1x7VVNFUk5BTUV9XEFwcERhdGFcTG9jYWxcQ29udGludXVtXEFuYWNvbmRhXGVudnNccHkzNFxweXRob24uZXhlKQoKNC4gU2V0IHRoZSBkZWZhdWx0IHRlc3QgcnVubmVyIHRvIHB5LnRlc3Q6CiAgIEZpbGUvU2V0dGluZ3MvVG9vbHMvUHl0aG9uIEludGVncmF0ZWQgVG9vbHMvRGVmYXVsdCB0ZXN0IHJ1bm5lcgogICBUaGlzIG1ha2VzIFB5Q2hhcm0gdXNlIHB5LnRlc3Qgd2hlbiByaWdodC1jbGlja2luZyBhIGZpbGUgYW5kIGNob29zaW5nICJSdW4gdGVzdC4uLiIuCiAgIFRoaXMgaXMgcmVxdWlyZWQgc2luY2Ugc29tZSBvZiB0aGUgdGVzdCBjYXNlcyB1c2UgcHkudGVzdCBmZWF0dXJlcyBsaWtlIHBhcmFtZXRyaXphdGlvbi4KCjUuIElmIHlvdSB3b3VsZCBsaWtlIHRvIHJldXNlIHNvbWUgcHJlZGVmaW5lZCBydW4gY29uZmlndXJhdGlvbnMgdGhlbiBjb3B5IHRoZSBjb250ZW50cyBvZgoJLi4vdG9vbHMvUHlDaGFybS9ydW5Db25maWd1cmF0aW9ucwogICB0byB5b3UgbG9jYWwgcHlDaGFybSBmb2xkZXIKCS4uLy5pZGVhL3J1bkNvbmZpZ3VyYXRpb25zIAo=</text>
@@ -1516,9 +1504,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CachedDataba</last-search>
+      <last-search>in_spgw_no_</last-search>
       <last-offset />
-      <last-pattern>CachedDataba</last-pattern>
+      <last-pattern>in_spgw_no_</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1526,7 +1514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>consumerpath</entry>
         <entry>id=&quot;7002&quot;</entry>
         <entry>7002</entry>
         <entry>SSC3</entry>
@@ -1546,6 +1533,7 @@
         <entry>class</entry>
         <entry>DependencyGr</entry>
         <entry>CachedDataba</entry>
+        <entry>in_spgw_no_</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
