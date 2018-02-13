@@ -393,11 +393,11 @@
       <file name="$USER_HOME$/AppData/Local/Continuum/Anaconda3/envs/py34/Lib/site-packages/pip/_vendor/distlib/database.py" timestamp="1518427817408">
         <mark key="'" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/lazy.txt" timestamp="1513868373936">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="^" line="217" column="103" />
-        <mark key="." line="218" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/lazy.txt" timestamp="1518512156501">
+        <mark key="[" line="146" column="63" />
+        <mark key="]" line="230" column="0" />
+        <mark key="^" line="229" column="103" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/jsonCompare/json_compare.py" timestamp="1512983817286">
         <mark key="[" line="9" column="15" />
@@ -635,7 +635,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518508647295">
+      <file name="/Dummy.txt" timestamp="1518511877913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
