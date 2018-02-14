@@ -908,12 +908,12 @@
         <mark key="^" line="45" column="75" />
         <mark key="." line="45" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1518595806139">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1518597363279">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="70" column="17" />
-        <mark key="]" line="70" column="17" />
-        <mark key="^" line="70" column="17" />
-        <mark key="." line="70" column="17" />
+        <mark key="[" line="99" column="48" />
+        <mark key="]" line="99" column="56" />
+        <mark key="^" line="99" column="56" />
+        <mark key="." line="99" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/close_cand_epg_xlsm.py" timestamp="1516025086582">
         <mark key="[" line="2" column="3" />
@@ -1196,7 +1196,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>extract_to_int</text>
