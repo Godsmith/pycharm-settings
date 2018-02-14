@@ -300,6 +300,7 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/build/lib/generic_model/db.py" timestamp="1517910357790" />
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/web_gui_tests.py" timestamp="1518098745920">
         <mark key="'" line="30" column="37" />
         <mark key="[" line="30" column="44" />
@@ -373,6 +374,7 @@
         <mark key="." line="11" column="102" />
         <mark key="^" line="11" column="102" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1517576864097" />
       <file name="$USER_HOME$/workspace/AdventOfCode/day19/main.py" timestamp="1450561254404">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="24" />
@@ -451,6 +453,7 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_validation_tests.py" timestamp="1518620178440" />
       <file name="$USER_HOME$/workspace/AdventOfCode/day03/main2.py" timestamp="1449503965864">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -507,7 +510,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518614232782">
+      <file name="/Dummy.txt" timestamp="1518620840663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -693,7 +696,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1518606213606">
+      <file name="/Python Console" timestamp="1518621070152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517585600670">
@@ -879,7 +882,7 @@
         <mark key="^" line="45" column="75" />
         <mark key="." line="45" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1518597363279">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1518621371301">
         <mark key="'" line="0" column="24" />
         <mark key="[" line="99" column="48" />
         <mark key="]" line="99" column="56" />
@@ -892,6 +895,7 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder_decorators.py" timestamp="1517232298789" />
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
         <mark key="]" line="21" column="72" />
@@ -1157,7 +1161,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>*.py</text>
       </register>
       <register name="/" type="4">
         <text>host_i</text>
@@ -1210,7 +1214,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHZpcnR1YWxfbWFjaGluZXNfb25lX2xjLCAnTEMnKV0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1261,11 +1265,11 @@
         <entry>s/parameter.type/type(attr)/</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action MethodDown</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoClass</entry>
         <entry>reg</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
