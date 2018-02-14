@@ -16,32 +16,17 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateTestCasesFromHistory/create_test_cases_from_history/create_test_case_from_last_run.py" timestamp="1508850906583">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/tests/misc_tests.py" timestamp="1515596623863">
         <mark key="[" line="16" column="65" />
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_3host_17A.json" timestamp="1511276558699">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_cpaths.py" timestamp="1511182458670">
         <mark key="[" line="25" column="48" />
         <mark key="]" line="16" column="16" />
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
-      </file>
-      <file name="/a.dummy" timestamp="1517221813252">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_double_worker_capacity.json" timestamp="1507702308102">
         <mark key="[" line="51" column="31" />
@@ -74,6 +59,12 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1517577531121">
+        <mark key="[" line="84" column="64" />
+        <mark key="]" line="84" column="68" />
+        <mark key="^" line="84" column="68" />
+        <mark key="." line="84" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/database.py" timestamp="1424207636646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -86,20 +77,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8010_ssc3.json" timestamp="1511276579094">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8010_ssc3_and_ssc1.json" timestamp="1511276573636">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1517991344666">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1518593268807">
         <mark key="'" line="191" column="6" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="43" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
@@ -158,21 +141,17 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1518427865250">
         <mark key="'" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1517412867185">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day16/main2.py" timestamp="1450557417153">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="24" />
         <mark key="^" line="32" column="12" />
         <mark key="." line="30" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/subcommands.rst" timestamp="1511426848040">
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="8" />
-        <mark key="." line="634" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_epg_up_only.json" timestamp="1511276581545">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/vm_base_usage.csv" timestamp="1508851443328">
         <mark key="[" line="26" column="7" />
@@ -212,11 +191,6 @@
         <mark key="^" line="11" column="124" />
         <mark key="." line="11" column="124" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost_old.csv" timestamp="1508851470794">
-        <mark key="[" line="819" column="3" />
-        <mark key="]" line="819" column="3" />
-        <mark key="." line="819" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_sessions_zero.json" timestamp="1507807641669">
         <mark key="[" line="129" column="41" />
         <mark key="]" line="129" column="41" />
@@ -237,11 +211,6 @@
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_up_only.json" timestamp="1511276560140">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/debugserver.py" timestamp="1424556396161">
         <mark key="[" line="1" column="0" />
@@ -265,16 +234,6 @@
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/ssc3.py" timestamp="1513689816104">
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="37" />
-        <mark key="." line="48" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_calibration_zero.json" timestamp="1507807451456">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="32" />
-        <mark key="." line="54" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day06/main.py" timestamp="1449523946017">
         <mark key="[" line="2" column="0" />
@@ -313,11 +272,6 @@
         <mark key="]" line="49" column="59" />
         <mark key="^" line="49" column="59" />
         <mark key="." line="49" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_linecard_2x100_2x10_Gb.json" timestamp="1511276555940">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/instance_level.py" timestamp="1513246696963">
         <mark key="[" line="4" column="8" />
@@ -363,16 +317,6 @@
         <mark key="]" line="19" column="42" />
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" timestamp="1516185195644">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/insert_build_number.py" timestamp="1512573167293">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/debugging.rst" timestamp="1513247480469">
         <mark key="[" line="30" column="18" />
@@ -434,22 +378,12 @@
         <mark key="." line="11" column="102" />
         <mark key="^" line="11" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/supported_releases.csv" timestamp="1508851207597">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1517576864097" />
       <file name="$USER_HOME$/workspace/AdventOfCode/day19/main.py" timestamp="1450561254404">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/test_insert_build_number.py" timestamp="1512566880853">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1513072248107">
         <mark key="[" line="46" column="0" />
@@ -472,11 +406,6 @@
         <mark key="." line="167" column="21" />
         <mark key="^" line="167" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/jsonCompare/file2.json" timestamp="1511276485917">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day07/main.py" timestamp="1481225371764">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
@@ -495,22 +424,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_cp_only.json" timestamp="1511276564629">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1517576553711">
         <mark key="'" line="23" column="111" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="63" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="50" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_larger_ppb_and_cpb_vm_sizes_in_epg_2018q1.json" timestamp="1511276557216">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_physical_epg_traffic_paths.py" timestamp="1513082935072">
         <mark key="'" line="171" column="0" />
@@ -526,21 +445,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/consumer_instances.csv" timestamp="1511338954295">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507813297722">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="39" column="90" />
         <mark key="." line="39" column="90" />
         <mark key="^" line="39" column="90" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/constants.py" timestamp="1508851164787">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/level_connection.py" timestamp="1513246854243">
         <mark key="[" line="43" column="16" />
@@ -587,21 +496,6 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/load_factory.py" timestamp="1507020440688">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_linecard_20x10_Gb.json" timestamp="1511276553362">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/jsonCompare/file3.json" timestamp="1511276754438">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pdcepgcandi364.py" timestamp="1511419396426">
         <mark key="[" line="51" column="57" />
         <mark key="]" line="51" column="66" />
@@ -626,25 +520,10 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_virtual_epg_traffic_paths.json" timestamp="1512738588911">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/.gitignore" timestamp="1513591028030">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1518530168299">
+      <file name="/Dummy.txt" timestamp="1518594441963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/update_cand_epg_cache.py" timestamp="1516269299437">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/user.py" timestamp="1424558398896">
         <mark key="[" line="7" column="0" />
@@ -676,11 +555,6 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_64_vms_per_vnf.json" timestamp="1511276580301">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day04/main.py" timestamp="1449505950116">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="24" />
@@ -711,11 +585,6 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_epg_cpup.json" timestamp="1511276577682">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/How to set up the development environment.txt" timestamp="1516192420030">
         <mark key="'" line="49" column="36" />
         <mark key="[" line="161" column="20" />
@@ -728,11 +597,6 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_mytestname.json" timestamp="1511276570667">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_calibration_and_signaling_zero.json" timestamp="1507812837045">
         <mark key="[" line="54" column="31" />
@@ -752,21 +616,11 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_cpup.json" timestamp="1511276601375">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day20/main2.py" timestamp="1450815707573">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_no_sacc.json" timestamp="1511428515682">
-        <mark key="[" line="179" column="11" />
-        <mark key="]" line="179" column="12" />
-        <mark key="." line="179" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/vsfo/minimal.json" timestamp="1513252390311">
         <mark key="'" line="0" column="0" />
@@ -775,21 +629,17 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/pytest.ini" timestamp="1517406613075">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/pytest.ini" timestamp="1518594292048">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/max_allowed_load.csv" timestamp="1508851456598">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="13" column="6" />
         <mark key="." line="10" column="6" />
         <mark key="^" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1507813275980">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="32" />
-        <mark key="." line="54" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
@@ -803,21 +653,11 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/worker_capacity_vepg_DPI.json" timestamp="1511276583173">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" timestamp="1511426871570">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="4" />
         <mark key="." line="179" column="4" />
         <mark key="^" line="164" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/input_vsfo_6_vcpus_should_not_work.py" timestamp="1510054002201">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/write.py" timestamp="1516203801253">
         <mark key="'" line="146" column="9" />
@@ -826,20 +666,10 @@
         <mark key="^" line="115" column="52" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_applier.py" timestamp="1512989078422">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1518509866365">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="166" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Framework/framework/datatype.py" timestamp="1508851217983">
-        <mark key="[" line="168" column="40" />
-        <mark key="]" line="168" column="40" />
-        <mark key="." line="168" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/core_input_builder_tests.py" timestamp="1517586626738">
         <mark key="'" line="336" column="0" />
@@ -853,11 +683,6 @@
         <mark key="]" line="108" column="46" />
         <mark key="^" line="108" column="45" />
         <mark key="." line="108" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8020_ssc3_and_ssc1.json" timestamp="1511276554652">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day17/main.py" timestamp="1450558170534">
         <mark key="[" line="18" column="113" />
@@ -901,26 +726,11 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_sacc_no_pisc.json" timestamp="1511276603988">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_worker_capacity.py" timestamp="1513073219935">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="^" line="60" column="14" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Releasing to big candi community.txt" timestamp="1518015631518">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/update_spgw_post_13A_control_plane.py" timestamp="1508851168530">
-        <mark key="[" line="123" column="83" />
-        <mark key="]" line="123" column="83" />
-        <mark key="." line="123" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/test.py" timestamp="1425416466768">
         <mark key="[" line="18" column="109" />
@@ -954,6 +764,12 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_epg_releases.py" timestamp="1517577467158">
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="14" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" timestamp="1512727600748">
         <mark key="[" line="73" column="6" />
         <mark key="]" line="73" column="10" />
@@ -971,21 +787,6 @@
         <mark key="]" line="79" column="33" />
         <mark key="." line="79" column="33" />
         <mark key="^" line="79" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/vsfo_6_vcpus_per_cpb_should_not_give_3_ssc.py" timestamp="1510056195205">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/jsonCompare/file1.json" timestamp="1511276495905">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/path_consumer.csv" timestamp="1511338868960">
-        <mark key="[" line="15" column="78" />
-        <mark key="]" line="15" column="79" />
-        <mark key="." line="15" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder_factory.py" timestamp="1517231793326">
         <mark key="[" line="15" column="0" />
@@ -1011,21 +812,11 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi364.json" timestamp="1511276565984">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/sacc_no_pisc.py" timestamp="1508851235039">
         <mark key="[" line="14" column="82" />
         <mark key="]" line="14" column="82" />
         <mark key="." line="14" column="82" />
         <mark key="^" line="24" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/tests/convert/convert_tests.py" timestamp="1510841223104">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_resource_deployment.csv" timestamp="1512727743594">
         <mark key="[" line="12" column="6" />
@@ -1039,11 +830,6 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi494.json" timestamp="1511276602768">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1518097144072">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="2" column="0" />
@@ -1056,16 +842,6 @@
         <mark key="]" line="11" column="37" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Python, how to add new input variables.txt" timestamp="1518015636660">
-        <mark key="[" line="141" column="20" />
-        <mark key="]" line="141" column="20" />
-        <mark key="." line="141" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateCandiCosts/create_candi_costs.py" timestamp="1508851262305">
-        <mark key="[" line="287" column="43" />
-        <mark key="]" line="287" column="43" />
-        <mark key="." line="287" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main2.py" timestamp="1449523064828">
         <mark key="[" line="2" column="0" />
@@ -1122,11 +898,6 @@
         <mark key="^" line="45" column="75" />
         <mark key="." line="45" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_epg.json" timestamp="1511276464728">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1518098219153">
         <mark key="[" line="10" column="33" />
       </file>
@@ -1136,17 +907,11 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_physical_epg_traffic_paths.json" timestamp="1511276561467">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder_decorators.py" timestamp="1517232298789" />
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1518531250075">
-        <mark key="[" line="178" column="62" />
-        <mark key="]" line="178" column="63" />
-        <mark key="^" line="181" column="36" />
-        <mark key="." line="178" column="63" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1518593774453">
+        <mark key="[" line="175" column="59" />
+        <mark key="]" line="175" column="60" />
+        <mark key="." line="175" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
@@ -1179,21 +944,6 @@
         <mark key="." line="141" column="42" />
         <mark key="^" line="212" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_epg_cp_only.json" timestamp="1511276599916">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/tests/DemoModel/demo/consumer_deployment.csv" timestamp="1511338912300">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/__init__.py" timestamp="1513253139889">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day24/main.py" timestamp="1451004831296">
         <mark key="[" line="53" column="34" />
         <mark key="]" line="53" column="35" />
@@ -1212,21 +962,11 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_8020_ssc3.json" timestamp="1511276549799">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/nosacc.py" timestamp="1508851227734">
         <mark key="[" line="14" column="82" />
         <mark key="]" line="14" column="82" />
         <mark key="." line="14" column="82" />
         <mark key="^" line="47" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_linecard_10x10_Gb.json" timestamp="1511276551974">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/do_dimensioning.py" timestamp="1518098712296">
         <mark key="[" line="12" column="44" />
@@ -1253,21 +993,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_all_inputs_epg_1_0.json" timestamp="1508851264018">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateCandiCosts/epg_test_result.py" timestamp="1508850843210">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/data/input_with_pdc_load.json" timestamp="1513243739934">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/edit_signal_costs/test/test_measurement_list.py" timestamp="1506430061102">
         <mark key="[" line="205" column="12" />
         <mark key="]" line="205" column="34" />
@@ -1280,22 +1005,17 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/data/input.json" timestamp="1511426808927">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="4" />
-        <mark key="." line="180" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/not_implemented_for_this_release_epg1_3.py" timestamp="1509516581885">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1518531285125">
-        <mark key="[" line="253" column="24" />
-        <mark key="]" line="253" column="28" />
-        <mark key="^" line="253" column="28" />
-        <mark key="." line="253" column="28" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1518593527810">
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
+        <mark key="^" line="255" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
@@ -1316,11 +1036,6 @@
         <mark key="." line="44" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1518530300883" />
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_capacity_per_worker_SRIOV.json" timestamp="1511276598397">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/fixtures/updates.csv" timestamp="1508828562596">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1463,16 +1178,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'1'</text>
+        <text>{'OneVMPerServer': '1',</text>
       </register>
       <register name="/" type="4">
         <text>in_spgw_no_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fZGljdF9pbnB1dCA9IHsnRVBHX1ZORl9QbGFjZW1lbnRfUG9saWN5JzogJ09uZVZNUGVyU2VydmVyJ30KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCcxJywgc2VsZi5leGNlbF9sZWdhY3lfaW5wdXQuX3BwYnNfcGVyX3NlcnZlcikK</text>
+      <register name="0" type="4">
+        <text>('OneVMPerServer', '1'),
+                                       ('SharedServer', '2'),
+                                       ('some other string', '1')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fZGljdF9pbnB1dCA9IHsnRVBHX1ZORl9QbGFjZW1lbnRfUG9saWN5JzogJ09uZVZNUGVyU2VydmVyJ30KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCcxJywgc2VsZi5leGNlbF9sZWdhY3lfaW5wdXQuX3BwYnNfcGVyX3NlcnZlcikKICAgICAgICBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fZGljdF9pbnB1dCA9IHsnRVBHX1ZORl9QbGFjZW1lbnRfUG9saWN5JzogJ1NoYXJlZFNlcnZlcid9CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgnMicsIHNlbGYuZXhjZWxfbGVnYWN5X2lucHV0Ll9wcGJzX3Blcl9zZXJ2ZXIpCiAgICAgICAgc2VsZi5leGNlbF9sZWdhY3lfaW5wdXQuX2RpY3RfaW5wdXQgPSB7J0VQR19WTkZfUGxhY2VtZW50X1BvbGljeSc6ICdmb28nfQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoJzEnLCBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fcHBic19wZXJfc2VydmVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1492,31 +1209,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text>{'OneVMPerServer': '1',
+                'SharedServer': '2'}.get(</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzb21lIG90aGVyIHN0cmluZyc6ICcxJ30K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRVBHX0RpbWVuc2lvbmluZ19Nb2RlJzogJ0VQR19NQU5VQUwnLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fZGljdF9pbnB1dCA9IHsnRVBHX1ZORl9QbGFjZW1lbnRfUG9saWN5JzogJ09uZVZNUGVyU2VydmVyJ30KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCcxJywgc2VsZi5leGNlbF9sZWdhY3lfaW5wdXQuX3BwYnNfcGVyX3NlcnZlcikKICAgICAgICBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fZGljdF9pbnB1dCA9IHsnRVBHX1ZORl9QbGFjZW1lbnRfUG9saWN5JzogJ1NoYXJlZFNlcnZlcid9CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgnMicsIHNlbGYuZXhjZWxfbGVnYWN5X2lucHV0Ll9wcGJzX3Blcl9zZXJ2ZXIpCiAgICAgICAgc2VsZi5leGNlbF9sZWdhY3lfaW5wdXQuX2RpY3RfaW5wdXQgPSB7J0VQR19WTkZfUGxhY2VtZW50X1BvbGljeSc6ICdmb28nfQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoJzEnLCBzZWxmLmV4Y2VsX2xlZ2FjeV9pbnB1dC5fcHBic19wZXJfc2VydmVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcnJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcnJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZGlzYWJsZWQgdGhlIGJlbG93IHVudGlsIGZpeCBvZiBodHRwczovL3BkdXBjLWppcmEubW8uc3cuZXJpY3Nzb24uc2UvYnJvd3NlL1BDRVBHQ0FOREktNjIzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRVBHX0RpbWVuc2lvbmluZ19Nb2RlJzogJ0VQR19NQU5VQUwnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1565,13 +1283,13 @@
         <entry encoding="base64">JzwsJz5uL0EuMC8=</entry>
         <entry>:</entry>
         <entry>s/parameter.type/type(attr)/</entry>
-        <entry>w</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action MethodDown</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoClass</entry>
         <entry>reg</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
