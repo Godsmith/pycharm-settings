@@ -59,12 +59,6 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1517577531121">
-        <mark key="[" line="84" column="64" />
-        <mark key="]" line="84" column="68" />
-        <mark key="^" line="84" column="68" />
-        <mark key="." line="84" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/database.py" timestamp="1424207636646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -146,12 +140,6 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1518427865250">
         <mark key="'" line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1517412867185">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day16/main2.py" timestamp="1450557417153">
         <mark key="[" line="2" column="0" />
@@ -461,8 +449,8 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_validation_tests.py" timestamp="1517229794855">
-        <mark key="'" line="84" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_validation_tests.py" timestamp="1518605467856">
+        <mark key="'" line="5" column="86" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="^" line="92" column="27" />
@@ -524,7 +512,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518594441963">
+      <file name="/Dummy.txt" timestamp="1518605454500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -774,12 +762,6 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_epg_releases.py" timestamp="1517577467158">
-        <mark key="[" line="13" column="68" />
-        <mark key="]" line="13" column="68" />
-        <mark key="." line="13" column="68" />
-        <mark key="^" line="14" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" timestamp="1512727600748">
         <mark key="[" line="73" column="6" />
         <mark key="]" line="73" column="10" />
@@ -1024,12 +1006,6 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1518596713207">
-        <mark key="[" line="286" column="56" />
-        <mark key="]" line="286" column="70" />
-        <mark key="." line="286" column="70" />
-        <mark key="^" line="286" column="70" />
-      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="26" />
@@ -1080,7 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="60" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="45" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="46" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="47" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1180,6 +1155,7 @@
       <jump line="542" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="22" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="0" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" />
+      <jump line="5" column="86" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_validation_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1199,7 +1175,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>extract_to_int</text>
+        <text>too_few</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9kaWN0X291dHB1dFsnaW5fc3NyX2JhY2twbGFuZV9nZW5lcmF0aW9uJ10gPSBzZWxmLl9zc3JfYmFja3BsYW5lX2dlbmVyYXRpb24oKQo=</text>
@@ -1253,9 +1229,9 @@
       </register>
     </registers>
     <search>
-      <last-search>extract_to_int</last-search>
+      <last-search>too_few</last-search>
       <last-offset />
-      <last-pattern>extract_to_int</last-pattern>
+      <last-pattern>too_few</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,7 +1239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kill_al</entry>
         <entry>pipe_nam</entry>
         <entry>Database</entry>
         <entry>ExceLinput(</entry>
@@ -1283,6 +1258,7 @@
         <entry>resource_size</entry>
         <entry>defa</entry>
         <entry>extract_to_int</entry>
+        <entry>too_few</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
