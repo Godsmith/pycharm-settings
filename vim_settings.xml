@@ -199,8 +199,8 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1518516738487">
-        <mark key="'" line="299" column="76" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1519043394518">
+        <mark key="'" line="425" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
         <mark key="[" line="6" column="0" />
@@ -1048,17 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="75" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="58" column="69" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="59" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="60" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="61" column="55" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="62" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="63" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="64" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="65" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="66" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="67" column="61" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="68" column="63" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="70" column="105" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="71" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1148,6 +1137,17 @@
       <jump line="14" column="5" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="233" column="82" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="16" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="314" column="45" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="426" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="523" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="524" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="534" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="594" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="671" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="699" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="938" column="82" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="941" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="425" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1167,7 +1167,7 @@
         <text>*.py</text>
       </register>
       <register name="/" type="4">
-        <text>_POSSIBLE</text>
+        <text>ebm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB2aXJ0dWFsX21hY2hpbmVzKCk6CiAgICByZXR1cm4gewogICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2M6IHsKICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogMQogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmNwYjogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMQogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYjogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAyLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMAogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmxjOiB7CiAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDIKICAgICAgICB9LAogICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5ycDogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMQogICAgICAgIH0sCiAgICB9Cg==</text>
@@ -1217,13 +1217,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHZpcnR1YWxfbWFjaGluZXNfb25lX2xjLCAnTEMnKV0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>_POSSIBLE</last-search>
+      <last-search>ebm</last-search>
       <last-offset />
-      <last-pattern>_POSSIBLE</last-pattern>
+      <last-pattern>ebm</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,7 +1231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cls</entry>
         <entry>ExcelInputTests</entry>
         <entry>excelinputtest</entry>
         <entry>testexce</entry>
@@ -1251,6 +1250,7 @@
         <entry>host_int</entry>
         <entry>host_i</entry>
         <entry>_POSSIBLE</entry>
+        <entry>ebm</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
@@ -1270,9 +1270,9 @@
         <entry>action MethodDown</entry>
         <entry>action GotoClass</entry>
         <entry>reg</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
