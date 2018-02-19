@@ -656,8 +656,8 @@
         <mark key="^" line="115" column="52" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1518509866365">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1519047485968">
+        <mark key="'" line="23" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="166" column="31" />
       </file>
@@ -1048,7 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="63" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="70" column="105" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="71" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="72" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1148,6 +1147,7 @@
       <jump line="938" column="82" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="941" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="425" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="23" column="8" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1167,7 +1167,7 @@
         <text>*.py</text>
       </register>
       <register name="/" type="4">
-        <text>ebm</text>
+        <text>anaconda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB2aXJ0dWFsX21hY2hpbmVzKCk6CiAgICByZXR1cm4gewogICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2M6IHsKICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogMQogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmNwYjogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMQogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYjogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAyLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMAogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmxjOiB7CiAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDIKICAgICAgICB9LAogICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5ycDogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMQogICAgICAgIH0sCiAgICB9Cg==</text>
@@ -1221,9 +1221,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ebm</last-search>
+      <last-search>anaconda</last-search>
       <last-offset />
-      <last-pattern>ebm</last-pattern>
+      <last-pattern>anaconda</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,7 +1231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ExcelInputTests</entry>
         <entry>excelinputtest</entry>
         <entry>testexce</entry>
         <entry>setupclass</entry>
@@ -1251,6 +1250,7 @@
         <entry>host_i</entry>
         <entry>_POSSIBLE</entry>
         <entry>ebm</entry>
+        <entry>anaconda</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
