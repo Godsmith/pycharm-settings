@@ -199,7 +199,7 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1519115884999">
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1519117672516">
         <mark key="'" line="425" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
@@ -656,10 +656,12 @@
         <mark key="^" line="115" column="52" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1519047485968">
+      <file name="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" timestamp="1519117854311">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="166" column="31" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="34" />
+        <mark key="^" line="113" column="27" />
+        <mark key="." line="102" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/core_input_builder_tests.py" timestamp="1517586626738">
         <mark key="'" line="336" column="0" />
@@ -1164,7 +1166,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*.py</text>
+        <text>the following:</text>
       </register>
       <register name="/" type="4">
         <text>anaconda</text>
