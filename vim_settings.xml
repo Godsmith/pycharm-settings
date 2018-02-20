@@ -127,8 +127,8 @@
         <mark key="^" line="100" column="18" />
         <mark key="." line="100" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" timestamp="1512732978572">
-        <mark key="'" line="52" column="46" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" timestamp="1519119446786">
+        <mark key="'" line="29" column="10" />
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="34" />
         <mark key="." line="48" column="34" />
@@ -510,7 +510,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519037294013">
+      <file name="/Dummy.txt" timestamp="1519119989659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -910,6 +910,9 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1519119394024">
+        <mark key="'" line="122" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1516633020670">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1050,14 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="105" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="71" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="72" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="73" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="74" column="111" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="76" column="87" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="77" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
-      <jump line="78" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="79" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="80" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="81" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
@@ -1150,6 +1145,14 @@
       <jump line="941" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="425" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="23" column="8" filename="$USER_HOME$/workspace/candi_epg-main/documents/Setting up the development environment.txt" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="187" column="72" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="195" column="19" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="0" column="137" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="23" column="89" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="122" column="34" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="26" column="49" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
+      <jump line="29" column="10" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1169,7 +1172,7 @@
         <text>the following:</text>
       </register>
       <register name="/" type="4">
-        <text>anaconda</text>
+        <text>hide</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiB2aXJ0dWFsX21hY2hpbmVzKCk6CiAgICByZXR1cm4gewogICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5nc2M6IHsKICAgICAgICAgICAgZGF0YXR5cGVzLlN0YXRlLmFjdGl2ZTogMQogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmNwYjogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMQogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYjogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAyLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMAogICAgICAgIH0sCiAgICAgICAgZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLmxjOiB7CiAgICAgICAgICAgIGRhdGF0eXBlcy5TdGF0ZS5hY3RpdmU6IDIKICAgICAgICB9LAogICAgICAgIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5ycDogewogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuYWN0aXZlOiAxLAogICAgICAgICAgICBkYXRhdHlwZXMuU3RhdGUuc3RhbmRieTogMQogICAgICAgIH0sCiAgICB9Cg==</text>
@@ -1223,9 +1226,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anaconda</last-search>
+      <last-search>hide</last-search>
       <last-offset />
-      <last-pattern>anaconda</last-pattern>
+      <last-pattern>hide</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1233,8 +1236,6 @@
     </search>
     <history>
       <history-search>
-        <entry>excelinputtest</entry>
-        <entry>testexce</entry>
         <entry>setupclass</entry>
         <entry>setUpclas</entry>
         <entry>class</entry>
@@ -1253,6 +1254,8 @@
         <entry>_POSSIBLE</entry>
         <entry>ebm</entry>
         <entry>anaconda</entry>
+        <entry>release</entry>
+        <entry>hide</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
