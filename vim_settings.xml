@@ -868,11 +868,11 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" timestamp="1519396613981">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" timestamp="1519398040816">
         <mark key="'" line="58" column="10" />
-        <mark key="[" line="132" column="63" />
-        <mark key="]" line="132" column="63" />
-        <mark key="." line="132" column="63" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
         <mark key="^" line="135" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/nosacc.py" timestamp="1508851227734">
@@ -936,7 +936,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519395805682">
+      <file name="/Dummy.txt" timestamp="1519397988651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1174,7 +1174,7 @@
         <text encoding="base64">ICAgICAgICBjbHMuZXhjZWxfaGFuZGxlci5zZXRfdXBfYWxsX3Rlc3RzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZXBnX2RpbWVuc2lvbmluZy5jb21tYW5kcy5ydW5tb2RlbC5Db21tYW5kLmtpbGxfYWxyZWFkeV9ydW5uaW5nX3NlcnZlcl9pbnN0YW5jZXMnLCByZXR1cm5fdmFsdWU9Tm9uZSkK</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9leGVfaXNfc3RhcnRlZF93aGVuX29wZW5pbmdfaWZfaXBjX2ZsYWdfc2V0KHNlbGYpOgogICAgICAgICIiIi5leGUgaXMgYXV0b21hdGljYWxseSBzdGFydGVkIHdoZW4gRXhjZWwgc3RhcnRzIGlmIElQQyBmbGFnIGlzIHNldAoKICAgICAgICBTYXZlIHRoZSBmaWxlIHdpdGggdGhlIElQQyBmbGFnIHNldCwgb3BlbiBpdCBhbmQgZW5zdXJlIHRoYXQgdGhlIElQQwogICAgICAgIGZsYWcgaXMgc2V0LgogICAgICAgICIiIgogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zYXZlX2FuZF9yZXN0YXJ0X2NhbmRfZXBnKCkKCiAgICAgICAgc2VsZi5hc3NlcnRJbihFWEVfTkFNRSwgc2VsZi5nZXRfcHJvY2Vzc2VzKCkpCgogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zZXRfaXBjKEZhbHNlKQogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zYXZlX2FuZF9yZXN0YXJ0X2NhbmRfZXBnKCkKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lwYyhUcnVlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1194,31 +1194,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQuX3N0b3AoKQo=</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZXBnX2RpbWVuc2lvbmluZy5jb21tYW5kcy5ydW5tb2RlbC5Db21tYW5kLmtpbGxfYWxyZWFkeV9ydW5uaW5nX3NlcnZlcl9pbnN0YW5jZXMnLCByZXR1cm5fdmFsdWU9Tm9uZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQgPSBUaHJlYWQodGFyZ2V0PUNvbW1hbmQoKS5oYW5kbGUsIGt3YXJncz17J2xvZ2dpbmdfbGV2ZWwnOiAnSU5GTyd9KQogICAgICAgIHRocmVhZC5kYWVtb24gPSBUcnVlCiAgICAgICAgdGhyZWFkLnN0YXJ0KCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aHJlYWQuX3N0b3AoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWQgPSBUaHJlYWQodGFyZ2V0PUNvbW1hbmQoKS5oYW5kbGUsIGt3YXJncz17J2xvZ2dpbmdfbGV2ZWwnOiAnSU5GTyd9KQogICAgICAgIHRocmVhZC5kYWVtb24gPSBUcnVlCiAgICAgICAgdGhyZWFkLnN0YXJ0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWQuX3N0b3AoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBlX25hbWUgPSByJ1xcLlxwaXBlXG15bmFtZWRwaXBlJwogICAgICAgIHRocmVhZCA9IFRocmVhZCh0YXJnZXQ9Q29tbWFuZCgpLmhhbmRsZSwga3dhcmdzPXsnbG9nZ2luZ19sZXZlbCc6ICdJTkZPJ30pCiAgICAgICAgdGhyZWFkLmRhZW1vbiA9IFRydWUKICAgICAgICB0aHJlYWQuc3RhcnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwaXBlX25hbWUgPSByJ1xcLlxwaXBlXG15bmFtZWRwaXBlJwogICAgICAgIHRocmVhZCA9IFRocmVhZCh0YXJnZXQ9Q29tbWFuZCgpLmhhbmRsZSwga3dhcmdzPXsnbG9nZ2luZ19sZXZlbCc6ICdJTkZPJ30pCiAgICAgICAgdGhyZWFkLmRhZW1vbiA9IFRydWUKICAgICAgICB0aHJlYWQuc3RhcnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zZXRfdXBfYWxsX3Rlc3RzKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1271,9 +1271,9 @@
         <entry>action MethodDown</entry>
         <entry>action GotoClass</entry>
         <entry>reg</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
