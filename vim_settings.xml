@@ -712,7 +712,7 @@
         <mark key="^" line="45" column="75" />
         <mark key="." line="45" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1513072248107">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1519830725823">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -868,7 +868,7 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" timestamp="1519398040816">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" timestamp="1519830596809">
         <mark key="'" line="58" column="10" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -1218,7 +1218,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1271,9 +1271,9 @@
         <entry>action MethodDown</entry>
         <entry>action GotoClass</entry>
         <entry>reg</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
