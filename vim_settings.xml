@@ -226,7 +226,7 @@
         <mark key="." line="179" column="4" />
         <mark key="^" line="164" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" timestamp="1519119446786">
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" timestamp="1519995593813">
         <mark key="'" line="29" column="10" />
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="34" />
@@ -769,8 +769,8 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1519119394024">
-        <mark key="'" line="122" column="34" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1519995599135">
+        <mark key="'" line="49" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/__init__.py" timestamp="1424556950287">
         <mark key="[" line="3" column="7" />
@@ -941,7 +941,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519993798697">
+      <file name="/Dummy.txt" timestamp="1519995493080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1054,7 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" />
       <jump line="13" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="128" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" />
@@ -1154,6 +1153,7 @@
       <jump line="1" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="32" column="43" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" />
       <jump line="58" column="10" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_robustness.py" />
+      <jump line="49" column="56" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1173,7 +1173,7 @@
         <text>, mocked_kill</text>
       </register>
       <register name="/" type="4">
-        <text>error_on_out</text>
+        <text>release</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwa2cgPSAnZnJhbWV3b3JrLmVwZ19leGFtcGxlX2RhdGEuZGF0YXR5cGVzJwogICAgICAgIG9zLmVudmlyb25bJ0dFTkVSSUNfTU9ERUxfREFUQVRZUEVTJ10gPSBwa2cKICAgICAgICBwa2cgPSAnZnJhbWV3b3JrLmVwZ19leGFtcGxlX2RhdGEuc2V0dGluZ3MnCiAgICAgICAgb3MuZW52aXJvblsnR0VORVJJQ19NT0RFTF9TRVRUSU5HUyddID0gcGtnCg==</text>
@@ -1227,9 +1227,9 @@
       </register>
     </registers>
     <search>
-      <last-search>error_on_out</last-search>
+      <last-search>release</last-search>
       <last-offset />
-      <last-pattern>error_on_out</last-pattern>
+      <last-pattern>release</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1253,10 +1253,10 @@
         <entry>_POSSIBLE</entry>
         <entry>ebm</entry>
         <entry>anaconda</entry>
-        <entry>release</entry>
         <entry>hide</entry>
         <entry>patch</entry>
         <entry>error_on_out</entry>
+        <entry>release</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
