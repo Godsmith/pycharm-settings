@@ -936,7 +936,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519397988651">
+      <file name="/Dummy.txt" timestamp="1519982041498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1218,7 +1218,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -1269,11 +1269,11 @@
         <entry>s/parameter.type/type(attr)/</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action MethodDown</entry>
-        <entry>action GotoClass</entry>
         <entry>reg</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
