@@ -290,6 +290,12 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/web_gui/gui.py" timestamp="1513761636429">
         <mark key="'" line="590" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcandi-662.py" timestamp="1521035874088">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="24" column="80" />
+        <mark key="." line="24" column="80" />
+        <mark key="^" line="24" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/deployment_creators.py" timestamp="1516892505033">
         <mark key="'" line="151" column="50" />
         <mark key="[" line="172" column="0" />
@@ -1170,7 +1176,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, mocked_kill</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>release</text>
@@ -1179,7 +1185,7 @@
         <text encoding="base64">ICAgICAgICBwa2cgPSAnZnJhbWV3b3JrLmVwZ19leGFtcGxlX2RhdGEuZGF0YXR5cGVzJwogICAgICAgIG9zLmVudmlyb25bJ0dFTkVSSUNfTU9ERUxfREFUQVRZUEVTJ10gPSBwa2cKICAgICAgICBwa2cgPSAnZnJhbWV3b3JrLmVwZ19leGFtcGxlX2RhdGEuc2V0dGluZ3MnCiAgICAgICAgb3MuZW52aXJvblsnR0VORVJJQ19NT0RFTF9TRVRUSU5HUyddID0gcGtnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9leGVfaXNfc3RhcnRlZF93aGVuX29wZW5pbmdfaWZfaXBjX2ZsYWdfc2V0KHNlbGYpOgogICAgICAgICIiIi5leGUgaXMgYXV0b21hdGljYWxseSBzdGFydGVkIHdoZW4gRXhjZWwgc3RhcnRzIGlmIElQQyBmbGFnIGlzIHNldAoKICAgICAgICBTYXZlIHRoZSBmaWxlIHdpdGggdGhlIElQQyBmbGFnIHNldCwgb3BlbiBpdCBhbmQgZW5zdXJlIHRoYXQgdGhlIElQQwogICAgICAgIGZsYWcgaXMgc2V0LgogICAgICAgICIiIgogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zYXZlX2FuZF9yZXN0YXJ0X2NhbmRfZXBnKCkKCiAgICAgICAgc2VsZi5hc3NlcnRJbihFWEVfTkFNRSwgc2VsZi5nZXRfcHJvY2Vzc2VzKCkpCgogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zZXRfaXBjKEZhbHNlKQogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zYXZlX2FuZF9yZXN0YXJ0X2NhbmRfZXBnKCkKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lwYyhUcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhpcyB0ZXN0IGNhc2Ugc2hhbGwgcGFzcyB3aXRob3V0IGdpdmluZyBhbiBleGNlcHRpb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1199,28 +1205,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZXBnX2RpbWVuc2lvbmluZy5jb21tYW5kcy5ydW5tb2RlbC5Db21tYW5kLmtpbGxfYWxyZWFkeV9ydW5uaW5nX3NlcnZlcl9pbnN0YW5jZXMnLCByZXR1cm5fdmFsdWU9Tm9uZSkK</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9leGVfaXNfc3RhcnRlZF93aGVuX29wZW5pbmdfaWZfaXBjX2ZsYWdfc2V0KHNlbGYpOgogICAgICAgICIiIi5leGUgaXMgYXV0b21hdGljYWxseSBzdGFydGVkIHdoZW4gRXhjZWwgc3RhcnRzIGlmIElQQyBmbGFnIGlzIHNldAoKICAgICAgICBTYXZlIHRoZSBmaWxlIHdpdGggdGhlIElQQyBmbGFnIHNldCwgb3BlbiBpdCBhbmQgZW5zdXJlIHRoYXQgdGhlIElQQwogICAgICAgIGZsYWcgaXMgc2V0LgogICAgICAgICIiIgogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zYXZlX2FuZF9yZXN0YXJ0X2NhbmRfZXBnKCkKCiAgICAgICAgc2VsZi5hc3NlcnRJbihFWEVfTkFNRSwgc2VsZi5nZXRfcHJvY2Vzc2VzKCkpCgogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zZXRfaXBjKEZhbHNlKQogICAgICAgIHNlbGYuZXhjZWxfaGFuZGxlci5zYXZlX2FuZF9yZXN0YXJ0X2NhbmRfZXBnKCkKICAgICAgICBzZWxmLmV4Y2VsX2hhbmRsZXIuc2V0X2lwYyhUcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQuX3N0b3AoKQo=</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZXBnX2RpbWVuc2lvbmluZy5jb21tYW5kcy5ydW5tb2RlbC5Db21tYW5kLmtpbGxfYWxyZWFkeV9ydW5uaW5nX3NlcnZlcl9pbnN0YW5jZXMnLCByZXR1cm5fdmFsdWU9Tm9uZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQgPSBUaHJlYWQodGFyZ2V0PUNvbW1hbmQoKS5oYW5kbGUsIGt3YXJncz17J2xvZ2dpbmdfbGV2ZWwnOiAnSU5GTyd9KQogICAgICAgIHRocmVhZC5kYWVtb24gPSBUcnVlCiAgICAgICAgdGhyZWFkLnN0YXJ0KCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0aHJlYWQuX3N0b3AoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWQgPSBUaHJlYWQodGFyZ2V0PUNvbW1hbmQoKS5oYW5kbGUsIGt3YXJncz17J2xvZ2dpbmdfbGV2ZWwnOiAnSU5GTyd9KQogICAgICAgIHRocmVhZC5kYWVtb24gPSBUcnVlCiAgICAgICAgdGhyZWFkLnN0YXJ0KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWQuX3N0b3AoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBlX25hbWUgPSByJ1xcLlxwaXBlXG15bmFtZWRwaXBlJwogICAgICAgIHRocmVhZCA9IFRocmVhZCh0YXJnZXQ9Q29tbWFuZCgpLmhhbmRsZSwga3dhcmdzPXsnbG9nZ2luZ19sZXZlbCc6ICdJTkZPJ30pCiAgICAgICAgdGhyZWFkLmRhZW1vbiA9IFRydWUKICAgICAgICB0aHJlYWQuc3RhcnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwaXBlX25hbWUgPSByJ1xcLlxwaXBlXG15bmFtZWRwaXBlJwogICAgICAgIHRocmVhZCA9IFRocmVhZCh0YXJnZXQ9Q29tbWFuZCgpLmhhbmRsZSwga3dhcmdzPXsnbG9nZ2luZ19sZXZlbCc6ICdJTkZPJ30pCiAgICAgICAgdGhyZWFkLmRhZW1vbiA9IFRydWUKICAgICAgICB0aHJlYWQuc3RhcnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
