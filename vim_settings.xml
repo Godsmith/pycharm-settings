@@ -249,7 +249,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1522838277881">
+      <file name="/Python Console" timestamp="1522844924499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -620,9 +620,12 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1522838755822">
-        <mark key="'" line="99" column="36" />
-        <mark key="[" line="102" column="81" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1522844800055">
+        <mark key="'" line="210" column="44" />
+        <mark key="[" line="223" column="68" />
+        <mark key="]" line="223" column="69" />
+        <mark key="^" line="225" column="29" />
+        <mark key="." line="223" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
@@ -904,9 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="145" column="17" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="21" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="129" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="489" column="15" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="503" column="70" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1004,6 +1004,9 @@
       <jump line="1318" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
       <jump line="1438" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
       <jump line="1558" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
+      <jump line="211" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" />
+      <jump line="204" column="14" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" />
+      <jump line="210" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1020,13 +1023,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test_wrong_number_of_workers</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>hw</text>
+        <text>ssr_ssc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5lcnJvcigKICAgICAgICAgICAgICAgICdVbmNhdWdodCBleGNlcHRpb24uXG4nCiAgICAgICAgICAgICAgICAnVHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOlxuJwogICAgICAgICAgICAgICAgJ3tzdGFja3RyYWNlfScKICAgICAgICAgICAgICAgICd7ZXhjZXB0aW9uX25hbWV9OiB7ZXhjZXB0aW9uX21zZ30nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzdGFja3RyYWNlPScnLmpvaW4odHJhY2ViYWNrLmZvcm1hdF90Yih0YikpLAogICAgICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9uYW1lPXR5cGVfLl9fbmFtZV9fLAogICAgICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9tc2c9c3RyKHZhbHVlKSwKICAgICAgICAgICAgICAgICkpCg==</text>
+      <register name="0" type="4">
+        <text>'GSN_GGSN_HW': 'SSR-8020 SSC3',</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
@@ -1077,9 +1080,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hw</last-search>
+      <last-search>ssr_ssc</last-search>
       <last-offset />
-      <last-pattern>hw</last-pattern>
+      <last-pattern>ssr_ssc</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1087,7 +1090,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host_i</entry>
         <entry>_POSSIBLE</entry>
         <entry>ebm</entry>
         <entry>anaconda</entry>
@@ -1107,6 +1109,7 @@
         <entry>reference</entry>
         <entry>hardware</entry>
         <entry>hw</entry>
+        <entry>ssr_ssc</entry>
       </history-search>
       <history-cmd>
         <entry>s/dl/ul/g</entry>
