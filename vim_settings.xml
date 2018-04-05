@@ -90,7 +90,7 @@
         <mark key="[" line="10" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" timestamp="1522925081117" />
-      <file name="/Dummy.txt" timestamp="1522929173540">
+      <file name="/Dummy.txt" timestamp="1522932718851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -287,7 +287,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcGxhdGZvcm1fc3NjX2V4dHJhY3RvcigxKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -341,8 +341,8 @@
         <entry>action GotoClass</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
