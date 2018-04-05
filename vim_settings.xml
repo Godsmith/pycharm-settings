@@ -90,7 +90,7 @@
         <mark key="[" line="10" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" timestamp="1522925081117" />
-      <file name="/Dummy.txt" timestamp="1522926815900">
+      <file name="/Dummy.txt" timestamp="1522928053974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,8 +102,8 @@
         <mark key="^" line="475" column="38" />
         <mark key="." line="241" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1522925809178">
-        <mark key="'" line="30" column="29" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1522928394882">
+        <mark key="'" line="624" column="75" />
         <mark key="[" line="31" column="92" />
         <mark key="]" line="31" column="94" />
         <mark key="." line="31" column="94" />
@@ -117,10 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="478" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
-      <jump line="598" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
-      <jump line="718" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
-      <jump line="838" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
       <jump line="958" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
       <jump line="1078" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
       <jump line="1198" column="29" filename="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" />
@@ -217,6 +213,10 @@
       <jump line="211" column="9" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_pcepgcandi-662.json" />
       <jump line="215" column="9" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_pcepgcandi-662.json" />
       <jump line="221" column="9" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_pcepgcandi-662.json" />
+      <jump line="308" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="748" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="814" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="624" column="75" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -236,7 +236,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>vm_size</text>
+        <text>_cpu_performance_ratio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgnaHcsZXhwZWN0ZWQnLCBbKCdTU1ItODAyMCBTU0MxJywgJ1NTQzEnKSwK</text>
@@ -291,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vm_size</last-search>
+      <last-search>_cpu_performance_ratio</last-search>
       <last-offset />
-      <last-pattern>vm_size</last-pattern>
+      <last-pattern>_cpu_performance_ratio</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_platform_ssc_ex</entry>
         <entry>extractor</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>in_ssr_ss</entry>
@@ -321,6 +320,7 @@
         <entry>number_of_cores_for</entry>
         <entry>in_logical_cores_ppb_lb</entry>
         <entry>vm_size</entry>
+        <entry>_cpu_performance_ratio</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmVyaWNfbW9kZWwuLy9n</entry>
