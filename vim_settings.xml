@@ -242,7 +242,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1522854518531">
+      <file name="/Python Console" timestamp="1522913096485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -251,7 +251,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1522848488012">
+      <file name="/fragment.py" timestamp="1522913139010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -468,7 +468,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1522853868544">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1522912848074">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="114" column="61" />
         <mark key="]" line="114" column="61" />
@@ -579,7 +579,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1522854507767" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1522912982138" />
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/close_cand_epg_xlsm.py" timestamp="1516025086582">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="3" />
@@ -607,10 +607,11 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1522851727302">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1522913522672">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="80" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
@@ -810,12 +811,12 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1522854675374">
-        <mark key="'" line="131" column="8" />
-        <mark key="[" line="831" column="51" />
-        <mark key="]" line="831" column="52" />
-        <mark key="^" line="831" column="52" />
-        <mark key="." line="831" column="52" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1522913418493">
+        <mark key="'" line="778" column="8" />
+        <mark key="[" line="827" column="48" />
+        <mark key="]" line="827" column="48" />
+        <mark key="^" line="827" column="26" />
+        <mark key="." line="827" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
@@ -888,9 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="72" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
-      <jump line="195" column="19" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
-      <jump line="0" column="137" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="23" column="89" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="122" column="34" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="26" column="49" filename="$USER_HOME$/workspace/candi_epg-main/scripts/package_cand_epg.py" />
@@ -902,7 +900,6 @@
       <jump line="585" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="230" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="300" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="165" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="322" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="319" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_pcepgcandi-698.json" />
@@ -988,6 +985,10 @@
       <jump line="129" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="130" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="131" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="658" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="165" column="10" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="211" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="778" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1004,16 +1005,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>('SSR-8020', 'SSC1')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>_ssc_typ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzc2NfdHlwZSA9ICcgJy5qb2luKHNlbGYuX25hdGl2ZV9odygpLnNwbGl0KCcgJylbMTpdKS5yZXBsYWNlKCcvJywgJ18nKS5yZXBsYWNlKCcsJywgJycpCg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgnaHcsZXhwZWN0ZWQnLCBbKCdTU1ItODAyMCBTU0MxJywgJ1NTQzEnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1033,38 +1034,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgSWYgcGxhdGZvcm0gZmFtaWx5IGlzIFNTUiBhbmQgdGhlcmUgaXMgbm8gZXhwbGljaXQgcGh5c2ljYWwgbWFjaGluZSBkZXBsb3ltZW50LCBhc3N1bWUgU1NDMS4KICAgICAgICAgT3RoZXJ3aXNlLCByZXR1cm4gdGhlIGhhcmR3YXJlIAogICAgICAgICBUaGUgc3NjIG5hbWUgaXMgbmF0aXZlIGhhcmR3YXJlIG5hbWUgYWZ0ZXIgdGhlIGZpcnN0IHdoaXRlc3BhY2UgaS5lLiBTU0MxLiBGb3IgdmVwZ3MsIHNldCB0byB2RVBHLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgSWYgcGxhdGZvcm0gZmFtaWx5IGlzIFNTUiBhbmQgdGhlcmUgaXMgbm8gZXhwbGljaXQgcGh5c2ljYWwgbWFjaGluZSBkZXBsb3ltZW50LCBhc3N1bWUgU1NDMS4KICAgICAgICAgT3RoZXJ3aXNlLCByZXR1cm4gdGhlIGhhcmR3YXJlIAogICAgICAgICBUaGUgc3NjIG5hbWUgaXMgbmF0aXZlIGhhcmR3YXJlIG5hbWUgYWZ0ZXIgdGhlIGZpcnN0IHdoaXRlc3BhY2UgaS5lLiBTU0MxLiBGb3IgdmVwZ3MsIHNldCB0byB2RVBHLgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgaW5kZXggPT0gMSBhZnRlciBzdHJpbmcgc3BsaXQuCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>This is nothing but native
         hardware name up to the first whitespace.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRlZiBfcGxhdGZvcm1fc3NjX2V4dHJhY3RvcihzZWxmLCBpbmRleCk6CiAgICAgICAgIiIiIHJldHVybnMgdGhlIHBsYXRmb3JtIG5hbWUgb3IgdGhlIHNzYyB0eXBlIGJhc2VkIG9uIHRoZSBpbmRleCBudW1iZXIgcGFzc2VkIHRvIHRoaXMgZnVuY3Rpb25zIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBkZWYgX3BsYXRmb3JtX3NzY19leHRyYWN0b3Ioc2VsZiwgaW5kZXgpOgogICAgICAgICIiIgogICAgICAgIHJldHVybnMgdGhlIHBsYXRmb3JtIG5hbWUgb3IgdGhlIHNzYyB0eXBlIGJhc2VkIG9uIHRoZSBpbmRleCBudW1iZXIgcGFzc2VkIHRvIHRoaXMgZnVuY3Rpb25zCiAgICAgICAgIiIiCiAgICAgICAgcGxhdGZvcm0gPSBzZWxmLl9uYXRpdmVfaHcoKS5zcGxpdCgnICcpWzBdCiAgICAgICAgc3NjX3R5cGUgPSAnICcuam9pbihzZWxmLl9uYXRpdmVfaHcoKS5zcGxpdCgnICcpWzE6XSkucmVwbGFjZSgnLycsICdfJykucmVwbGFjZSgnLCcsICcnKQogICAgICAgIHJldHVybiBzc2NfdHlwZSBpZiBpbmRleCBlbHNlIHBsYXRmb3JtCgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcGxhdGZvcm1fc3NjX2V4dHJhY3RvcigxKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcGxhdGZvcm1fc3NjX2V4dHJhY3RvcigwKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBlcnJvciBvY2N1cnMgYmVjYXVzZSB0aGVyZSBhcmUgdGhyZWUgdmFsdWVzIHRvIHVucGFjayB3aGVuIHRoZSBzdHJpbmcgaXMgJ1NTUi04MDIwIFNTQzEvQ1BiLCBTU0MzL1BQQicK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcGxhdGZvcm1fc3NjX2V4dHJhY3RvcigwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>_ssc_typ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>_ssc_typ</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,8 +1073,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">J0Vycm9yOiA=</entry>
-        <entry>Error:</entry>
         <entry>raise</entry>
         <entry>platform_ssc</entry>
         <entry>reference_hw</entry>
@@ -1092,6 +1091,8 @@
         <entry>_platform_ssc_ex</entry>
         <entry>extractor</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>in_ssr_ss</entry>
+        <entry>_ssc_typ</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;&quot;&quot;//g</entry>
