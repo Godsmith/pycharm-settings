@@ -102,7 +102,7 @@
         <mark key="[" line="10" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" timestamp="1522925081117" />
-      <file name="/Dummy.txt" timestamp="1522939427278">
+      <file name="/Dummy.txt" timestamp="1523257473239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,6 +126,12 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/test_output.xml" timestamp="1522839079986">
         <mark key="'" line="1558" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/tests/conftest.py" timestamp="1523257472076">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -299,7 +305,7 @@
         <text encoding="base64">ICAgIGRlZiBfcGxhdGZvcm1fc3NjX2V4dHJhY3RvcihzZWxmLCBpbmRleCk6CiAgICAgICAgIiIiIHJldHVybnMgdGhlIHBsYXRmb3JtIG5hbWUgb3IgdGhlIHNzYyB0eXBlIGJhc2VkIG9uIHRoZSBpbmRleCBudW1iZXIgcGFzc2VkIHRvIHRoaXMgZnVuY3Rpb25zIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -353,8 +359,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
