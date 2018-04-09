@@ -104,11 +104,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/requirements.txt" timestamp="1523260349075">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/requirements.txt" timestamp="1523273341934">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
@@ -198,9 +198,6 @@
         <mark key="'" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1522939624526">
-        <mark key="[" line="6" column="157" />
-        <mark key="]" line="6" column="157" />
-        <mark key="." line="6" column="157" />
         <mark key="^" line="5" column="156" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day16/main2.py" timestamp="1450557417153">
@@ -1013,7 +1010,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>==19.2</text>
       </register>
       <register name="/" type="4">
         <text>teid</text>
