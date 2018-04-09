@@ -82,11 +82,11 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/data/test_input.xml" timestamp="1518082971254">
         <mark key="'" line="4168" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1522848680191">
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1523255406810">
         <mark key="'" line="49" column="56" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1516633020670">
         <mark key="'" line="0" column="0" />
@@ -245,16 +245,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>the resource size (on vSFO) is reduced by the vcpu_lb size: vcpu_cp_* = vcpu - vcpu_lb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>teid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RVBHMS4zICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfENQQiAgICAgICAgICAgfHZjcHVfY3BfcHNjICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MCAgfDEgIHwyICB8MyAgfDQgIHw1ICB8NiAgfDcgIHw4ICB8OSAgfDEwIHwxMSB8MTIgfDEzIHwxNCB8MTUgfDE2IHwxNyB8MTggfDE5IHwyMCB8MjEgfDIyIHwyMyB8MjQgfDI1IHwyNiB8MjcgfDI4IHwyOSB8MzAgfDMxIHwzMiB8MzMgfDM0IHwzNSB8MzYgfDM3IHwzOCB8MzkgfDQwIHw0MSB8NDIgfDQzIHw0NCB8NDUgfDQ2IHw0NyB8NDggfDQ5IHw1MCB8NTEgfDUyIHw1MyB8NTQgfDU1IHw1NiB8NTcgfDU4IHw1OSB8NjAgfDYxIHw2MiB8NjMgfDY0IHw2NSB8NjYgfDY3IHw2OCB8NjkgfDcwIHw3MSB8NzIgfDczIHw3NCB8NzUgfDc2IHw3NyB8NzggfDc5IHw4MCB8ODEgfDgyIHw4MyB8ODQgfDg1IHw4NiB8ODcgfDg4IHw4OSB8OTAgfDkxIHw5MiB8OTMgfDk0IHw5NSB8OTYgfDk3IHw5OCB8OTkgfDEwMHwxMDF8MTAyfDEwM3wxMDR8MTA1fDEwNnwxMDd8MTA4fHRoZSByZXNvdXJjZSBzaXplIChvbiB2U0ZPKSBpcyByZWR1Y2VkIGJ5IHRoZSB2Y3B1X2xiIHNpemU6IHZjcHVfY3BfKiA9IHZjcHUgLSB2Y3B1X2xiCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVBHMi4wICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfENQQiAgICAgICAgICAgfHZjcHVfY3BfcHNjICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MCAgfDEgIHwyICB8MyAgfDQgIHw1ICB8NiAgfDcgIHw4ICB8OSAgfDEwIHwxMSB8MTIgfDEzIHwxNCB8MTUgfDE2IHwxNyB8MTggfDE5IHwyMCB8MjEgfDIyIHwyMyB8MjQgfDI1IHwyNiB8MjcgfDI4IHwyOSB8MzAgfDMxIHwzMiB8MzMgfDM0IHwzNSB8MzYgfDM3IHwzOCB8MzkgfDQwIHw0MSB8NDIgfDQzIHw0NCB8NDUgfDQ2IHw0NyB8NDggfDQ5IHw1MCB8NTEgfDUyIHw1MyB8NTQgfDU1IHw1NiB8NTcgfDU4IHw1OSB8NjAgfDYxIHw2MiB8NjMgfDY0IHw2NSB8NjYgfDY3IHw2OCB8NjkgfDcwIHw3MSB8NzIgfDczIHw3NCB8NzUgfDc2IHw3NyB8NzggfDc5IHw4MCB8ODEgfDgyIHw4MyB8ODQgfDg1IHw4NiB8ODcgfDg4IHw4OSB8OTAgfDkxIHw5MiB8OTMgfDk0IHw5NSB8OTYgfDk3IHw5OCB8OTkgfDEwMHwxMDF8MTAyfDEwM3wxMDR8MTA1fDEwNnwxMDd8MTA4fHRoZSByZXNvdXJjZSBzaXplIChvbiB2U0ZPKSBpcyByZWR1Y2VkIGJ5IHRoZSB2Y3B1X2xiIHNpemU6IHZjcHVfY3BfKiA9IHZjcHUgLSB2Y3B1X2xiCg==</text>
+        <text encoding="base64">CXBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -274,32 +274,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpbl9sb2dpY2FsX2NvcmVzX3BwYl9sYiI6ICI0IiwK</text>
+        <text encoding="base64">RVBHMi4wICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfENQQiAgICAgICAgICAgfHZjcHVfY3BfcHNjICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MCAgfDEgIHwyICB8MyAgfDQgIHw1ICB8NiAgfDcgIHw4ICB8OSAgfDEwIHwxMSB8MTIgfDEzIHwxNCB8MTUgfDE2IHwxNyB8MTggfDE5IHwyMCB8MjEgfDIyIHwyMyB8MjQgfDI1IHwyNiB8MjcgfDI4IHwyOSB8MzAgfDMxIHwzMiB8MzMgfDM0IHwzNSB8MzYgfDM3IHwzOCB8MzkgfDQwIHw0MSB8NDIgfDQzIHw0NCB8NDUgfDQ2IHw0NyB8NDggfDQ5IHw1MCB8NTEgfDUyIHw1MyB8NTQgfDU1IHw1NiB8NTcgfDU4IHw1OSB8NjAgfDYxIHw2MiB8NjMgfDY0IHw2NSB8NjYgfDY3IHw2OCB8NjkgfDcwIHw3MSB8NzIgfDczIHw3NCB8NzUgfDc2IHw3NyB8NzggfDc5IHw4MCB8ODEgfDgyIHw4MyB8ODQgfDg1IHw4NiB8ODcgfDg4IHw4OSB8OTAgfDkxIHw5MiB8OTMgfDk0IHw5NSB8OTYgfDk3IHw5OCB8OTkgfDEwMHwxMDF8MTAyfDEwM3wxMDR8MTA1fDEwNnwxMDd8MTA4fHRoZSByZXNvdXJjZSBzaXplIChvbiB2U0ZPKSBpcyByZWR1Y2VkIGJ5IHRoZSB2Y3B1X2xiIHNpemU6IHZjcHVfY3BfKiA9IHZjcHUgLSB2Y3B1X2xiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAgICJpbl9sb2dpY2FsX2NvcmVzX3BwYl9sYiI6ICI0IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgSWYgcGxhdGZvcm0gZmFtaWx5IGlzIFNTUiBhbmQgdGhlcmUgaXMgbm8gZXhwbGljaXQgcGh5c2ljYWwgbWFjaGluZSBkZXBsb3ltZW50LCBhc3N1bWUgU1NDMS4KICAgICAgICAgT3RoZXJ3aXNlLCByZXR1cm4gdGhlIGhhcmR3YXJlIAogICAgICAgICBUaGUgc3NjIG5hbWUgaXMgbmF0aXZlIGhhcmR3YXJlIG5hbWUgYWZ0ZXIgdGhlIGZpcnN0IHdoaXRlc3BhY2UgaS5lLiBTU0MxLiBGb3IgdmVwZ3MsIHNldCB0byB2RVBHLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgSWYgcGxhdGZvcm0gZmFtaWx5IGlzIFNTUiBhbmQgdGhlcmUgaXMgbm8gZXhwbGljaXQgcGh5c2ljYWwgbWFjaGluZSBkZXBsb3ltZW50LCBhc3N1bWUgU1NDMS4KICAgICAgICAgT3RoZXJ3aXNlLCByZXR1cm4gdGhlIGhhcmR3YXJlIAogICAgICAgICBUaGUgc3NjIG5hbWUgaXMgbmF0aXZlIGhhcmR3YXJlIG5hbWUgYWZ0ZXIgdGhlIGZpcnN0IHdoaXRlc3BhY2UgaS5lLiBTU0MxLiBGb3IgdmVwZ3MsIHNldCB0byB2RVBHLgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgaW5kZXggPT0gMSBhZnRlciBzdHJpbmcgc3BsaXQuCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>This is nothing but native
         hardware name up to the first whitespace.</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGRlZiBfcGxhdGZvcm1fc3NjX2V4dHJhY3RvcihzZWxmLCBpbmRleCk6CiAgICAgICAgIiIiIHJldHVybnMgdGhlIHBsYXRmb3JtIG5hbWUgb3IgdGhlIHNzYyB0eXBlIGJhc2VkIG9uIHRoZSBpbmRleCBudW1iZXIgcGFzc2VkIHRvIHRoaXMgZnVuY3Rpb25zIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgX3BsYXRmb3JtX3NzY19leHRyYWN0b3Ioc2VsZiwgaW5kZXgpOgogICAgICAgICIiIgogICAgICAgIHJldHVybnMgdGhlIHBsYXRmb3JtIG5hbWUgb3IgdGhlIHNzYyB0eXBlIGJhc2VkIG9uIHRoZSBpbmRleCBudW1iZXIgcGFzc2VkIHRvIHRoaXMgZnVuY3Rpb25zCiAgICAgICAgIiIiCiAgICAgICAgcGxhdGZvcm0gPSBzZWxmLl9uYXRpdmVfaHcoKS5zcGxpdCgnICcpWzBdCiAgICAgICAgc3NjX3R5cGUgPSAnICcuam9pbihzZWxmLl9uYXRpdmVfaHcoKS5zcGxpdCgnICcpWzE6XSkucmVwbGFjZSgnLycsICdfJykucmVwbGFjZSgnLCcsICcnKQogICAgICAgIHJldHVybiBzc2NfdHlwZSBpZiBpbmRleCBlbHNlIHBsYXRmb3JtCgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -349,12 +349,12 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action MethodDown</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry>action GotoClass</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
