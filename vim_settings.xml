@@ -760,7 +760,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523258213023">
+      <file name="/Dummy.txt" timestamp="1523346705470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1065,7 +1065,7 @@
         <text encoding="base64">ICAgIGRlZiBfcGxhdGZvcm1fc3NjX2V4dHJhY3RvcihzZWxmLCBpbmRleCk6CiAgICAgICAgIiIiIHJldHVybnMgdGhlIHBsYXRmb3JtIG5hbWUgb3IgdGhlIHNzYyB0eXBlIGJhc2VkIG9uIHRoZSBpbmRleCBudW1iZXIgcGFzc2VkIHRvIHRoaXMgZnVuY3Rpb25zIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1119,8 +1119,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
