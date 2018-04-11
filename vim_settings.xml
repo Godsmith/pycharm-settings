@@ -776,7 +776,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523357140156">
+      <file name="/Dummy.txt" timestamp="1523434423740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1030,7 +1030,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>updates</text>
+        <text>content_fil</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIG1haW4oeGxzbV9wYXRoLCBjc3ZfcGF0aCk6CiAgICB0cnk6CiAgICAgICAgaW5zZXJ0KHhsc21fcGF0aCwgY3N2X3BhdGgpCiAgICBleGNlcHQgQ3N2Um93c05vdEVxdWFsTGVuZ3RoRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZSkKCgpkZWYgaW5zZXJ0KHhsc21fcGF0aCwgY3N2X3BhdGgpOgogICAgd29ya2Jvb2sgPSBOb25lCiAgICB3YXNfb3BlbiA9IEZhbHNlCiAgICB0YWJsZSA9IHVwZGF0ZXNfdGFibGUoY3N2X3BhdGgsIGNvbHVtbnNfcGVyX3Jvdz00KQogICAgdHJ5OgogICAgICAgIGJvb2ssIHdhc19vcGVuID0gZ2V0X2Jvb2soeGxzbV9wYXRoKQogICAgICAgIHdvcmtib29rID0geHcuQm9vayh4bHNtX3BhdGgpCiAgICAgICAgd29ya2Jvb2suc2hlZXRzWydGZWF0dXJlcyddLnJhbmdlKCdCMycpLnZhbHVlID0gdGFibGUKICAgICAgICB3b3JrYm9vay5zYXZlKCkKICAgIGZpbmFsbHk6CiAgICAgICAgaWYgd29ya2Jvb2sgYW5kIG5vdCB3YXNfb3BlbjoKICAgICAgICAgICAgd29ya2Jvb2suY2xvc2UoKQoKCmRlZiBnZXRfYm9vayhwYXRoKSAtPiAoeHcuQm9vaywgYm9vbCk6CiAgICBmb3IgYXBwIGluIHh3LmFwcHM6CiAgICAgICAgZm9yIGJvb2sgaW4gYXBwLmJvb2tzOgogICAgICAgICAgICBpZiBib29rLm5hbWUgPT0gcGF0aC5zcGxpdCgnXFwnKVstMV06CiAgICAgICAgICAgICAgICByZXR1cm4gYm9vaywgVHJ1ZQogICAgcmV0dXJuIHh3LkJvb2socGF0aCksIEZhbHNlCg==</text>
@@ -1084,9 +1084,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updates</last-search>
+      <last-search>content_fil</last-search>
       <last-offset />
-      <last-pattern>updates</last-pattern>
+      <last-pattern>content_fil</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1094,7 +1094,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_pm_ref</entry>
         <entry>in_pm_refere</entry>
         <entry>PCI</entry>
         <entry>srio</entry>
@@ -1114,6 +1113,7 @@
         <entry>teid</entry>
         <entry>update_up</entry>
         <entry>updates</entry>
+        <entry>content_fil</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmVyaWNfbW9kZWwuLy8=</entry>
