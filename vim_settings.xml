@@ -44,8 +44,11 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" timestamp="1523531562615">
-        <mark key="'" line="823" column="26" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" timestamp="1523532861520">
+        <mark key="'" line="1223" column="51" />
+        <mark key="[" line="1258" column="0" />
+        <mark key="]" line="1258" column="0" />
+        <mark key="." line="1258" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/setup.py" timestamp="1516182621592">
         <mark key="[" line="9" column="101" />
@@ -779,7 +782,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523531169266">
+      <file name="/Dummy.txt" timestamp="1523532225456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -870,6 +873,11 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1523532419207">
+        <mark key="'" line="575" column="49" />
+        <mark key="[" line="574" column="0" />
+        <mark key="]" line="574" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcand-698.py" timestamp="1521118266447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -914,11 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="10" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_pcepgcandi-662.json" />
-      <jump line="296" column="20" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_pcepgcandi-662.json" />
-      <jump line="63" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="533" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="535" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="536" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="538" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="588" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
@@ -963,7 +966,6 @@
       <jump line="393" column="21" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="1230" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="367" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="1223" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="1226" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="1228" column="67" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="1239" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
@@ -1014,6 +1016,12 @@
       <jump line="675" column="23" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="784" column="56" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="823" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="575" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="23" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="792" column="60" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="1128" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="1195" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="1223" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1033,13 +1041,13 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>factor</text>
+        <text>_db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZXhwZWN0ZWRfbGVnYWN5X2NsYXNzX291dHB1dC5pdGVtcygpIDw9IGV4Y2VsX291dHB1dF9kaWN0Lml0ZW1zKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfd2FybmluZ19hbmRfaW5mb19tZXNzYWdlc19mb3JfbWF4X2xvYWQoc2VsZik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJucyBBIGxpc3Qgb2YgYmxhYmxhCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1065,31 +1073,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBodHRwczovL3BkdXBjLWppcmEubW8uc3cuZXJpY3Nzb24uc2UvYnJvd3NlL1BDRVBHQ0FOREktNjI5CiAgICAnJycKICAgCiAgICBAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoJ2NwYl92Y3B1LCBleHBlY3RlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWygxMCwgNildKQogICAgZGVmIHRlc3RfY3BiKHNlbGYsIGhlbHBlciwgY3BiX3ZjcHUsIGV4cGVjdGVkKToKICAgICAgICAiIiJUaGUgbnVtYmVyIG9mIHByb2Nlc3NlcyBzaG91bGQgYmUgZXF1YWwgdG8gdGhlIG51bWJlciBvZiB2Y3B1cywKICAgICAgICBhbmQgYXQgbGVhc3QgZm9yIHNtYWxsIFZNcyB0aGUgbnVtYmVyIG9mIHNzYyBwcm9jZXNzZXMgc2hvdWxkIGVxdWFsCiAgICAgICAgdGhlIG51bWJlciBvZiBwc2MgcHJvY2Vzc2VzLCBzbyBhbGwgc2hvdWxkIGJlIHRoZSBzYW1lLiIiIgoKICAgICAgICBpbl8gPSBoZWxwZXIuZ2V0X2VwZ19tb2RlbF9pbnB1dF9kYXRhKGZpbGVfbmFtZV89J2ZlYXR1cmVzXFx2c2ZvXFxtaW5pbWFsLmpzb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZV9maWxlX25hbWU9J2xvd190cmFmZmljX3ZlcGcuanNvbicpCiAgICAgICAgaGVscGVyLnNldF9hcGlfdmFsdWUoaW5fLCAnaW5fbG9naWNhbF9jb3Jlc19jcGInLCBjcGJfdmNwdSkKCiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBoZWxwZXIucnVuX2VwZ19tb2RlbF9pbnRlcm5hbF9hcGkoaW5fKQoKICAgICAgICBkZWYgcmVzb3VyY2Uodm1fdHlwZSwgcmVzb3VyY2VfdHlwZSk6CiAgICAgICAgICAgIHJldHVybiBoZWxwZXIudm1fcmVzb3VyY2VfdG90YWwob3V0X2RldGFpbHMsIHZtX3R5cGUsIHJlc291cmNlX3R5cGUpCgogICAgICAgIGRlZiBjb25zdW1lcnModm1fdHlwZSwgY29uc3VtZXJfdHlwZSk6CiAgICAgICAgICAgIHJldHVybiBoZWxwZXIuY29uc3VtZXJfaW5zdGFuY2VzKG91dF9kZXRhaWxzLCB2bV90eXBlLCBjb25zdW1lcl90eXBlKQoKICAgICAgICBjcGIgPSBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUuY3BiCiAgICAgICAgc2d3X3Byb2Nlc3MgPSBkYXRhdHlwZXMuQ29uc3VtZXJUeXBlLnByb2NfY3Bfc3NjCiAgICAgICAgcGd3X3Byb2Nlc3MgPSBkYXRhdHlwZXMuQ29uc3VtZXJUeXBlLnByb2NfY3BfcHNjCiAgICAgICAgc2d3X3ZjcHUgPSBkYXRhdHlwZXMuUmVzb3VyY2UudmNwdV9jcF9zc2MKICAgICAgICBwZ3dfdmNwdSA9IGRhdGF0eXBlcy5SZXNvdXJjZS52Y3B1X2NwX3BzYwoKICAgICAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gY29uc3VtZXJzKGNwYiwgc2d3X3Byb2Nlc3MpCiAgICAgICAgYXNzZXJ0IGV4cGVjdGVkID09IGNvbnN1bWVycyhjcGIsIHBnd19wcm9jZXNzKQogICAgICAgIGFzc2VydCBleHBlY3RlZCA9PSByZXNvdXJjZShjcGIsIHNnd192Y3B1KQogICAgICAgIGFzc2VydCBleHBlY3RlZCA9PSByZXNvdXJjZShjcGIsIHBnd192Y3B1KQogICAgJycnCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgVE9ETyBodHRwczovL3BkdXBjLWppcmEubW8uc3cuZXJpY3Nzb24uc2UvYnJvd3NlL1BDRVBHQ0FOREktNjI5CiAgICAnJycKICAgCiAgICBAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoJ2NwYl92Y3B1LCBleHBlY3RlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWygxMCwgNildKQogICAgZGVmIHRlc3RfY3BiKHNlbGYsIGhlbHBlciwgY3BiX3ZjcHUsIGV4cGVjdGVkKToKICAgICAgICAiIiJUaGUgbnVtYmVyIG9mIHByb2Nlc3NlcyBzaG91bGQgYmUgZXF1YWwgdG8gdGhlIG51bWJlciBvZiB2Y3B1cywKICAgICAgICBhbmQgYXQgbGVhc3QgZm9yIHNtYWxsIFZNcyB0aGUgbnVtYmVyIG9mIHNzYyBwcm9jZXNzZXMgc2hvdWxkIGVxdWFsCiAgICAgICAgdGhlIG51bWJlciBvZiBwc2MgcHJvY2Vzc2VzLCBzbyBhbGwgc2hvdWxkIGJlIHRoZSBzYW1lLiIiIgoKICAgICAgICBpbl8gPSBoZWxwZXIuZ2V0X2VwZ19tb2RlbF9pbnB1dF9kYXRhKGZpbGVfbmFtZV89J2ZlYXR1cmVzXFx2c2ZvXFxtaW5pbWFsLmpzb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZV9maWxlX25hbWU9J2xvd190cmFmZmljX3ZlcGcuanNvbicpCiAgICAgICAgaGVscGVyLnNldF9hcGlfdmFsdWUoaW5fLCAnaW5fbG9naWNhbF9jb3Jlc19jcGInLCBjcGJfdmNwdSkKCiAgICAgICAgb3V0X2FwaSwgb3V0X2RldGFpbHMgPSBoZWxwZXIucnVuX2VwZ19tb2RlbF9pbnRlcm5hbF9hcGkoaW5fKQoKICAgICAgICBkZWYgcmVzb3VyY2Uodm1fdHlwZSwgcmVzb3VyY2VfdHlwZSk6CiAgICAgICAgICAgIHJldHVybiBoZWxwZXIudm1fcmVzb3VyY2VfdG90YWwob3V0X2RldGFpbHMsIHZtX3R5cGUsIHJlc291cmNlX3R5cGUpCgogICAgICAgIGRlZiBjb25zdW1lcnModm1fdHlwZSwgY29uc3VtZXJfdHlwZSk6CiAgICAgICAgICAgIHJldHVybiBoZWxwZXIuY29uc3VtZXJfaW5zdGFuY2VzKG91dF9kZXRhaWxzLCB2bV90eXBlLCBjb25zdW1lcl90eXBlKQoKICAgICAgICBjcGIgPSBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUuY3BiCiAgICAgICAgc2d3X3Byb2Nlc3MgPSBkYXRhdHlwZXMuQ29uc3VtZXJUeXBlLnByb2NfY3Bfc3NjCiAgICAgICAgcGd3X3Byb2Nlc3MgPSBkYXRhdHlwZXMuQ29uc3VtZXJUeXBlLnByb2NfY3BfcHNjCiAgICAgICAgc2d3X3ZjcHUgPSBkYXRhdHlwZXMuUmVzb3VyY2UudmNwdV9jcF9zc2MKICAgICAgICBwZ3dfdmNwdSA9IGRhdGF0eXBlcy5SZXNvdXJjZS52Y3B1X2NwX3BzYwoKICAgICAgICBhc3NlcnQgZXhwZWN0ZWQgPT0gY29uc3VtZXJzKGNwYiwgc2d3X3Byb2Nlc3MpCiAgICAgICAgYXNzZXJ0IGV4cGVjdGVkID09IGNvbnN1bWVycyhjcGIsIHBnd19wcm9jZXNzKQogICAgICAgIGFzc2VydCBleHBlY3RlZCA9PSByZXNvdXJjZShjcGIsIHNnd192Y3B1KQogICAgICAgIGFzc2VydCBleHBlY3RlZCA9PSByZXNvdXJjZShjcGIsIHBnd192Y3B1KQogICAgJycnCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1VSUkVOVF9ESVIgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc2VydCh0ZW1wX3hsc20sICdmaXh0dXJlc1xcZW1wdHlfcm93X2F0X2VuZC5jc3YnKQo=</text>
+        <text encoding="base64">Q1VSUkVOVF9ESVIgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhDc3ZSb3dzTm90RXF1YWxMZW5ndGhFeGNlcHRpb24pOgo=</text>
+        <text encoding="base64">ICAgIGluc2VydCh0ZW1wX3hsc20sICdmaXh0dXJlc1xcZW1wdHlfcm93X2F0X2VuZC5jc3YnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnQodGVtcF94bHNtLCBDU1ZfUEFUSCkK</text>
+        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhDc3ZSb3dzTm90RXF1YWxMZW5ndGhFeGNlcHRpb24pOgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>factor</last-search>
+      <last-search>_db</last-search>
       <last-offset />
-      <last-pattern>factor</last-pattern>
+      <last-pattern>_db</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1112,11 +1120,11 @@
         <entry>content_fil</entry>
         <entry>legacy_class_</entry>
         <entry>database</entry>
-        <entry>_db</entry>
         <entry>internal_paths_db</entry>
         <entry>internal_paths_</entry>
         <entry>select</entry>
         <entry>factor</entry>
+        <entry>_db</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmVyaWNfbW9kZWwuLy8=</entry>
