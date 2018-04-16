@@ -44,8 +44,8 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" timestamp="1523532861520">
-        <mark key="'" line="1223" column="51" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" timestamp="1523868571444">
+        <mark key="'" line="17" column="8" />
         <mark key="[" line="1258" column="0" />
         <mark key="]" line="1258" column="0" />
         <mark key="." line="1258" column="0" />
@@ -790,7 +790,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523866627094">
+      <file name="/Dummy.txt" timestamp="1523868974575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -930,9 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="309" column="73" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="312" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="313" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="318" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="320" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
@@ -1030,6 +1027,9 @@
       <jump line="141" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_xlsunit_legacy.py" />
       <jump line="139" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/test_xlsunit_legacy.py" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/excel_handler.py" />
+      <jump line="15" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="399" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1049,7 +1049,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sheets</text>
+        <text>self.database</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzZXRfd2FybmluZ19hbmRfaW5mb19tZXNzYWdlc19mb3JfbWF4X2xvYWQoc2VsZik6Cg==</text>
@@ -1099,13 +1099,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
-      <last-search>sheets</last-search>
+      <last-search>self.database</last-search>
       <last-offset />
-      <last-pattern>sheets</last-pattern>
+      <last-pattern>self.database</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1113,7 +1113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lb</entry>
         <entry>logical_cores_ppb_lb</entry>
         <entry>logical_cores_ppb</entry>
         <entry>number_of_cores_for</entry>
@@ -1133,6 +1132,7 @@
         <entry>factor</entry>
         <entry>_db</entry>
         <entry>sheets</entry>
+        <entry>self.database</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmVyaWNfbW9kZWwuLy8=</entry>
@@ -1148,13 +1148,13 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action MethodDown</entry>
         <entry>reg</entry>
-        <entry>action GotoClass</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindUsages</entry>
         <entry>w</entry>
         <entry>W</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
