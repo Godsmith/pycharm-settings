@@ -800,7 +800,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523882311742">
+      <file name="/Dummy.txt" timestamp="1523883262401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1109,7 +1109,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1163,8 +1163,8 @@
         <entry>w</entry>
         <entry>W</entry>
         <entry>action GotoClass</entry>
-        <entry>action GotoFile</entry>
         <entry>action MethodDown</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
