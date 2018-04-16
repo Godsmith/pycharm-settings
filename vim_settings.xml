@@ -113,6 +113,13 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1523881349797">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="670" column="0" />
+        <mark key="]" line="670" column="174" />
+        <mark key="^" line="670" column="173" />
+        <mark key="." line="670" column="173" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="24" />
@@ -503,6 +510,9 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" timestamp="1523881618932">
+        <mark key="'" line="45" column="8" />
+      </file>
       <file name="$USER_HOME$/AppData/Local/Continuum/Anaconda3/envs/py34/Lib/site-packages/pip/_vendor/distlib/database.py" timestamp="1518427817408">
         <mark key="'" line="39" column="0" />
       </file>
@@ -790,7 +800,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523868974575">
+      <file name="/Dummy.txt" timestamp="1523881498166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -930,12 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="318" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="320" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="323" column="72" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="324" column="54" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="417" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="424" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="433" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="435" column="49" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
@@ -1030,6 +1034,12 @@
       <jump line="15" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="399" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
+      <jump line="45" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
+      <jump line="6" column="19" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
+      <jump line="13" column="22" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
+      <jump line="44" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
+      <jump line="45" column="8" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1046,13 +1056,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>self.database</text>
+        <text>max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfd2FybmluZ19hbmRfaW5mb19tZXNzYWdlc19mb3JfbWF4X2xvYWQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHRlcm5hbCAtPiBbRVhULCByZXNvdXJjZShsaW5rX2Zyb250XzFfaW4pXSAtPiBsY193b3JrZXIgLT4gW0ZBQiwgZXZlbmx5XSAtPiB1cF93b3JrZXIgLT4gW0ZBQiwgcmVzb3VyY2UobGlua19mcm9udF8xX291dCldIC0+IGxjX3dvcmtlciAtPiBbRVhULCBldmVubHldIC0+IGV4dGVybmFsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAjIFRPRE86IHZhbGlkYXRlIGluIGlucHV0IHZhbGlkYXRpb24gaW5zdGVhZCAoUENFUEdDQU5ESS00NTApCiAgICAjIGRlZiB0ZXN0X2Vycm9yX3doZW5fcmFtX3NpemVfc21hbGxlcl90aGFuX2Jhc2Vsb2FkKHNlbGYpOgogICAgIyAgICAgJycnCiAgICAjICAgICBOQiEgdGhpcyB0ZXN0IGZhaWxlZCAyMDE2LTEyLTAxIGJlY2F1c2UgbXVsdGlwbGUgZXJyb3JzIHdhcyB0cmlnZ2VyZWQKICAgICMgICAgIGF0IHRoZSBzYW1lIHRpbWUuIEFkZGluZyBhIG5ldyB1bnJlbGF0ZWQgc2lnbmFsIGNvc3QgcGFyYW1ldGVyCiAgICAjICAgICBtYWRlIGFub3RoZXIgYWN0aXZlIGVycm9yIHRvIGJlIHJlcG9ydGVkIGZpcnN0LiBBZGRlZAogICAgIyAgICAgbW9yZSBwYXJhbWV0ZXJzIHRvIHJlbW92ZSAoc29tZSBvZj8pIHRoZSBtdWx0aXBsZSBmYWlsdXJlcy4KICAgICMgICAgICcnJwogICAgIyAgICAgc2VsZi5leGNlbF9oYW5kbGVyLnNldF9pbnB1dCh7CiAgICAjICAgICAgICAgJ0VQR19EaW1lbnNpb25pbmdfTW9kZSc6ICd2RVBHX01BTlVBTCcsCiAgICAjICAgICAgICAgJ0dHU05fTkFNRSc6ICdFUEcgMjAxNkInLAogICAgIyAgICAgICAgICdHR1NOX0hXJzogJ3ZFUEcnLAogICAgIyAgICAgICAgICdFUEdfVk1fc2l6ZV9yYW1fUFBCJzogJzEwMDAwJywKICAgICMgICAgICAgICAnR0dTTl9tYXhfQ19QSUNfTWVtX2xvYWQnOiAnMTAwMDAwMDAnLCAgIyBvdGhlcndpc2Ugd2Ugd2lsbCBoaXQgdGhpcyBsaW1pdCBpbnN0ZWFkCiAgICAjICAgICAgICAgJ0lOUF9HR1NOX05iT2ZfVV9QSUNfQWN0aXZlJzogJzInLAogICAgIyAgICAgICAgICdJTlBfR0dTTl9OYk9mX1VfUElDX1Bhc3NpdmUnOiAnMScsCiAgICAjICAgICAgICAgJ0VQR192TEMnOiAnMicsCiAgICAjICAgICAgICAgJ0VQR19WTV9zaXplX1BQQic6ICczMCcsCiAgICAjICAgICAgICAgJ0VQR19WTV9zaXplX3ZMQyc6ICczMCcsCiAgICAjICAgICB9KQogICAgIyAgICAgZXhwZWN0ZWRfZXJyb3JfdGV4dCA9IFwKICAgICMgICAgICAgICAnRVJST1I6IFRoZSBSQU0gYmFzZWxvYWQgb24gUFBCIGlzIGxhcmdlciB0aGFuIGl0cyB0b3RhbCBzaXplLicKICAgICMgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAjICAgICAgICAgc2VsZi5leGNlbF9oYW5kbGVyLmdldF9vdXRwdXQoKVsnRVBHX0Vycm9yX21lc3NhZ2VfT1VUJ10sCiAgICAjICAgICAgICAgZXhwZWN0ZWRfZXJyb3JfdGV4dCkK</text>
@@ -1099,13 +1109,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
-      <last-search>self.database</last-search>
+      <last-search>max</last-search>
       <last-offset />
-      <last-pattern>self.database</last-pattern>
+      <last-pattern>max</last-pattern>
       <last-replace>type(attr)</last-replace>
       <last-substitute>parameter.type</last-substitute>
       <last-dir>1</last-dir>
@@ -1113,8 +1123,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logical_cores_ppb_lb</entry>
-        <entry>logical_cores_ppb</entry>
         <entry>number_of_cores_for</entry>
         <entry>in_logical_cores_ppb_lb</entry>
         <entry>vm_size</entry>
@@ -1133,6 +1141,8 @@
         <entry>_db</entry>
         <entry>sheets</entry>
         <entry>self.database</entry>
+        <entry>consumerPat</entry>
+        <entry>max</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmVyaWNfbW9kZWwuLy8=</entry>
@@ -1146,15 +1156,15 @@
         <entry>:</entry>
         <entry>s/parameter.type/type(attr)/</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action MethodDown</entry>
         <entry>reg</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindUsages</entry>
         <entry>w</entry>
         <entry>W</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoClass</entry>
+        <entry>action GotoFile</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
