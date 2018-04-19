@@ -9,12 +9,6 @@
         <mark key="^" line="12" column="114" />
         <mark key="." line="12" column="114" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/parser.py" timestamp="1524052756379">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day10/main.py" timestamp="1449779350816">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="16" />
@@ -103,6 +97,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1524129137024">
+        <mark key="[" line="207" column="13" />
+        <mark key="]" line="207" column="14" />
+        <mark key="." line="207" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/tests/commands/commands_tests.py" timestamp="1524127180415">
         <mark key="[" line="215" column="60" />
@@ -255,7 +254,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1524126818814">
+      <file name="/Python Console" timestamp="1524129094079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -564,6 +563,7 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1524129052141" />
       <file name="$USER_HOME$/workspace/GymLog/gymlog/templates/main.html" timestamp="1425418580420">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="20" />
@@ -801,7 +801,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524126735948">
+      <file name="/Dummy.txt" timestamp="1524128882229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1097,7 +1097,7 @@
         <text encoding="base64">KiAgICAgICB8IHNzciAgICAgIHwgU1NDLTEK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1151,8 +1151,8 @@
         <entry>%s/}/})/g</entry>
         <entry>%s/self.parser/parser/g</entry>
         <entry>%s/ parser/ self._parser/g</entry>
-        <entry>action GotoFile</entry>
         <entry>reg</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
