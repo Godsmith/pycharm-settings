@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" timestamp="1524142710567">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_PCEPGCANDI-265_divide_by_zero.py" timestamp="1508230302311">
         <mark key="[" line="12" column="110" />
         <mark key="]" line="12" column="114" />
@@ -128,11 +132,11 @@
         <mark key="]" line="669" column="0" />
         <mark key="." line="669" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_new_tests.py" timestamp="1524142417299">
-        <mark key="[" line="60" column="68" />
-        <mark key="]" line="60" column="78" />
-        <mark key="." line="60" column="78" />
-        <mark key="^" line="60" column="78" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_new_tests.py" timestamp="1524144044716">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="86" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
@@ -235,11 +239,11 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1524142436707">
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="2" column="66" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1524143348733">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="66" />
-        <mark key="." line="2" column="66" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day16/main2.py" timestamp="1450557417153">
         <mark key="[" line="2" column="0" />
@@ -257,7 +261,7 @@
         <mark key="]" line="678" column="46" />
         <mark key="." line="678" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" timestamp="1524136759546">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" timestamp="1524143458639">
         <mark key="'" line="301" column="5" />
         <mark key="[" line="141" column="36" />
         <mark key="]" line="141" column="37" />
@@ -300,7 +304,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1524141879420">
+      <file name="/Python Console" timestamp="1524143411630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -573,13 +577,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_excel_tests.py" timestamp="1524142336855">
-        <mark key="a" line="92" column="37" />
-        <mark key="'" line="60" column="36" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="65" column="121" />
-        <mark key="^" line="92" column="80" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_excel_tests.py" timestamp="1524144014767">
+        <mark key="a" line="106" column="37" />
+        <mark key="'" line="71" column="36" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="98" column="87" />
+        <mark key="^" line="55" column="34" />
+        <mark key="." line="55" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" timestamp="1425416222614">
         <mark key="[" line="11" column="46" />
@@ -860,7 +864,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524140364649">
+      <file name="/Dummy.txt" timestamp="1524142773618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -941,6 +945,11 @@
         <mark key="]" line="44" column="37" />
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1524143747148">
+        <mark key="'" line="575" column="49" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcand-698.py" timestamp="1521118266447">
         <mark key="[" line="0" column="0" />
@@ -1096,16 +1105,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>_create_pm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTWF4Q2FwYWNpdHlFeGNlbFRlc3RzKFRlc3RDYXNlKToKICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBjb3JlX2lucHV0ID0gQ29yZUlucHV0LmZyb21fanNvbignJyd7InZpcnR1YWxfbmV0d29ya19mdW5jdGlvbnMiOiBbewogICAgICAgICAgICAgICAgInR5cGUiOiAiRVBHIiwgInV1aWQiOiAxLCAicGxhdGZvcm0iOiAibTMyMCIsICJ2ZXJzaW9uX3N3IjogIkVQRyAyMDEzQSIsCiAgICAgICAgICAgICAgICAidmlydHVhbF9tYWNoaW5lcyI6IFsKICAgICAgICAgICAgICAgICAgICB7InR5cGUiOiAiUFBCIiwgInV1aWQiOiA2LCAic3RhdGUiOiAiYWN0aXZlIiwgImhvc3RfdXVpZCI6IDEwMDUsICJ2Y3B1X3Jlc2VydmVkIjogMjQsICJyYW1fcmVzZXJ2ZWQiOiAyMDB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH1dLCAicGh5c2ljYWxfbWFjaGluZXMiOiBbCiAgICAgICAgICAgICAgICB7Im5hbWUiOiAiUEItR0dTTjMiLCAidXVpZCI6IDEwMDF9CiAgICAgICAgICAgIF0sInNzcl9iYWNrcGxhbmVfZ2VuZXJhdGlvbiI6IFsKICAgICAgICAgICAgICAgICAgICB7InZhbHVlIjogImdlbjEiLCAibmFtZSI6ICJnZW4xIn0KICAgICAgICAgICAgICAgIF19JycnKQoKICAgICAgICBjb3JlX291dHB1dCA9IENvcmVPdXRwdXQoW0NvcmVPdXRwdXRQaHlzaWNhbE1hY2hpbmUoCiAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlBoeXNpY2FsTWFjaGluZS5kZWxsX3I2MzAsCiAgICAgICAgICAgIHV1aWQ9MTAwMSwKICAgICAgICAgICAgcmVzb3VyY2VzPVtDb3JlT3V0cHV0UmVzb3VyY2UoCiAgICAgICAgICAgICAgICB0eXBlPWRhdGF0eXBlcy5SZXNvdXJjZS5jcHUsCiAgICAgICAgICAgICAgICB0b3RhbD0zMiwKICAgICAgICAgICAgICAgIHJlc2VydmVkPTI0LAogICAgICAgICAgICAgICAgdXNlZD00LjQsCiAgICAgICAgICAgICAgICBmcmVlPTgsCiAgICAgICAgICAgICAgICBtYXhfYWxsb3dlZD0zMAogICAgICAgICAgICApLCBDb3JlT3V0cHV0UGh5c2ljYWxSZXNvdXJjZSgKICAgICAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlJlc291cmNlLmxpbmtfMV9pbiwKICAgICAgICAgICAgICAgIHRvdGFsPTEwMDAsCiAgICAgICAgICAgICAgICByZXNlcnZlZD0wLAogICAgICAgICAgICAgICAgdXNlZD01MDAsCiAgICAgICAgICAgICAgICBmcmVlPTUwMCwKICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkPTEwMDAsCiAgICAgICAgICAgICAgICBwaHlzaWNhbF9tYWNoaW5lPU5vbmUKICAgICAgICAgICAgKV0sCiAgICAgICAgICAgIHZpcnR1YWxfbWFjaGluZXM9W0NvcmVPdXRwdXRWaXJ0dWFsTWFjaGluZSgKICAgICAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYiwKICAgICAgICAgICAgICAgIHV1aWQ9NiwKICAgICAgICAgICAgICAgIHN0YXRlPWRhdGF0eXBlcy5TdGF0ZS5hY3RpdmUsCiAgICAgICAgICAgICAgICBjb25zdW1lcnM9W0NvcmVPdXRwdXRDb25zdW1lcigKICAgICAgICAgICAgICAgICAgICB0eXBlPWRhdGF0eXBlcy5Db25zdW1lclR5cGUucHJvY191cF93b3JrZXIsCiAgICAgICAgICAgICAgICAgICAgaW5zdGFuY2VzPTEsCiAgICAgICAgICAgICAgICApXSwKICAgICAgICAgICAgICAgIHJlc291cmNlcz1bQ29yZU91dHB1dFJlc291cmNlKAogICAgICAgICAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlJlc291cmNlLmNwdSwKICAgICAgICAgICAgICAgICAgICB0b3RhbD0xLAogICAgICAgICAgICAgICAgICAgIHJlc2VydmVkPTAsCiAgICAgICAgICAgICAgICAgICAgdXNlZD0wLjQsCiAgICAgICAgICAgICAgICAgICAgZnJlZT0wLjYsCiAgICAgICAgICAgICAgICAgICAgbWF4X2FsbG93ZWQ9MC44CiAgICAgICAgICAgICAgICApXQogICAgICAgICAgICApXQogICAgICAgICldKQogICAgICAgIHRyYWZmaWMgPSB7J2R1bW15IHNpZ25hbCc6IDEwMDB9CiAgICAgICAgZGltZW5zaW9uaW5nX2l0ZXJhdGlvbiA9IERpbWVuc2lvbmluZ0l0ZXJhdGlvbihjb3JlX2lucHV0LCBjb3JlX291dHB1dCwgMSkKICAgICAgICBzZWxmLm1heF9jYXBhY2l0eSA9IE1heENhcGFjaXR5RXhjZWwoZGltZW5zaW9uaW5nX2l0ZXJhdGlvbiwgdHJhZmZpYz10cmFmZmljLCBwbV9hZmZlY3RzX21heF9jYXBhY2l0eT1UcnVlKQoKICAgIGRlZiB0ZXN0X21heF9jYXBhY2l0eV92bShzZWxmKToKICAgICAgICBtYXhfY2FwYWNpdHlfdm0gPSBzZWxmLm1heF9jYXBhY2l0eS5tYXhfY2FwYWNpdHlfdm0oKQogICAgICAgICMgQ3VycmVudCBzaWduYWxpbmcgcmF0ZSBpcyAxMDAwLCBsb2FkIGlzIDQwJSBhbmQgbWF4IGFsbG93ZWQgbG9hZCBpcyA4MCUgLT4gbWF4IGNhcGFjaXR5ID0gMjAwMAogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobWF4X2NhcGFjaXR5X3ZtW2RhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5wcGJdLm1heF9jYXBhY2l0aWVzWydkdW1teSBzaWduYWwnXS5wZXJfcmVzb3VyY2UsIDIwMDApCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21heF9jYXBhY2l0eV92bmYoc2VsZik6CiAgICAgICAgdm0sIHJlc291cmNlLCBtYXhfY2FwYWNpdHkgPSBzZWxmLm1heF9jYXBhY2l0eS5tYXhfY2FwYWNpdHlfdm5mKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHZtLCBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzb3VyY2UsIGRhdGF0eXBlcy5SZXNvdXJjZS5jcHUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtYXhfY2FwYWNpdHkubWF4X2NhcGFjaXRpZXNbJ2R1bW15IHNpZ25hbCddLnBlcl9yZXNvdXJjZSwgMjAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSwgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHZtLCBkYXRhdHlwZXMuVmlydHVhbE1hY2hpbmUucHBiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzb3VyY2UsIGRhdGF0eXBlcy5SZXNvdXJjZS5jcHUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1124,38 +1133,76 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>CoreOutputResource(
-                type=datatypes.Resource.ram,
-                total=3123123123,
-                reserved=12312313,
-                used=31231,
-                free=1323123128,
-                max_allowed=12312312</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb3JlX2lucHV0ID0gQ29yZUlucHV0LmZyb21fanNvbignJyd7InZpcnR1YWxfbmV0d29ya19mdW5jdGlvbnMiOiBbewogICAgICAgICAgICAgICAgInR5cGUiOiAiRVBHIiwgInV1aWQiOiAxLCAicGxhdGZvcm0iOiAibTMyMCIsICJ2ZXJzaW9uX3N3IjogIkVQRyAyMDEzQSIsCiAgICAgICAgICAgICAgICAidmlydHVhbF9tYWNoaW5lcyI6IFsKICAgICAgICAgICAgICAgICAgICB7InR5cGUiOiAiUFBCIiwgInV1aWQiOiA2LCAic3RhdGUiOiAiYWN0aXZlIiwgImhvc3RfdXVpZCI6IDEwMDUsICJ2Y3B1X3Jlc2VydmVkIjogMjQsICJyYW1fcmVzZXJ2ZWQiOiAyMDB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH1dLCAicGh5c2ljYWxfbWFjaGluZXMiOiBbCiAgICAgICAgICAgICAgICB7Im5hbWUiOiAiUEItR0dTTjMiLCAidXVpZCI6IDEwMDF9CiAgICAgICAgICAgIF0sInNzcl9iYWNrcGxhbmVfZ2VuZXJhdGlvbiI6IFsKICAgICAgICAgICAgICAgICAgICB7InZhbHVlIjogImdlbjEiLCAibmFtZSI6ICJnZW4xIn0KICAgICAgICAgICAgICAgIF19JycnKQoKICAgICAgICBjb3JlX291dHB1dCA9IENvcmVPdXRwdXQoW0NvcmVPdXRwdXRQaHlzaWNhbE1hY2hpbmUoCiAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlBoeXNpY2FsTWFjaGluZS5kZWxsX3I2MzAsCiAgICAgICAgICAgIHV1aWQ9MTAwMSwKICAgICAgICAgICAgcmVzb3VyY2VzPVtDb3JlT3V0cHV0UmVzb3VyY2UoCiAgICAgICAgICAgICAgICB0eXBlPWRhdGF0eXBlcy5SZXNvdXJjZS5jcHUsCiAgICAgICAgICAgICAgICB0b3RhbD0zMiwKICAgICAgICAgICAgICAgIHJlc2VydmVkPTI0LAogICAgICAgICAgICAgICAgdXNlZD00LjQsCiAgICAgICAgICAgICAgICBmcmVlPTgsCiAgICAgICAgICAgICAgICBtYXhfYWxsb3dlZD0zMAogICAgICAgICAgICApLCBDb3JlT3V0cHV0UGh5c2ljYWxSZXNvdXJjZSgKICAgICAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlJlc291cmNlLmxpbmtfMV9pbiwKICAgICAgICAgICAgICAgIHRvdGFsPTEwMDAsCiAgICAgICAgICAgICAgICByZXNlcnZlZD0wLAogICAgICAgICAgICAgICAgdXNlZD01MDAsCiAgICAgICAgICAgICAgICBmcmVlPTUwMCwKICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkPTEwMDAsCiAgICAgICAgICAgICAgICBwaHlzaWNhbF9tYWNoaW5lPU5vbmUKICAgICAgICAgICAgKV0sCiAgICAgICAgICAgIHZpcnR1YWxfbWFjaGluZXM9W0NvcmVPdXRwdXRWaXJ0dWFsTWFjaGluZSgKICAgICAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlZpcnR1YWxNYWNoaW5lLnBwYiwKICAgICAgICAgICAgICAgIHV1aWQ9NiwKICAgICAgICAgICAgICAgIHN0YXRlPWRhdGF0eXBlcy5TdGF0ZS5hY3RpdmUsCiAgICAgICAgICAgICAgICBjb25zdW1lcnM9W0NvcmVPdXRwdXRDb25zdW1lcigKICAgICAgICAgICAgICAgICAgICB0eXBlPWRhdGF0eXBlcy5Db25zdW1lclR5cGUucHJvY191cF93b3JrZXIsCiAgICAgICAgICAgICAgICAgICAgaW5zdGFuY2VzPTEsCiAgICAgICAgICAgICAgICApXSwKICAgICAgICAgICAgICAgIHJlc291cmNlcz1bQ29yZU91dHB1dFJlc291cmNlKAogICAgICAgICAgICAgICAgICAgIHR5cGU9ZGF0YXR5cGVzLlJlc291cmNlLmNwdSwKICAgICAgICAgICAgICAgICAgICB0b3RhbD0xLAogICAgICAgICAgICAgICAgICAgIHJlc2VydmVkPTAsCiAgICAgICAgICAgICAgICAgICAgdXNlZD0wLjQsCiAgICAgICAgICAgICAgICAgICAgZnJlZT0wLjYsCiAgICAgICAgICAgICAgICAgICAgbWF4X2FsbG93ZWQ9MC44CiAgICAgICAgICAgICAgICApXQogICAgICAgICAgICApXQogICAgICAgICldKQogICAgICAgIHRyYWZmaWMgPSB7J2R1bW15IHNpZ25hbCc6IDEwMDB9CiAgICAgICAgZGltZW5zaW9uaW5nX2l0ZXJhdGlvbiA9IERpbWVuc2lvbmluZ0l0ZXJhdGlvbihjb3JlX2lucHV0LCBjb3JlX291dHB1dCwgMSkKICAgICAgICBzZWxmLm1heF9jYXBhY2l0eSA9IE1heENhcGFjaXR5TmV3KGRpbWVuc2lvbmluZ19pdGVyYXRpb24sIEV4Y2VsSW5wdXQoKSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2bSwgcmVzb3VyY2UsIG1heF9jYXBhY2l0eSA9IHNlbGYubWF4X2NhcGFjaXR5Lm1heF9jYXBhY2l0eV92bmYoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodm0sIGRhdGF0eXBlcy5WaXJ0dWFsTWFjaGluZS5wcGIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNvdXJjZSwgZGF0YXR5cGVzLlJlc291cmNlLmNwdSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1heF9jYXBhY2l0eS5tYXhfY2FwYWNpdGllc1snZHVtbXkgc2lnbmFsJ10ucGVyX3Jlc291cmNlLCAyMDAwKQo=</text>
+      <register name="3" type="4">
+        <text>[CoreOutputPhysicalMachine(
+            type=datatypes.PhysicalMachine.dell_r630,
+            uuid=1001,
+            resources=[],
+            virtual_machines=[]
+        )]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>[CoreOutputResource(
+                type=datatypes.Resource.cpu,
+                total=32,
+                reserved=24,
+                used=4.4,
+                free=8,
+                max_allowed=30
+            ), CoreOutputPhysicalResource(
+                type=datatypes.Resource.link_1_in,
+                total=1000,
+                reserved=0,
+                used=500,
+                free=500,
+                max_allowed=1000,
+                physical_machine=None
+            )]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfY2FwYWNpdHkgPSAyCg==</text>
+      <register name="5" type="4">
+        <text>CoreOutputPhysicalResource(
+                type=datatypes.Resource.link_1_in,
+                total=1000,
+                reserved=0,
+                used=500,
+                free=500,
+                max_allowed=1000,
+                physical_machine=None
+            )</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiID0gMgo=</text>
+      <register name="7" type="4">
+        <text>CoreOutputVirtualMachine(
+                type=datatypes.VirtualMachine.ppb,
+                uuid=6,
+                state=datatypes.State.active,
+                consumers=[CoreOutputConsumer(
+                    type=datatypes.ConsumerType.proc_up_worker,
+                    instances=1,
+                )],
+                resources=[virtual_resource]
+            )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgCg==</text>
+      <register name="8" type="4">
+        <text>CoreOutputVirtualResource(
+                    type=datatypes.Resource.cpu,
+                    total=1,
+                    reserved=0,
+                    used=0.4,
+                    free=0.6,
+                    max_allowed=0.8
+                )</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhID09IGEK</text>
+        <text encoding="base64">ICAgICAgICBwbSA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -1209,8 +1256,8 @@
         <entry>reg</entry>
         <entry>action FileStructurePopup</entry>
         <entry>w</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
