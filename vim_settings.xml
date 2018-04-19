@@ -294,7 +294,7 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="/Python Console" timestamp="1524138694770">
+      <file name="/Python Console" timestamp="1524140268854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2016/day05/door.py" timestamp="1480971712395">
@@ -303,7 +303,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1524138763116">
+      <file name="/fragment.py" timestamp="1524140165831">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -567,12 +567,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_excel_tests.py" timestamp="1524138640919">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_excel_tests.py" timestamp="1524140096903">
         <mark key="'" line="59" column="36" />
-        <mark key="[" line="62" column="47" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
-        <mark key="^" line="63" column="12" />
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+        <mark key="^" line="68" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" timestamp="1425416222614">
         <mark key="[" line="11" column="46" />
@@ -616,8 +616,8 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1524136385050">
-        <mark key="'" line="133" column="9" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" timestamp="1524140262680">
+        <mark key="'" line="29" column="38" />
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="56" />
         <mark key="." line="380" column="16" />
@@ -972,8 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
-      <jump line="17" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/link_load_applier.py" />
       <jump line="45" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
       <jump line="6" column="19" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
@@ -1072,6 +1070,8 @@
       <jump line="114" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
       <jump line="133" column="9" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
       <jump line="3" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_excel_tests.py" />
+      <jump line="327" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
+      <jump line="29" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1088,16 +1088,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>--cov=epg_dimensioning.max_capacity_excel --cov-report html</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>vms_per</text>
+        <text>_create_pm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X21heF9jYXBhY2l0eV9wbShzZWxmKToKICAgICAgICBzZWxmLm1heF9jYXBhY2l0eS5tYXhfY2FwYWNpdHlfdm0oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhID09IGEK</text>
+        <text encoding="base64">ICAgICAgICBiID0gMgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1117,37 +1117,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7InZhbHVlIjogImdlbjEiLCAibmFtZSI6ICJnZW4xIn0sCiAgICAgICAgICAgICAgICAgICAgeyJ2YWx1ZSI6ICJnZW4xIiwgIm5hbWUiOiAiZ2VuMSJ9LAogICAgICAgICAgICAgICAgICAgIHsidmFsdWUiOiAiZ2VuMSIsICJuYW1lIjogImdlbjEifSwKICAgICAgICAgICAgICAgICAgICB7InZhbHVlIjogImdlbjEiLCAibmFtZSI6ICJnZW4xIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7InR5cGUiOiAiUFBCIiwgInV1aWQiOiAyLCAic3RhdGUiOiAiYWN0aXZlIiwgImhvc3RfdXVpZCI6IDEwMDEsICJ2Y3B1X3Jlc2VydmVkIjogMjQsICJyYW1fcmVzZXJ2ZWQiOiAyMDB9LAogICAgICAgICAgICAgICAgICAgIHsidHlwZSI6ICJQUEIiLCAidXVpZCI6IDMsICJzdGF0ZSI6ICJhY3RpdmUiLCAiaG9zdF91dWlkIjogMTAwMiwgInZjcHVfcmVzZXJ2ZWQiOiAyNCwgInJhbV9yZXNlcnZlZCI6IDIwMH0sCiAgICAgICAgICAgICAgICAgICAgeyJ0eXBlIjogIlBQQiIsICJ1dWlkIjogNCwgInN0YXRlIjogImFjdGl2ZSIsICJob3N0X3V1aWQiOiAxMDAzLCAidmNwdV9yZXNlcnZlZCI6IDI0LCAicmFtX3Jlc2VydmVkIjogMjAwfSwKICAgICAgICAgICAgICAgICAgICB7InR5cGUiOiAiUFBCIiwgInV1aWQiOiA1LCAic3RhdGUiOiAiYWN0aXZlIiwgImhvc3RfdXVpZCI6IDEwMDQsICJ2Y3B1X3Jlc2VydmVkIjogMjQsICJyYW1fcmVzZXJ2ZWQiOiAyMDB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBhID09IGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJQQi1HR1NOMyIsICJ1dWlkIjogMTAwMn0sCiAgICAgICAgICAgICAgICB7Im5hbWUiOiAiUEItR0dTTjMiLCAidXVpZCI6IDEwMDN9LAogICAgICAgICAgICAgICAgeyJuYW1lIjogIlBCLUdHU04zIiwgInV1aWQiOiAxMDA0fSwKICAgICAgICAgICAgICAgIHsibmFtZSI6ICJQQi1HR1NOMyIsICJ1dWlkIjogMTAwNX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7InZhbHVlIjogImdlbjEiLCAibmFtZSI6ICJnZW4xIn0sCiAgICAgICAgICAgICAgICAgICAgeyJ2YWx1ZSI6ICJnZW4xIiwgIm5hbWUiOiAiZ2VuMSJ9LAogICAgICAgICAgICAgICAgICAgIHsidmFsdWUiOiAiZ2VuMSIsICJuYW1lIjogImdlbjEifSwKICAgICAgICAgICAgICAgICAgICB7InZhbHVlIjogImdlbjEiLCAibmFtZSI6ICJnZW4xIn0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkPTMyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7InR5cGUiOiAiUFBCIiwgInV1aWQiOiAyLCAic3RhdGUiOiAiYWN0aXZlIiwgImhvc3RfdXVpZCI6IDEwMDEsICJ2Y3B1X3Jlc2VydmVkIjogMjQsICJyYW1fcmVzZXJ2ZWQiOiAyMDB9LAogICAgICAgICAgICAgICAgICAgIHsidHlwZSI6ICJQUEIiLCAidXVpZCI6IDMsICJzdGF0ZSI6ICJhY3RpdmUiLCAiaG9zdF91dWlkIjogMTAwMiwgInZjcHVfcmVzZXJ2ZWQiOiAyNCwgInJhbV9yZXNlcnZlZCI6IDIwMH0sCiAgICAgICAgICAgICAgICAgICAgeyJ0eXBlIjogIlBQQiIsICJ1dWlkIjogNCwgInN0YXRlIjogImFjdGl2ZSIsICJob3N0X3V1aWQiOiAxMDAzLCAidmNwdV9yZXNlcnZlZCI6IDI0LCAicmFtX3Jlc2VydmVkIjogMjAwfSwKICAgICAgICAgICAgICAgICAgICB7InR5cGUiOiAiUFBCIiwgInV1aWQiOiA1LCAic3RhdGUiOiAiYWN0aXZlIiwgImhvc3RfdXVpZCI6IDEwMDQsICJ2Y3B1X3Jlc2VydmVkIjogMjQsICJyYW1fcmVzZXJ2ZWQiOiAyMDB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JlX291dHB1dCA9IENvcmVPdXRwdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJQQi1HR1NOMyIsICJ1dWlkIjogMTAwMn0sCiAgICAgICAgICAgICAgICB7Im5hbWUiOiAiUEItR0dTTjMiLCAidXVpZCI6IDEwMDN9LAogICAgICAgICAgICAgICAgeyJuYW1lIjogIlBCLUdHU04zIiwgInV1aWQiOiAxMDA0fSwKICAgICAgICAgICAgICAgIHsibmFtZSI6ICJQQi1HR1NOMyIsICJ1dWlkIjogMTAwNX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmcmFtZXdvcmsudGVzdF9jYXNlIGltcG9ydCBUZXN0Q2FzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkPTMyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2bXNfcGVyX3ZuZiA9IGNscy5fdm1zX3Blcl92bmYoCiAgICAgICAgICAgIGNvcmVfb3V0cHV0LCB2aXJ0dWFsX21hY2hpbmVfdHlwZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb3JlX291dHB1dCA9IENvcmVPdXRwdXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSBmcmFtZXdvcmsudGVzdF9jYXNlIGltcG9ydCBUZXN0Q2FzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>vms_per</last-search>
+      <last-search>_create_pm</last-search>
       <last-offset />
-      <last-pattern>vms_per</last-pattern>
+      <last-pattern>_create_pm</last-pattern>
       <last-replace encoding="base64">IHNlbGYuX3BhcnNlcg==</last-replace>
       <last-substitute encoding="base64">IHBhcnNlcg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1155,8 +1155,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self, dict_input</entry>
-        <entry encoding="base64">KGRpY3RfaW5wdXQsIA==</entry>
         <entry encoding="base64">ID0gX2V4dHI=</entry>
         <entry encoding="base64">ID0gX3JhaXM=</entry>
         <entry>_rais</entry>
@@ -1175,6 +1173,8 @@
         <entry>_get_on</entry>
         <entry>MaxCapacityResul</entry>
         <entry>vms_per</entry>
+        <entry>_create-pm</entry>
+        <entry>_create_pm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ dict_input/ self._dict_input/g</entry>
