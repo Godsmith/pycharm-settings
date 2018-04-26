@@ -781,8 +781,8 @@
         <mark key="." line="1" column="78" />
         <mark key="^" line="1" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1523431218313">
-        <mark key="'" line="98" column="34" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/Makefile" timestamp="1524733334661">
+        <mark key="'" line="128" column="34" />
         <mark key="[" line="65" column="58" />
         <mark key="]" line="65" column="65" />
         <mark key="." line="65" column="65" />
@@ -1068,9 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="32" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
-      <jump line="80" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
-      <jump line="10" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
       <jump line="22" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
       <jump line="88" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
       <jump line="89" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
@@ -1168,6 +1165,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="627" column="6" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="644" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="0" column="137" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="23" column="89" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
+      <jump line="128" column="34" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1187,7 +1187,7 @@
         <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>consumerpath</text>
+        <text>release</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBnZW5lcmljX21vZGVsLmNvbnRyb2xsZXIuYXBpIGltcG9ydCBDb3JlT3V0cHV0UmVzb3VyY2UsIFwK</text>
@@ -1262,9 +1262,9 @@
       </register>
     </registers>
     <search>
-      <last-search>consumerpath</last-search>
+      <last-search>release</last-search>
       <last-offset />
-      <last-pattern>consumerpath</last-pattern>
+      <last-pattern>release</last-pattern>
       <last-replace>(self, max_capacity_new)</last-replace>
       <last-substitute>(self)</last-substitute>
       <last-dir>1</last-dir>
@@ -1272,7 +1272,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MaxCapacityResul</entry>
         <entry>vms_per</entry>
         <entry>_create-pm</entry>
         <entry>MaxCapacityExc</entry>
@@ -1292,6 +1291,7 @@
         <entry>create_signa</entry>
         <entry>self.database</entry>
         <entry>consumerpath</entry>
+        <entry>release</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = _rais/ = self._rais/g</entry>
