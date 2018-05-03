@@ -184,12 +184,8 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1524829326297">
-        <mark key="'" line="41" column="59" />
-        <mark key="[" line="67" column="50" />
-        <mark key="]" line="67" column="50" />
-        <mark key="." line="67" column="50" />
-        <mark key="^" line="67" column="49" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1525335241837">
+        <mark key="'" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507107077170">
         <mark key="[" line="10" column="24" />
@@ -251,8 +247,8 @@
         <mark key="]" line="678" column="46" />
         <mark key="." line="678" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" timestamp="1524148939958">
-        <mark key="'" line="3" column="48" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" timestamp="1525335024383">
+        <mark key="'" line="96" column="11" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="62" />
         <mark key="." line="2" column="0" />
@@ -804,6 +800,11 @@
         <mark key="^" line="74" column="8" />
         <mark key="." line="74" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/commands_tests.py" timestamp="1525335999761">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="30" />
+        <mark key="." line="217" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_crash_pdcepgcandi-433.py" timestamp="1507813297722">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="39" column="90" />
@@ -1013,7 +1014,7 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1524829616389">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1525335215683">
         <mark key="'" line="212" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcand-698.py" timestamp="1521118266447">
@@ -1054,7 +1055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/json_parser.py" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/input_parser_tests.py" />
       <jump line="12" column="18" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/input_parser_tests.py" />
       <jump line="0" column="13" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/input_parser_tests.py" />
@@ -1128,7 +1128,6 @@
       <jump line="393" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
       <jump line="153" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
       <jump line="107" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
-      <jump line="96" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
       <jump line="142" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity.py" />
       <jump line="3" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
@@ -1154,6 +1153,8 @@
       <jump line="128" column="34" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
       <jump line="204" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" />
       <jump line="212" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
+      <jump line="96" column="11" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1173,10 +1174,10 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>referenc</text>
+        <text>test_set_wa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X3BhcmFtZXRlcnMgPSBjcmVhdGVfaW5wdXRfcGFyYW1ldGVyc19mcm9tX2pzb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKEZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmVpLnJlbGVhc2UgPSBkYXRhdHlwZXMuUmVsZWFzZS5lcGdfMjAxNmIKICAgICAgICBzZWxmLmVpLnBsYXRmb3JtID0gZGF0YXR5cGVzLlBsYXRmb3JtLnZlcGcKICAgICAgICBzZWxmLmVpLnNzcl9zc2NfZGVwbG95bWVudCA9IGRhdGF0eXBlcy5Tc3JTc2NEZXBsb3ltZW50Lm5hCg==</text>
@@ -1248,9 +1249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>referenc</last-search>
+      <last-search>test_set_wa</last-search>
       <last-offset />
-      <last-pattern>referenc</last-pattern>
+      <last-pattern>test_set_wa</last-pattern>
       <last-replace>(self, max_capacity_new)</last-replace>
       <last-substitute>(self)</last-substitute>
       <last-dir>1</last-dir>
@@ -1258,7 +1259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.assertEqual</entry>
         <entry>self</entry>
         <entry>self.max_capacity</entry>
         <entry>(self)</entry>
@@ -1278,6 +1278,7 @@
         <entry>excel_inpu</entry>
         <entry>pm_refer</entry>
         <entry>referenc</entry>
+        <entry>test_set_wa</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = _rais/ = self._rais/g</entry>
