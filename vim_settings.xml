@@ -226,6 +226,7 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1526281510693" />
       <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1524143348733">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
@@ -573,14 +574,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_excel_tests.py" timestamp="1524144936106">
-        <mark key="a" line="107" column="37" />
-        <mark key="'" line="75" column="26" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="78" />
-        <mark key="^" line="103" column="29" />
-        <mark key="." line="29" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise.py" timestamp="1425416222614">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="12" column="33" />
@@ -916,7 +909,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526277780262">
+      <file name="/Dummy.txt" timestamp="1526281392051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -976,6 +969,7 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1526281422406" />
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="26" />
