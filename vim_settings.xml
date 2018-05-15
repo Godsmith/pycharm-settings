@@ -64,6 +64,13 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" timestamp="1526386988847">
+        <mark key="'" line="614" column="124" />
+        <mark key="[" line="652" column="75" />
+        <mark key="]" line="652" column="81" />
+        <mark key="^" line="652" column="81" />
+        <mark key="." line="652" column="81" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/tests/commands/commands_tests.py" timestamp="1524127180415">
         <mark key="[" line="215" column="60" />
         <mark key="]" line="215" column="62" />
@@ -75,6 +82,13 @@
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1526389502048">
+        <mark key="'" line="84" column="16" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="22" />
+        <mark key="." line="53" column="22" />
+        <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_new_tests.py" timestamp="1524145253935">
         <mark key="'" line="12" column="114" />
@@ -360,6 +374,12 @@
         <mark key="." line="11" column="102" />
         <mark key="^" line="11" column="102" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/supported_releases.csv" timestamp="1526389635236">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/tests/commands/static_vm_resource.csv.py" timestamp="1524125681458">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="30" />
@@ -496,7 +516,7 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pdcepgcandi364.py" timestamp="1526388558656">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pdcepgcandi364.py" timestamp="1526390104666">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -519,7 +539,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526388760113">
+      <file name="/Dummy.txt" timestamp="1526390222112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -715,6 +735,9 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
+      <file name="/Python Console" timestamp="1526389560486">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1524141304208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
@@ -821,7 +844,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi364.json" timestamp="1526388550512">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi364.json" timestamp="1526390101109">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
         <mark key="^" line="2" column="27" />
@@ -930,6 +953,13 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1526277783679">
+        <mark key="'" line="12" column="49" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_epg.json" timestamp="1526387738411">
         <mark key="'" line="2" column="26" />
       </file>
@@ -989,12 +1019,12 @@
         <mark key="." line="65" column="65" />
         <mark key="^" line="65" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1526387682775">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1526390165960">
         <mark key="'" line="283" column="41" />
-        <mark key="[" line="612" column="49" />
-        <mark key="]" line="612" column="49" />
+        <mark key="[" line="652" column="62" />
+        <mark key="]" line="652" column="63" />
         <mark key="^" line="612" column="48" />
-        <mark key="." line="612" column="49" />
+        <mark key="." line="652" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_vsfo.py" timestamp="1526382067600">
         <mark key="[" line="47" column="0" />
@@ -1137,7 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="59" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/input_parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/input_parser.py" />
       <jump line="683" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output_functions.py" />
@@ -1237,6 +1266,7 @@
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_up_only.json" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_epg_cpup.json" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi494.json" />
+      <jump line="84" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1253,16 +1283,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>EPG 2018Q1</text>
+        <text>Release</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ291dF9jYXBhY2l0eV9rcHBzX3Blcl93b3JrZXJfbGInXSA9IGtwcHNfcGVyX3BwYl9saW1pdGVkX2J5X2xiX3dvcmtlciAvIG91dF9sYl9wcm9jZXNzZXNfcGVyX3ZtX3BwYiBpZiBpc2luc3RhbmNlKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlbW92ZSB0aGlzIHdoZW4gbW92aW5nIHZTRk8gdG8gRVBHMS4zCiAgICAgICAgIyBPbmx5IG5lZWRlZCBmb3IgdGVzdHMgbm90IHRvIGZhaWwgaW4gYW4gaW50ZXJtZWRpYXRlIHN0ZXAuCiAgICAgICAgc2VsZi5oZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92ZXJzaW9uX3N3JywgJ0VQRzEuNCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlbW92ZSB0aGlzIHdoZW4gbW92aW5nIHZTRk8gdG8gRVBHMS4zCiAgICAgICAgIyBPbmx5IG5lZWRlZCBmb3IgdGVzdHMgbm90IHRvIGZhaWwgaW4gYW4gaW50ZXJtZWRpYXRlIHN0ZXAuCiAgICAgICAgc2VsZi5oZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92ZXJzaW9uX3N3JywgJ0VQRzJfMCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1303,41 +1333,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RVBHMi4wfEp1bmlwZXIgfCogICAgICAgICAgICAgIHxDUEIgICAgICAgICAgIHx0ZWlkX3Byb2NfY3BfcHNjfHByb2NfY3BfcHNjICAgfDAgICAgICB8bWF4VEVJRHMvY29uc3VtZXJ8MjAxNi0wOC0xOHxlcnZwZWthfFM1UzggVEVJRCwgdGhlIHJlc291cmNlIHJlbW92ZWQgZnJvbSB0aGlzIFNXIHJlbGVhc2UK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlbW92ZSB0aGlzIHdoZW4gbW92aW5nIHZTRk8gdG8gRVBHMS4zCiAgICAgICAgIyBPbmx5IG5lZWRlZCBmb3IgdGVzdHMgbm90IHRvIGZhaWwgaW4gYW4gaW50ZXJtZWRpYXRlIHN0ZXAuCiAgICAgICAgc2VsZi5oZWxwZXIuc2V0X2FwaV92YWx1ZShpbl8sICdpbl92ZXJzaW9uX3N3JywgJ0VQRzEuNCcpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">RVBHMi4wfEp1bmlwZXIgfCogICAgICAgICAgICAgIHxDUEIgICAgICAgICAgIHx0ZWlkX3Byb2NfY3BfcHNjfHByb2NfY3BfcHNjICAgfDAgICAgICB8bWF4VEVJRHMvY29uc3VtZXJ8MjAxNi0wOC0xOHxlcnZwZWthfFM1UzggVEVJRCwgdGhlIHJlc291cmNlIHJlbW92ZWQgZnJvbSB0aGlzIFNXIHJlbGVhc2UK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKDkwMDMsICdsYXJnZXJfcHBiX2FuZF9jcGJfdm1fc2l6ZXNfaW5fZXBnXzIwMThxMScpLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>kpps_per_ppb_limited_by_lb_worker / out_lb_processes_per_vm_ppb if isinstance(
             kpps_per_ppb_limited_by_lb_worker, float) and isinstance(out_lb_processes_per_vm_ppb,
                                                                      int) else '-'</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PSBrcHBzX3Blcl9wcGJfbGltaXRlZF9ieV9sYl93b3JrZXIgLyBvdXRfbGJfcHJvY2Vzc2VzX3Blcl92bV9wcGIgaWYgaXNpbnN0YW5jZSgKICAgICAgICAgICAga3Bwc19wZXJfcHBiX2xpbWl0ZWRfYnlfbGJfd29ya2VyLCBmbG9hdCkgYW5kIGlzaW5zdGFuY2Uob3V0X2xiX3Byb2Nlc3Nlc19wZXJfdm1fcHBiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>isinstance(
             kpps_per_ppb_limited_by_lb_worker, float) and isinstance(out_lb_processes_per_vm_ppb,
                                                                      int)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9sZWdhY3lfcGF0aHNfbm9fdHJhZmZpYyhzZWxmKToKICAgICAgICBvdXRfYXBpLCBvdXRfZGV0YWlscyA9IHNlbGYuaGVscGVyLnJ1bl9lcGdfbW9kZWxfd2l0aF9pbnB1dF9pbnRlcm5hbF9hcGkoJ2xlZ2FjeV9wYXRoc19ub190cmFmZmljLmpzb24nKQoKICAgICAgICB3b3JrZXJzID0gb3V0X2FwaVsncHl0aG9uJ11bJ291dF93b3JrZXJzX3Blcl92bV9sYiddCgogICAgICAgIGFzc2VydCB3b3JrZXJzID09ICdBdmFpbGFibGUgaW4gQ0FOREkgMjAxNyA5LjAuIFVzZSBFUEcgMjAxOFExJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>EPG 2018Q1</last-search>
+      <last-search>Release</last-search>
       <last-offset />
-      <last-pattern>EPG 2018Q1</last-pattern>
+      <last-pattern>Release</last-pattern>
       <last-replace>EPG1.4</last-replace>
       <last-substitute>EPG 2018Q1</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,7 +1375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(self)</entry>
         <entry>self.ass</entry>
         <entry>resource_max_capac</entry>
         <entry>def resource_max</entry>
@@ -1365,6 +1394,7 @@
         <entry>test_set_wa</entry>
         <entry>WARNING</entry>
         <entry>EPG 2018Q1</entry>
+        <entry>Release</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_rais/self._rais/g</entry>
