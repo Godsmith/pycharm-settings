@@ -141,6 +141,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1526388276076">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1524143348733">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
@@ -171,11 +177,11 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/vm_base_usage.csv" timestamp="1508851443328">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/vm_base_usage.csv" timestamp="1526480343797">
+        <mark key="[" line="34" column="85" />
+        <mark key="]" line="34" column="89" />
+        <mark key="^" line="34" column="89" />
+        <mark key="." line="34" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcandi-662.py" timestamp="1522924751456">
         <mark key="[" line="0" column="9" />
@@ -213,11 +219,11 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1526459811887">
-        <mark key="[" line="1014" column="6" />
-        <mark key="]" line="1014" column="9" />
-        <mark key="^" line="1014" column="9" />
-        <mark key="." line="1014" column="9" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1526479985386">
+        <mark key="[" line="758" column="259" />
+        <mark key="]" line="758" column="259" />
+        <mark key="^" line="758" column="259" />
+        <mark key="." line="758" column="259" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
         <mark key="[" line="6" column="0" />
@@ -518,7 +524,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526462757663">
+      <file name="/Dummy.txt" timestamp="1526480116941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1249,13 +1255,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0  |0  |0   |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |10 |the resource size (on vSFO) is reduced by the vcpu_lb size: vcpu_cp_* = vcpu - vcpu_lb</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>gsc</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">fDAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">RVBHMS4wICAgICAgICB8U1NSICAgICAgfFBQQiAgICAgICAgICAgfFJBTSAgICAgfHBsYXRmb3JtX3N3ICB8U1NDLTMgICAgICAgICAgfDM2Nzk1MTM3NDAwICAgfGJ5dGVzfE1lYXN1cmVtZW50fDIwMTctMDQtMDZ8ZXNlYmxhZ3xGb3IgZGV0YWlscyBzZWUgSmlyYSB0YXNrIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMjcKRVBHMS4wICAgICAgICB8U1NSICAgICAgfFBQQiAgICAgICAgICAgfFJBTSAgICAgfHNhY2MgICAgICAgICB8U1NDLTMgICAgICAgICAgfDAuMCAgICAgICAgICAgfGJ5dGVzfE1lYXN1cmVtZW50fDIwMTctMDQtMDZ8ZXNlYmxhZ3xGb3IgZGV0YWlscyBzZWUgSmlyYSB0YXNrIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMjcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVBHMi4wICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfEdTQyAgICAgICAgICAgfHZjcHVfY3BfZ3NjICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfGRvIG5vdCBkZXBsb3kgR1NDIHByb2Nlc3NlcyBpbiBFUEcgMi4wCg==</text>
