@@ -177,12 +177,7 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/vm_base_usage.csv" timestamp="1526480343797">
-        <mark key="[" line="34" column="85" />
-        <mark key="]" line="34" column="89" />
-        <mark key="^" line="34" column="89" />
-        <mark key="." line="34" column="89" />
-      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/vm_base_usage.csv" timestamp="1526480343797" />
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcandi-662.py" timestamp="1522924751456">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="6" column="31" />
