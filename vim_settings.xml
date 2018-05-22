@@ -207,12 +207,12 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1526991744619">
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1526993417839">
         <mark key="'" line="714" column="84" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="758" column="259" />
-        <mark key="." line="0" column="1" />
+        <mark key="[" line="762" column="33" />
+        <mark key="]" line="762" column="33" />
+        <mark key="." line="762" column="33" />
+        <mark key="^" line="762" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
         <mark key="[" line="6" column="0" />
@@ -1247,13 +1247,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RVBHMS4wICAgICAgICB8U1NSICAgICAgfFBQQiAgICAgICAgICAgfFJBTSAgICAgfHBsYXRmb3JtX3N3ICB8U1NDLTMgICAgICAgICAgfDM2Nzk1MTM3NDAwICAgfGJ5dGVzfE1lYXN1cmVtZW50fDIwMTctMDQtMDZ8ZXNlYmxhZ3xGb3IgZGV0YWlscyBzZWUgSmlyYSB0YXNrIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMjcKRVBHMS4wICAgICAgICB8U1NSICAgICAgfFBQQiAgICAgICAgICAgfFJBTSAgICAgfHNhY2MgICAgICAgICB8U1NDLTMgICAgICAgICAgfDAuMCAgICAgICAgICAgfGJ5dGVzfE1lYXN1cmVtZW50fDIwMTctMDQtMDZ8ZXNlYmxhZ3xGb3IgZGV0YWlscyBzZWUgSmlyYSB0YXNrIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMjcK</text>
+        <text encoding="base64">RVBHMi4wICAgICAgICB8U1NSICAgICB8c3NjLTEgICAgICAgICAgfHByb2NfY3BfcHNjICAgfFJBTSAgICAgICAgICAgICAgICAgfGluX3Bnd19nZ3NuX2RlZmF1bHRfYmVhcmVyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfDIuMzE1Mzg4MjM2MTU4MzAwMEUrMDN8Qnl0ZS9ldmVudCAgICAgICAgICAgICAgIHxNZWFzdXJlbWVudHwyMDE4LTA1LTIyfGVmaWxsYW58VHdpY2UgdGhlIGNvc3QgaW4gRVBHMS4qCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVBHMi4wICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfEdTQyAgICAgICAgICAgfHZjcHVfY3BfZ3NjICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfDAgIHwwICB8MCAgfGRvIG5vdCBkZXBsb3kgR1NDIHByb2Nlc3NlcyBpbiBFUEcgMi4wCg==</text>
@@ -1286,7 +1286,7 @@
         <text encoding="base64">RVBHMi4wfEp1bmlwZXIgfCogICAgICAgICAgICAgIHxDUEIgICAgICAgICAgIHx0ZWlkX3Byb2NfY3BfcHNjfHByb2NfY3BfcHNjICAgfDAgICAgICB8bWF4VEVJRHMvY29uc3VtZXJ8MjAxNi0wOC0xOHxlcnZwZWthfFM1UzggVEVJRCwgdGhlIHJlc291cmNlIHJlbW92ZWQgZnJvbSB0aGlzIFNXIHJlbGVhc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1340,8 +1340,8 @@
         <entry>%s/self.max_capacity/max_capacity_new/g</entry>
         <entry>%s/(self)/(self, max_capacity_new)/g</entry>
         <entry>%s/EPG 2018Q1/EPG1.4/g</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
