@@ -141,12 +141,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1526388276076">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="5" column="9" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1524143348733">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
@@ -214,7 +208,8 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1526479985386">
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1526977925793">
+        <mark key="'" line="954" column="87" />
         <mark key="[" line="758" column="259" />
         <mark key="]" line="758" column="259" />
         <mark key="^" line="758" column="259" />
@@ -519,7 +514,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526481049629">
+      <file name="/Dummy.txt" timestamp="1526977819843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1078,8 +1073,8 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1526481032180">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1526977711813">
+        <mark key="'" line="407" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
@@ -1137,59 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="459" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="378" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="384" column="17" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="390" column="34" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="391" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="401" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="408" column="17" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="393" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="153" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="107" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
-      <jump line="142" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity.py" />
-      <jump line="3" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
-      <jump line="8" column="33" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="30" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_excel.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output_parameters.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/load_factory.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="94" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="113" column="25" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="127" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="225" column="30" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="332" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="367" column="16" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="373" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="380" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="405" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="627" column="6" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="644" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="0" column="137" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
-      <jump line="23" column="89" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
-      <jump line="128" column="34" filename="$USER_HOME$/workspace/candi_epg-main/Makefile" />
-      <jump line="204" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/core_input_builder.py" />
-      <jump line="212" column="39" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="96" column="11" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/max_capacity_new.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
-      <jump line="153" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" />
-      <jump line="91" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="19" column="78" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" />
-      <jump line="134" column="9" filename="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" />
-      <jump line="614" column="124" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/data/input_with_pdc_load.json" />
-      <jump line="17" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_mytestname.json" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_sacc_no_pisc.json" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_no_sacc.json" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_cpup.json" />
-      <jump line="74" column="61" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_physical_epg_traffic_paths.py" />
-      <jump line="283" column="41" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/all_input_and_calibration_zero_crash_PCEPGCANDI-433.json" />
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/input_strange_scale_factor_worker_capacity.json" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_epg.json" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_capacity_per_worker_SRIOV.json" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/data/input.json" />
@@ -1237,6 +1179,59 @@
       <jump line="246" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="255" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="678" column="76" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="423" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="424" column="99" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="427" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="428" column="78" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="429" column="53" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="526" column="58" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="527" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="528" column="57" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="631" column="69" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="637" column="79" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="639" column="91" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="406" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="407" column="53" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="957" column="82" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="958" column="87" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="1" column="165" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="2" column="165" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="3" column="162" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="755" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="756" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="757" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="758" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="759" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="760" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="761" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="762" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="763" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="764" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="765" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="766" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="767" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="768" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="769" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="782" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="783" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="784" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="785" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="786" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="787" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="788" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="789" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="792" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="793" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="795" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="796" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="799" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="800" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="802" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="803" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="805" column="83" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="806" column="88" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="954" column="87" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1256,7 +1251,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>1_plus</text>
+        <text>default_bear</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RVBHMS4wICAgICAgICB8U1NSICAgICAgfFBQQiAgICAgICAgICAgfFJBTSAgICAgfHBsYXRmb3JtX3N3ICB8U1NDLTMgICAgICAgICAgfDM2Nzk1MTM3NDAwICAgfGJ5dGVzfE1lYXN1cmVtZW50fDIwMTctMDQtMDZ8ZXNlYmxhZ3xGb3IgZGV0YWlscyBzZWUgSmlyYSB0YXNrIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMjcKRVBHMS4wICAgICAgICB8U1NSICAgICAgfFBQQiAgICAgICAgICAgfFJBTSAgICAgfHNhY2MgICAgICAgICB8U1NDLTMgICAgICAgICAgfDAuMCAgICAgICAgICAgfGJ5dGVzfE1lYXN1cmVtZW50fDIwMTctMDQtMDZ8ZXNlYmxhZ3xGb3IgZGV0YWlscyBzZWUgSmlyYSB0YXNrIGh0dHBzOi8vcGR1cGMtamlyYS5tby5zdy5lcmljc3Nvbi5zZS9icm93c2UvUENFUEdDQU5ESS0zMjcK</text>
@@ -1296,9 +1291,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1_plus</last-search>
+      <last-search>default_bear</last-search>
       <last-offset />
-      <last-pattern>1_plus</last-pattern>
+      <last-pattern>default_bear</last-pattern>
       <last-replace>EPG1.4</last-replace>
       <last-substitute>EPG 2018Q1</last-substitute>
       <last-dir>1</last-dir>
@@ -1306,9 +1301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_max_loaded_phy</entry>
-        <entry>_max_loaded_ph</entry>
-        <entry>_, _</entry>
         <entry>_create_pm</entry>
         <entry>create_signa</entry>
         <entry>self.database</entry>
@@ -1326,6 +1318,9 @@
         <entry>session</entry>
         <entry>plus</entry>
         <entry>1_plus</entry>
+        <entry>default_bea</entry>
+        <entry>bearer</entry>
+        <entry>default_bear</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_rais/self._rais/g</entry>
