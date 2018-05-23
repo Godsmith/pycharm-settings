@@ -316,11 +316,10 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/spgw_signaling_splitter.py" timestamp="1527071685279">
-        <mark key="[" line="60" column="73" />
-        <mark key="]" line="60" column="73" />
-        <mark key="." line="60" column="73" />
-        <mark key="^" line="62" column="87" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/spgw_signaling_splitter.py" timestamp="1527073499397">
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/debugging.rst" timestamp="1513247480469">
         <mark key="[" line="30" column="18" />
@@ -714,7 +713,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1527071671229">
+      <file name="/Python Console" timestamp="1527073321589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
@@ -1079,12 +1078,10 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1527071307862">
-        <mark key="'" line="693" column="27" />
-        <mark key="[" line="693" column="62" />
-        <mark key="]" line="693" column="78" />
-        <mark key="^" line="693" column="78" />
-        <mark key="." line="693" column="78" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1527073520094">
+        <mark key="[" line="691" column="0" />
+        <mark key="]" line="691" column="0" />
+        <mark key="." line="691" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
@@ -1258,7 +1255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>in_pgw_ebm</text>
@@ -1267,7 +1264,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGljdGlvbmFyeVsnaW5fc3Bnd19tb2RpZnlfYmVhcmVyX3Nnd19wZ3cnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2luX3NwZ3dfbW9kaWZ5X2JlYXJlcl9zZ3dfcGd3JywK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kaWN0X291dHB1dCA9IFNwZ3dTaWduYWxpbmdTcGxpdHRlcigpLnRyYW5zZm9ybShzZWxmLl9kaWN0X291dHB1dCkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1283,28 +1280,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2luX3NwZ3dfbW9kaWZ5X2JlYXJlcl9zZ3dfcGd3JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IAo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdGlvbmFyeQo=</text>
+        <text encoding="base64">ICAgICAgICB7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdGlvbmFyeQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2lnbmFsIGluIHNlbGYuU0lHTkFMU19UT19TUExJVFsnc2d3J106Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2lnbmFsIGluIHNlbGYuU0lHTkFMU19UT19TUExJVFsnc2d3J106CiAgICAgICAgICAgIGRpY3Rpb25hcnlbc2VsZi5zZ3dfc2lnbmFsKHNpZ25hbCldICs9IGRpY3Rpb25hcnlbc2lnbmFsXQogICAgICAgICAgICBkZWwgZGljdGlvbmFyeVtzaWduYWxdCiAgICAgICAgZm9yIHNpZ25hbCBpbiBzZWxmLlNJR05BTFNfVE9fU1BMSVRbJ3NndyddOgogICAgICAgICAgICBkaWN0aW9uYXJ5W3NlbGYuc2d3X3NpZ25hbChzaWduYWwpXSArPSBkaWN0aW9uYXJ5W3NpZ25hbF0KICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2lnbmFsIGluIHNlbGYuU0lHTkFMU19UT19TUExJVFsnc2d3J106Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNJR05BTFNfVE9fU0dXID0gWwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2lnbmFsIGluIHNlbGYuU0lHTkFMU19UT19TUExJVFsnc2d3J106CiAgICAgICAgICAgIGRpY3Rpb25hcnlbc2VsZi5zZ3dfc2lnbmFsKHNpZ25hbCldICs9IGRpY3Rpb25hcnlbc2lnbmFsXQogICAgICAgICAgICBkZWwgZGljdGlvbmFyeVtzaWduYWxdCiAgICAgICAgZm9yIHNpZ25hbCBpbiBzZWxmLlNJR05BTFNfVE9fU1BMSVRbJ3NndyddOgogICAgICAgICAgICBkaWN0aW9uYXJ5W3NlbGYuc2d3X3NpZ25hbChzaWduYWwpXSArPSBkaWN0aW9uYXJ5W3NpZ25hbF0KICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
