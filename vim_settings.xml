@@ -1286,7 +1286,7 @@
         <text encoding="base64">RVBHMi4wfEp1bmlwZXIgfCogICAgICAgICAgICAgIHxDUEIgICAgICAgICAgIHx0ZWlkX3Byb2NfY3BfcHNjfHByb2NfY3BfcHNjICAgfDAgICAgICB8bWF4VEVJRHMvY29uc3VtZXJ8MjAxNi0wOC0xOHxlcnZwZWthfFM1UzggVEVJRCwgdGhlIHJlc291cmNlIHJlbW92ZWQgZnJvbSB0aGlzIFNXIHJlbGVhc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1340,8 +1340,8 @@
         <entry>%s/self.max_capacity/max_capacity_new/g</entry>
         <entry>%s/(self)/(self, max_capacity_new)/g</entry>
         <entry>%s/EPG 2018Q1/EPG1.4/g</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
