@@ -313,10 +313,11 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/spgw_signaling_splitter.py" timestamp="1527077865926">
-        <mark key="]" line="72" column="3" />
-        <mark key="." line="72" column="3" />
-        <mark key="^" line="72" column="3" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/spgw_signaling_splitter.py" timestamp="1527079219600">
+        <mark key="[" line="64" column="74" />
+        <mark key="]" line="64" column="75" />
+        <mark key="." line="64" column="75" />
+        <mark key="^" line="61" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/debugging.rst" timestamp="1513247480469">
         <mark key="[" line="30" column="18" />
@@ -503,7 +504,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527075657224">
+      <file name="/Dummy.txt" timestamp="1527079011844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -686,7 +687,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1527077820422">
+      <file name="/Python Console" timestamp="1527079266586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
@@ -887,12 +888,11 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1527078098943">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1527078611528">
         <mark key="'" line="14" column="49" />
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="50" column="39" />
-        <mark key="." line="50" column="39" />
-        <mark key="^" line="50" column="39" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/scripts/close_cand_epg_xlsm.py" timestamp="1516025086582">
         <mark key="[" line="2" column="3" />
@@ -1030,7 +1030,7 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1527073520094">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1527079254769">
         <mark key="[" line="691" column="0" />
         <mark key="]" line="691" column="0" />
         <mark key="." line="691" column="0" />
@@ -1204,16 +1204,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Signal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdGlvbmFyeVsnaW5fc3Bnd19tb2RpZnlfYmVhcmVyX3Nnd19wZ3cnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdGlvbmFyeSA9IHNlbGYuX2FkZF90b192YWx1ZV9zdHJpbmdfdmFsdWVfaW5fZGljdChkaWN0aW9uYXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX3RvX3Nnd19zaWduYWwoc2lnbmFsKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWN0aW9uYXJ5W3NpZ25hbF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9yIG90aGVyd2lzZSB3ZSBuZWVkIHRvIGhhdmUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdGlvbmFyeVtzZWxmLl90b19wZ3dfc2lnbmFsKHNpZ25hbCldICs9IGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1229,28 +1229,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBUaGlzIG11c3QgYmUgZG9uZSBiZWZvcmUgcGFyc2luZyB0aGUgaW5wdXQgdmFyaWFibGVzLAogICAgICAgICMgb3Igb3RoZXJ3aXNlIHdlIG5lZWQgdG8gaGF2ZSAKICAgICAgICBzZWxmLmRpY3RfaW5wdXQgPSBTcGd3U2lnbmFsaW5nU3BsaXR0ZXIudHJhbnNmb3JtKHNlbGYuZGljdF9pbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdGlvbmFyeVtzZWxmLl90b19zZ3dfc2lnbmFsKHNpZ25hbCldICs9IGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kaWN0X291dHB1dCA9IFNwZ3dTaWduYWxpbmdTcGxpdHRlcigpLnRyYW5zZm9ybShzZWxmLl9kaWN0X291dHB1dCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2luX3NwZ3dfbW9kaWZ5X2JlYXJlcl9zZ3dfcGd3JywK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZGljdF86CiAgICAgICAgOnBhcmFtIGtleToKICAgICAgICA6cGFyYW0gdmFsdWU6CiAgICAgICAgOnJldHVybjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBwcmV2aW91c192YWx1ZSA9IGZsb2F0KGRpY3RfW2tleV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7IAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWN0X1trZXldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdGlvbmFyeQo=</text>
+        <text encoding="base64">ICAgICAgICA+Pj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRpY3Rpb25hcnlbc2lnbmFsXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRoaXMgbXVzdCBiZSBkb25lIGFmdGVyIHBhcnNpbmcgdGhlIHZhcmlhYmxlcyAoc2luY2Ugb3RoZXJ3aXNlIHRoZSB2YWx1ZXMKICAgICAgICAjIG9mIHRoZSBzaWduYWxzIHdpbGwgYmUgc3RyaW5ncyBhbmQgbm90IGZsb2F0cykgYW5kIGJlZm9yZSBleHRyYWN0aW5nIHRoZQogICAgICAgICMgc2lnbmFscywgc2luY2UgdGhlcmUgc2hvdWxkIGJlIG5vIGRhdGF0eXBlcyBmb3IgdGhlIHJlbW92ZWQgc2lnbmFscy4KICAgICAgICBzZWxmLmRpY3RfaW5wdXQgPSBTcGd3U2lnbmFsaW5nU3BsaXR0ZXIoKS50cmFuc2Zvcm0oc2VsZi5kaWN0X2lucHV0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
