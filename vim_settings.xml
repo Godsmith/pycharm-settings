@@ -207,10 +207,10 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1527066166724">
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1527068610932">
         <mark key="'" line="743" column="46" />
-        <mark key="[" line="750" column="213" />
-        <mark key="]" line="750" column="275" />
+        <mark key="[" line="355" column="76" />
+        <mark key="]" line="355" column="97" />
         <mark key="." line="750" column="213" />
         <mark key="^" line="747" column="212" />
       </file>
@@ -315,6 +315,12 @@
         <mark key="]" line="19" column="42" />
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/spgw_signaling_splitter.py" timestamp="1527068649205">
+        <mark key="[" line="3" column="108" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/debugging.rst" timestamp="1513247480469">
         <mark key="[" line="30" column="18" />
@@ -1248,13 +1254,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>Release</text>
       </register>
       <register name="0" type="4">
-        <text>Double memory cost in EPG2 due to mandatory session resilience</text>
+        <text>in_spgw_create_session</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVBHIDIwMThRMQo=</text>
