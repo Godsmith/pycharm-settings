@@ -914,11 +914,12 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" timestamp="1527238118919">
-        <mark key="[" line="37" column="540" />
-        <mark key="]" line="37" column="527" />
-        <mark key="." line="37" column="543" />
-        <mark key="^" line="37" column="527" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" timestamp="1527240230464">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/connection/instance.py" timestamp="1513161474201">
         <mark key="[" line="39" column="24" />
@@ -1144,11 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="357" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="358" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="359" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="339" column="38" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="358" column="93" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="459" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="500" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1228,7 +1224,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/true_number_of_cpb_processes.py" />
       <jump line="20" column="43" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/true_number_of_cpb_processes.py" />
       <jump line="19" column="63" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
       <jump line="20" column="34" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
       <jump line="22" column="535" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
@@ -1244,6 +1239,12 @@
       <jump line="21" column="536" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
       <jump line="104" column="139" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
+      <jump line="5" column="11" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1260,19 +1261,29 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fDAgIHwwICB8MCAgfDAgIHwwICA=</text>
+        <text>GSC</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
       </register>
-      <register name="0" type="4">
-        <text>6  |</text>
+      <register name="0" type="2">
+        <text encoding="base64">RVBHMi4wICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfEdTQyAgICAgICAgICAgfHZjcHVfY3BfcHNjICAgICAgICB8dmNwdV9jcF9mbG9hdGluZyAgICAgICB8MSAgfDIgIHwzICB8NCAgfDUgIHw2ICB8NyAgfDggIHw5ICB8MTAgfDExIHwxMiB8MTMgfDE0IHwxNSB8MTYgfDE3IHwxOCB8MTkgfDIwIHwyMSB8MjIgfDIzIHwyNCB8MjUgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfDI2IHwyNiB8MjYgfG51bWJlciBvZiB2Y3B1cyAoPSBwcm9jZXNzIGluc3RhbmNlcykgZGVwZW5kaW5nIG9uIFZNIHNpemUgaW5kZXgsIHZjcHVzW1ZNIHNpemUgaW5kZXhdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVBHIDIwMTZCIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfENQQiAgICAgICAgICAgfHZjcHVfY3BfY2ZkICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MSAgfDIgIHwzICB8NCAgfDUgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfG51bWJlciBvZiB2Y3B1cyAoPSBwcm9jZXNzIGluc3RhbmNlcykgZGVwZW5kaW5nIG9uIFZNIHNpemUgaW5kZXgsIHZjcHVzW1ZNIHNpemUgaW5kZXhdCkVQRzEuMCAgICB8dkVQRyAgICB8KiAgICAgICAgICAgICAgIHxDUEIgICAgICAgICAgIHx2Y3B1X2NwX2NmZCAgICAgICAgfHZjcHUgICAgICAgICAgICAgICAgICAgfDAgIHwwICB8MCAgfDEgIHwyICB8MyAgfDQgIHw1ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHw2ICB8NiAgfDYgIHxudW1iZXIgb2YgdmNwdXMgKD0gcHJvY2VzcyBpbnN0YW5jZXMpIGRlcGVuZGluZyBvbiBWTSBzaXplIGluZGV4LCB2Y3B1c1tWTSBzaXplIGluZGV4XQpFUEcxLjMgICAgfHZFUEcgICAgfCogICAgICAgICAgICAgICB8Q1BCICAgICAgICAgICB8dmNwdV9jcF9jZmQgICAgICAgIHx2Y3B1ICAgICAgICAgICAgICAgICAgIHwwICB8MCAgfDAgIHwwICB8MSAgfDIgIHwzICB8NCAgfDUgIHw2ICB8NyAgfDggIHw5ICB8MTAgfDExIHwxMiB8MTMgfDE0IHwxNSB8MTYgfDE3IHwxOCB8MTkgfDIwIHwyMSB8MjIgfDIzIHwyNCB8MjUgfDI2IHwyNyB8MjggfDI5IHwzMCB8MzEgfDMyIHwzMyB8MzQgfDM1IHwzNiB8MzcgfDM4IHwzOSB8NDAgfDQxIHw0MiB8NDMgfDQ0IHw0NSB8NDYgfDQ3IHw0OCB8NDkgfDUwIHw1MSB8NTIgfDUzIHw1NCB8NTUgfDU2IHw1NyB8NTggfDU5IHw2MCB8NjEgfDYyIHw2MyB8NjQgfDY1IHw2NiB8NjcgfDY4IHw2OSB8NzAgfDcxIHw3MiB8NzMgfDc0IHw3NSB8NzYgfDc3IHw3OCB8NzkgfDgwIHw4MSB8ODIgfDgzIHw4NCB8ODUgfDg2IHw4NyB8ODggfDg5IHw5MCB8OTEgfDkyIHw5MyB8OTQgfDk1IHw5NiB8OTcgfDk4IHw5OSB8MTAwfDEwMXwxMDJ8MTAzfDEwNHwxMDV8MTA2fDEwN3wxMDh8dGhlIHJlc291cmNlIHNpemUgKG9uIHZTRk8pIGlzIHJlZHVjZWQgYnkgdGhlIHZjcHVfbGIgc2l6ZTogdmNwdV9jcF8qID0gdmNwdSAtIHZjcHVfbGIK</text>
       </register>
       <register name="q" type="4">
-        <text>vt|ykvt|pbT|</text>
+        <keys>
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">RVBHIDIwMTZCIHx2RVBHICAgIHwqICAgICAgICAgICAgICAgfENQQiAgICAgICAgICAgfHZjcHVfY3BfcHNjICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MCAgfDAgIHwwICB8MSAgfDIgIHwzICB8NCAgfDUgIHw2ICB8NyAgfDggIHw5ICB8MTAgfDExIHwxMiB8MTMgfDE0IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfG51bWJlciBvZiB2Y3B1cyAoPSBwcm9jZXNzIGluc3RhbmNlcykgZGVwZW5kaW5nIG9uIFZNIHNpemUgaW5kZXgsIHZjcHVzW1ZNIHNpemUgaW5kZXhdCkVQRzEuMCAgICB8dkVQRyAgICB8KiAgICAgICAgICAgICAgIHxDUEIgICAgICAgICAgIHx2Y3B1X2NwX3BzYyAgICAgICAgfHZjcHUgICAgICAgICAgICAgICAgICAgfDAgIHwwICB8MCAgfDEgIHwyICB8MyAgfDQgIHw1ICB8NiAgfDcgIHw4ICB8OSAgfDEwIHwxMSB8MTIgfDEzIHwxNCB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHwxNSB8MTUgfDE1IHxudW1iZXIgb2YgdmNwdXMgKD0gcHJvY2VzcyBpbnN0YW5jZXMpIGRlcGVuZGluZyBvbiBWTSBzaXplIGluZGV4LCB2Y3B1c1tWTSBzaXplIGluZGV4XQpFUEcxLjMgICAgfHZFUEcgICAgfCogICAgICAgICAgICAgICB8Q1BCICAgICAgICAgICB8dmNwdV9jcF9wc2MgICAgICAgIHx2Y3B1ICAgICAgICAgICAgICAgICAgIHwwICB8MCAgfDAgIHwwICB8MSAgfDIgIHwzICB8NCAgfDUgIHw2ICB8NyAgfDggIHw5ICB8MTAgfDExIHwxMiB8MTMgfDE0IHwxNSB8MTYgfDE3IHwxOCB8MTkgfDIwIHwyMSB8MjIgfDIzIHwyNCB8MjUgfDI2IHwyNyB8MjggfDI5IHwzMCB8MzEgfDMyIHwzMyB8MzQgfDM1IHwzNiB8MzcgfDM4IHwzOSB8NDAgfDQxIHw0MiB8NDMgfDQ0IHw0NSB8NDYgfDQ3IHw0OCB8NDkgfDUwIHw1MSB8NTIgfDUzIHw1NCB8NTUgfDU2IHw1NyB8NTggfDU5IHw2MCB8NjEgfDYyIHw2MyB8NjQgfDY1IHw2NiB8NjcgfDY4IHw2OSB8NzAgfDcxIHw3MiB8NzMgfDc0IHw3NSB8NzYgfDc3IHw3OCB8NzkgfDgwIHw4MSB8ODIgfDgzIHw4NCB8ODUgfDg2IHw4NyB8ODggfDg5IHw5MCB8OTEgfDkyIHw5MyB8OTQgfDk1IHw5NiB8OTcgfDk4IHw5OSB8MTAwfDEwMXwxMDJ8MTAzfDEwNHwxMDV8MTA2fDEwN3wxMDh8dGhlIHJlc291cmNlIHNpemUgKG9uIHZTRk8pIGlzIHJlZHVjZWQgYnkgdGhlIHZjcHVfbGIgc2l6ZTogdmNwdV9jcF8qID0gdmNwdSAtIHZjcHVfbGIK</text>
@@ -1299,7 +1310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLzE1LzI2L2c=</text>
       </register>
     </registers>
     <search>
@@ -1313,8 +1324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_spgw_rel</entry>
-        <entry>in_spgw_modify</entry>
         <entry>1.5333</entry>
         <entry>in_spgw_modif</entry>
         <entry>SIGNAL_TYPE_TABL</entry>
@@ -1331,11 +1340,12 @@
         <entry encoding="base64">MSA=</entry>
         <entry>Date</entry>
         <entry>10</entry>
+        <entry encoding="base64">XDw1XD4=</entry>
+        <entry encoding="base64">XDxKdW5pcGVyXD4=</entry>
         <entry>26</entry>
         <entry>15</entry>
       </history-search>
       <history-cmd>
-        <entry>reg</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoClass</entry>
         <entry>%s/self.max_capacity/max_capacity_excel/g</entry>
@@ -1352,9 +1362,10 @@
         <entry encoding="base64">JzwsJz5zLzEgLzI2L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI2LzE1L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzE1L2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
