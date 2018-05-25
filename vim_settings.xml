@@ -402,6 +402,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/pm_resource.csv" timestamp="1527231269280">
+        <mark key="[" line="9" column="91" />
+        <mark key="]" line="9" column="97" />
+        <mark key="^" line="9" column="97" />
+        <mark key="." line="9" column="97" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/test_input.xml" timestamp="1526387514058">
         <mark key="[" line="1473" column="38" />
         <mark key="]" line="1473" column="40" />
@@ -1259,8 +1265,8 @@
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KiAgICAgICAgICAgICB8U1NSICAgICB8KiAgICAgICAgICAgIHxHU0MgICAgICAgICAgIHwqICAgICAgICAgICAgICB8dmNwdV9jcF9wc2MgICAgICAgICB8MTUgICAgICAgICAgICAgICAgICB8dmNwdSAgICAgfDIwMTctMTAtMDV8ZXJ2cGVrYXxBbGwgU1NSIFZNcyB1c2UgMSB2Y3B1IChpbiB0aGUgbW9kZWwpCg==</text>
+      <register name="0" type="4">
+        <text>26/32 vCPUs available for EPG processes</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVBHMi4wICAgICAgICB8U1NSICAgICB8KiAgICAgICAgICAgIHxHU0MgICAgICAgICAgIHwqICAgICAgICAgICAgICB8dmNwdV9jcF9wc2MgICAgICAgICB8MjYgICAgICAgICAgICAgICAgICB8dmNwdSAgICAgfDIwMTctMTAtMDV8ZXJ2cGVrYXxBbGwgU1NSIFZNcyB1c2UgMSB2Y3B1IChpbiB0aGUgbW9kZWwpCg==</text>
