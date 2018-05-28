@@ -99,6 +99,11 @@
         <mark key="." line="86" column="20" />
         <mark key="^" line="86" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_type.csv" timestamp="1527085477405">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/updates.csv" timestamp="1518613751796">
         <mark key="[" line="1432" column="3" />
         <mark key="]" line="1432" column="4" />
@@ -362,6 +367,11 @@
         <mark key="." line="29" column="68" />
         <mark key="^" line="29" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" timestamp="1527085956636">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/double_worker_capacity.py" timestamp="1507702198881">
         <mark key="[" line="11" column="75" />
         <mark key="]" line="11" column="102" />
@@ -533,10 +543,10 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527492110701">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1527503696893">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="71" />
+        <mark key="." line="0" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/conftest.py" timestamp="1524145767067">
         <mark key="[" line="3" column="0" />
@@ -920,11 +930,6 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_builder.py" timestamp="1527078611528">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_epg.json" timestamp="1526387738411">
         <mark key="'" line="2" column="26" />
       </file>
@@ -1249,7 +1254,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>csv</text>
       </register>
       <register name="/" type="4">
         <text>15</text>

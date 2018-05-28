@@ -3,39 +3,40 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.py</mask>
-      <mask>.p</mask>
-      <mask>.</mask>
-      <mask>*c</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
       <mask>A.*</mask>
       <mask>A*</mask>
-      <mask>*</mask>
       <mask>*.c</mask>
       <mask>*.sv</mask>
       <mask>*.v</mask>
-      <mask>*.</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqs</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqys</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265'eqys</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265, '=B264+B265''eqys</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265, '=B264+B26''eqys</mask>
+      <mask>eqys</mask>
+      <mask>qys</mask>
+      <mask>ys</mask>
+      <mask>s</mask>
+      <mask>.[y</mask>
+      <mask>.[</mask>
+      <mask>.py</mask>
+      <mask>.p</mask>
+      <mask>.</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
