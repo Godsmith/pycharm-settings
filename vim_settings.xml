@@ -1303,7 +1303,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1355,10 +1355,10 @@
         <entry encoding="base64">JzwsJz5zLzEgLzI2L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI2LzE1L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEwLzE1L2c=</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
