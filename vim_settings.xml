@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1527085394676">
         <mark key="'" line="359" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1527229548825">
-        <mark key="[" line="2" column="118" />
-        <mark key="]" line="2" column="119" />
-        <mark key="^" line="2" column="126" />
-        <mark key="." line="2" column="119" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1527601202639">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini" timestamp="1524143348733">
         <mark key="[" line="2" column="28" />
@@ -1249,7 +1249,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CPB</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
@@ -1258,7 +1258,7 @@
         <text encoding="base64">PHRlc3RjYXNlIGJhc2VpZD0iMSIgaWQ9IjIiIG5hbWU9ImRlZmF1bHQgQ0FOREkgaW5wdXQgZm9yIG5hdGl2ZSBTU1IgaGFyZHdhcmUgKGZyb20gQ0FOREkgMjAxOCAxLjApIiBzdWl0ZT0iQmFzZSI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuYW1lID09IAo=</text>
+        <text encoding="base64">RVBHMi4wICAgIHx2RVBHICAgIHwqICAgICAgICAgICAgICB8Q1BCICAgICAgICAgICB8dGVpZF9wcm9jX2NwX3BzY3xwcm9jX2NwX3BzYyAgIHwwICAgICAgfG1heFRFSURzL2NvbnN1bWVyfDIwMTYtMDYtMjB8ZXJ2cGVrYXxTNVM4IFRFSUQsIHRoZSByZXNvdXJjZSByZW1vdmVkIGZyb20gdGhpcyBTVyByZWxlYXNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1274,31 +1274,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">RVBHMi4wICAgIHxTU1IgICAgIHxzc2MtMyAgICAgICAgICB8Q1BCICAgICAgICAgICB8dGVpZF9wcm9jX2NwX3BzY3xwcm9jX2NwX3BzYyAgIHwwICAgICAgfG1heFRFSURzL2NvbnN1bWVyfDIwMTYtMDYtMjB8ZXJ2cGVrYXxTNVM4IFRFSUQsIHRoZSByZXNvdXJjZSByZW1vdmVkIGZyb20gdGhpcyBTVyByZWxlYXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2sgPSB4dy5hcHBzWzBdLmJvb2tzWydjYW5kX2VwZy54bHNtJ10KICAgIHNoZWV0ID0gYm9vay5zaGVldHNbJ0lucHV0X0ludGVyZmFjZSddCiAgICByYW5nZV8gPSBzaGVldC5yYW5nZSgnSW5wdXRfdmFsdWVzJykK</text>
+        <text encoding="base64">RVBHIDIwMTJBIHxTU1IgICAgIHxzc2MtMyAgICAgICAgICB8Q1BCICAgICAgICAgICB8dGVpZF9wcm9jX2NwX3BzY3xwcm9jX2NwX3BzYyAgIHwyNTYwMDAgfG1heFRFSURzL2NvbnN1bWVyfDIwMTgtMDUtMjV8ZWZpbGxhbnxTNVM4IFRFSUQsIHJlc291cmNlX3NpemUgPSBudW1fb2ZfcHJvY19jcF9wc2MgKiBmYWN0b3IKRVBHIDIwMTJBIHx2RVBHICAgIHwqICAgICAgICAgICAgICB8Q1BCICAgICAgICAgICB8dGVpZF9wcm9jX2NwX3BzY3xwcm9jX2NwX3BzYyAgIHwyNTYwMDAgfG1heFRFSURzL2NvbnN1bWVyfDIwMTYtMDYtMjB8ZXJ2cGVrYXxTNVM4IFRFSUQsIHJlc291cmNlX3NpemUgPSBudW1fb2ZfcHJvY19jcF9wc2MgKiBmYWN0b3IgKE5CISBudW0gb2YgcHJvY19jcF9wc2MgcHJvY2Vzc2VzIGRlcGVuZHMgb24gdGhlIFZNIHNpemUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9saW5lcyA9IFsnICA8dGVzdGNhc2UgYmFzZWlkPSIwIiBpZD0iWCIgbmFtZT0iWSIgc3VpdGU9IkJhc2UiPiddCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lID09IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjZWxsLnZhbHVlKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnXHQnIG5vdCBpbiBsaW5lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHZhbHVlLCBuYW1lID0gbGluZS5zcGxpdCgnXHQnKQogICAgICAgIG5hbWUgPSBuYW1lLnN0cmlwKCkKICAgICAgICBpZiBuYW1lID09ICcnOgogICAgICAgICAgICBjb250aW51ZQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJvb2sgPSB4dy5hcHBzWzBdLmJvb2tzWydjYW5kX2VwZy54bHNtJ10KICAgIHNoZWV0ID0gYm9vay5zaGVldHNbJ0lucHV0X0ludGVyZmFjZSddCiAgICByYW5nZV8gPSBzaGVldC5yYW5nZSgnSW5wdXRfdmFsdWVzJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG91dHB1dF9saW5lcyA9IFsnICA8dGVzdGNhc2UgYmFzZWlkPSIwIiBpZD0iWCIgbmFtZT0iWSIgc3VpdGU9IkJhc2UiPiddCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1334,7 +1334,6 @@
         <entry>15</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoClass</entry>
         <entry>%s/self.max_capacity/max_capacity_excel/g</entry>
         <entry>%s/self.assertEqual/assert /g</entry>
@@ -1354,6 +1353,7 @@
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
         <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
