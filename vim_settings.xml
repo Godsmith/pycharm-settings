@@ -115,8 +115,8 @@
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1527673477723">
-        <mark key="'" line="21" column="48" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1527681149134">
+        <mark key="'" line="98" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507107077170">
         <mark key="[" line="10" column="24" />
@@ -748,9 +748,9 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/relations/valid_virtual_machine_state.csv" timestamp="1527673307415">
         <mark key="[" line="0" column="72" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main2.py" timestamp="1449609338914">
         <mark key="[" line="23" column="10" />
@@ -1114,9 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="458" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="767" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="489" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="765" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="490" column="89" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="519" column="133" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1214,6 +1211,9 @@
       <jump line="693" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="696" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="21" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="96" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="97" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="98" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1233,7 +1233,7 @@
         <text>py</text>
       </register>
       <register name="/" type="4">
-        <text>release</text>
+        <text>datatypes.Rele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHRlc3RjYXNlIGJhc2VpZD0iMSIgaWQ9IjIiIG5hbWU9ImRlZmF1bHQgQ0FOREkgaW5wdXQgZm9yIG5hdGl2ZSBTU1IgaGFyZHdhcmUgKGZyb20gQ0FOREkgMjAxOCAxLjApIiBzdWl0ZT0iQmFzZSI+Cg==</text>
@@ -1283,9 +1283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>release</last-search>
+      <last-search>datatypes.Rele</last-search>
       <last-offset />
-      <last-pattern>release</last-pattern>
+      <last-pattern>datatypes.Rele</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1293,8 +1293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_sgw_uri_re</entry>
-        <entry>in_sgw_uri</entry>
         <entry>in_pgw_uri</entry>
         <entry>in_spgw_uri</entry>
         <entry>legacy_class_in</entry>
@@ -1313,6 +1311,8 @@
         <entry>rp</entry>
         <entry>session_re</entry>
         <entry>release</entry>
+        <entry>datatypes.Rle</entry>
+        <entry>datatypes.Rele</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
