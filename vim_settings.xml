@@ -73,13 +73,6 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1527079554566">
-        <mark key="'" line="359" column="4" />
-        <mark key="[" line="356" column="0" />
-        <mark key="]" line="356" column="0" />
-        <mark key="." line="356" column="0" />
-        <mark key="^" line="287" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/max_capacity_new_tests.py" timestamp="1524145253935">
         <mark key="'" line="12" column="114" />
         <mark key="[" line="16" column="74" />
@@ -122,8 +115,8 @@
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1527671031288">
-        <mark key="'" line="104" column="47" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" timestamp="1527673477723">
+        <mark key="'" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/updated_costs/test_worker_capacity_vepg_dpi.py" timestamp="1507107077170">
         <mark key="[" line="10" column="24" />
@@ -327,6 +320,7 @@
         <mark key="^" line="48" column="72" />
         <mark key="." line="48" column="70" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/predefined_consumer_path.csv" timestamp="1527673710849" />
       <file name="$USER_HOME$/workspace/candi_epg-main/model/documentation/source/debugging.rst" timestamp="1513247480469">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="18" />
@@ -453,13 +447,6 @@
         <mark key="^" line="25" column="64" />
         <mark key="." line="25" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_cp_up_deployment_vepg_cp_only.json" timestamp="1527146748958">
-        <mark key="'" line="2" column="26" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/orchestrator.py" timestamp="1522925023171">
         <mark key="'" line="23" column="111" />
         <mark key="[" line="65" column="0" />
@@ -543,10 +530,10 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527671138161">
+      <file name="/Dummy.txt" timestamp="1527673734723">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="71" />
-        <mark key="." line="0" column="93" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/conftest.py" timestamp="1524145767067">
         <mark key="[" line="3" column="0" />
@@ -723,9 +710,6 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1527152117087">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="46" column="20" />
@@ -737,13 +721,6 @@
         <mark key="]" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/input_parser.py" timestamp="1527077925908">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_sacc_no_pisc.json" timestamp="1526387580654">
         <mark key="'" line="2" column="26" />
@@ -768,6 +745,12 @@
         <mark key="]" line="29" column="78" />
         <mark key="^" line="29" column="77" />
         <mark key="." line="29" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/relations/valid_virtual_machine_state.csv" timestamp="1527673307415">
+        <mark key="[" line="0" column="72" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day07/main2.py" timestamp="1449609338914">
         <mark key="[" line="23" column="10" />
@@ -958,13 +941,6 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/commands/update_sqlite.py" timestamp="1527230327582">
         <mark key="'" line="93" column="142" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_legacy_input_tests.py" timestamp="1527152078787">
-        <mark key="'" line="78" column="40" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="3" column="84" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
         <mark key="]" line="21" column="72" />
@@ -1076,8 +1052,8 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1527670807908">
-        <mark key="'" line="793" column="48" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" timestamp="1527673445177">
+        <mark key="'" line="696" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/exercise_type.py" timestamp="1424559451622">
         <mark key="[" line="10" column="25" />
@@ -1096,6 +1072,9 @@
         <mark key="]" line="44" column="37" />
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1527076834858">
+        <mark key="'" line="230" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcand-698.py" timestamp="1521118266447">
         <mark key="[" line="0" column="0" />
@@ -1135,14 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="778" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="779" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="355" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="451" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="478" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="462" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="858" column="75" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="302" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="458" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="767" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="489" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1235,6 +1206,14 @@
       <jump line="787" column="52" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="793" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="104" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="19" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
+      <jump line="537" column="81" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="689" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="690" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="691" column="85" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="693" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="696" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="21" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1251,7 +1230,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CPB</text>
+        <text>py</text>
       </register>
       <register name="/" type="4">
         <text>release</text>
@@ -1314,8 +1293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signal_type</entry>
-        <entry>signal_type_table</entry>
         <entry>in_sgw_uri_re</entry>
         <entry>in_sgw_uri</entry>
         <entry>in_pgw_uri</entry>
@@ -1333,6 +1310,8 @@
         <entry>15</entry>
         <entry>standby</entry>
         <entry>ppb</entry>
+        <entry>rp</entry>
+        <entry>session_re</entry>
         <entry>release</entry>
       </history-search>
       <history-cmd>

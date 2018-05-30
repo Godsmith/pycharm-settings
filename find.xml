@@ -5,20 +5,16 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.sh</mask>
-      <mask>*.s</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
       <mask>A.*</mask>
       <mask>A*</mask>
       <mask>*.c</mask>
-      <mask>*.sv</mask>
       <mask>*.v</mask>
       <mask>*.p</mask>
       <mask>*.cs</mask>
-      <mask>*.csv</mask>
       <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqs</mask>
       <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqys</mask>
       <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265'eqys</mask>
@@ -35,8 +31,11 @@
       <mask>.</mask>
       <mask>&amp;</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sv</mask>
+      <mask>*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
