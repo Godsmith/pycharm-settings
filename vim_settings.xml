@@ -530,7 +530,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527673734723">
+      <file name="/Dummy.txt" timestamp="1527749749890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1233,7 +1233,7 @@
         <text>py</text>
       </register>
       <register name="/" type="4">
-        <text>datatypes.Rele</text>
+        <text>GSC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHRlc3RjYXNlIGJhc2VpZD0iMSIgaWQ9IjIiIG5hbWU9ImRlZmF1bHQgQ0FOREkgaW5wdXQgZm9yIG5hdGl2ZSBTU1IgaGFyZHdhcmUgKGZyb20gQ0FOREkgMjAxOCAxLjApIiBzdWl0ZT0iQmFzZSI+Cg==</text>
@@ -1283,9 +1283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>datatypes.Rele</last-search>
+      <last-search>GSC</last-search>
       <last-offset />
-      <last-pattern>datatypes.Rele</last-pattern>
+      <last-pattern>GSC</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1293,8 +1293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_pgw_uri</entry>
-        <entry>in_spgw_uri</entry>
         <entry>legacy_class_in</entry>
         <entry>,</entry>
         <entry>'</entry>
@@ -1313,6 +1311,8 @@
         <entry>release</entry>
         <entry>datatypes.Rle</entry>
         <entry>datatypes.Rele</entry>
+        <entry>gsc</entry>
+        <entry>GSC</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
