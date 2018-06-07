@@ -528,7 +528,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528362680111">
+      <file name="/Dummy.txt" timestamp="1528365013040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -708,7 +708,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1528362693672">
+      <file name="/Python Console" timestamp="1528363849568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
@@ -739,8 +739,8 @@
         <mark key="." line="18" column="109" />
         <mark key="^" line="18" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1524560638379">
-        <mark key="'" line="405" column="42" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1528364757991">
+        <mark key="'" line="388" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Unit test guidelines.txt" timestamp="1513869764077">
         <mark key="[" line="23" column="11" />
@@ -760,7 +760,10 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" timestamp="1527244282982" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/model/resource.py" timestamp="1528363992446" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" timestamp="1528364537701">
+        <mark key="'" line="113" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day02/main.py" timestamp="1449521194792">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="24" />
@@ -939,7 +942,7 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/__init__.py" timestamp="1528362683988">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/__init__.py" timestamp="1528363841510">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
@@ -1034,6 +1037,13 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" timestamp="1528365920098">
+        <mark key="'" line="0" column="508" />
+        <mark key="[" line="21" column="123" />
+        <mark key="]" line="21" column="126" />
+        <mark key="." line="21" column="126" />
+        <mark key="^" line="21" column="126" />
+      </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/misc.py" timestamp="1420663505533">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="2" column="0" />
@@ -1126,20 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="142" filename="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/commands/update_sqlite.py" />
-      <jump line="234" column="46" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
-      <jump line="9" column="114" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
-      <jump line="6" column="3" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
-      <jump line="21" column="536" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
-      <jump line="104" column="139" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
-      <jump line="5" column="11" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_1.csv" />
-      <jump line="29" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/CreateXmlTestCase/create_xml_test_case.py" />
       <jump line="29" column="43" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
       <jump line="54" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
       <jump line="114" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
@@ -1226,6 +1222,20 @@
       <jump line="250" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="251" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="263" column="295" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="194" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
+      <jump line="113" column="52" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" />
+      <jump line="388" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
+      <jump line="2" column="96" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="4" column="127" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="5" column="119" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="7" column="127" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="8" column="119" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="9" column="123" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="10" column="123" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="16" column="507" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="17" column="508" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="18" column="508" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
+      <jump line="0" column="508" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1242,10 +1252,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dictionary['in_spgw_modify_bearer_sgw_pgw']</text>
+        <text>1|</text>
       </register>
       <register name="/" type="4">
-        <text>gsc</text>
+        <text>12</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHRlc3RjYXNlIGJhc2VpZD0iMSIgaWQ9IjIiIG5hbWU9ImRlZmF1bHQgQ0FOREkgaW5wdXQgZm9yIG5hdGl2ZSBTU1IgaGFyZHdhcmUgKGZyb20gQ0FOREkgMjAxOCAxLjApIiBzdWl0ZT0iQmFzZSI+Cg==</text>
@@ -1295,9 +1305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gsc</last-search>
+      <last-search>12</last-search>
       <last-offset />
-      <last-pattern>gsc</last-pattern>
+      <last-pattern>12</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1305,8 +1315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>'</entry>
         <entry>1000</entry>
         <entry encoding="base64">MSA=</entry>
         <entry>Date</entry>
@@ -1325,9 +1333,10 @@
         <entry>GSC</entry>
         <entry>ggsn_pdp_c</entry>
         <entry>gsc</entry>
+        <entry>teid</entry>
+        <entry>12</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoClass</entry>
         <entry>%s/self.max_capacity/max_capacity_excel/g</entry>
         <entry>%s/self.assertEqual/assert /g</entry>
         <entry>%s/self/self, max_capacity_excel/g</entry>
@@ -1346,6 +1355,7 @@
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
