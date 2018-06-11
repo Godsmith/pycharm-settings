@@ -80,8 +80,8 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1528377749599">
-        <mark key="'" line="937" column="40" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1528721756497">
+        <mark key="'" line="325" column="11" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="29" />
         <mark key="." line="60" column="0" />
@@ -1139,19 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="81" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="689" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="690" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="691" column="85" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="693" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="696" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
-      <jump line="21" column="48" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
-      <jump line="96" column="42" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
-      <jump line="97" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
-      <jump line="98" column="44" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
-      <jump line="392" column="93" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="462" column="44" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="463" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="382" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="381" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="380" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1239,6 +1226,19 @@
       <jump line="942" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="937" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
+      <jump line="60" column="4" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="126" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="133" column="50" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="134" column="9" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="144" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="248" column="20" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="249" column="27" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="250" column="26" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="251" column="29" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="288" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="312" column="65" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="313" column="54" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="325" column="11" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1258,7 +1258,7 @@
         <text>1|</text>
       </register>
       <register name="/" type="4">
-        <text>covera</text>
+        <text>cp_up</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiBydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
@@ -1308,9 +1308,9 @@
       </register>
     </registers>
     <search>
-      <last-search>covera</last-search>
+      <last-search>cp_up</last-search>
       <last-offset />
-      <last-pattern>covera</last-pattern>
+      <last-pattern>cp_up</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1318,9 +1318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
-        <entry encoding="base64">XDw1XD4=</entry>
-        <entry encoding="base64">XDxKdW5pcGVyXD4=</entry>
         <entry>26</entry>
         <entry>15</entry>
         <entry>standby</entry>
@@ -1338,6 +1335,9 @@
         <entry>in_pgw_crea</entry>
         <entry>2018</entry>
         <entry>covera</entry>
+        <entry>cp</entry>
+        <entry>up</entry>
+        <entry>cp_up</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self.max_capacity/max_capacity_excel/g</entry>
