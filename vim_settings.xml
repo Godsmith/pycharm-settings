@@ -175,6 +175,11 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" timestamp="1528713530904">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/gymday.py" timestamp="1424210475068">
         <mark key="[" line="8" column="62" />
         <mark key="]" line="8" column="62" />
@@ -530,7 +535,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528705222670">
+      <file name="/Dummy.txt" timestamp="1528713506873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1134,7 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_validation.py" />
       <jump line="537" column="81" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="689" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="690" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
@@ -1234,6 +1238,7 @@
       <jump line="246" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="942" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="937" column="40" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1253,10 +1258,10 @@
         <text>1|</text>
       </register>
       <register name="/" type="4">
-        <text>2018</text>
+        <text>covera</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHRlc3RjYXNlIGJhc2VpZD0iMSIgaWQ9IjIiIG5hbWU9ImRlZmF1bHQgQ0FOREkgaW5wdXQgZm9yIG5hdGl2ZSBTU1IgaGFyZHdhcmUgKGZyb20gQ0FOREkgMjAxOCAxLjApIiBzdWl0ZT0iQmFzZSI+Cg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiBydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiAgICAgICAgIHxTU1IgICAgIHwqICAgICAgICAgICAgICAgfCogICAgICAgICAgICAgfCogICAgICAgICAgICAgICAgICB8dmNwdSAgICAgICAgICAgICAgICAgICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfGZvciBwaHlzaWNhbF9lcGcgd2UgYXNzdW1lIG9uZSB2Y3B1ICg9aW5zdGFuY2UpIHBlciBWTQoqICAgICAgICAgfEp1bmlwZXIgfCogICAgICAgICAgICAgICB8KiAgICAgICAgICAgICB8KiAgICAgICAgICAgICAgICAgIHx2Y3B1ICAgICAgICAgICAgICAgICAgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8MSAgfDEgIHwxICB8Zm9yIHBoeXNpY2FsX2VwZyB3ZSBhc3N1bWUgb25lIHZjcHUgKD1pbnN0YW5jZSkgcGVyIFZNCgo=</text>
@@ -1303,9 +1308,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2018</last-search>
+      <last-search>covera</last-search>
       <last-offset />
-      <last-pattern>2018</last-pattern>
+      <last-pattern>covera</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1313,7 +1318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Date</entry>
         <entry>10</entry>
         <entry encoding="base64">XDw1XD4=</entry>
         <entry encoding="base64">XDxKdW5pcGVyXD4=</entry>
@@ -1333,6 +1337,7 @@
         <entry>12</entry>
         <entry>in_pgw_crea</entry>
         <entry>2018</entry>
+        <entry>covera</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self.max_capacity/max_capacity_excel/g</entry>
