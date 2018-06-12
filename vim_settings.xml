@@ -347,12 +347,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" timestamp="1528792510706">
-        <mark key="'" line="584" column="51" />
-        <mark key="[" line="634" column="12" />
-        <mark key="]" line="634" column="12" />
-        <mark key="^" line="631" column="41" />
-        <mark key="." line="634" column="12" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" timestamp="1528810730341">
+        <mark key="'" line="632" column="37" />
+        <mark key="[" line="632" column="25" />
+        <mark key="]" line="632" column="37" />
+        <mark key="^" line="632" column="37" />
+        <mark key="." line="632" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" timestamp="1526387711211">
         <mark key="'" line="2" column="26" />
@@ -1165,8 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="469" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="504" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="510" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="523" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="613" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1265,6 +1263,8 @@
       <jump line="706" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="708" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="725" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="20" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
+      <jump line="632" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1281,10 +1281,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>Database()</text>
       </register>
       <register name="/" type="4">
-        <text>.name</text>
+        <text>Database()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiBydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
@@ -1335,13 +1335,13 @@
         <text encoding="base64">ICAgICAgICBpZiBrZXkgPT0gJ2luX3Nnd19tb2RpZnlfYmVhcmVyX3Nndyc6CiAgICAgICAgICAgIGRpY3RfID0gZGljdF8KICAgICAgICBpZiBkaWN0X1trZXldLmNvdW50KCcuJykgPT0gMjoKICAgICAgICAgICAgZGljdF8gPSBkaWN0Xwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
-      <last-search>.name</last-search>
+      <last-search>Database()</last-search>
       <last-offset />
-      <last-pattern>.name</last-pattern>
+      <last-pattern>Database()</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rp</entry>
         <entry>session_re</entry>
         <entry>release</entry>
         <entry>datatypes.Rle</entry>
@@ -1369,6 +1368,7 @@
         <entry>physical</entry>
         <entry>test_build_ac</entry>
         <entry>.name</entry>
+        <entry>Database()</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self.assertEqual/assert /g</entry>
@@ -1389,8 +1389,8 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
