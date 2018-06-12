@@ -45,8 +45,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1526385570912">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1528809087503">
         <mark key="'" line="134" column="9" />
+        <mark key="[" line="319" column="67" />
+        <mark key="]" line="319" column="67" />
+        <mark key="." line="319" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/database.py" timestamp="1424207636646">
         <mark key="[" line="0" column="0" />
@@ -468,6 +471,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_diameter_endpoint_daemon.py" timestamp="1528809126648">
+        <mark key="[" line="37" column="60" />
+        <mark key="]" line="37" column="60" />
+        <mark key="." line="37" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_larger_ppb_and_cpb_vm_sizes_in_epg_2018q1.json" timestamp="1526388590446">
         <mark key="'" line="19" column="36" />
       </file>
@@ -544,7 +552,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528805532535">
+      <file name="/Dummy.txt" timestamp="1528809216045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -996,11 +1004,11 @@
         <mark key="." line="65" column="65" />
         <mark key="^" line="65" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1526462766349">
-        <mark key="'" line="308" column="8" />
-        <mark key="[" line="614" column="42" />
-        <mark key="]" line="614" column="43" />
-        <mark key="." line="614" column="43" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1528809199171">
+        <mark key="'" line="725" column="32" />
+        <mark key="[" line="725" column="66" />
+        <mark key="]" line="725" column="66" />
+        <mark key="." line="725" column="66" />
         <mark key="^" line="294" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1527085181735">
@@ -1018,6 +1026,12 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/capacity/test_capacity.py" timestamp="1528809073962">
+        <mark key="[" line="153" column="69" />
+        <mark key="]" line="153" column="69" />
+        <mark key="." line="153" column="69" />
+        <mark key="^" line="142" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/settings.py" timestamp="1528112390363">
         <mark key="'" line="67" column="0" />
@@ -1151,20 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="371" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="369" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="368" column="79" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="370" column="24" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="264" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="265" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="266" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="293" column="295" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="351" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="352" column="295" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="453" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="464" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="467" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="469" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="504" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="510" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1251,6 +1251,20 @@
       <jump line="426" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
       <jump line="584" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
       <jump line="498" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
+      <jump line="156" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="277" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="340" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="349" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="456" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="692" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="695" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="697" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="699" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="702" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="704" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="706" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="708" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="725" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1267,10 +1281,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.name</text>
       </register>
       <register name="/" type="4">
-        <text>test_build_ac</text>
+        <text>.name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiBydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
@@ -1280,15 +1294,20 @@
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="120" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="54" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
@@ -1320,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test_build_ac</last-search>
+      <last-search>.name</last-search>
       <last-offset />
-      <last-pattern>test_build_ac</last-pattern>
+      <last-pattern>.name</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1330,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ppb</entry>
         <entry>rp</entry>
         <entry>session_re</entry>
         <entry>release</entry>
@@ -1350,6 +1368,7 @@
         <entry>resource_size</entry>
         <entry>physical</entry>
         <entry>test_build_ac</entry>
+        <entry>.name</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self.assertEqual/assert /g</entry>
