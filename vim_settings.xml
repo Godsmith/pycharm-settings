@@ -153,10 +153,9 @@
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/db.py" timestamp="1528793169533">
         <mark key="'" line="494" column="29" />
-        <mark key="[" line="610" column="16" />
-        <mark key="]" line="610" column="16" />
-        <mark key="." line="610" column="16" />
-        <mark key="^" line="600" column="27" />
+        <mark key="[" line="593" column="16" />
+        <mark key="]" line="593" column="16" />
+        <mark key="." line="593" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/dynamic_resource_size_2.csv" timestamp="1528792198731">
         <mark key="[" line="3" column="19" />
@@ -347,12 +346,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" timestamp="1528810730341">
-        <mark key="'" line="632" column="37" />
-        <mark key="[" line="632" column="25" />
-        <mark key="]" line="632" column="37" />
-        <mark key="^" line="632" column="37" />
-        <mark key="." line="632" column="37" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" timestamp="1528812017559">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="632" column="28" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" timestamp="1526387711211">
         <mark key="'" line="2" column="26" />
@@ -1165,8 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="523" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="613" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="632" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="633" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1263,8 +1260,10 @@
       <jump line="706" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="708" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
       <jump line="725" column="32" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
-      <jump line="20" column="35" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
-      <jump line="632" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
+      <jump line="32" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
+      <jump line="632" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
+      <jump line="20" column="31" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1281,10 +1280,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Database()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Database()</text>
+        <text>self.databa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiBydW50ZXN0cy5weSAtLW5vLWNvdmVyYWdlCg==</text>
@@ -1335,13 +1334,13 @@
         <text encoding="base64">ICAgICAgICBpZiBrZXkgPT0gJ2luX3Nnd19tb2RpZnlfYmVhcmVyX3Nndyc6CiAgICAgICAgICAgIGRpY3RfID0gZGljdF8KICAgICAgICBpZiBkaWN0X1trZXldLmNvdW50KCcuJykgPT0gMjoKICAgICAgICAgICAgZGljdF8gPSBkaWN0Xwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>Database()</last-search>
+      <last-search>self.databa</last-search>
       <last-offset />
-      <last-pattern>Database()</last-pattern>
+      <last-pattern>self.databa</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,8 +1348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>session_re</entry>
-        <entry>release</entry>
         <entry>datatypes.Rle</entry>
         <entry>datatypes.Rele</entry>
         <entry>GSC</entry>
@@ -1369,9 +1366,10 @@
         <entry>test_build_ac</entry>
         <entry>.name</entry>
         <entry>Database()</entry>
+        <entry>Build</entry>
+        <entry>self.databa</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/self.assertEqual/assert /g</entry>
         <entry>%s/self/self, max_capacity_excel/g</entry>
         <entry>%s/self.max_capacity/max_capacity_new/g</entry>
         <entry>%s/(self)/(self, max_capacity_new)/g</entry>
@@ -1386,11 +1384,12 @@
         <entry encoding="base64">JzwsJz5zLzEwLzE1L2c=</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoClass</entry>
+        <entry>wq</entry>
+        <entry>e builder</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
