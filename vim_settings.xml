@@ -1343,7 +1343,7 @@
         <text encoding="base64">Cjw8PDw8PDwgSEVBRApCVUlMRF9OVU1CRVIgPSAnUEJDNScKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1397,8 +1397,8 @@
         <entry>action GotoClass</entry>
         <entry>wq</entry>
         <entry>e builder</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
