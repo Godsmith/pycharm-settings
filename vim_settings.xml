@@ -556,7 +556,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528877088172">
+      <file name="/Dummy.txt" timestamp="1528878346894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -685,11 +685,11 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/max_allowed_load.csv" timestamp="1528874243848">
-        <mark key="[" line="17" column="123" />
-        <mark key="]" line="17" column="124" />
-        <mark key="." line="17" column="124" />
-        <mark key="^" line="17" column="124" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/max_allowed_load.csv" timestamp="1528878330056">
+        <mark key="[" line="14" column="143" />
+        <mark key="]" line="14" column="224" />
+        <mark key="." line="14" column="224" />
+        <mark key="^" line="14" column="224" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day05/main.py" timestamp="1449521896365">
         <mark key="[" line="22" column="0" />
@@ -1288,7 +1288,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>self.databa</text>
@@ -1342,7 +1342,7 @@
         <text encoding="base64">Pj4+Pj4+PiAwMWZkYzllOC4uLiBGaXhlZCAnb3ZlcmNvbW1pdCcgbXVzdCBiZSBhIG51bWJlciBlcnJvciBtZXNzYWdlIHdpdGggQmlnIENBTkRJCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1392,12 +1392,12 @@
         <entry encoding="base64">JzwsJz5zLzEwLzE1L2c=</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
-        <entry>w</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoClass</entry>
         <entry>wq</entry>
         <entry>e builder</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

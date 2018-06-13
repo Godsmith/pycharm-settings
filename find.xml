@@ -31,11 +31,11 @@
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.y</mask>
-      <mask>*.cs</mask>
+      <mask>*.p</mask>
       <mask>*.csv</mask>
+      <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
