@@ -1033,11 +1033,11 @@
         <mark key="." line="65" column="65" />
         <mark key="^" line="65" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1528979844524">
-        <mark key="'" line="439" column="54" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="7" />
-        <mark key="." line="266" column="7" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1528983592600">
+        <mark key="'" line="84" column="31" />
+        <mark key="[" line="239" column="8" />
+        <mark key="]" line="239" column="8" />
+        <mark key="." line="239" column="8" />
         <mark key="^" line="266" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1527085181735">
@@ -1204,9 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="356" column="60" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
-      <jump line="366" column="12" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
       <jump line="426" column="24" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
       <jump line="584" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" />
       <jump line="498" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
@@ -1304,6 +1301,9 @@
       <jump line="116" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_vepg.json" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_vepg.json" />
       <jump line="73" column="23" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/low_traffic_vepg.json" />
+      <jump line="191" column="0" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="896" column="30" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
+      <jump line="84" column="31" filename="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1320,7 +1320,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>in_fast</text>
