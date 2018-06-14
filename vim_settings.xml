@@ -565,7 +565,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528978714428">
+      <file name="/Dummy.txt" timestamp="1528979750625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -752,7 +752,7 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1528978368602">
+      <file name="/Python Console" timestamp="1528979624520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day11/main.py" timestamp="1449862708927">
@@ -1033,12 +1033,12 @@
         <mark key="." line="65" column="65" />
         <mark key="^" line="65" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1528978362538">
+      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_virtual_epg_traffic_paths.py" timestamp="1528979844524">
         <mark key="'" line="439" column="54" />
-        <mark key="[" line="725" column="66" />
-        <mark key="]" line="725" column="66" />
-        <mark key="." line="725" column="66" />
-        <mark key="^" line="294" column="62" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="7" />
+        <mark key="." line="266" column="7" />
+        <mark key="^" line="266" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/translate.py" timestamp="1527085181735">
         <mark key="'" line="0" column="0" />
@@ -1323,7 +1323,7 @@
         <text>5833333333333334,</text>
       </register>
       <register name="/" type="4">
-        <text>single</text>
+        <text>total_packet_r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJpbl9yZWZlcmVuY2VfcG1fY3B1X2Nsb2NrIiA6IDAsCiAgICAiaW5fcmVmZXJlbmNlX3BtX2NwdV92ZXJzaW9uIjogMCwK</text>
@@ -1378,9 +1378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>single</last-search>
+      <last-search>total_packet_r</last-search>
       <last-offset />
-      <last-pattern>single</last-pattern>
+      <last-pattern>total_packet_r</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1388,7 +1388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_ggsn_flow</entry>
         <entry>in_dpi_flow</entry>
         <entry>in_no_sacc</entry>
         <entry>in_ggsn_no</entry>
@@ -1408,6 +1407,7 @@
         <entry>in_spgw_hea</entry>
         <entry>282</entry>
         <entry>single</entry>
+        <entry>total_packet_r</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self/self, max_capacity_excel/g</entry>
