@@ -186,6 +186,13 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" timestamp="1528962248429">
+        <mark key="'" line="74" column="28" />
+        <mark key="[" line="82" column="98" />
+        <mark key="]" line="82" column="112" />
+        <mark key="^" line="82" column="112" />
+        <mark key="." line="82" column="112" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/gymday.py" timestamp="1424210475068">
         <mark key="[" line="8" column="62" />
         <mark key="]" line="8" column="62" />
@@ -216,8 +223,8 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1528892741709">
-        <mark key="'" line="583" column="70" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" timestamp="1528962003274">
+        <mark key="'" line="585" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/receptplaneraren/receptplaneraren/recipe_web_parser.py" timestamp="1420663609225">
         <mark key="[" line="6" column="0" />
@@ -1135,8 +1142,12 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1528892269306">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" timestamp="1528962040103">
         <mark key="'" line="214" column="37" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="206" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/test_pcepgcand-698.py" timestamp="1521118266447">
         <mark key="[" line="0" column="0" />
@@ -1176,9 +1187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="48" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="263" column="295" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="194" column="28" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
       <jump line="113" column="52" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/static_vm_resource.csv" />
       <jump line="388" column="38" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" />
       <jump line="2" column="96" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/consumer_instances.csv" />
@@ -1276,6 +1284,9 @@
       <jump line="976" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="583" column="70" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="585" column="92" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
+      <jump line="48" column="33" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
+      <jump line="74" column="28" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1292,16 +1303,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>in_dpi_flow</text>
+        <text>funct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJpbl9yZWZlcmVuY2VfcG1fY3B1X2Nsb2NrIiA6IDAsCiAgICAiaW5fcmVmZXJlbmNlX3BtX2NwdV92ZXJzaW9uIjogMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJpbl9yZWZlcmVuY2VfaHciOiAiTTEyMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YXR5cGVzLlNpZ25hbC5pbl9zcGd3X2hlYWRlcl9pbnNwZWN0aW9uX2Zsb3dfY3JlYXRlLAogICAgICAgICAgICBkYXRhdHlwZXMuU2lnbmFsLmluX3Bnd19oZWFkZXJfaW5zcGVjdGlvbl9mbG93X2NyZWF0ZSwKICAgICAgICAgICAgZGF0YXR5cGVzLlNpZ25hbC5pbl9zcGd3X2RwaV9mbG93X2NyZWF0ZSwKICAgICAgICAgICAgZGF0YXR5cGVzLlNpZ25hbC5pbl9wZ3dfZHBpX2Zsb3dfY3JlYXRlLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1322,37 +1333,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL2EvNjkyMTc2MAo=</text>
+        <text encoding="base64">ICAgICJpbl9yZWZlcmVuY2VfaHciOiAiTTEyMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL2EvNjkyMTc2MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24uSlNPTkRlY29kZXIob2JqZWN0X3BhaXJzX2hvb2s9T3JkZXJlZERpY3QpLmRlY29kZShvYmopLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q29uc3VtZXJUeXBlID0gZGF0YXR5cGVzLkNvbnN1bWVyVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24uSlNPTkRlY29kZXIob2JqZWN0X3BhaXJzX2hvb2s9T3JkZXJlZERpY3QpLmRlY29kZShvYmopLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVBHMi4yICAgIHxTU1IgICAgIHxQUEIgICAgICAgICAgIHxTU0MtMyAgICAgICAgICB8Q1BVICAgICAgICAgICAgIHwxICAgICAgICAgICAgICAgICAgICAgICAgICB8MjU2ICAgICAgICAgICAgICAgICAgICAgIHwwLjgK</text>
+        <text encoding="base64">Q29uc3VtZXJUeXBlID0gZGF0YXR5cGVzLkNvbnN1bWVyVHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaHlzaWNhbF9tYWNoaW5lX3R5cGUsCg==</text>
+        <text encoding="base64">RVBHMi4yICAgIHxTU1IgICAgIHxQUEIgICAgICAgICAgIHxTU0MtMyAgICAgICAgICB8Q1BVICAgICAgICAgICAgIHwxICAgICAgICAgICAgICAgICAgICAgICAgICB8MjU2ICAgICAgICAgICAgICAgICAgICAgIHwwLjgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGh5c2ljYWxfbWFjaGluZV90eXBlOiAnZ2VuZXJpY19tb2RlbC5kYXRhdHlwZXMuUGh5c2ljYWxNYWNoaW5lJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaHlzaWNhbF9tYWNoaW5lX3R5cGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBGYWxsIGJhY2sgb24gMCB3aGVuIGEgdmFsdWUgY2Fubm90IGJlIGZvdW5kIGluIHRoZSB0YWJsZS4KICAgICAgICAjIFRoaXMgaGFwcGVucyBpZiB0aGUgUE0gdHlwZSBpcyBOQSBhbmQgdGhlIFBsYXRmb3JtIHR5cGUgU1NSXzgwMjAuCiAgICAgICAgaWYgKHZpcnR1YWxfbWFjaGluZV90eXBlLCBjaGlsZF9yZXNvdXJjZV90eXBlKSBub3QgaW4gXAogICAgICAgICAgICAgICAgc2VsZi5kYXRhYmFzZS5keW5hbWljX3Jlc291cmNlX3NpemVzXzIoCiAgICAgICAgICAgICAgICAgICAgcmVsZWFzZV90eXBlLCBwbGF0Zm9ybV90eXBlKToKICAgICAgICAgICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGh5c2ljYWxfbWFjaGluZV90eXBlOiAnZ2VuZXJpY19tb2RlbC5kYXRhdHlwZXMuUGh5c2ljYWxNYWNoaW5lJywK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>in_dpi_flow</last-search>
+      <last-search>funct</last-search>
       <last-offset />
-      <last-pattern>in_dpi_flow</last-pattern>
+      <last-pattern>funct</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1360,10 +1371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cp_up</entry>
-        <entry>resource_size</entry>
-        <entry>physical</entry>
-        <entry>test_build_ac</entry>
         <entry>.name</entry>
         <entry>Database()</entry>
         <entry>Build</entry>
@@ -1380,6 +1387,10 @@
         <entry>in_ggsn_dpi_</entry>
         <entry>in_ggsn_flow</entry>
         <entry>in_dpi_flow</entry>
+        <entry>in_no_sacc</entry>
+        <entry>in_ggsn_no</entry>
+        <entry>unit</entry>
+        <entry>funct</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self/self, max_capacity_excel/g</entry>
