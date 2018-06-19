@@ -1367,7 +1367,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YXR5cGVzLlNpZ25hbC5pbl9nZ3NuX2RwaV9mbG93X2NyZWF0ZTogMTAwLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -1417,12 +1417,12 @@
         <entry encoding="base64">JzwsJz5zLzEwLzE1L2c=</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoClass</entry>
         <entry>wq</entry>
         <entry>e builder</entry>
         <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
