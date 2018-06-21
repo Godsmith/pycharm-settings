@@ -848,6 +848,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/.pylintrc" timestamp="1529568652553" />
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi364.json" timestamp="1527146779630">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
