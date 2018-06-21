@@ -87,8 +87,8 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1528976473472">
-        <mark key="'" line="338" column="0" />
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1529581572389">
+        <mark key="'" line="387" column="47" />
         <mark key="[" line="340" column="0" />
         <mark key="]" line="340" column="0" />
         <mark key="." line="340" column="0" />
@@ -1199,7 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="47" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
       <jump line="187" column="5" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/features/input_vepg_dpi.json" />
       <jump line="607" column="22" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_output.py" />
       <jump line="215" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
@@ -1220,7 +1219,6 @@
       <jump line="290" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="307" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="313" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
-      <jump line="344" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="338" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="691" column="78" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="696" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1299,6 +1297,8 @@
       <jump line="26" column="36" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" />
       <jump line="28" column="45" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" />
       <jump line="49" column="51" filename="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" />
+      <jump line="344" column="41" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
+      <jump line="387" column="47" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1318,7 +1318,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>database</text>
+        <text>hyperthread</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJpbl9yZWZlcmVuY2VfcG1fY3B1X2Nsb2NrIiA6IDAsCiAgICAiaW5fcmVmZXJlbmNlX3BtX2NwdV92ZXJzaW9uIjogMCwK</text>
@@ -1373,9 +1373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>database</last-search>
+      <last-search>hyperthread</last-search>
       <last-offset />
-      <last-pattern>database</last-pattern>
+      <last-pattern>hyperthread</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
@@ -1383,7 +1383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>funct</entry>
         <entry>in_dpi</entry>
         <entry>evaluation</entry>
         <entry>in_spgw_dpi_flow</entry>
@@ -1403,6 +1402,7 @@
         <entry>in_ggsn_hea</entry>
         <entry>in_fast</entry>
         <entry>database</entry>
+        <entry>hyperthread</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self/self, max_capacity_excel/g</entry>
