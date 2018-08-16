@@ -359,6 +359,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/treqs/tests/TC_manual.md" timestamp="1534404582902">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+        <mark key="^" line="30" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/tests/controller/builder_tests.py" timestamp="1528812017559">
         <mark key="'" line="20" column="31" />
         <mark key="[" line="20" column="31" />
@@ -723,11 +729,11 @@
         <mark key="." line="179" column="4" />
         <mark key="^" line="164" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/treqs/tests/TC_system.py" timestamp="1534347390786">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="49" column="29" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="49" column="29" />
+      <file name="$USER_HOME$/workspace/treqs/tests/TC_system.py" timestamp="1534404469211">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="55" column="83" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_applier.py" timestamp="1529413848544">
         <mark key="'" line="8" column="41" />
@@ -1343,16 +1349,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>hyperthread</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIF9vcGVuX2ZpbGVfaW5fZGlyZWN0b3J5X3N0YXJ0aW5nX3dpdGgoJ2xvZ3MnLCAnU3VtbWFyeScpIGFzIGY6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0SW4oJ1VTdGVtcCcsIGYucmVhZCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmFzc2VydEluKCdVU3RlbXAnLCBmLnJlYWQoKSkKICAgICAgICAgICAgICAgIGZpbGVuYW1lID0gbmV4dChmaWx0ZXIobGFtYmRhIHg6IHguc3RhcnRzd2l0aChzdGFydF9vZl9maWxlbmFtZSksIG9zLmxpc3RkaXIoJ2xvZ3MnKSkpCiAgICAgICAgICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi50ZW1wX2RpcmVjdG9yeSwgJ2xvZ3MnLCBmaWxlbmFtZSkKICAgICAgICAgICAgICAgIHdpdGggb3BlbihmaWxlX3BhdGgpIGFzIGY6Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1373,28 +1379,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IG5leHQoZmlsdGVyKGxhbWJkYSB4OiB4LnN0YXJ0c3dpdGgoJ1N1bW1hcnknKSwgb3MubGlzdGRpcignbG9ncycpKSkKICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oJ2xvZ3MnLCBmaWxlbmFtZSkKICAgICAgICB3aXRoIG9wZW4oZmlsZV9wYXRoKSBhcyBmOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludChzZWxmLmxvZykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCdVU3RlbXAnLCBmLnJlYWQoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcmludChvcy5nZXRjd2QoKSkK</text>
+        <text encoding="base64">ICAgIGo8PAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcy5nZXRjd2QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIEFycmFuZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGVsbG8nKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIEFycmFuZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcy5nZXRjd2QoKSkK</text>
+        <text encoding="base64">ICAgICAgICBFbnN1cmUgdGhhdCBhbGwgdGVzdCB1c2VyIHN0b3JpZXMgd2l0aG91dCBzeXN0ZW0gcmVxdWlyZW1lbnRzCiAgICAgICAgYXJlIGxpc3RlZCBpbiB0aGUgU3VtbWFyeSBmaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXRyeTogCgkJb3MubWFrZWRpcnMoJ2xvZ3MnKQoJZXhjZXB0IE9TRXJyb3I6CgkJaWYgbm90IG9zLnBhdGguaXNkaXIoJ2xvZ3MnKToKCQkJcmFpc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXRyeTogCiAgIAkJb3MubWFrZWRpcnMoJ2xvZ3MnKQoJZXhjZXB0IE9TRXJyb3I6CgkJaWYgbm90IG9zLnBhdGguaXNkaXIoJ2xvZ3MnKToKCQkJcmFpc2UKCWxvZyA9IG9wZW4oJ2xvZ3MvVVNfbG9nXycrZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuc3RyZnRpbWUoIiVZJW0lZCVIJU0lUyIpKycubWQnLCJ3IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1451,8 +1457,8 @@
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
