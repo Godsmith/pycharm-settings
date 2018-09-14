@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/load_calculator.py" timestamp="1529413858584">
-        <mark key="'" line="49" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day10/main.py" timestamp="1449779350816">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="16" />
@@ -786,7 +783,7 @@
         <mark key="." line="18" column="109" />
         <mark key="^" line="18" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1529413828311">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1536934834066">
         <mark key="'" line="451" column="39" />
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
@@ -1377,7 +1374,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1428,11 +1425,11 @@
         <entry encoding="base64">JzwsJz5zLzE1LzI2L2c=</entry>
         <entry>wq</entry>
         <entry>e builder</entry>
-        <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>action GotoClass</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
