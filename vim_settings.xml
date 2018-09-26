@@ -417,13 +417,6 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_number_of_workers.py" timestamp="1526387916198">
-        <mark key="'" line="19" column="78" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="46" />
-        <mark key="." line="33" column="46" />
-        <mark key="^" line="33" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/pytest.ini.py" timestamp="1513162531896">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -681,12 +674,6 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/max_allowed_load.csv" timestamp="1528878330056">
-        <mark key="[" line="14" column="143" />
-        <mark key="]" line="14" column="224" />
-        <mark key="." line="14" column="224" />
-        <mark key="^" line="14" column="224" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/excel_input_tests.py" timestamp="1528978123069">
         <mark key="[" line="218" column="57" />
