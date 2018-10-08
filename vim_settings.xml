@@ -83,11 +83,12 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1529581572389">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1538988226096">
         <mark key="'" line="387" column="47" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
+        <mark key="[" line="283" column="21" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+        <mark key="^" line="290" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
