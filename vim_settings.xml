@@ -530,9 +530,9 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539671158806">
+      <file name="/Dummy.txt" timestamp="1539677298272">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
+        <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/tests/conftest.py" timestamp="1524145767067">
@@ -757,10 +757,10 @@
         <mark key="." line="18" column="109" />
         <mark key="^" line="18" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1539606855152">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/GenericCandiModelPlugin/generic_model/controller/builder.py" timestamp="1539677319220">
         <mark key="'" line="451" column="39" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="191" column="23" />
         <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/documents/Unit test guidelines.txt" timestamp="1513869764077">
@@ -1272,13 +1272,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDIuIE1ha2Ugc3VyZSB0aGF0IHRoZSB2aXJ0dWFsIHJlbGVhc2Ugc2hhbGwgaW1tZWRpYXRlbHkgZm9sbG93IHRoZSBsYXN0IHJlbGVhc2UgaW4gdGhhdCBxdWFydGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2VfdHlwZSwgc2l6ZSBpbiByZXNvdXJjZV9zaXplczoKICAgICAgICAgICAgaWYgc2l6ZSA9PSAwOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE5vdGU6IHZpcnR1YWwgcmVsZWFzZXMgc2hvdWxkIGJlIGtlcHQgaW4gdGhpcyBsaXN0IHNvbWUgdGltZSBhZnRlciB0aGUKICAgIGNvcnJlc3BvbmRpbmcgdGltZSBoYXMgcGFzc2VkLCB0byBlbnN1cmUgdGhhdCBvbGQgQ0FOREkgaW5wdXQgZmlsZXMgc3BlY2lmeWluZwo=</text>

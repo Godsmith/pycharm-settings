@@ -7,12 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.csv" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.json</mask>
-      <mask>A.*</mask>
-      <mask>A*</mask>
       <mask>*.v</mask>
       <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqs</mask>
       <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqys</mask>
@@ -33,12 +29,16 @@
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.y</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
+      <mask>*.hyasv</mask>
+      <mask>*.hyas</mask>
+      <mask>*.hya</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
