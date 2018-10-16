@@ -45,12 +45,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/tests/util/test_helper.py" timestamp="1528809087503">
-        <mark key="'" line="134" column="9" />
-        <mark key="[" line="319" column="67" />
-        <mark key="]" line="319" column="67" />
-        <mark key="." line="319" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/database.py" timestamp="1424207636646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -83,11 +77,12 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1539607238900">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1539674657381">
         <mark key="'" line="377" column="47" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="29" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
@@ -370,17 +365,14 @@
         <mark key="." line="29" column="68" />
         <mark key="^" line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input_parameters.py" timestamp="1528977134348">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/bugs/double_worker_capacity.py" timestamp="1507702198881">
         <mark key="[" line="11" column="75" />
         <mark key="]" line="11" column="102" />
         <mark key="." line="11" column="102" />
         <mark key="^" line="11" column="102" />
+      </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/data/tables/supported_releases.csv" timestamp="1539673370031">
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/tests/commands/static_vm_resource.csv.py" timestamp="1524125681458">
         <mark key="[" line="1" column="30" />
@@ -970,12 +962,6 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/Csv2CachePlugin/csv2cache/commands/update_sqlite.py" timestamp="1528792358812">
-        <mark key="'" line="93" column="142" />
-        <mark key="[" line="114" column="40" />
-        <mark key="]" line="114" column="40" />
-        <mark key="." line="114" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tools/CANDI/EditSignalCosts/old/find_duplicates.py" timestamp="1506404820593">
         <mark key="[" line="21" column="72" />
         <mark key="]" line="21" column="72" />
@@ -1285,7 +1271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PdcEpgCandi364</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
@@ -1294,7 +1280,7 @@
         <text encoding="base64">ICAgICJpbl9sb2dpY2FsX2NvcmVzX3BwYl9sYiI6IDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
+        <text encoding="base64">ICAgIGVwZ18yMDE3cTMgPSAnRVBHIDIwMTdRMycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1315,28 +1301,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
+        <text encoding="base64">ICAgIGVwZ18yMDE3cTMgPSAnRVBHIDIwMTdRMycK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGVwZ18yMDE3cTMgPSAnRVBHIDIwMTdRMycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmFzc2VydEluKCdVU3RlbXAnLCBmLnJlYWQoKSkKICAgICAgICAgICAgICAgIGZpbGVuYW1lID0gbmV4dChmaWx0ZXIobGFtYmRhIHg6IHguc3RhcnRzd2l0aChzdGFydF9vZl9maWxlbmFtZSksIG9zLmxpc3RkaXIoJ2xvZ3MnKSkpCiAgICAgICAgICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi50ZW1wX2RpcmVjdG9yeSwgJ2xvZ3MnLCBmaWxlbmFtZSkKICAgICAgICAgICAgICAgIHdpdGggb3BlbihmaWxlX3BhdGgpIGFzIGY6Cg==</text>
+        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IG5leHQoZmlsdGVyKGxhbWJkYSB4OiB4LnN0YXJ0c3dpdGgoJ1N1bW1hcnknKSwgb3MubGlzdGRpcignbG9ncycpKSkKICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oJ2xvZ3MnLCBmaWxlbmFtZSkKICAgICAgICB3aXRoIG9wZW4oZmlsZV9wYXRoKSBhcyBmOgo=</text>
+        <text encoding="base64">RVBHIDIwMThRMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCdVU3RlbXAnLCBmLnJlYWQoKSkK</text>
+        <text encoding="base64">RVBHIDIwMThRMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGo8PAo=</text>
+        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFycmFuZ2UK</text>
+        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFycmFuZ2UK</text>
+        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
