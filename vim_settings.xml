@@ -77,12 +77,13 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1539674657381">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" timestamp="1539675769903">
         <mark key="'" line="377" column="47" />
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="28" column="47" />
-        <mark key="." line="28" column="47" />
-        <mark key="^" line="28" column="47" />
+        <mark key="[" line="56" column="86" />
+        <mark key="]" line="56" column="85" />
+        <mark key="m" line="51" column="22" />
+        <mark key="." line="56" column="85" />
+        <mark key="^" line="56" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/AdventOfCode/day08/main2.py" timestamp="1449697604761">
         <mark key="[" line="5" column="0" />
@@ -1271,16 +1272,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJpbl9sb2dpY2FsX2NvcmVzX3BwYl9sYiI6IDAsCg==</text>
+        <text encoding="base64">ICAgIDIuIE1ha2Ugc3VyZSB0aGF0IHRoZSB2aXJ0dWFsIHJlbGVhc2Ugc2hhbGwgaW1tZWRpYXRlbHkgZm9sbG93IHRoZSBsYXN0IHJlbGVhc2UgaW4gdGhhdCBxdWFydGVyLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVwZ18yMDE3cTMgPSAnRVBHIDIwMTdRMycK</text>
+        <text encoding="base64">ICAgIE5vdGU6IHZpcnR1YWwgcmVsZWFzZXMgc2hvdWxkIGJlIGtlcHQgaW4gdGhpcyBsaXN0IHNvbWUgdGltZSBhZnRlciB0aGUKICAgIGNvcnJlc3BvbmRpbmcgdGltZSBoYXMgcGFzc2VkLCB0byBlbnN1cmUgdGhhdCBvbGQgQ0FOREkgaW5wdXQgZmlsZXMgc3BlY2lmeWluZwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1301,28 +1302,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVwZ18yMDE3cTMgPSAnRVBHIDIwMTdRMycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVwZ18yMDE3cTMgPSAnRVBHIDIwMTdRMycK</text>
+        <text encoding="base64">ICAgIAogICAgRm9yIGV4YW1wbGUsIEVQRzEuMyB3YXMgdGhlIGxhc3QgcmVsZWFzZSBpbiAyMDE3UTMsIGFuZCBzaGFsbCB0aGVyZWZvcmUgZm9sbG93IEVQRzEuMyBpbiB0aGUgbGlzdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVBHIDIwMThRMwo=</text>
+        <text encoding="base64">ICAgICAgIFRoaXMgZW5zdXJlcyB0aGF0IHRoZSBjaGFyYWN0ZXJpc3RpY3Mgb2YgMjAxN1EzIHdpbGwgYmUgaWRlbnRpY2FsIHRvIHRoYXQgb2YgRVBHIDEuMy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVBHIDIwMThRMQo=</text>
+        <text encoding="base64">ICAgIFRoaXMgZW5zdXJlcyB0aGF0IHRoZSBjaGFyYWN0ZXJpc3RpY3Mgb2YgMjAxN1EzIHdpbGwgYmUgaWRlbnRpY2FsIHRvIHRoYXQgb2YgRVBHIDEuMy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
+        <text encoding="base64">ICAgIFZpcnR1YWwgcmVsZWFzZXMgc2hhbGwgaW1tZWRpYXRlbHkgZm9sbG93IHRoZSBsYXN0IHJlbGVhc2UgaW4gdGhhdCBxdWFydGVyLiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">RVBHIDIwMTdRMwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">VmlydHVhbCByZWxlYXNlcyBzaGFsbCBpbW1lZGlhdGVseSBmb2xsb3cgdGhlIGxhc3QgcmVsZWFzZSBpbiB0aGF0CiAgICBxdWFydGVyLiA=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
