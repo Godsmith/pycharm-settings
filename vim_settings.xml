@@ -530,7 +530,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539677298272">
+      <file name="/Dummy.txt" timestamp="1539691754885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="2" />
@@ -860,10 +860,10 @@
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/input_pcepgcandi494.json" timestamp="1526388605285">
         <mark key="'" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1539671499473">
+      <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/commands/runmodel.py" timestamp="1539691779582">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="114" column="61" />
-        <mark key="]" line="114" column="61" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="108" column="88" />
         <mark key="." line="114" column="61" />
         <mark key="^" line="114" column="61" />
       </file>
@@ -1278,7 +1278,7 @@
         <text>lb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2VfdHlwZSwgc2l6ZSBpbiByZXNvdXJjZV9zaXplczoKICAgICAgICAgICAgaWYgc2l6ZSA9PSAwOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VsX2lucHV0X2RpY3QgPSBsZWdhY3lfZXhjZWxfaW5wdXQudG9fZXhjZWxfaW5wdXRfZGljdChkaWN0X2lucHV0KQogICAgICAgICAgICAgICAgZXhjZWxfaW5wdXQgPSBFeGNlbElucHV0QnVpbGRlcigpLmJ1aWxkX2Zyb21fZGljdF9pbnB1dChleGNlbF9pbnB1dF9kaWN0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE5vdGU6IHZpcnR1YWwgcmVsZWFzZXMgc2hvdWxkIGJlIGtlcHQgaW4gdGhpcyBsaXN0IHNvbWUgdGltZSBhZnRlciB0aGUKICAgIGNvcnJlc3BvbmRpbmcgdGltZSBoYXMgcGFzc2VkLCB0byBlbnN1cmUgdGhhdCBvbGQgQ0FOREkgaW5wdXQgZmlsZXMgc3BlY2lmeWluZwo=</text>
