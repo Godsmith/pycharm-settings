@@ -45,6 +45,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="79" />
       </file>
+      <file name="$USER_HOME$/workspace/candi_epg-main/tuple_testing.py" timestamp="1539700320109">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/GymLog/gymlog/database.py" timestamp="1424207636646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1272,13 +1278,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>, (3, 4)</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VsX2lucHV0X2RpY3QgPSBsZWdhY3lfZXhjZWxfaW5wdXQudG9fZXhjZWxfaW5wdXRfZGljdChkaWN0X2lucHV0KQogICAgICAgICAgICAgICAgZXhjZWxfaW5wdXQgPSBFeGNlbElucHV0QnVpbGRlcigpLmJ1aWxkX2Zyb21fZGljdF9pbnB1dChleGNlbF9pbnB1dF9kaWN0KQo=</text>
+        <text encoding="base64">KChfLCBuZXdlc3QpLCAoXywgbmV4dF9uZXdlc3QpLCAqXykgPSBjcmVhdGlvbl90aW1lX2Zvcl9wYXRoCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE5vdGU6IHZpcnR1YWwgcmVsZWFzZXMgc2hvdWxkIGJlIGtlcHQgaW4gdGhpcyBsaXN0IHNvbWUgdGltZSBhZnRlciB0aGUKICAgIGNvcnJlc3BvbmRpbmcgdGltZSBoYXMgcGFzc2VkLCB0byBlbnN1cmUgdGhhdCBvbGQgQ0FOREkgaW5wdXQgZmlsZXMgc3BlY2lmeWluZwo=</text>
