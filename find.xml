@@ -7,5 +7,38 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
+    <recentFileMasks>
+      <mask>*.v</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqs</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-reqys</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265'eqys</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265, '=B264+B265''eqys</mask>
+      <mask>*.https://selngerrit.mo.sw.ericsson.se/#/admin/projects/pc/tools/t-r, '=B264+B265, '=B264+B26''eqys</mask>
+      <mask>eqys</mask>
+      <mask>qys</mask>
+      <mask>ys</mask>
+      <mask>s</mask>
+      <mask>.[y</mask>
+      <mask>.[</mask>
+      <mask>.py</mask>
+      <mask>.p</mask>
+      <mask>.</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sv</mask>
+      <mask>*.y</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.csv</mask>
+      <mask>*.hyasv</mask>
+      <mask>*.hyas</mask>
+      <mask>*.hya</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
   </component>
 </application>
