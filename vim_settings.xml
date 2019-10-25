@@ -10,7 +10,7 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1514316328850">
+      <file name="/Python Console" timestamp="1572031890306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/adventofcode2017/day20.py" timestamp="1514313546901">
@@ -74,7 +74,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
