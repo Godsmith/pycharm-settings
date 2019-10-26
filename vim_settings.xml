@@ -342,11 +342,12 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Transport/main.py" timestamp="1572119469178">
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="52" column="26" />
-        <mark key="." line="52" column="26" />
-        <mark key="^" line="51" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/Transport/main.py" timestamp="1572120636273">
+        <mark key="'" line="57" column="26" />
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
+        <mark key="^" line="73" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/features/test_excel_input_validation.py" timestamp="1517577846317">
         <mark key="[" line="28" column="59" />
@@ -804,6 +805,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Transport/tests/test_grid.py" timestamp="1572119713515">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/data/test_input.xml" timestamp="1526387514058">
         <mark key="[" line="1473" column="38" />
         <mark key="]" line="1473" column="40" />
@@ -1148,8 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="37" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_input.py" />
-      <jump line="913" column="84" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="891" column="100" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="976" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1248,10 +1253,12 @@
       <jump line="101" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/input_vcpu_lb_0.json" />
       <jump line="150" column="26" filename="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/input_vcpu_lb_0.json" />
       <jump line="29" column="46" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
+      <jump line="56" column="26" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
+      <jump line="0" column="24" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>touch.</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -1264,16 +1271,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>touch.</text>
       </register>
       <register name="/" type="4">
         <text>lb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGNlbGxfeF9jZW50ZXJzKHNlbGYpOgogICAgICAgIGZvciBpIGluIHJhbmdlKDAsIHNlbGYucm93cyArIDEpOgogICAgICAgICAgICB5aWVsZCBzZWxmLmNlbGxfd2lkdGggKiAoaSArIDAuNSkK</text>
+        <text encoding="base64">ICAgICAgICB4LCB5ID0gc2VsZi5fdG9fZ3JpZF9jb29yZGluYXRlcyh0b3VjaC54LCB0b3VjaC55KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeDIgaW4geHM6CiAgICAgICAgICAgIGRpZmYK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4LCB5KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1294,28 +1301,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsX3hfY2VudGVycyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgc2VsZi5yb3dzICsgMSk6CiAgICAgICAgICAgIHggPSBzZWxmLmNlbGxfd2lkdGggKiAoaSArIDAuNSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geCwgeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICB4X2luZGV4ID0gc2VsZi5faW5kZXhfb2ZfY2xvc2VzdCh0b3VjaC54LCBzZWxmLmNlbGxfeF9jZW50ZXJzKQogICAgICAgIHlfaW5kZXggPSBzZWxmLl9pbmRleF9vZl9jbG9zZXN0KHRvdWNoLnksIHNlbGYuY2VsbF95X2NlbnRlcnMpCiAgICAgICAgeCA9IGxpc3Qoc2VsZi5jZWxsX3hfY2VudGVycylbeF9pbmRleF0KICAgICAgICB5ID0gbGlzdChzZWxmLmNlbGxfeV9jZW50ZXJzKVt5X2luZGV4XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsX3hfY2VudGVycyA9IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsX3dpIHNlbGYud2lkdGggLyBzZWxmLnJvd3MK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsX3dpZHRoID0gc2VsZi53aWR0aC9zZWxmLnJvd3MKICAgICAgICBjZWxsX2hlaWdodCA9IHNlbGYuaGVpZ2h0L3NlbGYucm93cwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChsYXlvdXQuc2l6ZSkKICAgICAgICBwcmludCh3aWRnZXQuc2l6ZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgeDIgaW4geHM6CiAgICAgICAgICAgIGRpZmYK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjZWxsX3hfY2VudGVycyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgc2VsZi5yb3dzICsgMSk6CiAgICAgICAgICAgIHggPSBzZWxmLmNlbGxfd2lkdGggKiAoaSArIDAuNSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBraXZ5LnVpeC5sYWJlbCBpbXBvcnQgTGFiZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
