@@ -1014,7 +1014,7 @@
         <mark key="^" line="29" column="77" />
         <mark key="." line="29" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539691754885">
+      <file name="/Dummy.txt" timestamp="1575202307260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="2" />
@@ -1063,6 +1063,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/adventofcode/aoc/year2019/day1/day1.py" timestamp="1575205317158">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_signaling_zero.json" timestamp="1507807712555">
         <mark key="[" line="166" column="29" />
@@ -1129,6 +1135,13 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/adventofcode/.gitignore" timestamp="1575202251488">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="106" column="5" />
+        <mark key="^" line="106" column="5" />
+        <mark key="." line="106" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/adventofcode2017/test_day21.py" timestamp="1514316249804">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
@@ -1161,7 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="891" column="100" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="976" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
       <jump line="583" column="70" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
@@ -1261,10 +1273,11 @@
       <jump line="29" column="46" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
       <jump line="56" column="26" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
       <jump line="0" column="24" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>touch.</text>
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -1277,16 +1290,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>touch.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>lb</text>
+        <text>idea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4LCB5ID0gc2VsZi5fdG9fZ3JpZF9jb29yZGluYXRlcyh0b3VjaC54LCB0b3VjaC55KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4LCB5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1307,45 +1320,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geCwgeQo=</text>
+        <text encoding="base64">cHJpbnQodG90YWxfZnVlbCgxOTY5KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJpbnQodG90YWxfZnVlbCgxMDA3NTYpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4X2luZGV4ID0gc2VsZi5faW5kZXhfb2ZfY2xvc2VzdCh0b3VjaC54LCBzZWxmLmNlbGxfeF9jZW50ZXJzKQogICAgICAgIHlfaW5kZXggPSBzZWxmLl9pbmRleF9vZl9jbG9zZXN0KHRvdWNoLnksIHNlbGYuY2VsbF95X2NlbnRlcnMpCiAgICAgICAgeCA9IGxpc3Qoc2VsZi5jZWxsX3hfY2VudGVycylbeF9pbmRleF0KICAgICAgICB5ID0gbGlzdChzZWxmLmNlbGxfeV9jZW50ZXJzKVt5X2luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICBmdWVsX2Zvcl9mdWVsID0gZnVlbChmdWVsX2Zvcl9tYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYXlvdXQuc2l6ZSkKICAgICAgICBwcmludCh3aWRnZXQuc2l6ZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeDIgaW4geHM6CiAgICAgICAgICAgIGRpZmYK</text>
+        <text encoding="base64">ICAgIGZ1ZWxfZm9yX2xhc3QgPSBmdWVsKG1hc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsX3hfY2VudGVycyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgc2VsZi5yb3dzICsgMSk6CiAgICAgICAgICAgIHggPSBzZWxmLmNlbGxfd2lkdGggKiAoaSArIDAuNSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgCg==</text>
+        <text encoding="base64">ICAgIGRvOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>lb</last-search>
+      <last-search>idea</last-search>
       <last-offset />
-      <last-pattern>lb</last-pattern>
+      <last-pattern>idea</last-pattern>
       <last-replace>26</last-replace>
       <last-substitute>15</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>idea</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
