@@ -1064,11 +1064,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode/aoc/year2019/day1/day1.py" timestamp="1575205317158">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="37" />
+      <file name="$USER_HOME$/workspace/adventofcode/aoc/year2019/day1/day1.py" timestamp="1575230763645">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/tests/fixtures/excel_python_interface/bugs/PCEPGCANDI-433/input_signaling_zero.json" timestamp="1507807712555">
         <mark key="[" line="166" column="29" />
@@ -1276,8 +1276,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -1290,13 +1290,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4LCB5ID0gc2VsZi5fdG9fZ3JpZF9jb29yZGluYXRlcyh0b3VjaC54LCB0b3VjaC55KQo=</text>
+        <text encoding="base64">cHJpbnQoc3VtKG1hcCh0b3RhbF9mdWVsLCBpbnRzKGRhdGEpKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1320,28 +1320,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQodG90YWxfZnVlbCgxOTY5KSkK</text>
+        <text encoding="base64">CmRlZiB0b3RhbF9mdWVsKG1hc3M6IGludCkgLT4gaW50OgogICAgb3V0ID0gMAogICAgbGFzdF9tYXNzID0gbWFzcwogICAgd2hpbGUgVHJ1ZToKICAgICAgICBmdWVsX2Zvcl9sYXN0X21hc3MgPSBmdWVsKGxhc3RfbWFzcykKICAgICAgICBvdXQgKz0gZnVlbF9mb3JfbGFzdF9tYXNzCiAgICAgICAgbGFzdF9tYXNzID0gZnVlbF9mb3JfbGFzdF9tYXNzCiAgICAgICAgaWYgZnVlbF9mb3JfbGFzdF9tYXNzID09IDA6CiAgICAgICAgICAgIGJyZWFrCgogICAgcmV0dXJuIG91dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQodG90YWxfZnVlbCgxMDA3NTYpKQo=</text>
+        <text encoding="base64">cHJpbnQoc3VtKG1hcCh0b3RhbF9mdWVsMiwgaW50cyhkYXRhKSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdWVsX2Zvcl9mdWVsID0gZnVlbChmdWVsX2Zvcl9tYXNzKQo=</text>
+        <text encoding="base64">ICAgIGlmIGZ1ZWxfcmVxIDwgMDoKICAgICAgICByZXR1cm4gMAogICAgcmV0dXJuIGZ1ZWxfcmVxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">cHJpbnQodG90YWxfZnVlbCgxOTY5KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1ZWxfZm9yX2xhc3QgPSBmdWVsKG1hc3MpCg==</text>
+        <text encoding="base64">cHJpbnQodG90YWxfZnVlbCgxMDA3NTYpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmdWVsX2Zvcl9mdWVsID0gZnVlbChmdWVsX2Zvcl9tYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
