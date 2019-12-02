@@ -915,10 +915,11 @@
         <mark key="." line="205" column="34" />
         <mark key="^" line="205" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" timestamp="1575272723742">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" timestamp="1575274134124">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/spgw_signaling_splitter.py" timestamp="1528362619301">
         <mark key="[" line="97" column="0" />
@@ -1185,13 +1186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="976" column="76" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="583" column="70" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="585" column="92" filename="$USER_HOME$/workspace/candi_epg-main/data/tables/signal_cost.csv" />
-      <jump line="48" column="33" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
-      <jump line="74" column="28" filename="$USER_HOME$/workspace/candi_epg-main/scripts/run_all_tests.sh" />
-      <jump line="587" column="19" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgDimensioningPlugin/epg_dimensioning/excel_legacy_input.py" />
       <jump line="290" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="307" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
       <jump line="313" column="0" filename="$USER_HOME$/workspace/candi_epg-main/model/EpgCandiModel/epg/datatypes.py" />
@@ -1285,10 +1279,17 @@
       <jump line="56" column="26" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
       <jump line="0" column="24" filename="$USER_HOME$/PycharmProjects/Transport/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode/.gitignore" />
+      <jump line="42" column="12" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
+      <jump line="56" column="29" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
+      <jump line="57" column="17" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
+      <jump line="13" column="27" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
+      <jump line="8" column="22" filename="$USER_HOME$/workspace/adventofcode/aoc/year2019/intcode.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIApjbGFzcyBJbnN0cnVjdGlvbjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsZW5ndGgpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBwcm9yYW0gaGFsdHMK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -1301,16 +1302,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Program</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZlt0YXJnZXRdID0geCArIHkK</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSBzZWxmW3NlbGYuaW5kZXggKyAzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIApjbGFzcyBJbnN0cnVjdGlvbjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsZW5ndGgpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBwcm9yYW0gaGFsdHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1331,28 +1332,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvZ3JhbShsaXN0KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsaXN0XzogTGlzdFtpbnRdKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGxpc3RfKQogICAgICAgIHNlbGYuaW5kZXggPSAwCgogICAgZGVmIHN0ZXAoc2VsZik6CiAgICAgICAgb3Bjb2RlID0gc2VsZltzZWxmLmluZGV4XQogICAgICAgIGlmIG9wY29kZSA9PSA5OToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgeCA9IHNlbGZbc2VsZltzZWxmLmluZGV4ICsgMV1dCiAgICAgICAgeSA9IHNlbGZbc2VsZltzZWxmLmluZGV4ICsgMl1dCiAgICAgICAgdGFyZ2V0ID0gc2VsZltzZWxmLmluZGV4ICsgM10KICAgICAgICBpZiBvcGNvZGUgPT0gMToKICAgICAgICAgICAgc2VsZlt0YXJnZXRdID0geCArIHkKICAgICAgICBpZiBvcGNvZGUgPT0gMjoKICAgICAgICAgICAgc2VsZlt0YXJnZXRdID0geCAqIHkKICAgICAgICBzZWxmLmluZGV4ICs9IDQKCiAgICBkZWYgcnVuKHNlbGYpOgogICAgICAgIHdoaWxlIHNlbGZbc2VsZi5pbmRleF0gIT0gOTk6CiAgICAgICAgICAgIHNlbGYuc3RlcCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCg==</text>
+        <text encoding="base64">ICAgIGludC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9ncmFtKGludHMoZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluZGV4ID0gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNwID0gUHJvZ3JhbShbMSwxLDEsNCw5OSw1LDYsMCw5OV0pCiAgICAjcHJpbnQocC5ydW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICBvcGNvZGUgPSBzZWxmW3NlbGYuaW5kZXhdCiAgICAgICAgaWYgb3Bjb2RlID09IDk5OgogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGFyZ2V0KQogICAgICAgICAgICBwcmludCh4K3kpCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZltzZWxmW3NlbGYuaW5kZXggKyAxXV0KICAgICAgICB5ID0gc2VsZltzZWxmW3NlbGYuaW5kZXggKyAyXV0KICAgICAgICB0YXJnZXQgPSBzZWxmW3NlbGYuaW5kZXggKyAzXQogICAgICAgIGlmIG9wY29kZSA9PSAxOgogICAgICAgICAgICBzZWxmW3RhcmdldF0gPSB4ICsgeQogICAgICAgIGlmIG9wY29kZSA9PSAyOgogICAgICAgICAgICBzZWxmW3RhcmdldF0gPSB4ICogeQogICAgICAgIHNlbGYuaW5kZXggKz0gNAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0cnVjdGlvbiA9IChvcGNvZGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBlcyBpbXBvcnQgU2ltcGxlTmFtZXNwYWNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
